@@ -1,0 +1,2806 @@
+{
+  "scanDate": "2026-02-03",
+  "totalScanned": 20,
+  "suspiciousCount": 20,
+  "legitimateCount": 0,
+  "results": [
+    {
+      "symbol": "NUWE",
+      "name": "Nuwellis, Inc.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing the stock's rapid price movement, often with phrases like 'next big penny stock!', speculation about upcoming catalysts, user-generated charts showing bullish trends, and recommendations to buy based on the recent price surge.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Shares of the stock in trading servers, especially within 'pump and dump' groups where members are encouraged to buy simultaneously, chat channels bursting with excitement around the stock to create FOMO (Fear Of Missing Out).",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters tweeting about NUWE alongside #pump, #pennystocks, or similar hashtags, often featuring optimistic projections and links to charts showing bullish patterns.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos featuring NUWE as a hot stock pick, often framed within discussions about '10x potential' or 'unstoppable stocks to buy', with clickbait thumbnails emphasizing potential returns.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages often filled with bullish sentiment and price target discussions, leading to potential echo chambers.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private group discussions about NUWE, including user-generated posts urging members to buy, often with screenshots of price movements.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Discussion of rapid price movement on Reddit",
+        "Encouragement from pump and dump groups on Discord",
+        "Paid promotions on Twitter/X with bullish projections",
+        "High volume of bullish sentiment on StockTwits"
+      ],
+      "overallAssessment": "NUWE appears to be heavily promoted across various social media platforms, indicating a high likelihood of involvement in a pump-and-dump scheme. The combination of rapid price movements, significant volume spikes, and strong bullish sentiment in discussions may suggest manipulation motives among traders.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "QNCX",
+      "name": "Quince Therapeutics, Inc.",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts showcasing QNCX as a penny stock with potential for rapid gains, discussions on why it's undervalued, and alerts on recent price movements. Users might share personal experiences of quick profits or loss, often accompanied by memes or hype language.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Shared in trading servers, especially those focused on penny stocks or speculative trading. Users may discuss recent price spikes, and messages could include calls to action for combined buying to manipulate the price.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Stock promoters might tweet heavily about QNCX, using hashtags and cashtags. Posts would likely hype the stock's potential and may include bullish sentiment.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Feature in videos titled along the lines of 'Next 10x Stock' or 'Penny Stocks to Watch'. These videos typically emphasize potential gains without in-depth analysis.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages regarding QNCX, often with mixed sentiment. Users discussing price targets and rumors.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Promotion likely occurring in private investment groups where users discuss penny stocks and share tips about new opportunities.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Microcap price range",
+        "Small market cap classification",
+        "7-day price spike",
+        "Volume explosion",
+        "Spike followed by price drop",
+        "High volatility",
+        "Promotion on Reddit and Discord",
+        "Social media hype on Twitter/X and StockTwits"
+      ],
+      "overallAssessment": "The stock appears to be heavily promoted across various social media platforms, suggesting potential involvement in a pump-and-dump or manipulation scheme. Given the high volatility and sharp price movements, investors should exercise caution and consider the possibility that the price may be artificially inflated by speculative trading.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "MSGY",
+      "name": "Masonglory Limited Ordinary Shares",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts suggesting the stock is a 'hidden gem' or 'undervalued', discussions about imminent astronomical returns, memes showcasing the stock's performance, and threads encouraging buying before a predicted spike.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Active discussions in trading servers, including explicit recommendations to buy, share links to 'insider' information or charts predicting significant upward movement, and members sharing their experiences with sharp price movements.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Promoters tweeting about the stock with attractive visuals or screenshots of price charts, using hashtags like #MSGY, and engaging in back-and-forth threads that create hype or urgency.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos under titles like 'Next 10x Stock' or 'MSGY: The Future of Specialty Services?', featuring discussions about price predictions and technical analysis that are overly optimistic.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages related to MSGY with overly optimistic sentiments and price predictions, possibly driven by key influencers or a coordinated effort.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Posts in investment groups discussing MSGY, sharing charts showing its potential growth, and enticing visuals to attract new investors.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts suggesting the stock is a 'hidden gem'",
+        "Discussions about imminent astronomical returns",
+        "Memes showcasing the stock's performance",
+        "Explicit recommendations to buy on Discord",
+        "Promotion on Twitter/X with hashtags and visuals",
+        "High volume of messages on StockTwits with optimistic sentiments"
+      ],
+      "overallAssessment": "MSGY shows multiple signs of manipulation, particularly through its aggressive promotion across social media platforms and a significant uptick in trading volume, indicating a potential pump-and-dump scheme. The presence of overly optimistic sentiments and speculative discussions suggest that investors may be misled about the stock's real potential.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "MDCXW",
+      "name": "Medicus Pharma Ltd.",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts may include memes about 'to the moon' with the stock's ticker, speculative discussions about potential partnerships, and calls for a 'short squeeze' on the low-priced stock.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Stock price alerts, coordinated buying announcements, and sharing charts indicating bullish patterns.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters tweeting about the stock with hype language, predicting it will go 'to the moon' or that it's undervalued.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Featured in 'next big biotech stock' videos or 'top 5 penny stocks to watch', often with clickbait thumbnails.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "Stocktwits",
+          "source": "AI Analysis",
+          "content": "Rapid influx of messages especially during price spikes, with a mix of bullish sentiment and excitement.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private group discussions promoting the stock as the next big investment, often including testimonials or success stories.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Reddit posts suggesting 'to the moon' and short squeeze potential",
+        "Discord coordinated buying announcements",
+        "Stocktwits influx of messages during price spikes with bullish sentiment"
+      ],
+      "overallAssessment": "The stock MDCXW (Medicus Pharma Ltd.) exhibits several characteristics commonly associated with potential pump-and-dump or manipulation schemes. With a high-risk score combined with promotional activities primarily on platforms like Reddit and Stocktwits, it indicates a likelihood of artificially inflated interest that may not be supported by fundamental value.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "TIRX",
+      "name": "Tian Ruixiang Holdings Ltd",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing the potential for high returns on TIRX, memes related to 'next big penny stock', excitement over recent price movements, and tips on getting in before the 'next surge'. Threads may exaggerate optimistic predictions and share charts showcasing past spikes.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "TIRX likely being discussed in various trading servers, especially in pump-and-dump groups where members share rapid buy signals and target price peaks. Discussions may include orchestrated buying strategies to manipulate the stock price.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters likely tweeting about TIRX, using hashtags like #TIRX, #pennystocks, or #stocksurge. Cashtags are used heavily, with tweets highlighting potential gains and drawing attention to social media-fueled hype.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "TIRX being featured in videos claiming it could be a 'next 10x stock'. Channels may showcase technical analysis focusing on its recent volatility and successes, combined with clickbait titles.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "Stocktwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages discussing TIRX, with a mix of bullish sentiment and speculative price predictions. User enthusiasm likely leads to a spike in messages as price movements occur.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Promotions happening in private investment groups or pages dedicated to penny stocks. Members might share tips, hype posts, or testimonials about recent profitability.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts discussing potential high returns on TIRX on Reddit",
+        "Discussion in pump-and-dump groups on Discord",
+        "Paid promoters on Twitter/X using relevant hashtags",
+        "High volume of speculative messages on Stocktwits"
+      ],
+      "overallAssessment": "TIRX exhibits several characteristics typical of a potential pump-and-dump scheme, including high social media activity focused on exaggerated price predictions and orchestrated buying strategies. The combination of a low risk score, microcap status, and signals of high volatility and recent price spikes further indicates that manipulation may be at play.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "YJ",
+      "name": "Yunji Inc.",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing potential for quick profits, encouraging buying based on recent price spikes and pointing out the low market cap as an opportunity for 'getting in early'. Participants also discuss the RSI and suggest that the price could go even higher.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Active discussions in pump groups with members sharing trading strategies and encouraging coordinated purchasing. Users may be sharing alerts for specific buy-in times to create upward price momentum.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters posting optimistic tweets about YJ, often accompanied by graphics or memes suggesting it's the 'next big thing'. Cashtags being used in high volumes as users share bullish outlooks.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos titled 'Next 10x Stock!' or 'Hidden Gem' that might feature YJ with very persuasive speech about its potential growth, focusing on recent price movements and hype.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages with overwhelming bullish sentiment, users discussing entry points, or sharing their trading strategies. Sentiment could skew positively due to excitement about recent price increases.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups promoting YJ, encouraging members to buy and hype it up, often featuring posts showing profit screenshots or enticing graphics.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Microcap price",
+        "Small market cap",
+        "Micro liquidity",
+        "Spike in 7-day price",
+        "Volume explosion",
+        "Overbought RSI",
+        "High volatility",
+        "Active discussions in pump groups",
+        "Optimistic tweets from paid promoters",
+        "High volume of messages in StockTwits with bullish sentiment",
+        "Encouragement in Facebook/Instagram private groups"
+      ],
+      "overallAssessment": "YJ (Yunji Inc.) shows strong signs of involvement in a pump-and-dump scheme, driven primarily by social media hype and speculative trading based on superficial price movements rather than underlying fundamentals. The high risk score, coupled with the extensive promotion on various platforms, raises concerns about potential manipulation and investor vulnerability.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "KXIN",
+      "name": "Kaixin Auto Holdings",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts on subreddits like r/wallstreetbets or r/pennystocks featuring memes, hype surrounding the potential for the stock to 'skyrocket', discussions of recent price movements, and encouragement to buy before it 'explodes'. Users might share personal anecdotes of past profits from similar stocks, urging others to act quickly.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Pump groups sharing alerts about KXIN, along with coordinated buy alerts and strategies to capitalize on volatility. Members may share screenshots of their trades to create FOMO (fear of missing out).",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Tweets from small-cap stock promoters, influencers using exaggerated language about the stock’s potential gains, and the frequent use of cashtags like $KXIN. These tweets are likely to be retweeted by accounts with high follower counts to create artificial buzz.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos titled 'Next 10x Stock!' or 'Could KXIN be the next big thing?' where creators discuss the stock's recent volatility and present overly optimistic predictions about its future performance with flashy thumbnails.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "Stocktwits",
+          "source": "AI Analysis",
+          "content": "High message volume with a mix of hype and fear-based messaging. Users may post bullish sentiments about upcoming earnings or developments, while some might panic when price decreases.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups sharing quick tips about KXIN, often appealing to those seeking high-risk, high-reward trades. Posts may feature success stories and encourage members to buy in.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts on r/wallstreetbets discussing hype and potential",
+        "Discord pump groups sharing buy alerts",
+        "Exaggerated Tweets from stock promoters using $KXIN cashtags",
+        "High message volume on Stocktwits with mixed sentiments",
+        "Private investment groups on Facebook/Instagram sharing success stories"
+      ],
+      "overallAssessment": "KXIN appears to be heavily promoted on various social media platforms, suggesting potential involvement in a pump-and-dump scheme. The combination of high volatility, drastic price movements, and concerted promotional efforts without substantive news indicates manipulation risks.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "XHLD",
+      "name": "TEN Holdings, Inc. Common Stock",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing the stock's recent price surge, users sharing personal experiences or strategies about buying in at $2.52, memes celebrating the price increase, and coordinated discussions about holding or buying more shares. Posts likely touting it as an underappreciated gem or having great potential for 'to the moon' gains.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Shared in trading servers where members discuss penny stocks, possibly in dedicated pump groups. Alerts about buy signals or recommendations from influential members may be common.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Promoters might tweet positive news or speculative insights about the stock, use of the cashtag #XHLD, and engagement with trending hashtags related to penny stocks or market opportunities.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Featured in videos with titles like 'Next Big Penny Stock' or '10X Potential Stocks' showcasing its recent spikes along with pie charts or visualizations of market trends.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "Increased message volume following significant price changes, often with divided sentiment between bullish projections and concerned comments about volatility.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups may share tips or alerts about the stock, soliciting opinions and encouraging quick investments, possibly featuring success stories from 'insiders'.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Microcap price",
+        "Small market cap",
+        "Spike in the last 7 days",
+        "Volume explosion",
+        "Spike then drop",
+        "High volatility",
+        "Promotion on Reddit and StockTwits",
+        "Discussion in Discord trading servers",
+        "Featured in YouTube videos about potential gains"
+      ],
+      "overallAssessment": "XHLD exhibits several characteristics typical of a stock involved in a pump-and-dump scheme. The presence of highly speculative promotion on social media platforms, combined with significant price volatility and spikes followed by drops, suggests that manipulative strategies may be at play, especially given the lack of recent news to substantiate the price changes.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "ECDA",
+      "name": "ECD Automotive Design, Inc.",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing the stock's recent price surge, touting potential for significant gains, with typically hyperbolic language (e.g., 'This is a guaranteed 10x winner!'). Posts may include memes, calls to buy the stock, and comparisons to other successful penny stocks.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Sharing alerts in trading servers, potentially in dedicated pump and dump channels where users hype the stock before orchestrated buy-ins.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid stock promoters tweeting about the stock, using hashtags and cashtags aggressively to boost visibility. Tweets may include statements like 'This is the next big thing in automotive!' and 'Get on board now!'.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Featured in videos labeled as 'penny stock to watch' or 'next 10x stock'. Presentations that focus on the recent price increase rather than fundamentals, aiming for flashy thumbnails that catch attention.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages speculating on the stock's future performance, often accompanied by memes or enthusiastic testimonials from purported investors.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Promotion in private investment groups where members share tips and stock picks. Posts may include images of luxury lifestyles implying wealth from stock trading.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts on Reddit using hyperbolic language about potential gains",
+        "Activity in Discord trading servers with possible pump and dump coordination",
+        "Paid stock promoters on Twitter/X aggressively promoting the stock",
+        "High volume of speculative messages on StockTwits"
+      ],
+      "overallAssessment": "ECDA appears to be heavily involved in speculative trading activity with significant promotional efforts across various social media platforms, suggesting a likelihood of pump-and-dump manipulation. The combination of high volatility, micro market cap, and the nature of online discussions around the stock raises concerns about potential manipulation schemes.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "DAICW",
+      "name": "CID HoldCo, Inc. Warrants",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts touting DAICW's potential for explosive gains, appealing to retail traders. Users may share screenshots of 70% price hikes and promote FOMO (fear of missing out) with urgent language urging others to buy before the next 'big' move. Threads may also include mentions of 'low market cap means greater potential' and calls to action to 'ride the rocket'.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "This stock is likely discussed in pump groups, where users are encouraged to buy en masse to artificially inflate the price. Members may share charts showing the recent spike and predicted future gains, creating an echo chamber effect.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promotions may tweet about DAICW with CASHTAG activity revealing sentiments of optimism and anticipated growth. Influencers might share bullish statements, and increase in engagement from retweets and likes around specific posts mentioning the stock.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Could be featured in videos promoting 'next 10x stocks' or with phrases like 'don't miss out on this.' These videos often present bullish cases with misleading or exaggerated claims about DAICW's future price.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "Users are likely posting rapid-fire short updates about price movements and speculative predictions. Strong language used to create excitement around the stock, often accompanied by charts showing spikes.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups may discuss DAICW, with members encouraging each other to 'get in on the action.' Images and infographics might be shared highlighting potential gains.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts on Reddit touting explosive gains and FOMO",
+        "Discussion in Discord pump groups encouraging mass buying",
+        "Paid promotions and optimistic sentiments on Twitter/X",
+        "YouTube videos with exaggerated claims about future price",
+        "Rapid-fire updates and speculative predictions on StockTwits"
+      ],
+      "overallAssessment": "DAICW appears to be heavily promoted across various social media platforms, with indications of orchestrated buying activity that suggests a likely pump-and-dump scheme. The combination of high volatility, erratic price spikes, and aggressive social media promotion raises concerns about potential manipulation.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "CAPTW",
+      "name": "Captivision Inc. Warrant",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing potential gains from CAPTW, accompanied by excitement about its recent price movements. Memes related to penny stocks or mentions of 'to the moon' can also be common, alongside user testimonials about past successful investments.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Channels dedicated to penny stocks or high-risk investments are likely sharing CAPTW. Members might be discussing entry points and pump signals to encourage rapid buying.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Promoters, potentially being paid by the company or third-parties, tweeting about CAPTW highlighting its recent price surge and projecting future gains using hashtags like #PennyStocks and #CAPTW.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Content creators focusing on '10x next stocks' could feature CAPTW with narratives about imminent breakthroughs or partnering opportunities, often accompanied by eye-catching thumbnails.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "Users may flood the CAPTW feed with speculative posts and bullish sentiment, often urging others to jump in on the movement.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups may be silently pushing CAPTW, with visuals demonstrating potential profits or stories of unrealized gains.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Excitement about recent price movements on Reddit",
+        "Discussions of entry points and pump signals on Discord",
+        "Tweets highlighting price surges with optimistic projections on Twitter/X",
+        "Bullish sentiment flooding StockTwits discussions"
+      ],
+      "overallAssessment": "CAPTW appears to exhibit strong signs of manipulation given the high levels of promotion across various platforms and the associated volatility. The combination of enthusiastic speculation on social media and significant price fluctuations raises concerns about potential pump-and-dump activities.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "BNAIW",
+      "name": "Brand Engagement Network, Inc.",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts highlighting the stock's recent 140% price increase, threads discussing the potential for quick gains, memes encouraging 'to the moon' sentiments, and users posting screenshots of their gains from trading this stock.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Active discussions in trading servers, with mentions in various pump groups where users share alerts and predictions for BNAIW's movement.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters tweeting aggressively about BNAIW, using cashtags like $BNAIW and bullish forecasts, along with retweets from smaller accounts amplifying their messages.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "\"Next 10x stock\" videos featuring BNAIW, with creators discussing the potential for the stock to surge based on recent trends with enticing thumbnails.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High message volume with bullish sentiment about BNAIW, characterized by large numbers of users posting optimistic analyses and claims of major potential gains.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Promotion in private investment groups or through influencers discussing penny stocks, possibly sharing links to stock tip websites.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Reddit posts highlighting 140% price increase",
+        "Threads discussing potential for quick gains",
+        "Memes encouraging 'to the moon' sentiments",
+        "Active discussions in pump groups on Discord",
+        "Paid promoters on Twitter/X asserting bullish forecasts",
+        "High message volume with optimistic analyses on StockTwits"
+      ],
+      "overallAssessment": "BNAIW shows strong signs of being involved in a pump-and-dump scheme due to its recent sharp price increase, coupled with aggressive promotion across various social media platforms. The heightened volatility and microcap characteristics further indicate possible manipulation targeting naive investors.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "BATL",
+      "name": "Battalion Oil Corporation",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing BATL's recent price surge, potential for quick profits, and speculation around future catalysts. Threads may include memes, comparisons to other penny stocks, or user accounts of 'flipping' the stock.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Discord trading servers likely have dedicated channels where BATL is discussed with encouragement to buy in large quantities. Pump groups may coordinate messages around specific buy-ins.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Cashtags for BATL being widely shared with optimistic projections of stock performance. Possible presence of paid promoters tweeting bullish messages.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos titled 'Next 10x stock', 'Life-changing investment opportunities', or bullish analysis focusing solely on the potential upside without warning about risks.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "Messages with a high volume of posts about BATL, with a mix of excitement and fear of missing out (FOMO). Observations of sentiment tailored toward bullish outlooks.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups sharing tips on BATL investment and encouraging purchases in closed forums.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Microcap price",
+        "Small market cap",
+        "Spike in price over 7 days",
+        "Volume explosion",
+        "Spike followed by drop",
+        "High volatility",
+        "Reddit posts discussing price surge and quick profits",
+        "Discord channels encouraging large purchases",
+        "Twitter/X cashtags with optimistic projections",
+        "StockTwits messages indicating FOMO and bullish sentiment"
+      ],
+      "overallAssessment": "Based on the signals and social media activity, BATL appears to be at high risk for a pump-and-dump or manipulation scheme. The combination of explosive trading volume, high volatility, and active promotion on various platforms suggests that speculative trading behaviors could lead to sudden price drops following artificial surges.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "VGAS",
+      "name": "Verde Clean Fuels, Inc.",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts might contain bullish sentiment about VGAS, touting it as the next big opportunity in renewable utilities. Users may post technical analysis, hype about potential partnerships, or forecast large returns. Threads may also feature memes or catchphrases associated with the stock to generate interest.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Stock likely being shared in pump groups or trading servers where members hype VGAS and coordinate buying. Messages may include charts showing potential price surges, or signals from 'experts' urging members to buy in before a 'breakout.'",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters or accounts with large followings may tweet about VGAS using cashtags (#VGAS, $VGAS), sharing bullish opinions or news articles. Tweets may emphasize the stock's potential or include charts showing upward trends.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "VGAS may feature in 'next 10x stock' videos where influencers speculate on its growth potential in renewable energy. They could highlight recent news or speculative analysis, often lacking critical scrutiny of the business fundamentals.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High volume of posts with predominantly positive sentiment, users discussing short squeezes or the potential for rapid share price increases. Analysts or self-proclaimed experts may provide updates or insights.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Potentials for promotions in private investment groups, with members sharing tips, personal success stories, or reactions to price movements of VGAS. Posts may feature images of charts or screenshots of profits.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "bullish sentiment on Reddit",
+        "hype in Discord trading groups",
+        "promotional tweets by influencers on Twitter/X",
+        "positive discussions on StockTwits"
+      ],
+      "overallAssessment": "Based on the provided signals and social media activity, VGAS shows strong signs of being involved in a potential pump-and-dump or manipulation scheme. The combination of high promotional activity in various social media platforms, along with volatility and a low risk score, indicates a speculative environment that could be unsustainable.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "MRNO",
+      "name": "Murano Global Investments PLC Ordinary Shares",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts highlighting recent price movements and potential for quick gains, often accompanied by memes or hype language. Discussion around 'buying the dip' and sharing personal gains. Posts may use catchy titles like 'MRNO is the next big thing!' or 'Time to ride the wave!'",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Stock may be featured heavily in pump groups where traders coordinate buying activities. Suggested entry points might be shared, along with plans to sell at certain price thresholds.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters likely tweeting hype about MRNO, possibly alongside catchphrases like 'to the moon'. Frequent posts tracking the stock's progress with engaging visuals.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Potential features in videos titled 'Next 10x Stock' or 'Hidden Gem Stocks to Buy Now'. Channels with high subscriber counts discussing speculative plays may highlight MRNO.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "Stocktwits",
+          "source": "AI Analysis",
+          "content": "Frequent messages discussing MRNO, focusing on both price movements and trader sentiment. Posts may include comments such as 'I’m holding strong!' or 'When’s the next spike?'",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups may promote MRNO through posts encouraging users to invest and sharing personal success stories. Visual content portraying MRNO might be circulated.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Microcap price",
+        "Small market cap",
+        "Spike in price over 7 days",
+        "Volume explosion",
+        "Spike then drop pattern",
+        "High volatility",
+        "Promotion on Reddit and Discord",
+        "Paid promotion on Twitter/X",
+        "Discussion on Stocktwits"
+      ],
+      "overallAssessment": "MRNO exhibits several characteristics typical of a pump-and-dump scheme, including high volatility, micro-cap status, and a significant presence on social media platforms where discussions revolve around promoting quick gains. The absence of substantial news and the reliance on hype suggest a potential manipulation of its stock price.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "MOBBW",
+      "name": "Mobilicom Limited",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing the stock's recent volatility, with titles like 'Lost money on MOBBW? Here's why it's still a buy!' or 'MOBBW is the next big pump!' highlighting recent price movements and urging buying.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Members sharing MOBBW in trading servers, discussing 'upcoming catalysts' for price increases, or asking others to buy in to create upward momentum.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Promoters tweeting bullish sentiments and sharing charts suggesting upward movement, using cashtags like $MOBBW alongside claims of imminent price rises based on news or rumors.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos titled 'MOBBW could 10x from here!' or 'Why you should buy MOBBW now!' with speculative analysis and dramatic thumbnails focusing on potential next gains.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "Frequent posts about MOBBW with polarizing sentiment, divided between extreme bullishness and skepticism, often using hashtags like #MOBBW.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups circulating buy recommendations and hype posts about MOBBW, possibly sharing screenshots of trading success.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "microcap stock with small market cap",
+        "high volatility evident from price spikes",
+        "strong promotion in Reddit posts encouraging buying",
+        "active discussions in Discord about creating upward momentum",
+        "bullish sentiments on Twitter/X with claims of imminent price rises",
+        "polarizing sentiment on StockTwits with extreme bullishness",
+        "private investment groups circulating buy recommendations on Facebook/Instagram"
+      ],
+      "overallAssessment": "The trading activity and promotional sentiment surrounding MOBBW strongly suggest involvement in a pump-and-dump or manipulation scheme, characterized by high volatility and aggressive promotion across multiple social media platforms. The lack of recent news and the emphasis on speculative price increases further raise concerns about the sustainability of the stock's performance.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "PIII",
+      "name": "P3 Health Partners Inc.",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts in subreddits like r/pennystocks and r/wallstreetbets discussing the potential for a short squeeze or rapid gains with PIII. Threads highlighting the recent price drop as a buying opportunity or emphasizing its low market cap as a reason it could skyrocket with even a little attention.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "This stock is likely being shared in various trading servers, especially in pump groups where similar low-cap stocks are discussed. Members may encourage quick buying to move price before selling off.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters might tweet about PIII as a 'hidden gem' or 'next big thing', potentially using phrases like 'buy the dip' or 'to the moon'. Heavy use of cashtags like $PIII could be observed.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "The stock might feature in videos titled like 'Top Penny Stocks to Watch' or 'Next 10x Stock Opportunity' with influencers giving bullish analysis or speculating on price movements.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "Stocktwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages, with investors expressing strong opinions about PIII, both bullish and bearish. Sentiment may swing rapidly based on price movement.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups discussing PIII with promotional graphics or success stories of similar stocks, urging members to invest.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts discussing potential for a short squeeze or rapid gains on Reddit",
+        "Active sharing in Discord trading servers, especially pump groups",
+        "Promotion through paid Twitter/X posts labeling PIII as a 'hidden gem'",
+        "High volume of messages on Stocktwits with rapid sentiment swings"
+      ],
+      "overallAssessment": "The stock PIII exhibits numerous characteristics typically associated with pump-and-dump schemes, such as a low market cap, high volatility, and significant promotion on social media platforms. The presence of discussions about potential short squeezes and rapid gains further suggests speculative trading activity, making it important for investors to exercise caution.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "SQFTP",
+      "name": "Presidio Property Trust, Inc.",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts touting the stock's low price as an opportunity for huge gains, with threads discussing the recent price move and urging members to buy in to create upward momentum. Memes and references to potential short squeezes are common.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Promotion in trading servers and pump groups where members share tips about 'undervalued' or 'hidden gem' stocks. Coordinated efforts may include synchronized trading times suggested in chat.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promotions from influencers with large followings who tweet optimistic projections or insider tips about the stock. Cashtags will likely see a spike, with aggressive promotional hashtags.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Stock analysis videos focusing on 'next 10x stock' ideas, often featuring a mix of speculation and exaggerated growth potential narratives.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "Stocktwits",
+          "source": "AI Analysis",
+          "content": "Spike in message volume with a mix of bullish sentiment and excitement about price movements. Users may frequently share price predictions and experiences related to recent trading.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private groups sharing investment tips, including this stock, where members discuss entry points and price targets, often in a speculative context.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts touting the stock on Reddit highlighting low prices for potential huge gains",
+        "Promotion in trading servers and pump groups on Discord",
+        "Paid promotions from influencers on Twitter/X with optimistic projections",
+        "Spike in message volume on Stocktwits with bullish sentiment"
+      ],
+      "overallAssessment": "SQFTP shows strong signs of being involved in a potential pump-and-dump or manipulation scheme. The combined effects of high volatility, micro-cap status, and significant promotional activity across various social media platforms indicate that the stock may be artificially inflated by coordinated efforts rather than based on its fundamental value.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "LSH",
+      "name": "Lakeside Holding Limited",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts on subreddits like r/pennystocks and r/wallstreetbets featuring catchy titles such as 'This $0.76 stock is going to the moon!', along with memes, screenshots of charts showing recent price spikes, and community-driven discussions about potential catalysts.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Frequent mentions in trading servers focused on penny stocks, possibly organized pump groups where members are encouraged to buy LSH at coordinated times to spike the price.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Tweets from influencers and stock promoters posting bullish analyses, calls to action, and emphasizing a 'sure win' or 'next big thing', often accompanied by charts showing recent price spikes.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos titled 'Top 5 Stocks for Massive Gains: LSH Included!' or 'Is This Stock the Next Rocket?' featuring stock analysis and price predictions.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "A significant volume of messages posting bullish sentiment, charts showing growth, and comments about potential future catalysts or rumors.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Promotions in private groups focusing on penny stocks, often shared through posts that highlight recent price surges and invite members to join in on the 'next big investment opportunity'.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Catchy titles in Reddit posts promoting LSH as a stock to watch",
+        "Frequent mentions on Discord in penny stock trading groups",
+        "Bullish tweets from influencers emphasizing LSH as a 'sure win'",
+        "High volume of bullish sentiment on StockTwits",
+        "Promotional posts in Facebook/Instagram private groups"
+      ],
+      "overallAssessment": "Lakeside Holding Limited exhibits several characteristics typical of stocks involved in pump-and-dump schemes, including an active presence in promotion-heavy forums and social media that encourage buying without any substantive news backing. The combination of high volatility and micro-cap status further suggests a heightened risk of price manipulation.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "WLDSW",
+      "name": "Wearable Devices Ltd.",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing the stock's potential for quick gains, sharing charts that show recent price spikes, and memes referencing the stock's low price and potential for big returns. Threads might include user testimonials or FOMO (Fear of Missing Out) posts urging others to buy before the price shoots up.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Presence in pump and dump groups where members share buying signals and create urgency to purchase. Discussions may revolve around anticipated stock price surges, along with coordinated buy windows to maximize gains.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Tweets often highlighting the stock with bullish sentiment, possibly backed by paid promoters. Cashtags like $WLDSW might be trending as users echo optimistic outlooks and speculative price forecasts.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos titled 'Next 10x Stock' featuring WLDSW, emphasizing its low price and market cap as a huge opportunity. Content may exaggerate growth prospects and play up recent volatility.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "Messages focusing on real-time sentiment around the stock, with traders sharing optimistic forecasts and updates on trading activities. Posts may include a mix of memes and serious discussions about price movements.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private group discussions with members promoting WLDSW as a highly speculative stock opportunity. Posts might include tips and tricks for maximizing quick profits from penny stocks.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts discussing potential for quick gains on Reddit",
+        "Presence in pump and dump groups on Discord",
+        "Bullish sentiment tweets on Twitter/X",
+        "Optimistic forecasts shared on StockTwits"
+      ],
+      "overallAssessment": "WLDSW shows several characteristics typical of stocks involved in pump-and-dump schemes, including a small market cap, high volatility, and active promotion across multiple social media platforms. The presence of coordinated discussions and urgency among traders, particularly on Reddit and Discord, further indicates possible manipulation efforts aimed at driving prices up rapidly.",
+      "scanDate": "2026-02-03"
+    }
+  ],
+  "suspiciousStocks": [
+    {
+      "symbol": "NUWE",
+      "name": "Nuwellis, Inc.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing the stock's rapid price movement, often with phrases like 'next big penny stock!', speculation about upcoming catalysts, user-generated charts showing bullish trends, and recommendations to buy based on the recent price surge.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Shares of the stock in trading servers, especially within 'pump and dump' groups where members are encouraged to buy simultaneously, chat channels bursting with excitement around the stock to create FOMO (Fear Of Missing Out).",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters tweeting about NUWE alongside #pump, #pennystocks, or similar hashtags, often featuring optimistic projections and links to charts showing bullish patterns.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos featuring NUWE as a hot stock pick, often framed within discussions about '10x potential' or 'unstoppable stocks to buy', with clickbait thumbnails emphasizing potential returns.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages often filled with bullish sentiment and price target discussions, leading to potential echo chambers.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private group discussions about NUWE, including user-generated posts urging members to buy, often with screenshots of price movements.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Discussion of rapid price movement on Reddit",
+        "Encouragement from pump and dump groups on Discord",
+        "Paid promotions on Twitter/X with bullish projections",
+        "High volume of bullish sentiment on StockTwits"
+      ],
+      "overallAssessment": "NUWE appears to be heavily promoted across various social media platforms, indicating a high likelihood of involvement in a pump-and-dump scheme. The combination of rapid price movements, significant volume spikes, and strong bullish sentiment in discussions may suggest manipulation motives among traders.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "QNCX",
+      "name": "Quince Therapeutics, Inc.",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts showcasing QNCX as a penny stock with potential for rapid gains, discussions on why it's undervalued, and alerts on recent price movements. Users might share personal experiences of quick profits or loss, often accompanied by memes or hype language.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Shared in trading servers, especially those focused on penny stocks or speculative trading. Users may discuss recent price spikes, and messages could include calls to action for combined buying to manipulate the price.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Stock promoters might tweet heavily about QNCX, using hashtags and cashtags. Posts would likely hype the stock's potential and may include bullish sentiment.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Feature in videos titled along the lines of 'Next 10x Stock' or 'Penny Stocks to Watch'. These videos typically emphasize potential gains without in-depth analysis.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages regarding QNCX, often with mixed sentiment. Users discussing price targets and rumors.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Promotion likely occurring in private investment groups where users discuss penny stocks and share tips about new opportunities.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Microcap price range",
+        "Small market cap classification",
+        "7-day price spike",
+        "Volume explosion",
+        "Spike followed by price drop",
+        "High volatility",
+        "Promotion on Reddit and Discord",
+        "Social media hype on Twitter/X and StockTwits"
+      ],
+      "overallAssessment": "The stock appears to be heavily promoted across various social media platforms, suggesting potential involvement in a pump-and-dump or manipulation scheme. Given the high volatility and sharp price movements, investors should exercise caution and consider the possibility that the price may be artificially inflated by speculative trading.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "MSGY",
+      "name": "Masonglory Limited Ordinary Shares",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts suggesting the stock is a 'hidden gem' or 'undervalued', discussions about imminent astronomical returns, memes showcasing the stock's performance, and threads encouraging buying before a predicted spike.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Active discussions in trading servers, including explicit recommendations to buy, share links to 'insider' information or charts predicting significant upward movement, and members sharing their experiences with sharp price movements.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Promoters tweeting about the stock with attractive visuals or screenshots of price charts, using hashtags like #MSGY, and engaging in back-and-forth threads that create hype or urgency.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos under titles like 'Next 10x Stock' or 'MSGY: The Future of Specialty Services?', featuring discussions about price predictions and technical analysis that are overly optimistic.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages related to MSGY with overly optimistic sentiments and price predictions, possibly driven by key influencers or a coordinated effort.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Posts in investment groups discussing MSGY, sharing charts showing its potential growth, and enticing visuals to attract new investors.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts suggesting the stock is a 'hidden gem'",
+        "Discussions about imminent astronomical returns",
+        "Memes showcasing the stock's performance",
+        "Explicit recommendations to buy on Discord",
+        "Promotion on Twitter/X with hashtags and visuals",
+        "High volume of messages on StockTwits with optimistic sentiments"
+      ],
+      "overallAssessment": "MSGY shows multiple signs of manipulation, particularly through its aggressive promotion across social media platforms and a significant uptick in trading volume, indicating a potential pump-and-dump scheme. The presence of overly optimistic sentiments and speculative discussions suggest that investors may be misled about the stock's real potential.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "MDCXW",
+      "name": "Medicus Pharma Ltd.",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts may include memes about 'to the moon' with the stock's ticker, speculative discussions about potential partnerships, and calls for a 'short squeeze' on the low-priced stock.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Stock price alerts, coordinated buying announcements, and sharing charts indicating bullish patterns.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters tweeting about the stock with hype language, predicting it will go 'to the moon' or that it's undervalued.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Featured in 'next big biotech stock' videos or 'top 5 penny stocks to watch', often with clickbait thumbnails.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "Stocktwits",
+          "source": "AI Analysis",
+          "content": "Rapid influx of messages especially during price spikes, with a mix of bullish sentiment and excitement.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private group discussions promoting the stock as the next big investment, often including testimonials or success stories.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Reddit posts suggesting 'to the moon' and short squeeze potential",
+        "Discord coordinated buying announcements",
+        "Stocktwits influx of messages during price spikes with bullish sentiment"
+      ],
+      "overallAssessment": "The stock MDCXW (Medicus Pharma Ltd.) exhibits several characteristics commonly associated with potential pump-and-dump or manipulation schemes. With a high-risk score combined with promotional activities primarily on platforms like Reddit and Stocktwits, it indicates a likelihood of artificially inflated interest that may not be supported by fundamental value.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "TIRX",
+      "name": "Tian Ruixiang Holdings Ltd",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing the potential for high returns on TIRX, memes related to 'next big penny stock', excitement over recent price movements, and tips on getting in before the 'next surge'. Threads may exaggerate optimistic predictions and share charts showcasing past spikes.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "TIRX likely being discussed in various trading servers, especially in pump-and-dump groups where members share rapid buy signals and target price peaks. Discussions may include orchestrated buying strategies to manipulate the stock price.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters likely tweeting about TIRX, using hashtags like #TIRX, #pennystocks, or #stocksurge. Cashtags are used heavily, with tweets highlighting potential gains and drawing attention to social media-fueled hype.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "TIRX being featured in videos claiming it could be a 'next 10x stock'. Channels may showcase technical analysis focusing on its recent volatility and successes, combined with clickbait titles.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "Stocktwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages discussing TIRX, with a mix of bullish sentiment and speculative price predictions. User enthusiasm likely leads to a spike in messages as price movements occur.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Promotions happening in private investment groups or pages dedicated to penny stocks. Members might share tips, hype posts, or testimonials about recent profitability.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts discussing potential high returns on TIRX on Reddit",
+        "Discussion in pump-and-dump groups on Discord",
+        "Paid promoters on Twitter/X using relevant hashtags",
+        "High volume of speculative messages on Stocktwits"
+      ],
+      "overallAssessment": "TIRX exhibits several characteristics typical of a potential pump-and-dump scheme, including high social media activity focused on exaggerated price predictions and orchestrated buying strategies. The combination of a low risk score, microcap status, and signals of high volatility and recent price spikes further indicates that manipulation may be at play.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "YJ",
+      "name": "Yunji Inc.",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing potential for quick profits, encouraging buying based on recent price spikes and pointing out the low market cap as an opportunity for 'getting in early'. Participants also discuss the RSI and suggest that the price could go even higher.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Active discussions in pump groups with members sharing trading strategies and encouraging coordinated purchasing. Users may be sharing alerts for specific buy-in times to create upward price momentum.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters posting optimistic tweets about YJ, often accompanied by graphics or memes suggesting it's the 'next big thing'. Cashtags being used in high volumes as users share bullish outlooks.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos titled 'Next 10x Stock!' or 'Hidden Gem' that might feature YJ with very persuasive speech about its potential growth, focusing on recent price movements and hype.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages with overwhelming bullish sentiment, users discussing entry points, or sharing their trading strategies. Sentiment could skew positively due to excitement about recent price increases.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups promoting YJ, encouraging members to buy and hype it up, often featuring posts showing profit screenshots or enticing graphics.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Microcap price",
+        "Small market cap",
+        "Micro liquidity",
+        "Spike in 7-day price",
+        "Volume explosion",
+        "Overbought RSI",
+        "High volatility",
+        "Active discussions in pump groups",
+        "Optimistic tweets from paid promoters",
+        "High volume of messages in StockTwits with bullish sentiment",
+        "Encouragement in Facebook/Instagram private groups"
+      ],
+      "overallAssessment": "YJ (Yunji Inc.) shows strong signs of involvement in a pump-and-dump scheme, driven primarily by social media hype and speculative trading based on superficial price movements rather than underlying fundamentals. The high risk score, coupled with the extensive promotion on various platforms, raises concerns about potential manipulation and investor vulnerability.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "KXIN",
+      "name": "Kaixin Auto Holdings",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts on subreddits like r/wallstreetbets or r/pennystocks featuring memes, hype surrounding the potential for the stock to 'skyrocket', discussions of recent price movements, and encouragement to buy before it 'explodes'. Users might share personal anecdotes of past profits from similar stocks, urging others to act quickly.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Pump groups sharing alerts about KXIN, along with coordinated buy alerts and strategies to capitalize on volatility. Members may share screenshots of their trades to create FOMO (fear of missing out).",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Tweets from small-cap stock promoters, influencers using exaggerated language about the stock’s potential gains, and the frequent use of cashtags like $KXIN. These tweets are likely to be retweeted by accounts with high follower counts to create artificial buzz.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos titled 'Next 10x Stock!' or 'Could KXIN be the next big thing?' where creators discuss the stock's recent volatility and present overly optimistic predictions about its future performance with flashy thumbnails.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "Stocktwits",
+          "source": "AI Analysis",
+          "content": "High message volume with a mix of hype and fear-based messaging. Users may post bullish sentiments about upcoming earnings or developments, while some might panic when price decreases.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups sharing quick tips about KXIN, often appealing to those seeking high-risk, high-reward trades. Posts may feature success stories and encourage members to buy in.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts on r/wallstreetbets discussing hype and potential",
+        "Discord pump groups sharing buy alerts",
+        "Exaggerated Tweets from stock promoters using $KXIN cashtags",
+        "High message volume on Stocktwits with mixed sentiments",
+        "Private investment groups on Facebook/Instagram sharing success stories"
+      ],
+      "overallAssessment": "KXIN appears to be heavily promoted on various social media platforms, suggesting potential involvement in a pump-and-dump scheme. The combination of high volatility, drastic price movements, and concerted promotional efforts without substantive news indicates manipulation risks.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "XHLD",
+      "name": "TEN Holdings, Inc. Common Stock",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing the stock's recent price surge, users sharing personal experiences or strategies about buying in at $2.52, memes celebrating the price increase, and coordinated discussions about holding or buying more shares. Posts likely touting it as an underappreciated gem or having great potential for 'to the moon' gains.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Shared in trading servers where members discuss penny stocks, possibly in dedicated pump groups. Alerts about buy signals or recommendations from influential members may be common.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Promoters might tweet positive news or speculative insights about the stock, use of the cashtag #XHLD, and engagement with trending hashtags related to penny stocks or market opportunities.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Featured in videos with titles like 'Next Big Penny Stock' or '10X Potential Stocks' showcasing its recent spikes along with pie charts or visualizations of market trends.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "Increased message volume following significant price changes, often with divided sentiment between bullish projections and concerned comments about volatility.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups may share tips or alerts about the stock, soliciting opinions and encouraging quick investments, possibly featuring success stories from 'insiders'.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Microcap price",
+        "Small market cap",
+        "Spike in the last 7 days",
+        "Volume explosion",
+        "Spike then drop",
+        "High volatility",
+        "Promotion on Reddit and StockTwits",
+        "Discussion in Discord trading servers",
+        "Featured in YouTube videos about potential gains"
+      ],
+      "overallAssessment": "XHLD exhibits several characteristics typical of a stock involved in a pump-and-dump scheme. The presence of highly speculative promotion on social media platforms, combined with significant price volatility and spikes followed by drops, suggests that manipulative strategies may be at play, especially given the lack of recent news to substantiate the price changes.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "ECDA",
+      "name": "ECD Automotive Design, Inc.",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing the stock's recent price surge, touting potential for significant gains, with typically hyperbolic language (e.g., 'This is a guaranteed 10x winner!'). Posts may include memes, calls to buy the stock, and comparisons to other successful penny stocks.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Sharing alerts in trading servers, potentially in dedicated pump and dump channels where users hype the stock before orchestrated buy-ins.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid stock promoters tweeting about the stock, using hashtags and cashtags aggressively to boost visibility. Tweets may include statements like 'This is the next big thing in automotive!' and 'Get on board now!'.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Featured in videos labeled as 'penny stock to watch' or 'next 10x stock'. Presentations that focus on the recent price increase rather than fundamentals, aiming for flashy thumbnails that catch attention.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages speculating on the stock's future performance, often accompanied by memes or enthusiastic testimonials from purported investors.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Promotion in private investment groups where members share tips and stock picks. Posts may include images of luxury lifestyles implying wealth from stock trading.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts on Reddit using hyperbolic language about potential gains",
+        "Activity in Discord trading servers with possible pump and dump coordination",
+        "Paid stock promoters on Twitter/X aggressively promoting the stock",
+        "High volume of speculative messages on StockTwits"
+      ],
+      "overallAssessment": "ECDA appears to be heavily involved in speculative trading activity with significant promotional efforts across various social media platforms, suggesting a likelihood of pump-and-dump manipulation. The combination of high volatility, micro market cap, and the nature of online discussions around the stock raises concerns about potential manipulation schemes.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "DAICW",
+      "name": "CID HoldCo, Inc. Warrants",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts touting DAICW's potential for explosive gains, appealing to retail traders. Users may share screenshots of 70% price hikes and promote FOMO (fear of missing out) with urgent language urging others to buy before the next 'big' move. Threads may also include mentions of 'low market cap means greater potential' and calls to action to 'ride the rocket'.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "This stock is likely discussed in pump groups, where users are encouraged to buy en masse to artificially inflate the price. Members may share charts showing the recent spike and predicted future gains, creating an echo chamber effect.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promotions may tweet about DAICW with CASHTAG activity revealing sentiments of optimism and anticipated growth. Influencers might share bullish statements, and increase in engagement from retweets and likes around specific posts mentioning the stock.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Could be featured in videos promoting 'next 10x stocks' or with phrases like 'don't miss out on this.' These videos often present bullish cases with misleading or exaggerated claims about DAICW's future price.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "Users are likely posting rapid-fire short updates about price movements and speculative predictions. Strong language used to create excitement around the stock, often accompanied by charts showing spikes.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups may discuss DAICW, with members encouraging each other to 'get in on the action.' Images and infographics might be shared highlighting potential gains.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts on Reddit touting explosive gains and FOMO",
+        "Discussion in Discord pump groups encouraging mass buying",
+        "Paid promotions and optimistic sentiments on Twitter/X",
+        "YouTube videos with exaggerated claims about future price",
+        "Rapid-fire updates and speculative predictions on StockTwits"
+      ],
+      "overallAssessment": "DAICW appears to be heavily promoted across various social media platforms, with indications of orchestrated buying activity that suggests a likely pump-and-dump scheme. The combination of high volatility, erratic price spikes, and aggressive social media promotion raises concerns about potential manipulation.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "CAPTW",
+      "name": "Captivision Inc. Warrant",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing potential gains from CAPTW, accompanied by excitement about its recent price movements. Memes related to penny stocks or mentions of 'to the moon' can also be common, alongside user testimonials about past successful investments.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Channels dedicated to penny stocks or high-risk investments are likely sharing CAPTW. Members might be discussing entry points and pump signals to encourage rapid buying.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Promoters, potentially being paid by the company or third-parties, tweeting about CAPTW highlighting its recent price surge and projecting future gains using hashtags like #PennyStocks and #CAPTW.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Content creators focusing on '10x next stocks' could feature CAPTW with narratives about imminent breakthroughs or partnering opportunities, often accompanied by eye-catching thumbnails.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "Users may flood the CAPTW feed with speculative posts and bullish sentiment, often urging others to jump in on the movement.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups may be silently pushing CAPTW, with visuals demonstrating potential profits or stories of unrealized gains.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Excitement about recent price movements on Reddit",
+        "Discussions of entry points and pump signals on Discord",
+        "Tweets highlighting price surges with optimistic projections on Twitter/X",
+        "Bullish sentiment flooding StockTwits discussions"
+      ],
+      "overallAssessment": "CAPTW appears to exhibit strong signs of manipulation given the high levels of promotion across various platforms and the associated volatility. The combination of enthusiastic speculation on social media and significant price fluctuations raises concerns about potential pump-and-dump activities.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "BNAIW",
+      "name": "Brand Engagement Network, Inc.",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts highlighting the stock's recent 140% price increase, threads discussing the potential for quick gains, memes encouraging 'to the moon' sentiments, and users posting screenshots of their gains from trading this stock.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Active discussions in trading servers, with mentions in various pump groups where users share alerts and predictions for BNAIW's movement.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters tweeting aggressively about BNAIW, using cashtags like $BNAIW and bullish forecasts, along with retweets from smaller accounts amplifying their messages.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "\"Next 10x stock\" videos featuring BNAIW, with creators discussing the potential for the stock to surge based on recent trends with enticing thumbnails.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High message volume with bullish sentiment about BNAIW, characterized by large numbers of users posting optimistic analyses and claims of major potential gains.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Promotion in private investment groups or through influencers discussing penny stocks, possibly sharing links to stock tip websites.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Reddit posts highlighting 140% price increase",
+        "Threads discussing potential for quick gains",
+        "Memes encouraging 'to the moon' sentiments",
+        "Active discussions in pump groups on Discord",
+        "Paid promoters on Twitter/X asserting bullish forecasts",
+        "High message volume with optimistic analyses on StockTwits"
+      ],
+      "overallAssessment": "BNAIW shows strong signs of being involved in a pump-and-dump scheme due to its recent sharp price increase, coupled with aggressive promotion across various social media platforms. The heightened volatility and microcap characteristics further indicate possible manipulation targeting naive investors.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "BATL",
+      "name": "Battalion Oil Corporation",
+      "riskScore": 14,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing BATL's recent price surge, potential for quick profits, and speculation around future catalysts. Threads may include memes, comparisons to other penny stocks, or user accounts of 'flipping' the stock.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Discord trading servers likely have dedicated channels where BATL is discussed with encouragement to buy in large quantities. Pump groups may coordinate messages around specific buy-ins.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Cashtags for BATL being widely shared with optimistic projections of stock performance. Possible presence of paid promoters tweeting bullish messages.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos titled 'Next 10x stock', 'Life-changing investment opportunities', or bullish analysis focusing solely on the potential upside without warning about risks.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "Messages with a high volume of posts about BATL, with a mix of excitement and fear of missing out (FOMO). Observations of sentiment tailored toward bullish outlooks.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups sharing tips on BATL investment and encouraging purchases in closed forums.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Microcap price",
+        "Small market cap",
+        "Spike in price over 7 days",
+        "Volume explosion",
+        "Spike followed by drop",
+        "High volatility",
+        "Reddit posts discussing price surge and quick profits",
+        "Discord channels encouraging large purchases",
+        "Twitter/X cashtags with optimistic projections",
+        "StockTwits messages indicating FOMO and bullish sentiment"
+      ],
+      "overallAssessment": "Based on the signals and social media activity, BATL appears to be at high risk for a pump-and-dump or manipulation scheme. The combination of explosive trading volume, high volatility, and active promotion on various platforms suggests that speculative trading behaviors could lead to sudden price drops following artificial surges.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "VGAS",
+      "name": "Verde Clean Fuels, Inc.",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts might contain bullish sentiment about VGAS, touting it as the next big opportunity in renewable utilities. Users may post technical analysis, hype about potential partnerships, or forecast large returns. Threads may also feature memes or catchphrases associated with the stock to generate interest.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Stock likely being shared in pump groups or trading servers where members hype VGAS and coordinate buying. Messages may include charts showing potential price surges, or signals from 'experts' urging members to buy in before a 'breakout.'",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters or accounts with large followings may tweet about VGAS using cashtags (#VGAS, $VGAS), sharing bullish opinions or news articles. Tweets may emphasize the stock's potential or include charts showing upward trends.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "VGAS may feature in 'next 10x stock' videos where influencers speculate on its growth potential in renewable energy. They could highlight recent news or speculative analysis, often lacking critical scrutiny of the business fundamentals.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "High volume of posts with predominantly positive sentiment, users discussing short squeezes or the potential for rapid share price increases. Analysts or self-proclaimed experts may provide updates or insights.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Potentials for promotions in private investment groups, with members sharing tips, personal success stories, or reactions to price movements of VGAS. Posts may feature images of charts or screenshots of profits.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "bullish sentiment on Reddit",
+        "hype in Discord trading groups",
+        "promotional tweets by influencers on Twitter/X",
+        "positive discussions on StockTwits"
+      ],
+      "overallAssessment": "Based on the provided signals and social media activity, VGAS shows strong signs of being involved in a potential pump-and-dump or manipulation scheme. The combination of high promotional activity in various social media platforms, along with volatility and a low risk score, indicates a speculative environment that could be unsustainable.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "MRNO",
+      "name": "Murano Global Investments PLC Ordinary Shares",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts highlighting recent price movements and potential for quick gains, often accompanied by memes or hype language. Discussion around 'buying the dip' and sharing personal gains. Posts may use catchy titles like 'MRNO is the next big thing!' or 'Time to ride the wave!'",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Stock may be featured heavily in pump groups where traders coordinate buying activities. Suggested entry points might be shared, along with plans to sell at certain price thresholds.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters likely tweeting hype about MRNO, possibly alongside catchphrases like 'to the moon'. Frequent posts tracking the stock's progress with engaging visuals.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Potential features in videos titled 'Next 10x Stock' or 'Hidden Gem Stocks to Buy Now'. Channels with high subscriber counts discussing speculative plays may highlight MRNO.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "Stocktwits",
+          "source": "AI Analysis",
+          "content": "Frequent messages discussing MRNO, focusing on both price movements and trader sentiment. Posts may include comments such as 'I’m holding strong!' or 'When’s the next spike?'",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups may promote MRNO through posts encouraging users to invest and sharing personal success stories. Visual content portraying MRNO might be circulated.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Microcap price",
+        "Small market cap",
+        "Spike in price over 7 days",
+        "Volume explosion",
+        "Spike then drop pattern",
+        "High volatility",
+        "Promotion on Reddit and Discord",
+        "Paid promotion on Twitter/X",
+        "Discussion on Stocktwits"
+      ],
+      "overallAssessment": "MRNO exhibits several characteristics typical of a pump-and-dump scheme, including high volatility, micro-cap status, and a significant presence on social media platforms where discussions revolve around promoting quick gains. The absence of substantial news and the reliance on hype suggest a potential manipulation of its stock price.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "MOBBW",
+      "name": "Mobilicom Limited",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing the stock's recent volatility, with titles like 'Lost money on MOBBW? Here's why it's still a buy!' or 'MOBBW is the next big pump!' highlighting recent price movements and urging buying.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Members sharing MOBBW in trading servers, discussing 'upcoming catalysts' for price increases, or asking others to buy in to create upward momentum.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Promoters tweeting bullish sentiments and sharing charts suggesting upward movement, using cashtags like $MOBBW alongside claims of imminent price rises based on news or rumors.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos titled 'MOBBW could 10x from here!' or 'Why you should buy MOBBW now!' with speculative analysis and dramatic thumbnails focusing on potential next gains.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "Frequent posts about MOBBW with polarizing sentiment, divided between extreme bullishness and skepticism, often using hashtags like #MOBBW.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups circulating buy recommendations and hype posts about MOBBW, possibly sharing screenshots of trading success.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "microcap stock with small market cap",
+        "high volatility evident from price spikes",
+        "strong promotion in Reddit posts encouraging buying",
+        "active discussions in Discord about creating upward momentum",
+        "bullish sentiments on Twitter/X with claims of imminent price rises",
+        "polarizing sentiment on StockTwits with extreme bullishness",
+        "private investment groups circulating buy recommendations on Facebook/Instagram"
+      ],
+      "overallAssessment": "The trading activity and promotional sentiment surrounding MOBBW strongly suggest involvement in a pump-and-dump or manipulation scheme, characterized by high volatility and aggressive promotion across multiple social media platforms. The lack of recent news and the emphasis on speculative price increases further raise concerns about the sustainability of the stock's performance.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "PIII",
+      "name": "P3 Health Partners Inc.",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts in subreddits like r/pennystocks and r/wallstreetbets discussing the potential for a short squeeze or rapid gains with PIII. Threads highlighting the recent price drop as a buying opportunity or emphasizing its low market cap as a reason it could skyrocket with even a little attention.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "This stock is likely being shared in various trading servers, especially in pump groups where similar low-cap stocks are discussed. Members may encourage quick buying to move price before selling off.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promoters might tweet about PIII as a 'hidden gem' or 'next big thing', potentially using phrases like 'buy the dip' or 'to the moon'. Heavy use of cashtags like $PIII could be observed.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "The stock might feature in videos titled like 'Top Penny Stocks to Watch' or 'Next 10x Stock Opportunity' with influencers giving bullish analysis or speculating on price movements.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "Stocktwits",
+          "source": "AI Analysis",
+          "content": "High volume of messages, with investors expressing strong opinions about PIII, both bullish and bearish. Sentiment may swing rapidly based on price movement.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private investment groups discussing PIII with promotional graphics or success stories of similar stocks, urging members to invest.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts discussing potential for a short squeeze or rapid gains on Reddit",
+        "Active sharing in Discord trading servers, especially pump groups",
+        "Promotion through paid Twitter/X posts labeling PIII as a 'hidden gem'",
+        "High volume of messages on Stocktwits with rapid sentiment swings"
+      ],
+      "overallAssessment": "The stock PIII exhibits numerous characteristics typically associated with pump-and-dump schemes, such as a low market cap, high volatility, and significant promotion on social media platforms. The presence of discussions about potential short squeezes and rapid gains further suggests speculative trading activity, making it important for investors to exercise caution.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "SQFTP",
+      "name": "Presidio Property Trust, Inc.",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts touting the stock's low price as an opportunity for huge gains, with threads discussing the recent price move and urging members to buy in to create upward momentum. Memes and references to potential short squeezes are common.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Promotion in trading servers and pump groups where members share tips about 'undervalued' or 'hidden gem' stocks. Coordinated efforts may include synchronized trading times suggested in chat.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Paid promotions from influencers with large followings who tweet optimistic projections or insider tips about the stock. Cashtags will likely see a spike, with aggressive promotional hashtags.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Stock analysis videos focusing on 'next 10x stock' ideas, often featuring a mix of speculation and exaggerated growth potential narratives.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "Stocktwits",
+          "source": "AI Analysis",
+          "content": "Spike in message volume with a mix of bullish sentiment and excitement about price movements. Users may frequently share price predictions and experiences related to recent trading.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private groups sharing investment tips, including this stock, where members discuss entry points and price targets, often in a speculative context.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts touting the stock on Reddit highlighting low prices for potential huge gains",
+        "Promotion in trading servers and pump groups on Discord",
+        "Paid promotions from influencers on Twitter/X with optimistic projections",
+        "Spike in message volume on Stocktwits with bullish sentiment"
+      ],
+      "overallAssessment": "SQFTP shows strong signs of being involved in a potential pump-and-dump or manipulation scheme. The combined effects of high volatility, micro-cap status, and significant promotional activity across various social media platforms indicate that the stock may be artificially inflated by coordinated efforts rather than based on its fundamental value.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "LSH",
+      "name": "Lakeside Holding Limited",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts on subreddits like r/pennystocks and r/wallstreetbets featuring catchy titles such as 'This $0.76 stock is going to the moon!', along with memes, screenshots of charts showing recent price spikes, and community-driven discussions about potential catalysts.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Frequent mentions in trading servers focused on penny stocks, possibly organized pump groups where members are encouraged to buy LSH at coordinated times to spike the price.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Tweets from influencers and stock promoters posting bullish analyses, calls to action, and emphasizing a 'sure win' or 'next big thing', often accompanied by charts showing recent price spikes.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos titled 'Top 5 Stocks for Massive Gains: LSH Included!' or 'Is This Stock the Next Rocket?' featuring stock analysis and price predictions.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "A significant volume of messages posting bullish sentiment, charts showing growth, and comments about potential future catalysts or rumors.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Promotions in private groups focusing on penny stocks, often shared through posts that highlight recent price surges and invite members to join in on the 'next big investment opportunity'.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Catchy titles in Reddit posts promoting LSH as a stock to watch",
+        "Frequent mentions on Discord in penny stock trading groups",
+        "Bullish tweets from influencers emphasizing LSH as a 'sure win'",
+        "High volume of bullish sentiment on StockTwits",
+        "Promotional posts in Facebook/Instagram private groups"
+      ],
+      "overallAssessment": "Lakeside Holding Limited exhibits several characteristics typical of stocks involved in pump-and-dump schemes, including an active presence in promotion-heavy forums and social media that encourage buying without any substantive news backing. The combination of high volatility and micro-cap status further suggests a heightened risk of price manipulation.",
+      "scanDate": "2026-02-03"
+    },
+    {
+      "symbol": "WLDSW",
+      "name": "Wearable Devices Ltd.",
+      "riskScore": 13,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news found for this stock.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "AI Analysis",
+          "content": "Posts discussing the stock's potential for quick gains, sharing charts that show recent price spikes, and memes referencing the stock's low price and potential for big returns. Threads might include user testimonials or FOMO (Fear of Missing Out) posts urging others to buy before the price shoots up.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Discord",
+          "source": "AI Analysis",
+          "content": "Presence in pump and dump groups where members share buying signals and create urgency to purchase. Discussions may revolve around anticipated stock price surges, along with coordinated buy windows to maximize gains.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Twitter/X",
+          "source": "AI Analysis",
+          "content": "Tweets often highlighting the stock with bullish sentiment, possibly backed by paid promoters. Cashtags like $WLDSW might be trending as users echo optimistic outlooks and speculative price forecasts.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "YouTube",
+          "source": "AI Analysis",
+          "content": "Videos titled 'Next 10x Stock' featuring WLDSW, emphasizing its low price and market cap as a huge opportunity. Content may exaggerate growth prospects and play up recent volatility.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        },
+        {
+          "platform": "StockTwits",
+          "source": "AI Analysis",
+          "content": "Messages focusing on real-time sentiment around the stock, with traders sharing optimistic forecasts and updates on trading activities. Posts may include a mix of memes and serious discussions about price movements.",
+          "sentiment": "bullish",
+          "isPromotion": true
+        },
+        {
+          "platform": "Facebook/Instagram",
+          "source": "AI Analysis",
+          "content": "Private group discussions with members promoting WLDSW as a highly speculative stock opportunity. Posts might include tips and tricks for maximizing quick profits from penny stocks.",
+          "sentiment": "neutral",
+          "isPromotion": false
+        }
+      ],
+      "promotionIndicators": [
+        "Posts discussing potential for quick gains on Reddit",
+        "Presence in pump and dump groups on Discord",
+        "Bullish sentiment tweets on Twitter/X",
+        "Optimistic forecasts shared on StockTwits"
+      ],
+      "overallAssessment": "WLDSW shows several characteristics typical of stocks involved in pump-and-dump schemes, including a small market cap, high volatility, and active promotion across multiple social media platforms. The presence of coordinated discussions and urgency among traders, particularly on Reddit and Discord, further indicates possible manipulation efforts aimed at driving prices up rapidly.",
+      "scanDate": "2026-02-03"
+    }
+  ]
+}
