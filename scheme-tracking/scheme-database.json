@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-03T11:51:42.918Z",
+  "lastUpdated": "2026-02-14T04:31:55.059Z",
   "totalSchemes": 10,
-  "activeSchemes": 10,
-  "resolvedSchemes": 0,
+  "activeSchemes": 6,
+  "resolvedSchemes": 4,
   "confirmedFrauds": 0,
   "schemes": {
     "SCH-EVTV-20260202-9ALD": {
@@ -12,18 +12,18 @@
       "sector": "Consumer Cyclical",
       "industry": "Auto - Manufacturers",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-02-03",
+      "lastSeen": "2026-02-13",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 16,
-      "currentRiskScore": 16,
+      "currentRiskScore": 14,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 3.55,
       "peakPrice": 3.55,
-      "currentPrice": 3.55,
+      "currentPrice": 2.18,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
+      "priceChangeFromPeak": -38.59154929577464,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -63,6 +63,18 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-02-13",
+          "event": "Status changed to COOLING - Possible dump detected",
+          "details": "Price dropped 38.6% from peak ($3.55 → $2.18)",
+          "category": "status_change",
+          "significance": "high"
+        },
+        {
+          "date": "2026-02-13",
+          "event": "Daily scan update",
+          "details": "Risk score: 14, Promotion score: 20"
         }
       ],
       "notes": [],
@@ -77,7 +89,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 16,
       "currentRiskScore": 16,
       "peakPromotionScore": 58,
@@ -124,10 +136,18 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-02-13",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 11 days, inactive for 10 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 11 days of monitoring. Stock activity normalized."
     },
     "SCH-PTHL-20260202-AI2J": {
       "schemeId": "SCH-PTHL-20260202-AI2J",
@@ -138,16 +158,16 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "PUMP_AND_DUMP_ENDED",
       "peakRiskScore": 15,
       "currentRiskScore": 15,
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9023,
       "peakPrice": 0.9023,
-      "currentPrice": 0.9023,
+      "currentPrice": 0.4115,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
+      "priceChangeFromPeak": -54.39432561232407,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -185,10 +205,25 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-02-13",
+          "event": "Status changed to COOLING - Possible dump detected",
+          "details": "Price dropped 54.4% from peak ($0.90 → $0.41)",
+          "category": "status_change",
+          "significance": "high"
+        },
+        {
+          "date": "2026-02-13",
+          "event": "PUMP & DUMP ENDED - With social promotion",
+          "details": "Price crashed 54.4% from peak ($0.90 → $0.41)",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 54.4% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-XAIR-20260202-M8NZ": {
       "schemeId": "SCH-XAIR-20260202-M8NZ",
@@ -199,16 +234,16 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "COOLING",
       "peakRiskScore": 15,
       "currentRiskScore": 15,
       "peakPromotionScore": 50,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 1.7,
+      "currentPrice": 1.05,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
+      "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -244,6 +279,13 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-02-13",
+          "event": "Status changed to COOLING - Possible dump detected",
+          "details": "Price dropped 38.2% from peak ($1.70 → $1.05)",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
@@ -258,7 +300,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 15,
       "currentRiskScore": 15,
       "peakPromotionScore": 61,
@@ -307,10 +349,18 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-02-13",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 11 days, inactive for 10 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 11 days of monitoring. Stock activity normalized."
     },
     "SCH-THH-20260202-YD9V": {
       "schemeId": "SCH-THH-20260202-YD9V",
@@ -321,16 +371,16 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "COOLING",
       "peakRiskScore": 14,
       "currentRiskScore": 14,
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.9601,
+      "currentPrice": 0.6298,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
+      "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -367,6 +417,13 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-02-13",
+          "event": "Status changed to COOLING - Possible dump detected",
+          "details": "Price dropped 34.4% from peak ($0.96 → $0.63)",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
@@ -512,7 +569,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 14,
       "currentRiskScore": 14,
       "peakPromotionScore": 58,
@@ -559,10 +616,18 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-02-13",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 11 days, inactive for 10 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 11 days of monitoring. Stock activity normalized."
     },
     "SCH-JDZG-20260202-18AA": {
       "schemeId": "SCH-JDZG-20260202-18AA",
@@ -571,16 +636,16 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-02-03",
+      "lastSeen": "2026-02-13",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 14,
+      "currentRiskScore": 16,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.22,
       "peakPrice": 1.22,
-      "currentPrice": 1.22,
+      "currentPrice": 3.81,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
@@ -621,6 +686,11 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-02-13",
+          "event": "Daily scan update",
+          "details": "Risk score: 16, Promotion score: 20"
         }
       ],
       "notes": [],
