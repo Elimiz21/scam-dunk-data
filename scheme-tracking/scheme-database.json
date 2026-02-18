@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-14T04:31:55.059Z",
+  "lastUpdated": "2026-02-18T02:26:05.847Z",
   "totalSchemes": 10,
-  "activeSchemes": 6,
-  "resolvedSchemes": 4,
+  "activeSchemes": 4,
+  "resolvedSchemes": 6,
   "confirmedFrauds": 0,
   "schemes": {
     "SCH-EVTV-20260202-9ALD": {
@@ -14,16 +14,16 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-13",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "COOLING",
       "peakRiskScore": 16,
       "currentRiskScore": 14,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 3.55,
       "peakPrice": 3.55,
-      "currentPrice": 2.18,
+      "currentPrice": 2.02,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -38.59154929577464,
+      "priceChangeFromPeak": -43.098591549295776,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -33,7 +33,40 @@
         "Discord",
         "Telegram"
       ],
-      "promoterAccounts": [],
+      "promoterAccounts": [
+        {
+          "platform": "Twitter/X",
+          "identifier": "Twitter/X promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-13",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "YouTube",
+          "identifier": "YouTube promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-13",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Discord",
+          "identifier": "Discord promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-13",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Telegram",
+          "identifier": "Telegram promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-13",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -75,6 +108,13 @@
           "date": "2026-02-13",
           "event": "Daily scan update",
           "details": "Risk score: 14, Promotion score: 20"
+        },
+        {
+          "date": "2026-02-17",
+          "event": "Status changed to COOLING - Possible dump detected",
+          "details": "Price dropped 43.1% from peak ($3.55 → $2.02)",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
@@ -107,7 +147,32 @@
         "Discord",
         "Telegram"
       ],
-      "promoterAccounts": [],
+      "promoterAccounts": [
+        {
+          "platform": "Twitter/X",
+          "identifier": "Twitter/X promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Discord",
+          "identifier": "Discord promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Telegram",
+          "identifier": "Telegram promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -176,7 +241,32 @@
         "Discord",
         "Telegram"
       ],
-      "promoterAccounts": [],
+      "promoterAccounts": [
+        {
+          "platform": "Twitter/X",
+          "identifier": "Twitter/X promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Discord",
+          "identifier": "Discord promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Telegram",
+          "identifier": "Telegram promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -251,7 +341,24 @@
         "Twitter/X",
         "Telegram"
       ],
-      "promoterAccounts": [],
+      "promoterAccounts": [
+        {
+          "platform": "Twitter/X",
+          "identifier": "Twitter/X promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Telegram",
+          "identifier": "Telegram promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -319,7 +426,40 @@
         "Discord",
         "Telegram"
       ],
-      "promoterAccounts": [],
+      "promoterAccounts": [
+        {
+          "platform": "Twitter/X",
+          "identifier": "Twitter/X promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "YouTube",
+          "identifier": "YouTube promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Discord",
+          "identifier": "Discord promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Telegram",
+          "identifier": "Telegram promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -389,7 +529,32 @@
         "Discord",
         "Telegram"
       ],
-      "promoterAccounts": [],
+      "promoterAccounts": [
+        {
+          "platform": "Twitter/X",
+          "identifier": "Twitter/X promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Discord",
+          "identifier": "Discord promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Telegram",
+          "identifier": "Telegram promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -438,7 +603,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 14,
       "currentRiskScore": 14,
       "peakPromotionScore": 61,
@@ -465,6 +630,38 @@
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-02",
           "postCount": 1
+        },
+        {
+          "platform": "Twitter/X",
+          "identifier": "Twitter/X promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "YouTube",
+          "identifier": "YouTube promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Discord",
+          "identifier": "Discord promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Telegram",
+          "identifier": "Telegram promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
         }
       ],
       "signalsDetected": [
@@ -495,10 +692,18 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-02-17",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 15 days, inactive for 14 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 15 days of monitoring. Stock activity normalized."
     },
     "SCH-MTEN-20260202-KMCM": {
       "schemeId": "SCH-MTEN-20260202-KMCM",
@@ -509,7 +714,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 14,
       "currentRiskScore": 14,
       "peakPromotionScore": 58,
@@ -527,7 +732,32 @@
         "Discord",
         "Telegram"
       ],
-      "promoterAccounts": [],
+      "promoterAccounts": [
+        {
+          "platform": "Twitter/X",
+          "identifier": "Twitter/X promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Discord",
+          "identifier": "Discord promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Telegram",
+          "identifier": "Telegram promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -555,10 +785,18 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-02-17",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 15 days, inactive for 14 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 15 days of monitoring. Stock activity normalized."
     },
     "SCH-DRTSW-20260202-H1OO": {
       "schemeId": "SCH-DRTSW-20260202-H1OO",
@@ -587,7 +825,32 @@
         "Discord",
         "Telegram"
       ],
-      "promoterAccounts": [],
+      "promoterAccounts": [
+        {
+          "platform": "Twitter/X",
+          "identifier": "Twitter/X promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Discord",
+          "identifier": "Discord promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Telegram",
+          "identifier": "Telegram promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-03",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -638,16 +901,16 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-13",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "COOLING",
       "peakRiskScore": 14,
       "currentRiskScore": 16,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.22,
       "peakPrice": 1.22,
-      "currentPrice": 3.81,
+      "currentPrice": 0.72,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
+      "priceChangeFromPeak": -40.98360655737705,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -657,7 +920,40 @@
         "Discord",
         "Telegram"
       ],
-      "promoterAccounts": [],
+      "promoterAccounts": [
+        {
+          "platform": "Twitter/X",
+          "identifier": "Twitter/X promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-13",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "YouTube",
+          "identifier": "YouTube promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-13",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Discord",
+          "identifier": "Discord promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-13",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "Telegram",
+          "identifier": "Telegram promoters",
+          "firstSeen": "2026-02-02",
+          "lastSeen": "2026-02-13",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -691,6 +987,13 @@
           "date": "2026-02-13",
           "event": "Daily scan update",
           "details": "Risk score: 16, Promotion score: 20"
+        },
+        {
+          "date": "2026-02-17",
+          "event": "Status changed to COOLING - Possible dump detected",
+          "details": "Price dropped 41.0% from peak ($1.22 → $0.72)",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
