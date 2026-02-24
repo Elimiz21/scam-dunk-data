@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-02-18T02:26:05.849Z",
+  "lastUpdated": "2026-02-24T13:37:50.414Z",
   "totalPromoters": 5,
-  "activePromoters": 4,
+  "activePromoters": 3,
   "serialOffenders": 4,
   "promoters": {
-    "PROM-TWITTERX-TWITTERXPROMOTERS-UJRS": {
-      "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-UJRS",
+    "PROM-TWITTERX-TWITTERXPROMOTERS-HIZ2": {
+      "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-HIZ2",
       "identifier": "Twitter/X promoters",
       "platform": "Twitter/X",
       "firstSeen": "2026-02-02",
@@ -17,7 +17,7 @@
           "symbol": "EVTV",
           "schemeId": "SCH-EVTV-20260202-9ALD",
           "schemeName": "Envirotech Vehicles, Inc.",
-          "schemeStatus": "COOLING",
+          "schemeStatus": "NO_SCAM_DETECTED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-13",
           "postCount": 1
@@ -98,7 +98,7 @@
           "symbol": "JDZG",
           "schemeId": "SCH-JDZG-20260202-18AA",
           "schemeName": "JIADE Limited",
-          "schemeStatus": "COOLING",
+          "schemeStatus": "NO_SCAM_DETECTED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-13",
           "postCount": 1
@@ -106,7 +106,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-UJRS",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-HIZ2",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -117,7 +117,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-UJRS",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-HIZ2",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-UJRS",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-HIZ2",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -150,7 +150,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-UJRT",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-HIZ2",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -161,8 +161,8 @@
       "riskLevel": "SERIAL_OFFENDER",
       "isActive": true
     },
-    "PROM-YOUTUBE-YOUTUBEPROMOTERS-UJRS": {
-      "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-UJRS",
+    "PROM-YOUTUBE-YOUTUBEPROMOTERS-HIZ2": {
+      "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-HIZ2",
       "identifier": "YouTube promoters",
       "platform": "YouTube",
       "firstSeen": "2026-02-02",
@@ -174,7 +174,7 @@
           "symbol": "EVTV",
           "schemeId": "SCH-EVTV-20260202-9ALD",
           "schemeName": "Envirotech Vehicles, Inc.",
-          "schemeStatus": "COOLING",
+          "schemeStatus": "NO_SCAM_DETECTED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-13",
           "postCount": 1
@@ -201,7 +201,7 @@
           "symbol": "JDZG",
           "schemeId": "SCH-JDZG-20260202-18AA",
           "schemeName": "JIADE Limited",
-          "schemeStatus": "COOLING",
+          "schemeStatus": "NO_SCAM_DETECTED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-13",
           "postCount": 1
@@ -209,7 +209,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-UJRS",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-HIZ2",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -220,7 +220,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-UJRS",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-HIZ2",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -231,7 +231,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-UJRS",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-HIZ2",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -242,7 +242,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-UJRT",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-HIZ2",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -251,10 +251,10 @@
         }
       ],
       "riskLevel": "SERIAL_OFFENDER",
-      "isActive": true
+      "isActive": false
     },
-    "PROM-DISCORD-DISCORDPROMOTERS-UJRS": {
-      "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-UJRS",
+    "PROM-DISCORD-DISCORDPROMOTERS-HIZ2": {
+      "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-HIZ2",
       "identifier": "Discord promoters",
       "platform": "Discord",
       "firstSeen": "2026-02-02",
@@ -266,7 +266,7 @@
           "symbol": "EVTV",
           "schemeId": "SCH-EVTV-20260202-9ALD",
           "schemeName": "Envirotech Vehicles, Inc.",
-          "schemeStatus": "COOLING",
+          "schemeStatus": "NO_SCAM_DETECTED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-13",
           "postCount": 1
@@ -338,7 +338,7 @@
           "symbol": "JDZG",
           "schemeId": "SCH-JDZG-20260202-18AA",
           "schemeName": "JIADE Limited",
-          "schemeStatus": "COOLING",
+          "schemeStatus": "NO_SCAM_DETECTED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-13",
           "postCount": 1
@@ -346,7 +346,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-UJRS",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-HIZ2",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -362,7 +362,7 @@
           ]
         },
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-UJRS",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-HIZ2",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -373,7 +373,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-UJRS",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-HIZ2",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -389,7 +389,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-UJRT",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-HIZ2",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -400,8 +400,8 @@
       "riskLevel": "SERIAL_OFFENDER",
       "isActive": true
     },
-    "PROM-TELEGRAM-TELEGRAMPROMOTERS-UJRS": {
-      "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-UJRS",
+    "PROM-TELEGRAM-TELEGRAMPROMOTERS-HIZ2": {
+      "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-HIZ2",
       "identifier": "Telegram promoters",
       "platform": "Telegram",
       "firstSeen": "2026-02-02",
@@ -413,7 +413,7 @@
           "symbol": "EVTV",
           "schemeId": "SCH-EVTV-20260202-9ALD",
           "schemeName": "Envirotech Vehicles, Inc.",
-          "schemeStatus": "COOLING",
+          "schemeStatus": "NO_SCAM_DETECTED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-13",
           "postCount": 1
@@ -494,7 +494,7 @@
           "symbol": "JDZG",
           "schemeId": "SCH-JDZG-20260202-18AA",
           "schemeName": "JIADE Limited",
-          "schemeStatus": "COOLING",
+          "schemeStatus": "NO_SCAM_DETECTED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-13",
           "postCount": 1
@@ -502,7 +502,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-UJRS",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-HIZ2",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -519,7 +519,7 @@
           ]
         },
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-UJRS",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-HIZ2",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -530,7 +530,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-UJRS",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-HIZ2",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -546,7 +546,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-UJRT",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-HIZ2",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -557,8 +557,8 @@
       "riskLevel": "SERIAL_OFFENDER",
       "isActive": true
     },
-    "PROM-REDDIT-CARLENETRAMMEL-UJRT": {
-      "promoterId": "PROM-REDDIT-CARLENETRAMMEL-UJRT",
+    "PROM-REDDIT-CARLENETRAMMEL-HIZ2": {
+      "promoterId": "PROM-REDDIT-CARLENETRAMMEL-HIZ2",
       "identifier": "Carlene_Trammel",
       "platform": "Reddit",
       "firstSeen": "2026-02-02",
@@ -578,7 +578,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-UJRS",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-HIZ2",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -586,7 +586,7 @@
           ]
         },
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-UJRS",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-HIZ2",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -594,7 +594,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-UJRS",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-HIZ2",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -602,7 +602,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-UJRS",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-HIZ2",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
