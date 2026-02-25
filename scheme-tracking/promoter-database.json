@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-02-24T13:37:50.414Z",
-  "totalPromoters": 5,
-  "activePromoters": 3,
-  "serialOffenders": 4,
+  "lastUpdated": "2026-02-25T12:23:38.198Z",
+  "totalPromoters": 46,
+  "activePromoters": 46,
+  "serialOffenders": 16,
   "promoters": {
-    "PROM-TWITTERX-TWITTERXPROMOTERS-HIZ2": {
-      "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-HIZ2",
+    "PROM-TWITTERX-TWITTERXPROMOTERS-9YAC": {
+      "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-9YAC",
       "identifier": "Twitter/X promoters",
       "platform": "Twitter/X",
       "firstSeen": "2026-02-02",
@@ -71,7 +71,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "ONGOING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -80,7 +80,7 @@
           "symbol": "MTEN",
           "schemeId": "SCH-MTEN-20260202-KMCM",
           "schemeName": "Mingteng International Corporation Inc.",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "ONGOING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -98,7 +98,7 @@
           "symbol": "JDZG",
           "schemeId": "SCH-JDZG-20260202-18AA",
           "schemeName": "JIADE Limited",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "PUMP_AND_DUMP_ENDED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-13",
           "postCount": 1
@@ -106,7 +106,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-HIZ2",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-9YAC",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -117,7 +117,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-HIZ2",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-9YAC",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-HIZ2",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-9YAC",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -150,7 +150,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-HIZ2",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-9YAC",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -161,8 +161,8 @@
       "riskLevel": "SERIAL_OFFENDER",
       "isActive": true
     },
-    "PROM-YOUTUBE-YOUTUBEPROMOTERS-HIZ2": {
-      "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-HIZ2",
+    "PROM-YOUTUBE-YOUTUBEPROMOTERS-9YAC": {
+      "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-9YAC",
       "identifier": "YouTube promoters",
       "platform": "YouTube",
       "firstSeen": "2026-02-02",
@@ -192,7 +192,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "ONGOING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -201,7 +201,7 @@
           "symbol": "JDZG",
           "schemeId": "SCH-JDZG-20260202-18AA",
           "schemeName": "JIADE Limited",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "PUMP_AND_DUMP_ENDED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-13",
           "postCount": 1
@@ -209,7 +209,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-HIZ2",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-9YAC",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -220,7 +220,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-HIZ2",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-9YAC",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -231,7 +231,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-HIZ2",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-9YAC",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -242,7 +242,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-HIZ2",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-9YAC",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -251,10 +251,10 @@
         }
       ],
       "riskLevel": "SERIAL_OFFENDER",
-      "isActive": false
+      "isActive": true
     },
-    "PROM-DISCORD-DISCORDPROMOTERS-HIZ2": {
-      "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-HIZ2",
+    "PROM-DISCORD-DISCORDPROMOTERS-9YAC": {
+      "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-9YAC",
       "identifier": "Discord promoters",
       "platform": "Discord",
       "firstSeen": "2026-02-02",
@@ -311,7 +311,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "ONGOING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -320,7 +320,7 @@
           "symbol": "MTEN",
           "schemeId": "SCH-MTEN-20260202-KMCM",
           "schemeName": "Mingteng International Corporation Inc.",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "ONGOING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -338,7 +338,7 @@
           "symbol": "JDZG",
           "schemeId": "SCH-JDZG-20260202-18AA",
           "schemeName": "JIADE Limited",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "PUMP_AND_DUMP_ENDED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-13",
           "postCount": 1
@@ -346,7 +346,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-HIZ2",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-9YAC",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -362,7 +362,7 @@
           ]
         },
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-HIZ2",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-9YAC",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -373,7 +373,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-HIZ2",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-9YAC",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -389,7 +389,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-HIZ2",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-9YAC",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -400,8 +400,8 @@
       "riskLevel": "SERIAL_OFFENDER",
       "isActive": true
     },
-    "PROM-TELEGRAM-TELEGRAMPROMOTERS-HIZ2": {
-      "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-HIZ2",
+    "PROM-TELEGRAM-TELEGRAMPROMOTERS-9YAC": {
+      "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-9YAC",
       "identifier": "Telegram promoters",
       "platform": "Telegram",
       "firstSeen": "2026-02-02",
@@ -467,7 +467,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "ONGOING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -476,7 +476,7 @@
           "symbol": "MTEN",
           "schemeId": "SCH-MTEN-20260202-KMCM",
           "schemeName": "Mingteng International Corporation Inc.",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "ONGOING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -494,7 +494,7 @@
           "symbol": "JDZG",
           "schemeId": "SCH-JDZG-20260202-18AA",
           "schemeName": "JIADE Limited",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "PUMP_AND_DUMP_ENDED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-13",
           "postCount": 1
@@ -502,7 +502,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-HIZ2",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-9YAC",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -519,7 +519,7 @@
           ]
         },
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-HIZ2",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-9YAC",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -530,7 +530,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-HIZ2",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-9YAC",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -546,7 +546,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-HIZ2",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-9YAC",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -557,8 +557,8 @@
       "riskLevel": "SERIAL_OFFENDER",
       "isActive": true
     },
-    "PROM-REDDIT-CARLENETRAMMEL-HIZ2": {
-      "promoterId": "PROM-REDDIT-CARLENETRAMMEL-HIZ2",
+    "PROM-REDDIT-CARLENETRAMMEL-9YAC": {
+      "promoterId": "PROM-REDDIT-CARLENETRAMMEL-9YAC",
       "identifier": "Carlene_Trammel",
       "platform": "Reddit",
       "firstSeen": "2026-02-02",
@@ -570,7 +570,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "ONGOING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-02",
           "postCount": 1
@@ -578,7 +578,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-HIZ2",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-9YAC",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -586,7 +586,7 @@
           ]
         },
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-HIZ2",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-9YAC",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -594,7 +594,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-HIZ2",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-9YAC",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -602,7 +602,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-HIZ2",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-9YAC",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -611,7 +611,3717 @@
         }
       ],
       "riskLevel": "MEDIUM",
-      "isActive": false
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+      "identifier": "OfficialStocktwitsUser",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 305,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "NCRA",
+          "schemeId": "SCHEME-NCRA-20260224-MM209YA7",
+          "schemeName": "Nocera, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "RDIB",
+          "schemeId": "SCHEME-RDIB-20260224-MM209YA8",
+          "schemeName": "Reading International, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "OBTC",
+          "schemeId": "SCHEME-OBTC-20260224-MM209YA8",
+          "schemeName": "Osprey Bitcoin Trust",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "NIPG",
+          "schemeId": "SCHEME-NIPG-20260224-MM209YA8",
+          "schemeName": "NIP Group Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260224-MM209YA8",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 262
+        },
+        {
+          "symbol": "LCUT",
+          "schemeId": "SCHEME-LCUT-20260224-MM209YA8",
+          "schemeName": "Lifetime Brands, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "GEG",
+          "schemeId": "SCHEME-GEG-20260224-MM209YA8",
+          "schemeName": "Great Elm Group, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "XBIT",
+          "schemeId": "SCHEME-XBIT-20260224-MM209YA8",
+          "schemeName": "XBiotech Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "ZYBT",
+          "schemeId": "SCHEME-ZYBT-20260224-MM209YA8",
+          "schemeName": "Zhengye Biotechnology Holding Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "CVGI",
+          "schemeId": "SCHEME-CVGI-20260224-MM209YA8",
+          "schemeName": "Commercial Vehicle Group, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "FKWL",
+          "schemeId": "SCHEME-FKWL-20260224-MM209YA8",
+          "schemeName": "Franklin Wireless Corp.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "HMR",
+          "schemeId": "SCHEME-HMR-20260224-MM209YA8",
+          "schemeName": "Heidmar Maritime Holdings Corp.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "BLIV",
+          "schemeId": "SCHEME-BLIV-20260224-MM209YA8",
+          "schemeName": "BeLive Holdings",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "QRHC",
+          "schemeId": "SCHEME-QRHC-20260224-MM209YA8",
+          "schemeName": "Quest Resource Holding Corporation",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "APWC",
+          "schemeId": "SCHEME-APWC-20260224-MM209YA8",
+          "schemeName": "Asia Pacific Wire & Cable Corporation Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "OMCC",
+          "schemeId": "SCHEME-OMCC-20260224-MM209YA8",
+          "schemeName": "Old Market Capital Corporation",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "PRTS",
+          "schemeId": "SCHEME-PRTS-20260224-MM209YA8",
+          "schemeName": "CarParts.com, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "CPOP",
+          "schemeId": "SCHEME-CPOP-20260224-MM209YA8",
+          "schemeName": "Pop Culture Group Co., Ltd",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "RYOJ",
+          "schemeId": "SCHEME-RYOJ-20260224-MM209YA8",
+          "schemeName": "rYojbaba Co., Ltd. Common Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "MDBH",
+          "schemeId": "SCHEME-MDBH-20260224-MM209YA8",
+          "schemeName": "MDB Capital Holdings, LLC Class A common",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "IZM",
+          "schemeId": "SCHEME-IZM-20260224-MM209YA8",
+          "schemeName": "ICZOOM Group Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "SELX",
+          "schemeId": "SCHEME-SELX-20260224-MM209YA8",
+          "schemeName": "Semilux International Ltd. Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "TBHC",
+          "schemeId": "SCHEME-TBHC-20260224-MM209YA8",
+          "schemeName": "The Brand House Collective, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "WCT",
+          "schemeId": "SCHEME-WCT-20260224-MM209YA8",
+          "schemeName": "Wellchange Holdings Company Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "MNDO",
+          "schemeId": "SCHEME-MNDO-20260224-MM209YA8",
+          "schemeName": "MIND C.T.I. Ltd",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "GIGM",
+          "schemeId": "SCHEME-GIGM-20260224-MM209YA8",
+          "schemeName": "GigaMedia Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "WVVI",
+          "schemeId": "SCHEME-WVVI-20260224-MM209YA8",
+          "schemeName": "Willamette Valley Vineyards, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "SPPL",
+          "schemeId": "SCHEME-SPPL-20260224-MM209YA9",
+          "schemeName": "SIMPPLE Ltd. Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "JBDI",
+          "schemeId": "SCHEME-JBDI-20260224-MM209YA9",
+          "schemeName": "JBDI Holdings Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "SFHG",
+          "schemeId": "SCHEME-SFHG-20260224-MM209YA9",
+          "schemeName": "Samfine Creation Holdings Group Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "AIFF",
+          "schemeId": "SCHEME-AIFF-20260224-MM209YA9",
+          "schemeName": "Firefly Neuroscience, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "OXBR",
+          "schemeId": "SCHEME-OXBR-20260224-MM209YA9",
+          "schemeName": "Oxbridge Re Holdings Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "GSIW",
+          "schemeId": "SCHEME-GSIW-20260224-MM209YA9",
+          "schemeName": "Garden Stage Limited Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "MARPS",
+          "schemeId": "SCHEME-MARPS-20260224-MM209YA9",
+          "schemeName": "Marine Petroleum Trust",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "NAAS",
+          "schemeId": "SCHEME-NAAS-20260224-MM209YA9",
+          "schemeName": "NaaS Technology Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "WAFU",
+          "schemeId": "SCHEME-WAFU-20260224-MM209YA9",
+          "schemeName": "Wah Fu Education Group Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "SKYQ",
+          "schemeId": "SCHEME-SKYQ-20260224-MM209YA9",
+          "schemeName": "Sky Quarry Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "SGLY",
+          "schemeId": "SCHEME-SGLY-20260224-MM209YA9",
+          "schemeName": "Singularity Future Technology Ltd.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "SOWG",
+          "schemeId": "SCHEME-SOWG-20260224-MM209YA9",
+          "schemeName": "Sow Good Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "IMTE",
+          "schemeId": "SCHEME-IMTE-20260224-MM209YA9",
+          "schemeName": "Integrated Media Technology Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "ISPOW",
+          "schemeId": "SCHEME-ISPOW-20260224-MM209YA9",
+          "schemeName": "Inspirato Incorporated",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "BKHA",
+          "schemeId": "SCHEME-BKHA-20260224-MM209YA9",
+          "schemeName": "Black Hawk Acquisition Corporation",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "DMAAU",
+          "schemeId": "SCHEME-DMAAU-20260224-MM209YAA",
+          "schemeName": "Drugs Made In America Acquisition Corp. Units",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "YHNA",
+          "schemeId": "SCHEME-YHNA-20260224-MM209YAA",
+          "schemeName": "YHN Acquisition I Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-9YAC",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "NCRA",
+            "XBIT",
+            "MARPS",
+            "WAFU",
+            "SKYQ"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GMEXAPE-9YAC",
+          "identifier": "GMExAPE",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "GSIW"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DLN101-9YAC",
+          "identifier": "dln101",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "APWC"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "PRTS"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PANTHERC-9YAC",
+          "identifier": "PantherC",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-9YAC",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-1111-9YAC",
+          "identifier": "11__11",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DIGITALIZATION2026-9YAC",
+          "identifier": "Digitalization2026",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JTETHETA-9YAC",
+          "identifier": "JTE_Theta",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SIMPLIFOCUSED-9YAC",
+          "identifier": "simplifocused",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TIEVLEAF-9YAC",
+          "identifier": "tievLeaf",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALPHABULL10M-9YAC",
+          "identifier": "AlphaBull_10M",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-9YAC",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-9YAC",
+          "identifier": "Stock_Catcher",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "MARPS"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-9YAC",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "HMR",
+            "QRHC",
+            "WCT",
+            "SPPL",
+            "JBDI"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-CROCODILETEETH-9YAC",
+          "identifier": "_Crocodile_Teeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CPOP"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SC75-9YAC",
+          "identifier": "SC75",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "AIFF"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOMMYJOHN-9YAC",
+          "identifier": "tommy_john",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "MARPS"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PENNYZ-9YAC",
+          "identifier": "penny_z",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "WAFU"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TRADER87-9YAC",
+          "identifier": "trader87",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "WAFU"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PEEPTHESTAMP-9YAC",
+          "identifier": "peepthestamp",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SKYQ"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-BEPPELS-9YAD",
+          "identifier": "beppels",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALERTSANDNEWS-9YAD",
+          "identifier": "AlertsAndNews",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MAPNEEDS-9YAD",
+          "identifier": "MapNeeds",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-PAULLAURENT-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-PAULLAURENT-9YAC",
+      "identifier": "PaulLaurent",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 8,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "NCRA",
+          "schemeId": "SCHEME-NCRA-20260224-MM209YA7",
+          "schemeName": "Nocera, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "XBIT",
+          "schemeId": "SCHEME-XBIT-20260224-MM209YA8",
+          "schemeName": "XBiotech Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "YIBO",
+          "schemeId": "SCHEME-YIBO-20260224-MM209YA8",
+          "schemeName": "Planet Image International Limited Class A Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 2
+        },
+        {
+          "symbol": "MARPS",
+          "schemeId": "SCHEME-MARPS-20260224-MM209YA9",
+          "schemeName": "Marine Petroleum Trust",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "WAFU",
+          "schemeId": "SCHEME-WAFU-20260224-MM209YA9",
+          "schemeName": "Wah Fu Education Group Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "SKYQ",
+          "schemeId": "SCHEME-SKYQ-20260224-MM209YA9",
+          "schemeName": "Sky Quarry Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "SMJF",
+          "schemeId": "SCHEME-SMJF-20260224-MM209YAA",
+          "schemeName": "SMJ International Holdings Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "NCRA",
+            "XBIT",
+            "MARPS",
+            "WAFU",
+            "SKYQ"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PANTHERC-9YAC",
+          "identifier": "_PantherC",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SMJF"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-9YAC",
+          "identifier": "Stock_Catcher",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO",
+            "MARPS"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-UPDOG1-9YAC",
+          "identifier": "updog1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-REVYREVZ-9YAC",
+          "identifier": "Revyrevz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOMMYJOHN-9YAC",
+          "identifier": "tommy_john",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "MARPS"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PENNYZ-9YAC",
+          "identifier": "penny_z",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "WAFU"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TRADER87-9YAC",
+          "identifier": "trader87",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "WAFU"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PEEPTHESTAMP-9YAC",
+          "identifier": "peepthestamp",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SKYQ"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-GMEXAPE-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-GMEXAPE-9YAC",
+      "identifier": "GMExAPE",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 2,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "RDNW",
+          "schemeId": "SCHEME-RDNW-20260224-MM209YA8",
+          "schemeName": "RideNow Group, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "GSIW",
+          "schemeId": "SCHEME-GSIW-20260224-MM209YA9",
+          "schemeName": "Garden Stage Limited Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "GSIW"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-DLN101-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-DLN101-9YAC",
+      "identifier": "dln101",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 5,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "FOSL",
+          "schemeId": "SCHEME-FOSL-20260224-MM209YA8",
+          "schemeName": "Fossil Group, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 2
+        },
+        {
+          "symbol": "APWC",
+          "schemeId": "SCHEME-APWC-20260224-MM209YA8",
+          "schemeName": "Asia Pacific Wire & Cable Corporation Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "CPHI",
+          "schemeId": "SCHEME-CPHI-20260224-MM209YAA",
+          "schemeName": "China Pharma Holdings, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 2
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "APWC"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-IPOARMY1-9YAC",
+          "identifier": "IPOARMY1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SADYK189-9YAC",
+          "identifier": "SadyK189",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKANALYSIS-9YAC",
+          "identifier": "stockanalysis_",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-IPOARMY1-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-IPOARMY1-9YAC",
+      "identifier": "IPOARMY1",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "FOSL",
+          "schemeId": "SCHEME-FOSL-20260224-MM209YA8",
+          "schemeName": "Fossil Group, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-DLN101-9YAC",
+          "identifier": "dln101",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SADYK189-9YAC",
+          "identifier": "SadyK189",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKANALYSIS-9YAC",
+          "identifier": "stockanalysis_",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        }
+      ],
+      "riskLevel": "HIGH",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+      "identifier": "ItsKrocodileTeeth",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 8,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "FOSL",
+          "schemeId": "SCHEME-FOSL-20260224-MM209YA8",
+          "schemeName": "Fossil Group, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "VGAS",
+          "schemeId": "SCHEME-VGAS-20260224-MM209YA8",
+          "schemeName": "Verde Clean Fuels, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 3
+        },
+        {
+          "symbol": "CHSN",
+          "schemeId": "SCHEME-CHSN-20260224-MM209YA8",
+          "schemeName": "Chanson International Holding",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "YIBO",
+          "schemeId": "SCHEME-YIBO-20260224-MM209YA8",
+          "schemeName": "Planet Image International Limited Class A Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 2
+        },
+        {
+          "symbol": "SAGT",
+          "schemeId": "SCHEME-SAGT-20260224-MM209YA8",
+          "schemeName": "SAGTEC GLOBAL Ltd",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-9YAC",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DLN101-9YAC",
+          "identifier": "dln101",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-IPOARMY1-9YAC",
+          "identifier": "IPOARMY1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL",
+            "VGAS",
+            "YIBO",
+            "SAGT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SADYK189-9YAC",
+          "identifier": "SadyK189",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKANALYSIS-9YAC",
+          "identifier": "stockanalysis_",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PANTHERC-9YAC",
+          "identifier": "_PantherC",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CHSN"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TRADERJAY85-9YAC",
+          "identifier": "TraderJay85",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CHSN"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-9YAC",
+          "identifier": "Stock_Catcher",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-UPDOG1-9YAC",
+          "identifier": "updog1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-REVYREVZ-9YAC",
+          "identifier": "Revyrevz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-9YAC",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SAGT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SHADOWCLAW-9YAC",
+          "identifier": "ShadowClaw",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SAGT"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-MEOWZILLA1-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+      "identifier": "_Meowzilla1",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 22,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "FOSL",
+          "schemeId": "SCHEME-FOSL-20260224-MM209YA8",
+          "schemeName": "Fossil Group, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "IPHA",
+          "schemeId": "SCHEME-IPHA-20260224-MM209YA8",
+          "schemeName": "Innate Pharma S.A.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "VGAS",
+          "schemeId": "SCHEME-VGAS-20260224-MM209YA8",
+          "schemeName": "Verde Clean Fuels, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "KBSX",
+          "schemeId": "SCHEME-KBSX-20260224-MM209YA8",
+          "schemeName": "FST Corp.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "YIBO",
+          "schemeId": "SCHEME-YIBO-20260224-MM209YA8",
+          "schemeName": "Planet Image International Limited Class A Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 2
+        },
+        {
+          "symbol": "PRTS",
+          "schemeId": "SCHEME-PRTS-20260224-MM209YA8",
+          "schemeName": "CarParts.com, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "SAGT",
+          "schemeId": "SCHEME-SAGT-20260224-MM209YA8",
+          "schemeName": "SAGTEC GLOBAL Ltd",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "DLXY",
+          "schemeId": "SCHEME-DLXY-20260224-MM209YA9",
+          "schemeName": "Delixy Holdings Limited Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 2
+        },
+        {
+          "symbol": "MSW",
+          "schemeId": "SCHEME-MSW-20260224-MM209YA9",
+          "schemeName": "Ming Shing Group Holdings Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "CABR",
+          "schemeId": "SCHEME-CABR-20260224-MM209YA9",
+          "schemeName": "Caring Brands, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 3
+        },
+        {
+          "symbol": "JCSE",
+          "schemeId": "SCHEME-JCSE-20260224-MM209YA9",
+          "schemeName": "JE Cleantech Holdings Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 2
+        },
+        {
+          "symbol": "XELB",
+          "schemeId": "SCHEME-XELB-20260224-MM209YA9",
+          "schemeName": "Xcel Brands, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 2
+        },
+        {
+          "symbol": "ONFO",
+          "schemeId": "SCHEME-ONFO-20260224-MM209YA9",
+          "schemeName": "Onfolio Holdings, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "RBOT",
+          "schemeId": "SCHEME-RBOT-20260224-MM209YAA",
+          "schemeName": "Vicarious Surgical Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 2
+        },
+        {
+          "symbol": "SLND",
+          "schemeId": "SCHEME-SLND-20260224-MM209YAA",
+          "schemeName": "Southland Holdings, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "PRTS"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-9YAC",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DLN101-9YAC",
+          "identifier": "dln101",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-IPOARMY1-9YAC",
+          "identifier": "IPOARMY1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL",
+            "VGAS",
+            "YIBO",
+            "SAGT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SADYK189-9YAC",
+          "identifier": "SadyK189",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKANALYSIS-9YAC",
+          "identifier": "stockanalysis_",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-9YAC",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CABR"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PANTHERC-9YAC",
+          "identifier": "_PantherC",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "JCSE",
+            "ONFO",
+            "RBOT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-9YAC",
+          "identifier": "Stock_Catcher",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO",
+            "RBOT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-UPDOG1-9YAC",
+          "identifier": "updog1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-REVYREVZ-9YAC",
+          "identifier": "Revyrevz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-9YAC",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SAGT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SHADOWCLAW-9YAC",
+          "identifier": "ShadowClaw",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SAGT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-9YAC",
+          "identifier": "PSM_EmpowerTrading",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "JCSE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MOTORHHEAD-9YAC",
+          "identifier": "Motorhhead",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "JCSE"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-SADYK189-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-SADYK189-9YAC",
+      "identifier": "SadyK189",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "FOSL",
+          "schemeId": "SCHEME-FOSL-20260224-MM209YA8",
+          "schemeName": "Fossil Group, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-DLN101-9YAC",
+          "identifier": "dln101",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-IPOARMY1-9YAC",
+          "identifier": "IPOARMY1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKANALYSIS-9YAC",
+          "identifier": "stockanalysis_",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-STOCKANALYSIS-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-STOCKANALYSIS-9YAC",
+      "identifier": "stockanalysis_",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "FOSL",
+          "schemeId": "SCHEME-FOSL-20260224-MM209YA8",
+          "schemeName": "Fossil Group, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-DLN101-9YAC",
+          "identifier": "dln101",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-IPOARMY1-9YAC",
+          "identifier": "IPOARMY1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SADYK189-9YAC",
+          "identifier": "SadyK189",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-PANTHERC-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-PANTHERC-9YAC",
+      "identifier": "_PantherC",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 13,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "CHSN",
+          "schemeId": "SCHEME-CHSN-20260224-MM209YA8",
+          "schemeName": "Chanson International Holding",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 3
+        },
+        {
+          "symbol": "JCSE",
+          "schemeId": "SCHEME-JCSE-20260224-MM209YA9",
+          "schemeName": "JE Cleantech Holdings Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 4
+        },
+        {
+          "symbol": "ONFO",
+          "schemeId": "SCHEME-ONFO-20260224-MM209YA9",
+          "schemeName": "Onfolio Holdings, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "RBOT",
+          "schemeId": "SCHEME-RBOT-20260224-MM209YAA",
+          "schemeName": "Vicarious Surgical Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 3
+        },
+        {
+          "symbol": "SMJF",
+          "schemeId": "SCHEME-SMJF-20260224-MM209YAA",
+          "schemeName": "SMJ International Holdings Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 2
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-9YAC",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SMJF"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CHSN"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "JCSE",
+            "ONFO",
+            "RBOT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TRADERJAY85-9YAC",
+          "identifier": "TraderJay85",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CHSN"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-9YAC",
+          "identifier": "Stock_Catcher",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "RBOT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-9YAC",
+          "identifier": "PSM_EmpowerTrading",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "JCSE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MOTORHHEAD-9YAC",
+          "identifier": "Motorhhead",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "JCSE"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-SASUKE2GO-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-SASUKE2GO-9YAC",
+      "identifier": "Sasuke2go",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "SLMT",
+          "schemeId": "SCHEME-SLMT-20260224-MM209YA8",
+          "schemeName": "Brera Holdings PLC",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-WATCHTHESETICKERS-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-9YAC",
+      "identifier": "WatchTheseTickers",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 3,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260224-MM209YA8",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 2
+        },
+        {
+          "symbol": "CABR",
+          "schemeId": "SCHEME-CABR-20260224-MM209YA9",
+          "schemeName": "Caring Brands, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CABR"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-1111-9YAC",
+          "identifier": "11__11",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DIGITALIZATION2026-9YAC",
+          "identifier": "Digitalization2026",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JTETHETA-9YAC",
+          "identifier": "JTE_Theta",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SIMPLIFOCUSED-9YAC",
+          "identifier": "simplifocused",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TIEVLEAF-9YAC",
+          "identifier": "tievLeaf",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALPHABULL10M-9YAC",
+          "identifier": "AlphaBull_10M",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-9YAC",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+      "identifier": "SmartMoneyTradez",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 2,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260224-MM209YA8",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "YIBO",
+          "schemeId": "SCHEME-YIBO-20260224-MM209YA8",
+          "schemeName": "Planet Image International Limited Class A Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-9YAC",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-9YAC",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-1111-9YAC",
+          "identifier": "11__11",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DIGITALIZATION2026-9YAC",
+          "identifier": "Digitalization2026",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JTETHETA-9YAC",
+          "identifier": "JTE_Theta",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SIMPLIFOCUSED-9YAC",
+          "identifier": "simplifocused",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TIEVLEAF-9YAC",
+          "identifier": "tievLeaf",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALPHABULL10M-9YAC",
+          "identifier": "AlphaBull_10M",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-9YAC",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-9YAC",
+          "identifier": "Stock_Catcher",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-UPDOG1-9YAC",
+          "identifier": "updog1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-REVYREVZ-9YAC",
+          "identifier": "Revyrevz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-1111-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-1111-9YAC",
+      "identifier": "11__11",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260224-MM209YA8",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-9YAC",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DIGITALIZATION2026-9YAC",
+          "identifier": "Digitalization2026",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JTETHETA-9YAC",
+          "identifier": "JTE_Theta",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SIMPLIFOCUSED-9YAC",
+          "identifier": "simplifocused",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TIEVLEAF-9YAC",
+          "identifier": "tievLeaf",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALPHABULL10M-9YAC",
+          "identifier": "AlphaBull_10M",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-9YAC",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-DIGITALIZATION2026-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-DIGITALIZATION2026-9YAC",
+      "identifier": "Digitalization2026",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260224-MM209YA8",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-9YAC",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-1111-9YAC",
+          "identifier": "11__11",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JTETHETA-9YAC",
+          "identifier": "JTE_Theta",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SIMPLIFOCUSED-9YAC",
+          "identifier": "simplifocused",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TIEVLEAF-9YAC",
+          "identifier": "tievLeaf",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALPHABULL10M-9YAC",
+          "identifier": "AlphaBull_10M",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-9YAC",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-JTETHETA-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-JTETHETA-9YAC",
+      "identifier": "JTE_Theta",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260224-MM209YA8",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-9YAC",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-1111-9YAC",
+          "identifier": "11__11",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DIGITALIZATION2026-9YAC",
+          "identifier": "Digitalization2026",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SIMPLIFOCUSED-9YAC",
+          "identifier": "simplifocused",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TIEVLEAF-9YAC",
+          "identifier": "tievLeaf",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALPHABULL10M-9YAC",
+          "identifier": "AlphaBull_10M",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-9YAC",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-SIMPLIFOCUSED-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-SIMPLIFOCUSED-9YAC",
+      "identifier": "simplifocused",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260224-MM209YA8",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-9YAC",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-1111-9YAC",
+          "identifier": "11__11",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DIGITALIZATION2026-9YAC",
+          "identifier": "Digitalization2026",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JTETHETA-9YAC",
+          "identifier": "JTE_Theta",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TIEVLEAF-9YAC",
+          "identifier": "tievLeaf",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALPHABULL10M-9YAC",
+          "identifier": "AlphaBull_10M",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-9YAC",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-TIEVLEAF-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-TIEVLEAF-9YAC",
+      "identifier": "tievLeaf",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260224-MM209YA8",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-9YAC",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-1111-9YAC",
+          "identifier": "11__11",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DIGITALIZATION2026-9YAC",
+          "identifier": "Digitalization2026",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JTETHETA-9YAC",
+          "identifier": "JTE_Theta",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SIMPLIFOCUSED-9YAC",
+          "identifier": "simplifocused",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALPHABULL10M-9YAC",
+          "identifier": "AlphaBull_10M",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-9YAC",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-ALPHABULL10M-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-ALPHABULL10M-9YAC",
+      "identifier": "AlphaBull_10M",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260224-MM209YA8",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-9YAC",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-1111-9YAC",
+          "identifier": "11__11",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DIGITALIZATION2026-9YAC",
+          "identifier": "Digitalization2026",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JTETHETA-9YAC",
+          "identifier": "JTE_Theta",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SIMPLIFOCUSED-9YAC",
+          "identifier": "simplifocused",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TIEVLEAF-9YAC",
+          "identifier": "tievLeaf",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-9YAC",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-THEBLACKBERRRY-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-9YAC",
+      "identifier": "TheBlackBerrry",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260224-MM209YA8",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-9YAC",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-1111-9YAC",
+          "identifier": "11__11",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DIGITALIZATION2026-9YAC",
+          "identifier": "Digitalization2026",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JTETHETA-9YAC",
+          "identifier": "JTE_Theta",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SIMPLIFOCUSED-9YAC",
+          "identifier": "simplifocused",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TIEVLEAF-9YAC",
+          "identifier": "tievLeaf",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALPHABULL10M-9YAC",
+          "identifier": "AlphaBull_10M",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-TRADERJAY85-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-TRADERJAY85-9YAC",
+      "identifier": "TraderJay85",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "CHSN",
+          "schemeId": "SCHEME-CHSN-20260224-MM209YA8",
+          "schemeName": "Chanson International Holding",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CHSN"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PANTHERC-9YAC",
+          "identifier": "_PantherC",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CHSN"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-SMARTR8-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-SMARTR8-9YAC",
+      "identifier": "SMARTR8",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "MYPS",
+          "schemeId": "SCHEME-MYPS-20260224-MM209YA8",
+          "schemeName": "PLAYSTUDIOS, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-STOCKCATCHER-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-9YAC",
+      "identifier": "Stock_Catcher",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 3,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "YIBO",
+          "schemeId": "SCHEME-YIBO-20260224-MM209YA8",
+          "schemeName": "Planet Image International Limited Class A Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "MARPS",
+          "schemeId": "SCHEME-MARPS-20260224-MM209YA9",
+          "schemeName": "Marine Petroleum Trust",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "RBOT",
+          "schemeId": "SCHEME-RBOT-20260224-MM209YAA",
+          "schemeName": "Vicarious Surgical Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "MARPS"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-9YAC",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO",
+            "MARPS"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO",
+            "RBOT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PANTHERC-9YAC",
+          "identifier": "_PantherC",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "RBOT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-UPDOG1-9YAC",
+          "identifier": "updog1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-REVYREVZ-9YAC",
+          "identifier": "Revyrevz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOMMYJOHN-9YAC",
+          "identifier": "tommy_john",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "MARPS"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-UPDOG1-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-UPDOG1-9YAC",
+      "identifier": "updog1",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "YIBO",
+          "schemeId": "SCHEME-YIBO-20260224-MM209YA8",
+          "schemeName": "Planet Image International Limited Class A Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-9YAC",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-9YAC",
+          "identifier": "Stock_Catcher",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-REVYREVZ-9YAC",
+          "identifier": "Revyrevz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-REVYREVZ-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-REVYREVZ-9YAC",
+      "identifier": "Revyrevz",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "YIBO",
+          "schemeId": "SCHEME-YIBO-20260224-MM209YA8",
+          "schemeName": "Planet Image International Limited Class A Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-9YAC",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTMONEYTRADEZ-9YAC",
+          "identifier": "SmartMoneyTradez",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-9YAC",
+          "identifier": "Stock_Catcher",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-UPDOG1-9YAC",
+          "identifier": "updog1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "YIBO"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-TOPSTOCKALERTS-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-9YAC",
+      "identifier": "topstockalerts",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 6,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "HMR",
+          "schemeId": "SCHEME-HMR-20260224-MM209YA8",
+          "schemeName": "Heidmar Maritime Holdings Corp.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "QRHC",
+          "schemeId": "SCHEME-QRHC-20260224-MM209YA8",
+          "schemeName": "Quest Resource Holding Corporation",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "SAGT",
+          "schemeId": "SCHEME-SAGT-20260224-MM209YA8",
+          "schemeName": "SAGTEC GLOBAL Ltd",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "WCT",
+          "schemeId": "SCHEME-WCT-20260224-MM209YA8",
+          "schemeName": "Wellchange Holdings Company Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "SPPL",
+          "schemeId": "SCHEME-SPPL-20260224-MM209YA9",
+          "schemeName": "SIMPPLE Ltd. Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        },
+        {
+          "symbol": "JBDI",
+          "schemeId": "SCHEME-JBDI-20260224-MM209YA9",
+          "schemeName": "JBDI Holdings Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "HMR",
+            "QRHC",
+            "WCT",
+            "SPPL",
+            "JBDI"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SAGT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SAGT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SHADOWCLAW-9YAC",
+          "identifier": "ShadowClaw",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SAGT"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-CROCODILETEETH-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-CROCODILETEETH-9YAC",
+      "identifier": "_Crocodile_Teeth",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "CPOP",
+          "schemeId": "SCHEME-CPOP-20260224-MM209YA8",
+          "schemeName": "Pop Culture Group Co., Ltd",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CPOP"
+          ]
+        }
+      ],
+      "riskLevel": "HIGH",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-SHADOWCLAW-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-SHADOWCLAW-9YAC",
+      "identifier": "ShadowClaw",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "SAGT",
+          "schemeId": "SCHEME-SAGT-20260224-MM209YA8",
+          "schemeName": "SAGTEC GLOBAL Ltd",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-ITSKROCODILETEETH-9YAC",
+          "identifier": "ItsKrocodileTeeth",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SAGT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SAGT"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-9YAC",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SAGT"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-STEVEJOHNSONIS-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-STEVEJOHNSONIS-9YAC",
+      "identifier": "SteveJohnsonis",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "COOT",
+          "schemeId": "SCHEME-COOT-20260224-MM209YA9",
+          "schemeName": "Australian Oilseeds Holdings Limited Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-PANTHERC-9YAC",
+          "identifier": "PantherC",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "COOT"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-SC75-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-SC75-9YAC",
+      "identifier": "SC75",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "AIFF",
+          "schemeId": "SCHEME-AIFF-20260224-MM209YA9",
+          "schemeName": "Firefly Neuroscience, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "AIFF"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-TOMMYJOHN-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-TOMMYJOHN-9YAC",
+      "identifier": "tommy_john",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "MARPS",
+          "schemeId": "SCHEME-MARPS-20260224-MM209YA9",
+          "schemeName": "Marine Petroleum Trust",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "MARPS"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-9YAC",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "MARPS"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-9YAC",
+          "identifier": "Stock_Catcher",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "MARPS"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-PENNYZ-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-PENNYZ-9YAC",
+      "identifier": "penny_z",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "WAFU",
+          "schemeId": "SCHEME-WAFU-20260224-MM209YA9",
+          "schemeName": "Wah Fu Education Group Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "WAFU"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-9YAC",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "WAFU"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TRADER87-9YAC",
+          "identifier": "trader87",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "WAFU"
+          ]
+        }
+      ],
+      "riskLevel": "HIGH",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-TRADER87-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-TRADER87-9YAC",
+      "identifier": "trader87",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "WAFU",
+          "schemeId": "SCHEME-WAFU-20260224-MM209YA9",
+          "schemeName": "Wah Fu Education Group Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "WAFU"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-9YAC",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "WAFU"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PENNYZ-9YAC",
+          "identifier": "penny_z",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "WAFU"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-PEEPTHESTAMP-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-PEEPTHESTAMP-9YAC",
+      "identifier": "peepthestamp",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "SKYQ",
+          "schemeId": "SCHEME-SKYQ-20260224-MM209YA9",
+          "schemeName": "Sky Quarry Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SKYQ"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-9YAC",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "SKYQ"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-PSMEMPOWERTRADING-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-9YAC",
+      "identifier": "PSM_EmpowerTrading",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 2,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "JCSE",
+          "schemeId": "SCHEME-JCSE-20260224-MM209YA9",
+          "schemeName": "JE Cleantech Holdings Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 2
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "JCSE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PANTHERC-9YAC",
+          "identifier": "_PantherC",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "JCSE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MOTORHHEAD-9YAC",
+          "identifier": "Motorhhead",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "JCSE"
+          ]
+        }
+      ],
+      "riskLevel": "HIGH",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-MOTORHHEAD-9YAC": {
+      "promoterId": "PROM-STOCKTWITS-MOTORHHEAD-9YAC",
+      "identifier": "Motorhhead",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "JCSE",
+          "schemeId": "SCHEME-JCSE-20260224-MM209YA9",
+          "schemeName": "JE Cleantech Holdings Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-MEOWZILLA1-9YAC",
+          "identifier": "_Meowzilla1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "JCSE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PANTHERC-9YAC",
+          "identifier": "_PantherC",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "JCSE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-9YAC",
+          "identifier": "PSM_EmpowerTrading",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "JCSE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-BEPPELS-9YAD": {
+      "promoterId": "PROM-STOCKTWITS-BEPPELS-9YAD",
+      "identifier": "beppels",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "IMTE",
+          "schemeId": "SCHEME-IMTE-20260224-MM209YA9",
+          "schemeName": "Integrated Media Technology Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PANTHERC-9YAC",
+          "identifier": "PantherC",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALERTSANDNEWS-9YAD",
+          "identifier": "AlertsAndNews",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MAPNEEDS-9YAD",
+          "identifier": "MapNeeds",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-ALERTSANDNEWS-9YAD": {
+      "promoterId": "PROM-STOCKTWITS-ALERTSANDNEWS-9YAD",
+      "identifier": "AlertsAndNews",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "IMTE",
+          "schemeId": "SCHEME-IMTE-20260224-MM209YA9",
+          "schemeName": "Integrated Media Technology Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PANTHERC-9YAC",
+          "identifier": "PantherC",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-BEPPELS-9YAD",
+          "identifier": "beppels",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-MAPNEEDS-9YAD",
+          "identifier": "MapNeeds",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-MAPNEEDS-9YAD": {
+      "promoterId": "PROM-STOCKTWITS-MAPNEEDS-9YAD",
+      "identifier": "MapNeeds",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "IMTE",
+          "schemeId": "SCHEME-IMTE-20260224-MM209YA9",
+          "schemeName": "Integrated Media Technology Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-9YAC",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PANTHERC-9YAC",
+          "identifier": "PantherC",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-BEPPELS-9YAD",
+          "identifier": "beppels",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALERTSANDNEWS-9YAD",
+          "identifier": "AlertsAndNews",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IMTE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-NOEMOTIONZTRADE-9YAD": {
+      "promoterId": "PROM-STOCKTWITS-NOEMOTIONZTRADE-9YAD",
+      "identifier": "NoEmotionzTrade",
+      "platform": "StockTwits",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "MTNB",
+          "schemeId": "SCHEME-MTNB-20260224-MM209YAA",
+          "schemeName": "Matinas BioPharma Holdings, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-02-24",
+          "lastSeen": "2026-02-24",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [],
+      "riskLevel": "LOW",
+      "isActive": true
     }
   }
 }
