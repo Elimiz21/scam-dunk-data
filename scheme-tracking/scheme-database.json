@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-05T03:37:19.841Z",
-  "totalSchemes": 80,
-  "activeSchemes": 72,
-  "resolvedSchemes": 8,
+  "lastUpdated": "2026-03-06T03:38:02.742Z",
+  "totalSchemes": 65,
+  "activeSchemes": 55,
+  "resolvedSchemes": 10,
   "confirmedFrauds": 0,
   "schemes": {
     "SCH-EVTV-20260202-9ALD": {
@@ -110,16 +110,16 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 30 days, inactive for 19 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 31 days, inactive for 20 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 30 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 31 days of monitoring. Stock activity normalized."
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -325,14 +325,14 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "COOLING",
+      "status": "PUMP_AND_DUMP_ENDED",
       "peakRiskScore": 15,
       "currentRiskScore": 15,
       "peakPromotionScore": 50,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 1.05,
+      "currentPrice": 0.8286,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
@@ -394,10 +394,18 @@
           "details": "Price dropped 38.2% from peak ($1.70 → $1.05)",
           "category": "status_change",
           "significance": "high"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "PUMP & DUMP ENDED - With social promotion",
+          "details": "Price crashed 51.3% from peak ($1.70 → $0.83)",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 51.3% from peak. Social media promotion detected on: Twitter/X, Telegram"
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -519,7 +527,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.4699,
+      "currentPrice": 0.47,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
@@ -592,16 +600,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 51.1% from peak ($0.96 → $0.47)",
+          "details": "Price crashed 51.0% from peak ($0.96 → $0.47)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 51.1% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 51.0% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -612,7 +620,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 14,
       "currentRiskScore": 14,
       "peakPromotionScore": 61,
@@ -701,10 +709,18 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 31 days, inactive for 30 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 31 days of monitoring. Stock activity normalized."
     },
     "SCH-MTEN-20260202-KMCM": {
       "schemeId": "SCH-MTEN-20260202-KMCM",
@@ -788,16 +804,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 30 days, inactive for 29 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 31 days, inactive for 30 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 30 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 31 days of monitoring. Stock activity normalized."
     },
     "SCH-DRTSW-20260202-H1OO": {
       "schemeId": "SCH-DRTSW-20260202-H1OO",
@@ -909,9 +925,9 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 1.22,
       "peakPrice": 1.22,
-      "currentPrice": 0.13,
+      "currentPrice": 0.128,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -89.34426229508196,
+      "priceChangeFromPeak": -89.50819672131148,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -990,165 +1006,32 @@
           "details": "Risk score: 16, Promotion score: 20"
         },
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Status changed to COOLING - Possible dump detected",
-          "details": "Price dropped 89.3% from peak ($1.22 → $0.13)",
+          "details": "Price dropped 89.5% from peak ($1.22 → $0.13)",
           "category": "status_change",
           "significance": "high"
         },
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 89.3% from peak ($1.22 → $0.13)",
+          "details": "Price crashed 89.5% from peak ($1.22 → $0.13)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 89.3% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 89.5% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
     },
-    "SCHEME-FBYD-20260304-MMCWZXLO": {
-      "schemeId": "SCHEME-FBYD-20260304-MMCWZXLO",
-      "symbol": "FBYD",
-      "name": "Falcon's Beyond Global, Inc. Class A Common Stock",
-      "sector": "Industrials",
-      "industry": "Conglomerates",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 7,
-      "currentRiskScore": 7,
-      "peakPromotionScore": 53,
-      "currentPromotionScore": 53,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "MihawkSwings",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "high"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "PreciseTradingFlow",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "UncleStock",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 8.18,
-      "peakPrice": 8.18,
-      "currentPrice": 8.18,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 162059,
-      "peakVolume": 162059,
-      "currentVolume": 162059,
-      "signalsDetected": [
-        "SPIKE_7D",
-        "OVERBOUGHT_RSI",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 53"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 7 and promotion score 53",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-AHG-20260304-MMCWZXLO": {
-      "schemeId": "SCHEME-AHG-20260304-MMCWZXLO",
-      "symbol": "AHG",
-      "name": "Akso Health Group",
-      "sector": "Financial Services",
-      "industry": "Financial - Credit Services",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 7,
-      "currentRiskScore": 7,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "RisingMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.3536,
-      "peakPrice": 1.3536,
-      "currentPrice": 1.3536,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 14637,
-      "peakVolume": 14637,
-      "currentVolume": 14637,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 7 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-TTGT-20260304-MMCWZXLO": {
-      "schemeId": "SCHEME-TTGT-20260304-MMCWZXLO",
+    "SCHEME-TTGT-20260305-MMECGPDE": {
+      "schemeId": "SCHEME-TTGT-20260305-MMECGPDE",
       "symbol": "TTGT",
       "name": "TechTarget, Inc.",
       "sector": "Communication Services",
       "industry": "Internet Content & Information",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 5,
@@ -1162,16 +1045,16 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 3.72,
-      "peakPrice": 3.72,
-      "currentPrice": 3.72,
+      "priceAtDetection": 3.7,
+      "peakPrice": 3.7,
+      "currentPrice": 3.7,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 416383,
@@ -1191,7 +1074,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 5 and promotion score 85",
@@ -1199,50 +1082,50 @@
         }
       ]
     },
-    "SCHEME-NCRA-20260304-MMCWZXLO": {
-      "schemeId": "SCHEME-NCRA-20260304-MMCWZXLO",
+    "SCHEME-NCRA-20260305-MMECGPDE": {
+      "schemeId": "SCHEME-NCRA-20260305-MMECGPDE",
       "symbol": "NCRA",
       "name": "Nocera, Inc.",
       "sector": "Consumer Defensive",
       "industry": "Packaged Foods",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
       "currentRiskScore": 6,
-      "peakPromotionScore": 63,
-      "currentPromotionScore": 63,
+      "peakPromotionScore": 55,
+      "currentPromotionScore": 55,
       "promotionPlatforms": [
         "StockTwits"
       ],
       "promoterAccounts": [
         {
           "platform": "StockTwits",
-          "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "high"
+          "identifier": "PaulLaurent",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 2,
+          "confidence": "medium"
         },
         {
           "platform": "StockTwits",
-          "identifier": "PaulLaurent",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
-          "confidence": "medium"
+          "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.3799,
-      "peakPrice": 0.3799,
-      "currentPrice": 0.3799,
+      "priceAtDetection": 0.3503,
+      "peakPrice": 0.3503,
+      "currentPrice": 0.3503,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 70647,
-      "peakVolume": 70647,
-      "currentVolume": 70647,
+      "volumeAtDetection": 70467,
+      "peakVolume": 70467,
+      "currentVolume": 70467,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -1252,27 +1135,27 @@
         "High promotion risk on StockTwits"
       ],
       "notes": [
-        "Initial detection with promotion score 63"
+        "Initial detection with promotion score 55"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 6 and promotion score 63",
+          "details": "Initial detection with risk score 6 and promotion score 55",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-HUHU-20260304-MMCWZXLO": {
-      "schemeId": "SCHEME-HUHU-20260304-MMCWZXLO",
+    "SCHEME-HUHU-20260305-MMECGPDE": {
+      "schemeId": "SCHEME-HUHU-20260305-MMECGPDE",
       "symbol": "HUHU",
       "name": "HUHUTECH International Group Inc. Ordinary Shares",
       "sector": "Industrials",
       "industry": "Industrial - Machinery",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 8,
@@ -1286,21 +1169,21 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 6.89,
-      "peakPrice": 6.89,
-      "currentPrice": 6.89,
+      "priceAtDetection": 6.82,
+      "peakPrice": 6.82,
+      "currentPrice": 6.82,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 11437,
-      "peakVolume": 11437,
-      "currentVolume": 11437,
+      "volumeAtDetection": 11259,
+      "peakVolume": 11259,
+      "currentVolume": 11259,
       "signalsDetected": [
         "SMALL_MARKET_CAP",
         "MICRO_LIQUIDITY",
@@ -1316,7 +1199,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 8 and promotion score 85",
@@ -1324,14 +1207,14 @@
         }
       ]
     },
-    "SCHEME-RDNW-20260304-MMCWZXLO": {
-      "schemeId": "SCHEME-RDNW-20260304-MMCWZXLO",
+    "SCHEME-RDNW-20260305-MMECGPDE": {
+      "schemeId": "SCHEME-RDNW-20260305-MMECGPDE",
       "symbol": "RDNW",
       "name": "RideNow Group, Inc.",
       "sector": "Consumer Cyclical",
       "industry": "Auto - Dealerships",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 9,
@@ -1345,8 +1228,8 @@
         {
           "platform": "StockTwits",
           "identifier": "GMExAPE",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
@@ -1376,7 +1259,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 9 and promotion score 80",
@@ -1384,72 +1267,14 @@
         }
       ]
     },
-    "SCHEME-MOLN-20260304-MMCWZXLO": {
-      "schemeId": "SCHEME-MOLN-20260304-MMCWZXLO",
-      "symbol": "MOLN",
-      "name": "Molecular Partners AG",
-      "sector": "Healthcare",
-      "industry": "Biotechnology",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 6,
-      "currentRiskScore": 6,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "RisingMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 4.96,
-      "peakPrice": 4.96,
-      "currentPrice": 4.96,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 4393,
-      "peakVolume": 4393,
-      "currentVolume": 4393,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 6 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-IPHA-20260304-MMCWZXLO": {
-      "schemeId": "SCHEME-IPHA-20260304-MMCWZXLO",
+    "SCHEME-IPHA-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-IPHA-20260305-MMECGPDF",
       "symbol": "IPHA",
       "name": "Innate Pharma S.A.",
       "sector": "Healthcare",
       "industry": "Biotechnology",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -1463,21 +1288,21 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.62,
-      "peakPrice": 1.62,
-      "currentPrice": 1.62,
+      "priceAtDetection": 1.58,
+      "peakPrice": 1.58,
+      "currentPrice": 1.58,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 21662,
-      "peakVolume": 21662,
-      "currentVolume": 21662,
+      "volumeAtDetection": 21457,
+      "peakVolume": 21457,
+      "currentVolume": 21457,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -1492,7 +1317,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 85",
@@ -1500,89 +1325,14 @@
         }
       ]
     },
-    "SCHEME-SLMT-20260304-MMCWZXLO": {
-      "schemeId": "SCHEME-SLMT-20260304-MMCWZXLO",
-      "symbol": "SLMT",
-      "name": "Brera Holdings PLC",
-      "sector": "Financial Services",
-      "industry": "Asset Management - Cryptocurrency",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 8,
-      "currentRiskScore": 8,
-      "peakPromotionScore": 51,
-      "currentPromotionScore": 51,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "2BullishMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 2,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "TheRoaringBunny",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "WeeklyTradingFlow",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.38,
-      "peakPrice": 1.38,
-      "currentPrice": 1.38,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 1170601,
-      "peakVolume": 1170601,
-      "currentVolume": 1170601,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "SPIKE_7D",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 51"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 8 and promotion score 51",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-SCAG-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-SCAG-20260304-MMCWZXLP",
+    "SCHEME-SCAG-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-SCAG-20260305-MMECGPDF",
       "symbol": "SCAG",
       "name": "Scage Future American Depositary Shares",
       "sector": "Industrials",
       "industry": "Manufacturing - Tools & Accessories",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 7,
@@ -1596,21 +1346,21 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.692,
-      "peakPrice": 1.692,
-      "currentPrice": 1.692,
+      "priceAtDetection": 1.56,
+      "peakPrice": 1.56,
+      "currentPrice": 1.56,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 16160,
-      "peakVolume": 16160,
-      "currentVolume": 16160,
+      "volumeAtDetection": 16263,
+      "peakVolume": 16263,
+      "currentVolume": 16263,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -1626,7 +1376,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 7 and promotion score 85",
@@ -1634,14 +1384,14 @@
         }
       ]
     },
-    "SCHEME-OBTC-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-OBTC-20260304-MMCWZXLP",
+    "SCHEME-OBTC-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-OBTC-20260305-MMECGPDF",
       "symbol": "OBTC",
       "name": "Osprey Bitcoin Trust",
       "sector": "Financial Services",
       "industry": "Investment - Banking & Investment Services",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 5,
@@ -1655,16 +1405,16 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 23.46,
-      "peakPrice": 23.46,
-      "currentPrice": 23.46,
+      "priceAtDetection": 22.9488,
+      "peakPrice": 22.9488,
+      "currentPrice": 22.9488,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 47954,
@@ -1683,7 +1433,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 5 and promotion score 85",
@@ -1691,14 +1441,14 @@
         }
       ]
     },
-    "SCHEME-NIPG-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-NIPG-20260304-MMCWZXLP",
+    "SCHEME-NIPG-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-NIPG-20260305-MMECGPDF",
       "symbol": "NIPG",
       "name": "NIP Group Inc.",
       "sector": "Communication Services",
       "industry": "Entertainment",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -1712,21 +1462,21 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.8301,
-      "peakPrice": 0.8301,
-      "currentPrice": 0.8301,
+      "priceAtDetection": 0.8551,
+      "peakPrice": 0.8551,
+      "currentPrice": 0.8551,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 52516,
-      "peakVolume": 52516,
-      "currentVolume": 52516,
+      "volumeAtDetection": 51803,
+      "peakVolume": 51803,
+      "currentVolume": 51803,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -1741,7 +1491,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 85",
@@ -1749,18 +1499,18 @@
         }
       ]
     },
-    "SCHEME-SLSN-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-SLSN-20260304-MMCWZXLP",
+    "SCHEME-SLSN-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-SLSN-20260305-MMECGPDF",
       "symbol": "SLSN",
       "name": "Solesence, Inc. Common Stock",
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
-      "peakRiskScore": 6,
-      "currentRiskScore": 6,
+      "peakRiskScore": 7,
+      "currentRiskScore": 7,
       "peakPromotionScore": 85,
       "currentPromotionScore": 85,
       "promotionPlatforms": [
@@ -1770,16 +1520,16 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.18,
-      "peakPrice": 1.18,
-      "currentPrice": 1.18,
+      "priceAtDetection": 1.08,
+      "peakPrice": 1.08,
+      "currentPrice": 1.08,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 32518,
@@ -1788,7 +1538,8 @@
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY"
+        "MICRO_LIQUIDITY",
+        "HIGH_VOLATILITY"
       ],
       "coordinationIndicators": [
         "High promotion risk on StockTwits"
@@ -1799,111 +1550,28 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 6 and promotion score 85",
+          "details": "Initial detection with risk score 7 and promotion score 85",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-MGRT-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-MGRT-20260304-MMCWZXLP",
-      "symbol": "MGRT",
-      "name": "Mega Fortune Company Limited",
-      "sector": "Technology",
-      "industry": "Electronic Gaming & Multimedia",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 9,
-      "currentRiskScore": 9,
-      "peakPromotionScore": 51,
-      "currentPromotionScore": 51,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "penny_z",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 2,
-          "confidence": "high"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "stockanalysis_",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "MihawkSwings",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "RecentTradingFlow",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 7.78,
-      "peakPrice": 7.78,
-      "currentPrice": 7.78,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 168406,
-      "peakVolume": 168406,
-      "currentVolume": 168406,
-      "signalsDetected": [
-        "SMALL_MARKET_CAP",
-        "SPIKE_7D",
-        "SPIKE_THEN_DROP",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 51"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 9 and promotion score 51",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-INVE-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-INVE-20260304-MMCWZXLP",
+    "SCHEME-INVE-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-INVE-20260305-MMECGPDF",
       "symbol": "INVE",
       "name": "Identiv, Inc.",
       "sector": "Technology",
       "industry": "Computer Hardware",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
       "currentRiskScore": 6,
-      "peakPromotionScore": 61,
-      "currentPromotionScore": 61,
+      "peakPromotionScore": 60,
+      "currentPromotionScore": 60,
       "promotionPlatforms": [
         "StockTwits"
       ],
@@ -1911,88 +1579,88 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 296,
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 278,
           "confidence": "high"
         },
         {
           "platform": "StockTwits",
           "identifier": "WatchTheseTickers",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         },
         {
           "platform": "StockTwits",
-          "identifier": "DamnUnLucky123",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "KieferP02",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         },
         {
           "platform": "StockTwits",
-          "identifier": "Paraboljoker",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "Richard12_",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         },
         {
           "platform": "StockTwits",
-          "identifier": "NorthernMonkey1",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "GlobalMarketBulletin",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         },
         {
           "platform": "StockTwits",
-          "identifier": "ProspectTrends",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "TraderNice",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         },
         {
           "platform": "StockTwits",
-          "identifier": "MMCML",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "JTE_Theta",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "Whoami1989",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         },
         {
           "platform": "StockTwits",
           "identifier": "Twills08",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         },
         {
           "platform": "StockTwits",
           "identifier": "movip3",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "B2iDigital",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 3.3,
-      "peakPrice": 3.3,
-      "currentPrice": 3.3,
+      "priceAtDetection": 3.19,
+      "peakPrice": 3.19,
+      "currentPrice": 3.19,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 31612,
@@ -2007,217 +1675,27 @@
         "High promotion risk on StockTwits"
       ],
       "notes": [
-        "Initial detection with promotion score 61"
+        "Initial detection with promotion score 60"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 6 and promotion score 61",
+          "details": "Initial detection with risk score 6 and promotion score 60",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-ADAG-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-ADAG-20260304-MMCWZXLP",
-      "symbol": "ADAG",
-      "name": "Adagene Inc.",
-      "sector": "Healthcare",
-      "industry": "Biotechnology",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 5,
-      "currentRiskScore": 5,
-      "peakPromotionScore": 51,
-      "currentPromotionScore": 51,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "high"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "MihawkSwings",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "high"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "topstockalerts",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 2.93,
-      "peakPrice": 2.93,
-      "currentPrice": 2.93,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 123684,
-      "peakVolume": 123684,
-      "currentVolume": 123684,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 51"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 5 and promotion score 51",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-BIOX-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-BIOX-20260304-MMCWZXLP",
-      "symbol": "BIOX",
-      "name": "Bioceres Crop Solutions Corp.",
-      "sector": "Basic Materials",
-      "industry": "Agricultural Inputs",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 5,
-      "currentRiskScore": 5,
-      "peakPromotionScore": 53,
-      "currentPromotionScore": 53,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "GMExAPE",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 2,
-          "confidence": "high"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.54,
-      "peakPrice": 0.54,
-      "currentPrice": 0.54,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 614075,
-      "peakVolume": 614075,
-      "currentVolume": 614075,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 53"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 5 and promotion score 53",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-MYPS-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-MYPS-20260304-MMCWZXLP",
-      "symbol": "MYPS",
-      "name": "PLAYSTUDIOS, Inc.",
-      "sector": "Technology",
-      "industry": "Electronic Gaming & Multimedia",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 6,
-      "currentRiskScore": 6,
-      "peakPromotionScore": 85,
-      "currentPromotionScore": 85,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "high"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.5183,
-      "peakPrice": 0.5183,
-      "currentPrice": 0.5183,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 261911,
-      "peakVolume": 261911,
-      "currentVolume": 261911,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 85"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 6 and promotion score 85",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-SFWL-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-SFWL-20260304-MMCWZXLP",
+    "SCHEME-SFWL-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-SFWL-20260305-MMECGPDF",
       "symbol": "SFWL",
       "name": "Shengfeng Development Limited",
       "sector": "Industrials",
       "industry": "Integrated Freight & Logistics",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -2231,16 +1709,16 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.9637,
-      "peakPrice": 0.9637,
-      "currentPrice": 0.9637,
+      "priceAtDetection": 0.96,
+      "peakPrice": 0.96,
+      "currentPrice": 0.96,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 40277,
@@ -2260,7 +1738,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 85",
@@ -2268,14 +1746,72 @@
         }
       ]
     },
-    "SCHEME-MCHX-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-MCHX-20260304-MMCWZXLP",
+    "SCHEME-CBAT-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-CBAT-20260305-MMECGPDF",
+      "symbol": "CBAT",
+      "name": "CBAK Energy Technology, Inc.",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 5,
+      "currentRiskScore": 5,
+      "peakPromotionScore": 70,
+      "currentPromotionScore": 70,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "TCLutz",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 1.01,
+      "peakPrice": 1.01,
+      "currentPrice": 1.01,
+      "priceChangeFromDetection": 0,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 170254,
+      "peakVolume": 170254,
+      "currentVolume": 170254,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "OVERBOUGHT_RSI"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
+      "notes": [
+        "Initial detection with promotion score 70"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-03-05",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 5 and promotion score 70",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-MCHX-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-MCHX-20260305-MMECGPDF",
       "symbol": "MCHX",
       "name": "Marchex, Inc.",
       "sector": "Communication Services",
       "industry": "Advertising Agencies",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -2289,21 +1825,21 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.46,
-      "peakPrice": 1.46,
-      "currentPrice": 1.46,
+      "priceAtDetection": 1.42,
+      "peakPrice": 1.42,
+      "currentPrice": 1.42,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 20855,
-      "peakVolume": 20855,
-      "currentVolume": 20855,
+      "volumeAtDetection": 20854,
+      "peakVolume": 20854,
+      "currentVolume": 20854,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -2318,7 +1854,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 85",
@@ -2326,14 +1862,14 @@
         }
       ]
     },
-    "SCHEME-XBIT-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-XBIT-20260304-MMCWZXLP",
+    "SCHEME-XBIT-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-XBIT-20260305-MMECGPDF",
       "symbol": "XBIT",
       "name": "XBiotech Inc.",
       "sector": "Healthcare",
       "industry": "Biotechnology",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -2347,29 +1883,29 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         },
         {
           "platform": "StockTwits",
           "identifier": "PaulLaurent",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 2.35,
-      "peakPrice": 2.35,
-      "currentPrice": 2.35,
+      "priceAtDetection": 2.31,
+      "peakPrice": 2.31,
+      "currentPrice": 2.31,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 45174,
-      "peakVolume": 45174,
-      "currentVolume": 45174,
+      "volumeAtDetection": 43596,
+      "peakVolume": 43596,
+      "currentVolume": 43596,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -2384,7 +1920,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 63",
@@ -2392,18 +1928,18 @@
         }
       ]
     },
-    "SCHEME-PMVP-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-PMVP-20260304-MMCWZXLP",
+    "SCHEME-PMVP-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-PMVP-20260305-MMECGPDF",
       "symbol": "PMVP",
       "name": "PMV Pharmaceuticals, Inc.",
       "sector": "Healthcare",
       "industry": "Biotechnology",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
-      "peakRiskScore": 13,
-      "currentRiskScore": 13,
+      "peakRiskScore": 10,
+      "currentRiskScore": 10,
       "peakPromotionScore": 50,
       "currentPromotionScore": 50,
       "promotionPlatforms": [
@@ -2412,86 +1948,27 @@
       "promoterAccounts": [
         {
           "platform": "StockTwits",
-          "identifier": "PreciseTradingFlow",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 2,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.5,
-      "peakPrice": 1.5,
-      "currentPrice": 1.5,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 535710,
-      "peakVolume": 535710,
-      "currentVolume": 535710,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "SPIKE_7D",
-        "VOLUME_EXPLOSION",
-        "SPIKE_THEN_DROP",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 13 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-ZBAI-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-ZBAI-20260304-MMCWZXLP",
-      "symbol": "ZBAI",
-      "name": "ATIF Holdings Ltd.",
-      "sector": "Financial Services",
-      "industry": "Investment - Banking & Investment Services",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 5,
-      "currentRiskScore": 5,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "1BullishMoon",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "MomentumTradingFlows",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 6.19,
-      "peakPrice": 6.19,
-      "currentPrice": 6.19,
+      "priceAtDetection": 1.53,
+      "peakPrice": 1.53,
+      "currentPrice": 1.53,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 7318,
-      "peakVolume": 7318,
-      "currentVolume": 7318,
+      "volumeAtDetection": 536603,
+      "peakVolume": 536603,
+      "currentVolume": 536603,
       "signalsDetected": [
+        "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
         "HIGH_VOLATILITY"
       ],
       "coordinationIndicators": [
@@ -2503,22 +1980,22 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 5 and promotion score 50",
+          "details": "Initial detection with risk score 10 and promotion score 50",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-ZYBT-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-ZYBT-20260304-MMCWZXLP",
+    "SCHEME-ZYBT-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-ZYBT-20260305-MMECGPDF",
       "symbol": "ZYBT",
       "name": "Zhengye Biotechnology Holding Limited",
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 7,
@@ -2532,21 +2009,21 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.8089,
-      "peakPrice": 0.8089,
-      "currentPrice": 0.8089,
+      "priceAtDetection": 0.78,
+      "peakPrice": 0.78,
+      "currentPrice": 0.78,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 18254,
-      "peakVolume": 18254,
-      "currentVolume": 18254,
+      "volumeAtDetection": 17527,
+      "peakVolume": 17527,
+      "currentVolume": 17527,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -2562,7 +2039,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 7 and promotion score 85",
@@ -2570,42 +2047,42 @@
         }
       ]
     },
-    "SCHEME-KBSX-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-KBSX-20260304-MMCWZXLP",
+    "SCHEME-KBSX-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-KBSX-20260305-MMECGPDF",
       "symbol": "KBSX",
       "name": "FST Corp.",
       "sector": "Basic Materials",
       "industry": "Steel",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 7,
       "currentRiskScore": 7,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
+      "peakPromotionScore": 85,
+      "currentPromotionScore": 85,
       "promotionPlatforms": [
         "StockTwits"
       ],
       "promoterAccounts": [
         {
           "platform": "StockTwits",
-          "identifier": "RisingMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
-          "confidence": "medium"
+          "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.28,
-      "peakPrice": 1.28,
-      "currentPrice": 1.28,
+      "priceAtDetection": 1.255,
+      "peakPrice": 1.255,
+      "currentPrice": 1.255,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 8505,
-      "peakVolume": 8505,
-      "currentVolume": 8505,
+      "volumeAtDetection": 8618,
+      "peakVolume": 8618,
+      "currentVolume": 8618,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -2616,27 +2093,27 @@
         "High promotion risk on StockTwits"
       ],
       "notes": [
-        "Initial detection with promotion score 50"
+        "Initial detection with promotion score 85"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 7 and promotion score 50",
+          "details": "Initial detection with risk score 7 and promotion score 85",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-LVRO-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-LVRO-20260304-MMCWZXLP",
+    "SCHEME-LVRO-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-LVRO-20260305-MMECGPDF",
       "symbol": "LVRO",
       "name": "Lavoro Limited",
       "sector": "Basic Materials",
       "industry": "Agricultural Inputs",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 9,
@@ -2650,16 +2127,16 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         },
         {
           "platform": "StockTwits",
           "identifier": "Manny2284",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
@@ -2688,7 +2165,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 9 and promotion score 63",
@@ -2696,45 +2173,45 @@
         }
       ]
     },
-    "SCHEME-GMHS-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-GMHS-20260304-MMCWZXLP",
+    "SCHEME-GMHS-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-GMHS-20260305-MMECGPDF",
       "symbol": "GMHS",
       "name": "Gamehaus Holdings Inc.",
       "sector": "Technology",
       "industry": "Electronic Gaming & Multimedia",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
       "currentRiskScore": 6,
-      "peakPromotionScore": 63,
-      "currentPromotionScore": 63,
+      "peakPromotionScore": 55,
+      "currentPromotionScore": 55,
       "promotionPlatforms": [
         "StockTwits"
       ],
       "promoterAccounts": [
         {
           "platform": "StockTwits",
-          "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "high"
+          "identifier": "PaulLaurent",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 2,
+          "confidence": "medium"
         },
         {
           "platform": "StockTwits",
-          "identifier": "PaulLaurent",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
-          "confidence": "medium"
+          "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.9997,
-      "peakPrice": 0.9997,
-      "currentPrice": 0.9997,
+      "priceAtDetection": 1,
+      "peakPrice": 1,
+      "currentPrice": 1,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 31289,
@@ -2749,31 +2226,105 @@
         "High promotion risk on StockTwits"
       ],
       "notes": [
-        "Initial detection with promotion score 63"
+        "Initial detection with promotion score 55"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 6 and promotion score 63",
+          "details": "Initial detection with risk score 6 and promotion score 55",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-OKUR-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-OKUR-20260304-MMCWZXLP",
+    "SCHEME-AIFU-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-AIFU-20260305-MMECGPDF",
+      "symbol": "AIFU",
+      "name": "AIFU Inc.",
+      "sector": "Financial Services",
+      "industry": "Insurance - Specialty",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 6,
+      "currentRiskScore": 6,
+      "peakPromotionScore": 55,
+      "currentPromotionScore": 55,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "KetCopyPaste",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "armanholloway",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "medium"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 1.899,
+      "peakPrice": 1.899,
+      "currentPrice": 1.899,
+      "priceChangeFromDetection": 0,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 27655,
+      "peakVolume": 27655,
+      "currentVolume": 27655,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
+      "notes": [
+        "Initial detection with promotion score 55"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-03-05",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 6 and promotion score 55",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-OKUR-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-OKUR-20260305-MMECGPDF",
       "symbol": "OKUR",
       "name": "OnKure Therapeutics, Inc.",
       "sector": "Healthcare",
       "industry": "Biotechnology",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
-      "peakRiskScore": 8,
-      "currentRiskScore": 8,
+      "peakRiskScore": 5,
+      "currentRiskScore": 5,
       "peakPromotionScore": 85,
       "currentPromotionScore": 85,
       "promotionPlatforms": [
@@ -2783,25 +2334,24 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 3.17,
-      "peakPrice": 3.17,
-      "currentPrice": 3.17,
+      "priceAtDetection": 3.16,
+      "peakPrice": 3.16,
+      "currentPrice": 3.16,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 109560,
-      "peakVolume": 109560,
-      "currentVolume": 109560,
+      "volumeAtDetection": 100112,
+      "peakVolume": 100112,
+      "currentVolume": 100112,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
-        "SPIKE_7D",
         "OVERBOUGHT_RSI"
       ],
       "coordinationIndicators": [
@@ -2813,22 +2363,22 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 8 and promotion score 85",
+          "details": "Initial detection with risk score 5 and promotion score 85",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-ICMB-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-ICMB-20260304-MMCWZXLP",
+    "SCHEME-ICMB-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-ICMB-20260305-MMECGPDF",
       "symbol": "ICMB",
       "name": "Investcorp Credit Management BDC, Inc.",
       "sector": "Financial Services",
       "industry": "Asset Management",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -2842,21 +2392,21 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 2.91,
-      "peakPrice": 2.91,
-      "currentPrice": 2.91,
+      "priceAtDetection": 2.92,
+      "peakPrice": 2.92,
+      "currentPrice": 2.92,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 30805,
-      "peakVolume": 30805,
-      "currentVolume": 30805,
+      "volumeAtDetection": 30471,
+      "peakVolume": 30471,
+      "currentVolume": 30471,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -2871,7 +2421,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 85",
@@ -2879,14 +2429,14 @@
         }
       ]
     },
-    "SCHEME-APWC-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-APWC-20260304-MMCWZXLP",
+    "SCHEME-APWC-20260305-MMECGPDF": {
+      "schemeId": "SCHEME-APWC-20260305-MMECGPDF",
       "symbol": "APWC",
       "name": "Asia Pacific Wire & Cable Corporation Limited",
       "sector": "Industrials",
       "industry": "Electrical Equipment & Parts",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -2900,24 +2450,24 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         },
         {
           "platform": "StockTwits",
           "identifier": "dln101",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.66,
-      "peakPrice": 1.66,
-      "currentPrice": 1.66,
+      "priceAtDetection": 1.64,
+      "peakPrice": 1.64,
+      "currentPrice": 1.64,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 14676,
@@ -2937,7 +2487,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 83",
@@ -2945,18 +2495,18 @@
         }
       ]
     },
-    "SCHEME-OMCC-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-OMCC-20260304-MMCWZXLP",
+    "SCHEME-OMCC-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-OMCC-20260305-MMECGPDG",
       "symbol": "OMCC",
       "name": "Old Market Capital Corporation",
       "sector": "Financial Services",
       "industry": "Financial - Credit Services",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
-      "peakRiskScore": 6,
-      "currentRiskScore": 6,
+      "peakRiskScore": 7,
+      "currentRiskScore": 7,
       "peakPromotionScore": 85,
       "currentPromotionScore": 85,
       "promotionPlatforms": [
@@ -2966,25 +2516,26 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 4.9,
-      "peakPrice": 4.9,
-      "currentPrice": 4.9,
+      "priceAtDetection": 4.28,
+      "peakPrice": 4.28,
+      "currentPrice": 4.28,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 22325,
-      "peakVolume": 22325,
-      "currentVolume": 22325,
+      "volumeAtDetection": 22211,
+      "peakVolume": 22211,
+      "currentVolume": 22211,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY"
+        "MICRO_LIQUIDITY",
+        "HIGH_VOLATILITY"
       ],
       "coordinationIndicators": [
         "High promotion risk on StockTwits"
@@ -2995,138 +2546,22 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 6 and promotion score 85",
+          "details": "Initial detection with risk score 7 and promotion score 85",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-PRTS-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-PRTS-20260304-MMCWZXLP",
-      "symbol": "PRTS",
-      "name": "CarParts.com, Inc.",
-      "sector": "Consumer Cyclical",
-      "industry": "Specialty Retail",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 6,
-      "currentRiskScore": 6,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "StocksTradingFlow",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 3,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.8241,
-      "peakPrice": 0.8241,
-      "currentPrice": 0.8241,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 1017571,
-      "peakVolume": 1017571,
-      "currentVolume": 1017571,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "OVERBOUGHT_RSI"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 6 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-ZJYL-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-ZJYL-20260304-MMCWZXLP",
-      "symbol": "ZJYL",
-      "name": "Jin Medical International Ltd.",
-      "sector": "Healthcare",
-      "industry": "Medical - Instruments & Supplies",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 6,
-      "currentRiskScore": 6,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "RisingMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 2,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.1459,
-      "peakPrice": 0.1459,
-      "currentPrice": 0.1459,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 639518,
-      "peakVolume": 639518,
-      "currentVolume": 639518,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 6 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-CPOP-20260304-MMCWZXLP": {
-      "schemeId": "SCHEME-CPOP-20260304-MMCWZXLP",
+    "SCHEME-CPOP-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-CPOP-20260305-MMECGPDG",
       "symbol": "CPOP",
       "name": "Pop Culture Group Co., Ltd",
       "sector": "Communication Services",
       "industry": "Entertainment",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -3139,22 +2574,22 @@
       "promoterAccounts": [
         {
           "platform": "StockTwits",
-          "identifier": "ProfitsTradingFlows",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "SmallCapTradingFlows",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.3279,
-      "peakPrice": 0.3279,
-      "currentPrice": 0.3279,
+      "priceAtDetection": 0.3373,
+      "peakPrice": 0.3373,
+      "currentPrice": 0.3373,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 67130,
-      "peakVolume": 67130,
-      "currentVolume": 67130,
+      "volumeAtDetection": 69379,
+      "peakVolume": 69379,
+      "currentVolume": 69379,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -3169,7 +2604,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 50",
@@ -3177,18 +2612,18 @@
         }
       ]
     },
-    "SCHEME-SELX-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-SELX-20260304-MMCWZXLQ",
+    "SCHEME-SELX-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-SELX-20260305-MMECGPDG",
       "symbol": "SELX",
       "name": "Semilux International Ltd. Ordinary Shares",
       "sector": "Technology",
       "industry": "Hardware, Equipment & Parts",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
-      "peakRiskScore": 7,
-      "currentRiskScore": 7,
+      "peakRiskScore": 6,
+      "currentRiskScore": 6,
       "peakPromotionScore": 85,
       "currentPromotionScore": 85,
       "promotionPlatforms": [
@@ -3198,26 +2633,25 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.5011,
-      "peakPrice": 0.5011,
-      "currentPrice": 0.5011,
+      "priceAtDetection": 0.5175,
+      "peakPrice": 0.5175,
+      "currentPrice": 0.5175,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 76183,
-      "peakVolume": 76183,
-      "currentVolume": 76183,
+      "volumeAtDetection": 77461,
+      "peakVolume": 77461,
+      "currentVolume": 77461,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "HIGH_VOLATILITY"
+        "MICRO_LIQUIDITY"
       ],
       "coordinationIndicators": [
         "High promotion risk on StockTwits"
@@ -3228,22 +2662,22 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 7 and promotion score 85",
+          "details": "Initial detection with risk score 6 and promotion score 85",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-MNDO-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-MNDO-20260304-MMCWZXLQ",
+    "SCHEME-MNDO-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-MNDO-20260305-MMECGPDG",
       "symbol": "MNDO",
       "name": "MIND C.T.I. Ltd",
       "sector": "Technology",
       "industry": "Software - Application",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 7,
@@ -3257,21 +2691,21 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.225,
-      "peakPrice": 1.225,
-      "currentPrice": 1.225,
+      "priceAtDetection": 1.23,
+      "peakPrice": 1.23,
+      "currentPrice": 1.23,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 32054,
-      "peakVolume": 32054,
-      "currentVolume": 32054,
+      "volumeAtDetection": 31537,
+      "peakVolume": 31537,
+      "currentVolume": 31537,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -3287,7 +2721,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 7 and promotion score 85",
@@ -3295,131 +2729,14 @@
         }
       ]
     },
-    "SCHEME-EBON-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-EBON-20260304-MMCWZXLQ",
-      "symbol": "EBON",
-      "name": "Ebang International Holdings Inc.",
-      "sector": "Technology",
-      "industry": "Computer Hardware",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 6,
-      "currentRiskScore": 6,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "RisingMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 2,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 2.49,
-      "peakPrice": 2.49,
-      "currentPrice": 2.49,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 11086,
-      "peakVolume": 11086,
-      "currentVolume": 11086,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 6 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-RVSN-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-RVSN-20260304-MMCWZXLQ",
-      "symbol": "RVSN",
-      "name": "Rail Vision Ltd.",
-      "sector": "Industrials",
-      "industry": "Railroads",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 7,
-      "currentRiskScore": 7,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "WeeklyTradingFlow",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 8.59,
-      "peakPrice": 8.59,
-      "currentPrice": 8.59,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 94066,
-      "peakVolume": 94066,
-      "currentVolume": 94066,
-      "signalsDetected": [
-        "SMALL_MARKET_CAP",
-        "SPIKE_7D",
-        "OVERBOUGHT_RSI",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 7 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-WETO-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-WETO-20260304-MMCWZXLQ",
-      "symbol": "WETO",
-      "name": "Webus International Limited Ordinary Shares",
-      "sector": "Technology",
-      "industry": "Software - Application",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+    "SCHEME-IRIX-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-IRIX-20260305-MMECGPDG",
+      "symbol": "IRIX",
+      "name": "IRIDEX Corporation",
+      "sector": "Healthcare",
+      "industry": "Medical - Devices",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -3433,21 +2750,21 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.44,
-      "peakPrice": 0.44,
-      "currentPrice": 0.44,
+      "priceAtDetection": 1.38,
+      "peakPrice": 1.38,
+      "currentPrice": 1.38,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 30269,
-      "peakVolume": 30269,
-      "currentVolume": 30269,
+      "volumeAtDetection": 94722,
+      "peakVolume": 94722,
+      "currentVolume": 94722,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -3462,7 +2779,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 85",
@@ -3470,14 +2787,14 @@
         }
       ]
     },
-    "SCHEME-GIGM-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-GIGM-20260304-MMCWZXLQ",
+    "SCHEME-GIGM-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-GIGM-20260305-MMECGPDG",
       "symbol": "GIGM",
       "name": "GigaMedia Limited",
       "sector": "Technology",
       "industry": "Electronic Gaming & Multimedia",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -3491,16 +2808,16 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.54,
-      "peakPrice": 1.54,
-      "currentPrice": 1.54,
+      "priceAtDetection": 1.56,
+      "peakPrice": 1.56,
+      "currentPrice": 1.56,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 7925,
@@ -3520,7 +2837,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 85",
@@ -3528,14 +2845,14 @@
         }
       ]
     },
-    "SCHEME-SAIH-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-SAIH-20260304-MMCWZXLQ",
+    "SCHEME-SAIH-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-SAIH-20260305-MMECGPDG",
       "symbol": "SAIH",
       "name": "SAIHEAT Limited",
       "sector": "Technology",
       "industry": "Information Technology Services",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 5,
@@ -3549,16 +2866,16 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 7.09,
-      "peakPrice": 7.09,
-      "currentPrice": 7.09,
+      "priceAtDetection": 7.7699,
+      "peakPrice": 7.7699,
+      "currentPrice": 7.7699,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 8428,
@@ -3578,7 +2895,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 5 and promotion score 85",
@@ -3586,20 +2903,20 @@
         }
       ]
     },
-    "SCHEME-FCUV-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-FCUV-20260304-MMCWZXLQ",
+    "SCHEME-FCUV-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-FCUV-20260305-MMECGPDG",
       "symbol": "FCUV",
       "name": "Focus Universal Inc.",
       "sector": "Technology",
       "industry": "Hardware, Equipment & Parts",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
-      "peakRiskScore": 7,
-      "currentRiskScore": 7,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
+      "peakRiskScore": 10,
+      "currentRiskScore": 10,
+      "peakPromotionScore": 53,
+      "currentPromotionScore": 53,
       "promotionPlatforms": [
         "StockTwits"
       ],
@@ -3607,68 +2924,69 @@
         {
           "platform": "StockTwits",
           "identifier": "QuantumTechnology",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         },
         {
           "platform": "StockTwits",
           "identifier": "UnforgivingTrader",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         },
         {
           "platform": "StockTwits",
-          "identifier": "_BreakoutMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "Najoua233902",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 4.85,
-      "peakPrice": 4.85,
-      "currentPrice": 4.85,
+      "priceAtDetection": 4.35,
+      "peakPrice": 4.35,
+      "currentPrice": 4.35,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 23695,
-      "peakVolume": 23695,
-      "currentVolume": 23695,
+      "volumeAtDetection": 23529,
+      "peakVolume": 23529,
+      "currentVolume": 23529,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
         "MICRO_LIQUIDITY",
+        "SPIKE_THEN_DROP",
         "HIGH_VOLATILITY"
       ],
       "coordinationIndicators": [
         "High promotion risk on StockTwits"
       ],
       "notes": [
-        "Initial detection with promotion score 50"
+        "Initial detection with promotion score 53"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 7 and promotion score 50",
+          "details": "Initial detection with risk score 10 and promotion score 53",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-WVVI-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-WVVI-20260304-MMCWZXLQ",
+    "SCHEME-WVVI-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-WVVI-20260305-MMECGPDG",
       "symbol": "WVVI",
       "name": "Willamette Valley Vineyards, Inc.",
       "sector": "Consumer Defensive",
       "industry": "Beverages - Wineries & Distilleries",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -3682,21 +3000,21 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 2.68,
-      "peakPrice": 2.68,
-      "currentPrice": 2.68,
+      "priceAtDetection": 2.63,
+      "peakPrice": 2.63,
+      "currentPrice": 2.63,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 8936,
-      "peakVolume": 8936,
-      "currentVolume": 8936,
+      "volumeAtDetection": 8667,
+      "peakVolume": 8667,
+      "currentVolume": 8667,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -3711,7 +3029,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 85",
@@ -3719,14 +3037,14 @@
         }
       ]
     },
-    "SCHEME-FEBO-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-FEBO-20260304-MMCWZXLQ",
+    "SCHEME-FEBO-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-FEBO-20260305-MMECGPDG",
       "symbol": "FEBO",
       "name": "Fenbo Holdings Limited Ordinary Shares",
       "sector": "Technology",
       "industry": "Consumer Electronics",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -3740,16 +3058,16 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.015,
-      "peakPrice": 1.015,
-      "currentPrice": 1.015,
+      "priceAtDetection": 1.01,
+      "peakPrice": 1.01,
+      "currentPrice": 1.01,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 64694,
@@ -3769,7 +3087,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 85",
@@ -3777,14 +3095,14 @@
         }
       ]
     },
-    "SCHEME-COOT-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-COOT-20260304-MMCWZXLQ",
+    "SCHEME-COOT-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-COOT-20260305-MMECGPDG",
       "symbol": "COOT",
       "name": "Australian Oilseeds Holdings Limited Ordinary Shares",
       "sector": "Consumer Defensive",
       "industry": "Packaged Foods",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 7,
@@ -3798,24 +3116,24 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         },
         {
           "platform": "StockTwits",
           "identifier": "SteveJohnsonis",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.609,
-      "peakPrice": 0.609,
-      "currentPrice": 0.609,
+      "priceAtDetection": 0.6025,
+      "peakPrice": 0.6025,
+      "currentPrice": 0.6025,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 147364,
@@ -3836,7 +3154,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 7 and promotion score 63",
@@ -3844,74 +3162,14 @@
         }
       ]
     },
-    "SCHEME-SFHG-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-SFHG-20260304-MMCWZXLQ",
-      "symbol": "SFHG",
-      "name": "Samfine Creation Holdings Group Limited",
-      "sector": "Industrials",
-      "industry": "Specialty Business Services",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 11,
-      "currentRiskScore": 11,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "_TheRisingMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 2.71,
-      "peakPrice": 2.71,
-      "currentPrice": 2.71,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 26771,
-      "peakVolume": 26771,
-      "currentVolume": 26771,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "SPIKE_7D",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 11 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-TKLF-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-TKLF-20260304-MMCWZXLQ",
+    "SCHEME-TKLF-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-TKLF-20260305-MMECGPDG",
       "symbol": "TKLF",
       "name": "Tokyo Lifestyle Co., Ltd.",
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -3925,21 +3183,21 @@
         {
           "platform": "StockTwits",
           "identifier": "CurrentSeaFlow",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 2.85,
-      "peakPrice": 2.85,
-      "currentPrice": 2.85,
+      "priceAtDetection": 2.87,
+      "peakPrice": 2.87,
+      "currentPrice": 2.87,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 16711,
-      "peakVolume": 16711,
-      "currentVolume": 16711,
+      "volumeAtDetection": 16427,
+      "peakVolume": 16427,
+      "currentVolume": 16427,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -3954,7 +3212,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 50",
@@ -3962,20 +3220,20 @@
         }
       ]
     },
-    "SCHEME-BANL-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-BANL-20260304-MMCWZXLQ",
+    "SCHEME-BANL-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-BANL-20260305-MMECGPDG",
       "symbol": "BANL",
       "name": "CBL International Limited",
       "sector": "Energy",
       "industry": "Oil & Gas Midstream",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
-      "peakRiskScore": 14,
-      "currentRiskScore": 14,
-      "peakPromotionScore": 52,
-      "currentPromotionScore": 52,
+      "peakRiskScore": 13,
+      "currentRiskScore": 13,
+      "peakPromotionScore": 54,
+      "currentPromotionScore": 54,
       "promotionPlatforms": [
         "StockTwits"
       ],
@@ -3983,57 +3241,56 @@
         {
           "platform": "StockTwits",
           "identifier": "PaulLaurent",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 2,
           "confidence": "high"
         },
         {
           "platform": "StockTwits",
-          "identifier": "Bullish_Moons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "high"
+          "identifier": "Stock_Catcher",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 2,
+          "confidence": "medium"
         },
         {
           "platform": "StockTwits",
-          "identifier": "Stock_Catcher",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "MomentumTradingFlows",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         },
         {
           "platform": "StockTwits",
-          "identifier": "PreciseTradingFlow",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "InitialTradingFlow",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         },
         {
           "platform": "StockTwits",
           "identifier": "topstockalerts",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.6265,
-      "peakPrice": 0.6265,
-      "currentPrice": 0.6265,
+      "priceAtDetection": 0.6634,
+      "peakPrice": 0.6634,
+      "currentPrice": 0.6634,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 169677,
-      "peakVolume": 169677,
-      "currentVolume": 169677,
+      "volumeAtDetection": 827601,
+      "peakVolume": 827601,
+      "currentVolume": 827601,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
         "SPIKE_7D",
         "VOLUME_EXPLOSION",
         "OVERBOUGHT_RSI",
@@ -4043,110 +3300,93 @@
         "High promotion risk on StockTwits"
       ],
       "notes": [
-        "Initial detection with promotion score 52"
+        "Initial detection with promotion score 54"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 14 and promotion score 52",
+          "details": "Initial detection with risk score 13 and promotion score 54",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-YHGJ-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-YHGJ-20260304-MMCWZXLQ",
-      "symbol": "YHGJ",
-      "name": "Yunhong Green CTI Ltd.",
-      "sector": "Consumer Cyclical",
-      "industry": "Packaging & Containers",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+    "SCHEME-ENGS-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-ENGS-20260305-MMECGPDG",
+      "symbol": "ENGS",
+      "name": "Energys Group Limited Ordinary Shares",
+      "sector": "Industrials",
+      "industry": "Waste Management",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
-      "peakRiskScore": 7,
-      "currentRiskScore": 7,
-      "peakPromotionScore": 55,
-      "currentPromotionScore": 55,
+      "peakRiskScore": 6,
+      "currentRiskScore": 6,
+      "peakPromotionScore": 63,
+      "currentPromotionScore": 63,
       "promotionPlatforms": [
         "StockTwits"
       ],
       "promoterAccounts": [
         {
           "platform": "StockTwits",
-          "identifier": "L7_Trading",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 5,
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
           "confidence": "high"
         },
         {
           "platform": "StockTwits",
-          "identifier": "RunningMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 2,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "RoaringMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "MickeyAsh",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "topstockalerts",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 2.5905,
-      "peakPrice": 2.5905,
-      "currentPrice": 2.5905,
+      "priceAtDetection": 0.8652,
+      "peakPrice": 0.8652,
+      "currentPrice": 0.8652,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 18865,
-      "peakVolume": 18865,
-      "currentVolume": 18865,
+      "volumeAtDetection": 127537,
+      "peakVolume": 127537,
+      "currentVolume": 127537,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "HIGH_VOLATILITY"
+        "MICRO_LIQUIDITY"
       ],
       "coordinationIndicators": [
         "High promotion risk on StockTwits"
       ],
       "notes": [
-        "Initial detection with promotion score 55"
+        "Initial detection with promotion score 63"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 7 and promotion score 55",
+          "details": "Initial detection with risk score 6 and promotion score 63",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-FATBP-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-FATBP-20260304-MMCWZXLQ",
+    "SCHEME-FATBP-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-FATBP-20260305-MMECGPDG",
       "symbol": "FATBP",
       "name": "FAT Brands Inc.",
       "sector": "Consumer Cyclical",
       "industry": "Restaurants",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 11,
@@ -4160,16 +3400,16 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.1398,
-      "peakPrice": 0.1398,
-      "currentPrice": 0.1398,
+      "priceAtDetection": 0.12033,
+      "peakPrice": 0.12033,
+      "currentPrice": 0.12033,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 809338,
@@ -4192,7 +3432,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 11 and promotion score 85",
@@ -4200,108 +3440,50 @@
         }
       ]
     },
-    "SCHEME-BIVI-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-BIVI-20260304-MMCWZXLQ",
-      "symbol": "BIVI",
-      "name": "BioVie Inc.",
+    "SCHEME-HKPD-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-HKPD-20260305-MMECGPDG",
+      "symbol": "HKPD",
+      "name": "Cellyan Biotechnology Co., Ltd",
       "sector": "Healthcare",
-      "industry": "Biotechnology",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 5,
-      "currentRiskScore": 5,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "2BullishMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 2,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.45,
-      "peakPrice": 1.45,
-      "currentPrice": 1.45,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 109386,
-      "peakVolume": 109386,
-      "currentVolume": 109386,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "OVERBOUGHT_RSI"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 5 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-LOBO-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-LOBO-20260304-MMCWZXLQ",
-      "symbol": "LOBO",
-      "name": "Lobo EV Technologies Ltd.",
-      "sector": "Consumer Cyclical",
-      "industry": "Auto - Manufacturers",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "industry": "Medical - Pharmaceuticals",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
       "currentRiskScore": 6,
-      "peakPromotionScore": 63,
-      "currentPromotionScore": 63,
+      "peakPromotionScore": 53,
+      "currentPromotionScore": 53,
       "promotionPlatforms": [
         "StockTwits"
       ],
       "promoterAccounts": [
         {
           "platform": "StockTwits",
-          "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "PaulLaurent",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         },
         {
           "platform": "StockTwits",
-          "identifier": "Victory777777",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "topstockalerts",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.55,
-      "peakPrice": 0.55,
-      "currentPrice": 0.55,
+      "priceAtDetection": 0.668,
+      "peakPrice": 0.668,
+      "currentPrice": 0.668,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 107365,
-      "peakVolume": 107365,
-      "currentVolume": 107365,
+      "volumeAtDetection": 79174,
+      "peakVolume": 79174,
+      "currentVolume": 79174,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -4311,27 +3493,27 @@
         "High promotion risk on StockTwits"
       ],
       "notes": [
-        "Initial detection with promotion score 63"
+        "Initial detection with promotion score 53"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 6 and promotion score 63",
+          "details": "Initial detection with risk score 6 and promotion score 53",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-JCTC-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-JCTC-20260304-MMCWZXLQ",
+    "SCHEME-JCTC-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-JCTC-20260305-MMECGPDG",
       "symbol": "JCTC",
       "name": "Jewett-Cameron Trading Company Ltd.",
       "sector": "Basic Materials",
       "industry": "Paper, Lumber & Forest Products",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -4345,21 +3527,21 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.72,
-      "peakPrice": 1.72,
-      "currentPrice": 1.72,
+      "priceAtDetection": 1.73,
+      "peakPrice": 1.73,
+      "currentPrice": 1.73,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 32211,
-      "peakVolume": 32211,
-      "currentVolume": 32211,
+      "volumeAtDetection": 30396,
+      "peakVolume": 30396,
+      "currentVolume": 30396,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -4374,7 +3556,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 85",
@@ -4382,131 +3564,14 @@
         }
       ]
     },
-    "SCHEME-NAAS-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-NAAS-20260304-MMCWZXLQ",
-      "symbol": "NAAS",
-      "name": "NaaS Technology Inc.",
-      "sector": "Consumer Cyclical",
-      "industry": "Specialty Retail",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 6,
-      "currentRiskScore": 6,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "ManyMoonz",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 2,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 2.06,
-      "peakPrice": 2.06,
-      "currentPrice": 2.06,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 21529,
-      "peakVolume": 21529,
-      "currentVolume": 21529,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 6 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-ZKIN-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-ZKIN-20260304-MMCWZXLQ",
-      "symbol": "ZKIN",
-      "name": "ZK International Group Co., Ltd.",
-      "sector": "Basic Materials",
-      "industry": "Steel",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 7,
-      "currentRiskScore": 7,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "WeeklyTradingFlow",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 3,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.37,
-      "peakPrice": 1.37,
-      "currentPrice": 1.37,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 20487,
-      "peakVolume": 20487,
-      "currentVolume": 20487,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 7 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-KPRX-20260304-MMCWZXLQ": {
-      "schemeId": "SCHEME-KPRX-20260304-MMCWZXLQ",
+    "SCHEME-KPRX-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-KPRX-20260305-MMECGPDG",
       "symbol": "KPRX",
       "name": "Kiora Pharmaceuticals, Inc.",
       "sector": "Healthcare",
       "industry": "Biotechnology",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -4520,21 +3585,21 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 2.04,
-      "peakPrice": 2.04,
-      "currentPrice": 2.04,
+      "priceAtDetection": 2.03,
+      "peakPrice": 2.03,
+      "currentPrice": 2.03,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 47079,
-      "peakVolume": 47079,
-      "currentVolume": 47079,
+      "volumeAtDetection": 46291,
+      "peakVolume": 46291,
+      "currentVolume": 46291,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -4549,7 +3614,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 85",
@@ -4557,14 +3622,14 @@
         }
       ]
     },
-    "SCHEME-WAFU-20260304-MMCWZXLR": {
-      "schemeId": "SCHEME-WAFU-20260304-MMCWZXLR",
+    "SCHEME-WAFU-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-WAFU-20260305-MMECGPDG",
       "symbol": "WAFU",
       "name": "Wah Fu Education Group Limited",
       "sector": "Consumer Defensive",
       "industry": "Education & Training Services",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -4578,32 +3643,32 @@
         {
           "platform": "StockTwits",
           "identifier": "penny_z",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         },
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         },
         {
           "platform": "StockTwits",
           "identifier": "trader87",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         },
         {
           "platform": "StockTwits",
           "identifier": "PaulLaurent",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
@@ -4614,9 +3679,9 @@
       "currentPrice": 1.7,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 11011,
-      "peakVolume": 11011,
-      "currentVolume": 11011,
+      "volumeAtDetection": 10900,
+      "peakVolume": 10900,
+      "currentVolume": 10900,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -4631,7 +3696,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 63",
@@ -4639,18 +3704,18 @@
         }
       ]
     },
-    "SCHEME-XELB-20260304-MMCWZXLR": {
-      "schemeId": "SCHEME-XELB-20260304-MMCWZXLR",
+    "SCHEME-XELB-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-XELB-20260305-MMECGPDG",
       "symbol": "XELB",
       "name": "Xcel Brands, Inc.",
       "sector": "Consumer Cyclical",
       "industry": "Apparel - Manufacturers",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
-      "peakRiskScore": 7,
-      "currentRiskScore": 7,
+      "peakRiskScore": 10,
+      "currentRiskScore": 10,
       "peakPromotionScore": 85,
       "currentPromotionScore": 85,
       "promotionPlatforms": [
@@ -4660,8 +3725,8 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
@@ -4679,6 +3744,7 @@
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
         "MICRO_LIQUIDITY",
+        "SPIKE_THEN_DROP",
         "HIGH_VOLATILITY"
       ],
       "coordinationIndicators": [
@@ -4690,217 +3756,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 7 and promotion score 85",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-SBLX-20260304-MMCWZXLR": {
-      "schemeId": "SCHEME-SBLX-20260304-MMCWZXLR",
-      "symbol": "SBLX",
-      "name": "StableX Technologies, Inc. - Common Stock",
-      "sector": "Industrials",
-      "industry": "Auto - Parts",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 5,
-      "currentRiskScore": 5,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "2BullishMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 2,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "RisingMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 2,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "WallStJoey",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "beppels",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "RunnerSignals",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 2.45,
-      "peakPrice": 2.45,
-      "currentPrice": 2.45,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 125267,
-      "peakVolume": 125267,
-      "currentVolume": 125267,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 5 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-VSTD-20260304-MMCWZXLR": {
-      "schemeId": "SCHEME-VSTD-20260304-MMCWZXLR",
-      "symbol": "VSTD",
-      "name": "Vestand Inc.",
-      "sector": "Consumer Defensive",
-      "industry": "Food Distribution",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 10,
-      "currentRiskScore": 10,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "ManyMoonz",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 2,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.28,
-      "peakPrice": 0.28,
-      "currentPrice": 0.28,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 380311,
-      "peakVolume": 380311,
-      "currentVolume": 380311,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "SPIKE_7D",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 10 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-RNWWW-20260304-MMCWZXLR": {
-      "schemeId": "SCHEME-RNWWW-20260304-MMCWZXLR",
-      "symbol": "RNWWW",
-      "name": "ReNew Energy Global plc",
-      "sector": "Utilities",
-      "industry": "Renewable Utilities",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 10,
-      "currentRiskScore": 10,
-      "peakPromotionScore": 85,
-      "currentPromotionScore": 85,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "high"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.007,
-      "peakPrice": 0.007,
-      "currentPrice": 0.007,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 48737,
-      "peakVolume": 48737,
-      "currentVolume": 48737,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "SPIKE_7D",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 85"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 10 and promotion score 85",
@@ -4908,124 +3764,42 @@
         }
       ]
     },
-    "SCHEME-PRPH-20260304-MMCWZXLR": {
-      "schemeId": "SCHEME-PRPH-20260304-MMCWZXLR",
-      "symbol": "PRPH",
-      "name": "ProPhase Labs, Inc.",
+    "SCHEME-IMRN-20260305-MMECGPDG": {
+      "schemeId": "SCHEME-IMRN-20260305-MMECGPDG",
+      "symbol": "IMRN",
+      "name": "Immuron Limited",
       "sector": "Healthcare",
-      "industry": "Drug Manufacturers - Specialty & Generic",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 5,
-      "currentRiskScore": 5,
-      "peakPromotionScore": 53,
-      "currentPromotionScore": 53,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "RoaringMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 2,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "TheRoaringBunny",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "high"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "johannn",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.14,
-      "peakPrice": 0.14,
-      "currentPrice": 0.14,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 1180363,
-      "peakVolume": 1180363,
-      "currentVolume": 1180363,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 53"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 5 and promotion score 53",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-STKH-20260304-MMCWZXLR": {
-      "schemeId": "SCHEME-STKH-20260304-MMCWZXLR",
-      "symbol": "STKH",
-      "name": "Steakholder Foods Ltd.",
-      "sector": "Consumer Defensive",
-      "industry": "Packaged Foods",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "industry": "Biotechnology",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 7,
       "currentRiskScore": 7,
-      "peakPromotionScore": 70,
-      "currentPromotionScore": 70,
+      "peakPromotionScore": 65,
+      "currentPromotionScore": 65,
       "promotionPlatforms": [
         "StockTwits"
       ],
       "promoterAccounts": [
         {
           "platform": "StockTwits",
-          "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "OptionzTradingFlows",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "beppels",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
-          "postCount": 1,
-          "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.23,
-      "peakPrice": 1.23,
-      "currentPrice": 1.23,
+      "priceAtDetection": 0.78,
+      "peakPrice": 0.78,
+      "currentPrice": 0.78,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 87861,
-      "peakVolume": 87861,
-      "currentVolume": 87861,
+      "volumeAtDetection": 76896,
+      "peakVolume": 76896,
+      "currentVolume": 76896,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -5036,27 +3810,163 @@
         "High promotion risk on StockTwits"
       ],
       "notes": [
-        "Initial detection with promotion score 70"
+        "Initial detection with promotion score 65"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 7 and promotion score 70",
+          "details": "Initial detection with risk score 7 and promotion score 65",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-ISPOW-20260304-MMCWZXLR": {
-      "schemeId": "SCHEME-ISPOW-20260304-MMCWZXLR",
+    "SCHEME-RNWWW-20260305-MMECGPDH": {
+      "schemeId": "SCHEME-RNWWW-20260305-MMECGPDH",
+      "symbol": "RNWWW",
+      "name": "ReNew Energy Global plc",
+      "sector": "Utilities",
+      "industry": "Renewable Utilities",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 13,
+      "currentRiskScore": 13,
+      "peakPromotionScore": 85,
+      "currentPromotionScore": 85,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 0.0056,
+      "peakPrice": 0.0056,
+      "currentPrice": 0.0056,
+      "priceChangeFromDetection": 0,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 42494,
+      "peakVolume": 42494,
+      "currentVolume": 42494,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
+      "notes": [
+        "Initial detection with promotion score 85"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-03-05",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 13 and promotion score 85",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-STKH-20260305-MMECGPDH": {
+      "schemeId": "SCHEME-STKH-20260305-MMECGPDH",
+      "symbol": "STKH",
+      "name": "Steakholder Foods Ltd.",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 7,
+      "currentRiskScore": 7,
+      "peakPromotionScore": 57,
+      "currentPromotionScore": 57,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "beppels",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "JL_TradeZ",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "medium"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 1.26,
+      "peakPrice": 1.26,
+      "currentPrice": 1.26,
+      "priceChangeFromDetection": 0,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 84403,
+      "peakVolume": 84403,
+      "currentVolume": 84403,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "HIGH_VOLATILITY"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
+      "notes": [
+        "Initial detection with promotion score 57"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-03-05",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 7 and promotion score 57",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-ISPOW-20260305-MMECGPDH": {
+      "schemeId": "SCHEME-ISPOW-20260305-MMECGPDH",
       "symbol": "ISPOW",
       "name": "Inspirato Incorporated",
       "sector": "Consumer Cyclical",
       "industry": "Leisure",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 7,
@@ -5070,8 +3980,8 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
@@ -5100,7 +4010,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 7 and promotion score 85",
@@ -5108,14 +4018,14 @@
         }
       ]
     },
-    "SCHEME-FSHP-20260304-MMCWZXLS": {
-      "schemeId": "SCHEME-FSHP-20260304-MMCWZXLS",
+    "SCHEME-FSHP-20260305-MMECGPDH": {
+      "schemeId": "SCHEME-FSHP-20260305-MMECGPDH",
       "symbol": "FSHP",
       "name": "Flag Ship Acquisition Corporation",
       "sector": "Financial Services",
       "industry": "Shell Companies",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -5129,8 +4039,8 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
@@ -5141,9 +4051,9 @@
       "currentPrice": 10.84,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 1279,
-      "peakVolume": 1279,
-      "currentVolume": 1279,
+      "volumeAtDetection": 2225,
+      "peakVolume": 2225,
+      "currentVolume": 2225,
       "signalsDetected": [
         "SMALL_MARKET_CAP",
         "MICRO_LIQUIDITY",
@@ -5158,7 +4068,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 85",
@@ -5166,14 +4076,14 @@
         }
       ]
     },
-    "SCHEME-YHNA-20260304-MMCWZXLS": {
-      "schemeId": "SCHEME-YHNA-20260304-MMCWZXLS",
+    "SCHEME-YHNA-20260305-MMECGPDI": {
+      "schemeId": "SCHEME-YHNA-20260305-MMECGPDI",
       "symbol": "YHNA",
       "name": "YHN Acquisition I Limited",
       "sector": "Financial Services",
       "industry": "Financial - Conglomerates",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -5187,8 +4097,8 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "high"
         }
@@ -5216,7 +4126,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 85",
@@ -5224,42 +4134,58 @@
         }
       ]
     },
-    "SCHEME-FGN-20260304-MMCWZXLS": {
-      "schemeId": "SCHEME-FGN-20260304-MMCWZXLS",
-      "symbol": "FGN",
-      "name": "F&G Annuities & Life, Inc.",
+    "SCHEME-PRH-20260305-MMECGPDI": {
+      "schemeId": "SCHEME-PRH-20260305-MMECGPDI",
+      "symbol": "PRH",
+      "name": "Prudential Financial, Inc. 5.95",
       "sector": "Financial Services",
       "industry": "Insurance - Life",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 7,
       "currentRiskScore": 7,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
+      "peakPromotionScore": 54,
+      "currentPromotionScore": 54,
       "promotionPlatforms": [
         "StockTwits"
       ],
       "promoterAccounts": [
         {
           "platform": "StockTwits",
-          "identifier": "_BreakoutMoons",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "WallStJoey",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "PaulLaurent",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "NoEmotionzTrade",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 25.31,
-      "peakPrice": 25.31,
-      "currentPrice": 25.31,
+      "priceAtDetection": 24.82,
+      "peakPrice": 24.82,
+      "currentPrice": 24.82,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 29994,
-      "peakVolume": 29994,
-      "currentVolume": 29994,
+      "volumeAtDetection": 21262,
+      "peakVolume": 21262,
+      "currentVolume": 21262,
       "signalsDetected": [
         "SPIKE_7D",
         "OVERBOUGHT_RSI",
@@ -5269,27 +4195,84 @@
         "High promotion risk on StockTwits"
       ],
       "notes": [
-        "Initial detection with promotion score 50"
+        "Initial detection with promotion score 54"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 7 and promotion score 50",
+          "details": "Initial detection with risk score 7 and promotion score 54",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-BRIA-20260304-MMCWZXLT": {
-      "schemeId": "SCHEME-BRIA-20260304-MMCWZXLT",
+    "SCHEME-PBF-20260305-MMECGPDI": {
+      "schemeId": "SCHEME-PBF-20260305-MMECGPDI",
+      "symbol": "PBF",
+      "name": "PBF Energy Inc.",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 5,
+      "currentRiskScore": 5,
+      "peakPromotionScore": 55,
+      "currentPromotionScore": 55,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "topstockalerts",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "medium"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 45.66,
+      "peakPrice": 45.66,
+      "currentPrice": 45.66,
+      "priceChangeFromDetection": 0,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 3207817,
+      "peakVolume": 3207817,
+      "currentVolume": 3207817,
+      "signalsDetected": [
+        "SPIKE_7D",
+        "OVERBOUGHT_RSI"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
+      "notes": [
+        "Initial detection with promotion score 55"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-03-05",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 5 and promotion score 55",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-BRIA-20260305-MMECGPDI": {
+      "schemeId": "SCHEME-BRIA-20260305-MMECGPDI",
       "symbol": "BRIA",
       "name": "Brillia Inc",
       "sector": "Industrials",
       "industry": "Industrial - Distribution",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -5302,17 +4285,17 @@
       "promoterAccounts": [
         {
           "platform": "StockTwits",
-          "identifier": "RecentTradingFlow",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "identifier": "InitialTradingFlow",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 2,
-      "peakPrice": 2,
-      "currentPrice": 2,
+      "priceAtDetection": 2.02,
+      "peakPrice": 2.02,
+      "currentPrice": 2.02,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 12683,
@@ -5332,7 +4315,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 50",
@@ -5340,14 +4323,143 @@
         }
       ]
     },
-    "SCHEME-CPHI-20260304-MMCWZXLT": {
-      "schemeId": "SCHEME-CPHI-20260304-MMCWZXLT",
+    "SCHEME-TMDE-20260305-MMECGPDI": {
+      "schemeId": "SCHEME-TMDE-20260305-MMECGPDI",
+      "symbol": "TMDE",
+      "name": "TMD Energy Limited",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 14,
+      "currentRiskScore": 14,
+      "peakPromotionScore": 50,
+      "currentPromotionScore": 50,
+      "promotionPlatforms": [],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "Stock_Catcher",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 4,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "FORECAST_ONE",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 2,
+          "confidence": "high"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "TraderJay85",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 2,
+          "confidence": "high"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "MasterChi",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 2,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "MadMaverick",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 2,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "SmartMoneyTradez",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "RoyPigford",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "InitialTradingFlow",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "OptimalTradingFlows",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "Richard12_",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
+          "postCount": 1,
+          "confidence": "medium"
+        }
+      ],
+      "hadSocialMediaPromotion": false,
+      "priceAtDetection": 3.04,
+      "peakPrice": 3.04,
+      "currentPrice": 3.04,
+      "priceChangeFromDetection": 0,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 5883269,
+      "peakVolume": 5883269,
+      "currentVolume": 5883269,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "coordinationIndicators": [],
+      "notes": [
+        "Initial detection with promotion score 50"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-03-05",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 14 and promotion score 50",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-CPHI-20260305-MMECGPDI": {
+      "schemeId": "SCHEME-CPHI-20260305-MMECGPDI",
       "symbol": "CPHI",
       "name": "China Pharma Holdings, Inc.",
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -5361,21 +4473,21 @@
         {
           "platform": "StockTwits",
           "identifier": "dln101",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 2,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.5882,
-      "peakPrice": 0.5882,
-      "currentPrice": 0.5882,
+      "priceAtDetection": 0.5916,
+      "peakPrice": 0.5916,
+      "currentPrice": 0.5916,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 59325,
-      "peakVolume": 59325,
-      "currentVolume": 59325,
+      "volumeAtDetection": 58922,
+      "peakVolume": 58922,
+      "currentVolume": 58922,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -5390,7 +4502,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 53",
@@ -5398,14 +4510,14 @@
         }
       ]
     },
-    "SCHEME-MTNB-20260304-MMCWZXLT": {
-      "schemeId": "SCHEME-MTNB-20260304-MMCWZXLT",
+    "SCHEME-MTNB-20260305-MMECGPDI": {
+      "schemeId": "SCHEME-MTNB-20260305-MMECGPDI",
       "symbol": "MTNB",
       "name": "Matinas BioPharma Holdings, Inc.",
       "sector": "Healthcare",
       "industry": "Biotechnology",
-      "firstDetected": "2026-03-04",
-      "lastSeen": "2026-03-04",
+      "firstDetected": "2026-03-05",
+      "lastSeen": "2026-03-05",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 6,
@@ -5419,16 +4531,16 @@
         {
           "platform": "StockTwits",
           "identifier": "NoEmotionzTrade",
-          "firstSeen": "2026-03-04",
-          "lastSeen": "2026-03-04",
+          "firstSeen": "2026-03-05",
+          "lastSeen": "2026-03-05",
           "postCount": 1,
           "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.6035,
-      "peakPrice": 0.6035,
-      "currentPrice": 0.6035,
+      "priceAtDetection": 0.576,
+      "peakPrice": 0.576,
+      "currentPrice": 0.576,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 33694,
@@ -5448,7 +4560,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-05",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 6 and promotion score 55",
