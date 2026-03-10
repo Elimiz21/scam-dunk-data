@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-07T04:20:59.124Z",
-  "totalPromoters": 37,
-  "activePromoters": 32,
-  "serialOffenders": 8,
+  "lastUpdated": "2026-03-10T04:23:44.105Z",
+  "totalPromoters": 49,
+  "activePromoters": 49,
+  "serialOffenders": 14,
   "promoters": {
-    "PROM-TWITTERX-TWITTERXPROMOTERS-FRZN": {
-      "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-FRZN",
+    "PROM-TWITTERX-TWITTERXPROMOTERS-UVAE": {
+      "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-UVAE",
       "identifier": "Twitter/X promoters",
       "platform": "Twitter/X",
       "firstSeen": "2026-02-02",
@@ -44,7 +44,7 @@
           "symbol": "XAIR",
           "schemeId": "SCH-XAIR-20260202-M8NZ",
           "schemeName": "Beyond Air, Inc.",
-          "schemeStatus": "PUMP_AND_DUMP_ENDED",
+          "schemeStatus": "COOLING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -71,7 +71,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "ONGOING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -106,7 +106,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-FRZN",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-UVAE",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -117,7 +117,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-FRZN",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-UVAE",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-FRZN",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-UVAE",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -150,7 +150,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-FRZN",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-UVAE",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -159,10 +159,10 @@
         }
       ],
       "riskLevel": "SERIAL_OFFENDER",
-      "isActive": false
+      "isActive": true
     },
-    "PROM-YOUTUBE-YOUTUBEPROMOTERS-FRZN": {
-      "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-FRZN",
+    "PROM-YOUTUBE-YOUTUBEPROMOTERS-UVAE": {
+      "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-UVAE",
       "identifier": "YouTube promoters",
       "platform": "YouTube",
       "firstSeen": "2026-02-02",
@@ -192,7 +192,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "ONGOING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -209,7 +209,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-FRZN",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-UVAE",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -220,7 +220,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-FRZN",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-UVAE",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -231,7 +231,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-FRZN",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-UVAE",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -242,7 +242,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-FRZN",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-UVAE",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -251,10 +251,10 @@
         }
       ],
       "riskLevel": "SERIAL_OFFENDER",
-      "isActive": false
+      "isActive": true
     },
-    "PROM-DISCORD-DISCORDPROMOTERS-FRZN": {
-      "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-FRZN",
+    "PROM-DISCORD-DISCORDPROMOTERS-UVAE": {
+      "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-UVAE",
       "identifier": "Discord promoters",
       "platform": "Discord",
       "firstSeen": "2026-02-02",
@@ -311,7 +311,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "ONGOING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -346,7 +346,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-FRZN",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-UVAE",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -362,7 +362,7 @@
           ]
         },
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-FRZN",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-UVAE",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -373,7 +373,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-FRZN",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-UVAE",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -389,7 +389,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-FRZN",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-UVAE",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -398,10 +398,10 @@
         }
       ],
       "riskLevel": "SERIAL_OFFENDER",
-      "isActive": false
+      "isActive": true
     },
-    "PROM-TELEGRAM-TELEGRAMPROMOTERS-FRZN": {
-      "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-FRZN",
+    "PROM-TELEGRAM-TELEGRAMPROMOTERS-UVAE": {
+      "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-UVAE",
       "identifier": "Telegram promoters",
       "platform": "Telegram",
       "firstSeen": "2026-02-02",
@@ -440,7 +440,7 @@
           "symbol": "XAIR",
           "schemeId": "SCH-XAIR-20260202-M8NZ",
           "schemeName": "Beyond Air, Inc.",
-          "schemeStatus": "PUMP_AND_DUMP_ENDED",
+          "schemeStatus": "COOLING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -467,7 +467,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "ONGOING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -502,7 +502,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-FRZN",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-UVAE",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -519,7 +519,7 @@
           ]
         },
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-FRZN",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-UVAE",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -530,7 +530,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-FRZN",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-UVAE",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -546,7 +546,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-FRZN",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-UVAE",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -555,10 +555,10 @@
         }
       ],
       "riskLevel": "SERIAL_OFFENDER",
-      "isActive": false
+      "isActive": true
     },
-    "PROM-REDDIT-CARLENETRAMMEL-FRZN": {
-      "promoterId": "PROM-REDDIT-CARLENETRAMMEL-FRZN",
+    "PROM-REDDIT-CARLENETRAMMEL-UVAE": {
+      "promoterId": "PROM-REDDIT-CARLENETRAMMEL-UVAE",
       "identifier": "Carlene_Trammel",
       "platform": "Reddit",
       "firstSeen": "2026-02-02",
@@ -570,7 +570,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "NO_SCAM_DETECTED",
+          "schemeStatus": "ONGOING",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-02",
           "postCount": 1
@@ -578,7 +578,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-FRZN",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-UVAE",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -586,7 +586,7 @@
           ]
         },
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-FRZN",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-UVAE",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -594,7 +594,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-FRZN",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-UVAE",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -602,7 +602,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-FRZN",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-UVAE",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -611,386 +611,385 @@
         }
       ],
       "riskLevel": "MEDIUM",
-      "isActive": false
-    },
-    "PROM-STOCKTWITS-MICHAELGARIC-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-MICHAELGARIC-FRZN",
-      "identifier": "Michael_garic",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "AUTL",
-          "schemeId": "SCHEME-AUTL-20260306-MMFTFRZH",
-          "schemeName": "Autolus Therapeutics plc",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [],
-      "riskLevel": "LOW",
       "isActive": true
     },
-    "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
+    "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
       "identifier": "OfficialStocktwitsUser",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 311,
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 298,
       "confidence": "high",
       "stocksPromoted": [
         {
+          "symbol": "FBYD",
+          "schemeId": "SCHEME-FBYD-20260309-MMK3UVA8",
+          "schemeName": "Falcon's Beyond Global, Inc. Class A Common Stock",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
           "symbol": "TTGT",
-          "schemeId": "SCHEME-TTGT-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-TTGT-20260309-MMK3UVA8",
           "schemeName": "TechTarget, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "FLX",
+          "schemeId": "SCHEME-FLX-20260309-MMK3UVA8",
+          "schemeName": "BingEx Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "HUHU",
-          "schemeId": "SCHEME-HUHU-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-HUHU-20260309-MMK3UVA8",
           "schemeName": "HUHUTECH International Group Inc. Ordinary Shares",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "IPHA",
-          "schemeId": "SCHEME-IPHA-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-IPHA-20260309-MMK3UVA8",
           "schemeName": "Innate Pharma S.A.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "SCAG",
-          "schemeId": "SCHEME-SCAG-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-SCAG-20260309-MMK3UVA9",
           "schemeName": "Scage Future American Depositary Shares",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "OBTC",
-          "schemeId": "SCHEME-OBTC-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-OBTC-20260309-MMK3UVA9",
           "schemeName": "Osprey Bitcoin Trust",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "NIPG",
-          "schemeId": "SCHEME-NIPG-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-NIPG-20260309-MMK3UVA9",
           "schemeName": "NIP Group Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "INVE",
-          "schemeId": "SCHEME-INVE-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-INVE-20260309-MMK3UVA9",
           "schemeName": "Identiv, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 274
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 264
         },
         {
-          "symbol": "SFWL",
-          "schemeId": "SCHEME-SFWL-20260306-MMFTFRZI",
-          "schemeName": "Shengfeng Development Limited",
+          "symbol": "MAYS",
+          "schemeId": "SCHEME-MAYS-20260309-MMK3UVA9",
+          "schemeName": "J.W. Mays, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "MCHX",
-          "schemeId": "SCHEME-MCHX-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-MCHX-20260309-MMK3UVA9",
           "schemeName": "Marchex, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "XBIT",
-          "schemeId": "SCHEME-XBIT-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-XBIT-20260309-MMK3UVA9",
           "schemeName": "XBiotech Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "ZYBT",
-          "schemeId": "SCHEME-ZYBT-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-ZYBT-20260309-MMK3UVA9",
           "schemeName": "Zhengye Biotechnology Holding Limited",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        },
-        {
-          "symbol": "KBSX",
-          "schemeId": "SCHEME-KBSX-20260306-MMFTFRZI",
-          "schemeName": "FST Corp.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        },
-        {
-          "symbol": "LVRO",
-          "schemeId": "SCHEME-LVRO-20260306-MMFTFRZI",
-          "schemeName": "Lavoro Limited",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "GMHS",
-          "schemeId": "SCHEME-GMHS-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-GMHS-20260309-MMK3UVA9",
           "schemeName": "Gamehaus Holdings Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "OKUR",
-          "schemeId": "SCHEME-OKUR-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-OKUR-20260309-MMK3UVA9",
           "schemeName": "OnKure Therapeutics, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "CNTY",
-          "schemeId": "SCHEME-CNTY-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-CNTY-20260309-MMK3UVA9",
           "schemeName": "Century Casinos, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "ICMB",
-          "schemeId": "SCHEME-ICMB-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-ICMB-20260309-MMK3UVA9",
           "schemeName": "Investcorp Credit Management BDC, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "OMCC",
-          "schemeId": "SCHEME-OMCC-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-OMCC-20260309-MMK3UVA9",
           "schemeName": "Old Market Capital Corporation",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "SELX",
-          "schemeId": "SCHEME-SELX-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-SELX-20260309-MMK3UVA9",
           "schemeName": "Semilux International Ltd. Ordinary Shares",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "MNDO",
-          "schemeId": "SCHEME-MNDO-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-MNDO-20260309-MMK3UVA9",
           "schemeName": "MIND C.T.I. Ltd",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "IRIX",
-          "schemeId": "SCHEME-IRIX-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-IRIX-20260309-MMK3UVA9",
           "schemeName": "IRIDEX Corporation",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "GIGM",
-          "schemeId": "SCHEME-GIGM-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-GIGM-20260309-MMK3UVAA",
           "schemeName": "GigaMedia Limited",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "SAIH",
-          "schemeId": "SCHEME-SAIH-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-SAIH-20260309-MMK3UVAA",
           "schemeName": "SAIHEAT Limited",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        },
-        {
-          "symbol": "WVVI",
-          "schemeId": "SCHEME-WVVI-20260306-MMFTFRZJ",
-          "schemeName": "Willamette Valley Vineyards, Inc.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "FEBO",
-          "schemeId": "SCHEME-FEBO-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-FEBO-20260309-MMK3UVAA",
           "schemeName": "Fenbo Holdings Limited Ordinary Shares",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "ENGS",
-          "schemeId": "SCHEME-ENGS-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-ENGS-20260309-MMK3UVAA",
           "schemeName": "Energys Group Limited Ordinary Shares",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "FATBP",
-          "schemeId": "SCHEME-FATBP-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-FATBP-20260309-MMK3UVAA",
           "schemeName": "FAT Brands Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        },
-        {
-          "symbol": "LOBO",
-          "schemeId": "SCHEME-LOBO-20260306-MMFTFRZJ",
-          "schemeName": "Lobo EV Technologies Ltd.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "JCTC",
-          "schemeId": "SCHEME-JCTC-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-JCTC-20260309-MMK3UVAA",
           "schemeName": "Jewett-Cameron Trading Company Ltd.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "IFBD",
-          "schemeId": "SCHEME-IFBD-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-IFBD-20260309-MMK3UVAA",
           "schemeName": "Infobird Co., Ltd",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "KPRX",
-          "schemeId": "SCHEME-KPRX-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-KPRX-20260309-MMK3UVAA",
           "schemeName": "Kiora Pharmaceuticals, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "WAFU",
-          "schemeId": "SCHEME-WAFU-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-WAFU-20260309-MMK3UVAA",
           "schemeName": "Wah Fu Education Group Limited",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        },
-        {
-          "symbol": "SNTG",
-          "schemeId": "SCHEME-SNTG-20260306-MMFTFRZK",
-          "schemeName": "Sentage Holdings Inc.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "XELB",
-          "schemeId": "SCHEME-XELB-20260306-MMFTFRZK",
+          "schemeId": "SCHEME-XELB-20260309-MMK3UVAA",
           "schemeName": "Xcel Brands, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "RNWWW",
-          "schemeId": "SCHEME-RNWWW-20260306-MMFTFRZK",
+          "schemeId": "SCHEME-RNWWW-20260309-MMK3UVAA",
           "schemeName": "ReNew Energy Global plc",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "ISPOW",
-          "schemeId": "SCHEME-ISPOW-20260306-MMFTFRZK",
+          "schemeId": "SCHEME-ISPOW-20260309-MMK3UVAB",
           "schemeName": "Inspirato Incorporated",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "FSHP",
-          "schemeId": "SCHEME-FSHP-20260306-MMFTFRZL",
+          "schemeId": "SCHEME-FSHP-20260309-MMK3UVAB",
           "schemeName": "Flag Ship Acquisition Corporation",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "YHNA",
-          "schemeId": "SCHEME-YHNA-20260306-MMFTFRZL",
+          "schemeId": "SCHEME-YHNA-20260309-MMK3UVAC",
           "schemeName": "YHN Acquisition I Limited",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         }
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-FRZN",
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FBYD",
+            "IFBD"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-UNCLESTOCK-UVAE",
+          "identifier": "UncleStock",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FBYD"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALPHABULL10M-UVAE",
+          "identifier": "AlphaBull_10M",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FLX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-UDOMM-UVAE",
+          "identifier": "Udomm",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FLX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ENGS"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GUERRERAA-UVAE",
+          "identifier": "Guerreraa",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-UVAE",
           "identifier": "WatchTheseTickers",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -998,15 +997,31 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-GAYO2-FRZN",
-          "identifier": "Gayo_2",
+          "promoterId": "PROM-STOCKTWITS-STOCKNEWSLIVE-UVAE",
+          "identifier": "StockNews_Live",
           "platform": "StockTwits",
           "sharedStocks": [
             "INVE"
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-KIEFERP02-FRZN",
+          "promoterId": "PROM-STOCKTWITS-ZACKSRESEARCH-UVAE",
+          "identifier": "ZacksResearch",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JUSTTHENUT-UVAE",
+          "identifier": "JustTheNut",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KIEFERP02-UVAE",
           "identifier": "KieferP02",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -1014,7 +1029,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-FRZN",
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-UVAE",
           "identifier": "TheBlackBerrry",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -1022,15 +1037,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-BULLBUTTER23-FRZN",
-          "identifier": "BullButter23",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-FRZN",
+          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-UVAE",
           "identifier": "GlobalMarketBulletin",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -1038,7 +1045,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-FRZN",
+          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-UVAE",
           "identifier": "BoltTrade",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -1046,23 +1053,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-WHOAMI1989-FRZN",
-          "identifier": "Whoami1989",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-TWILLS08-FRZN",
-          "identifier": "Twills08",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-FRZN",
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-UVAE",
           "identifier": "PaulLaurent",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -1072,23 +1063,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-FRZN",
-          "identifier": "topstockalerts",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "ENGS"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-VICTORY777777-FRZN",
-          "identifier": "Victory777777",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "LOBO"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-ALPHATUNA-FRZN",
+          "promoterId": "PROM-STOCKTWITS-ALPHATUNA-UVAE",
           "identifier": "AlphaTuna",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -1096,7 +1071,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-PENNYZ-FRZN",
+          "promoterId": "PROM-STOCKTWITS-PENNYZ-UVAE",
           "identifier": "penny_z",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -1104,178 +1079,1353 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-TRADER87-FRZN",
+          "promoterId": "PROM-STOCKTWITS-TRADER87-UVAE",
           "identifier": "trader87",
           "platform": "StockTwits",
           "sharedStocks": [
-            "WAFU",
-            "SNTG"
+            "WAFU"
           ]
         }
       ],
       "riskLevel": "SERIAL_OFFENDER",
       "isActive": true
     },
-    "PROM-STOCKTWITS-GMEXAPE-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-GMEXAPE-FRZN",
-      "identifier": "GMExAPE",
+    "PROM-STOCKTWITS-6GODENERGY-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+      "identifier": "6GodEnergy",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 18,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "FBYD",
+          "schemeId": "SCHEME-FBYD-20260309-MMK3UVA8",
+          "schemeName": "Falcon's Beyond Global, Inc. Class A Common Stock",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "FOSL",
+          "schemeId": "SCHEME-FOSL-20260309-MMK3UVA8",
+          "schemeName": "Fossil Group, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "ATRA",
+          "schemeId": "SCHEME-ATRA-20260309-MMK3UVA9",
+          "schemeName": "Atara Biotherapeutics, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "CHSN",
+          "schemeId": "SCHEME-CHSN-20260309-MMK3UVA9",
+          "schemeName": "Chanson International Holding",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 2
+        },
+        {
+          "symbol": "SFWL",
+          "schemeId": "SCHEME-SFWL-20260309-MMK3UVA9",
+          "schemeName": "Shengfeng Development Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "GOCO",
+          "schemeId": "SCHEME-GOCO-20260309-MMK3UVA9",
+          "schemeName": "GoHealth, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 2
+        },
+        {
+          "symbol": "KBSX",
+          "schemeId": "SCHEME-KBSX-20260309-MMK3UVA9",
+          "schemeName": "FST Corp.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "CABR",
+          "schemeId": "SCHEME-CABR-20260309-MMK3UVAA",
+          "schemeName": "Caring Brands, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "IFBD",
+          "schemeId": "SCHEME-IFBD-20260309-MMK3UVAA",
+          "schemeName": "Infobird Co., Ltd",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "DCX",
+          "schemeId": "SCHEME-DCX-20260309-MMK3UVAA",
+          "schemeName": "Digital Currency X Technology Inc",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 2
+        },
+        {
+          "symbol": "ONFO",
+          "schemeId": "SCHEME-ONFO-20260309-MMK3UVAA",
+          "schemeName": "Onfolio Holdings, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "AGL",
+          "schemeId": "SCHEME-AGL-20260309-MMK3UVAC",
+          "schemeName": "Agilon Health, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "RBOT",
+          "schemeId": "SCHEME-RBOT-20260309-MMK3UVAC",
+          "schemeName": "Vicarious Surgical Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 3
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FBYD",
+            "IFBD"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-UNCLESTOCK-UVAE",
+          "identifier": "UncleStock",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FBYD"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DLN101-UVAE",
+          "identifier": "dln101",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-IPOARMY1-UVAE",
+          "identifier": "IPOARMY1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SADYK189-UVAE",
+          "identifier": "SadyK189",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKANALYSIS-UVAE",
+          "identifier": "stockanalysis_",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-NOVATRENDZ-UVAE",
+          "identifier": "NovaTrendz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA",
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DAYTRADE4LIFE-UVAE",
+          "identifier": "DayTrade_4Life",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+          "identifier": "KnightDuncan",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA",
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA",
+            "CABR",
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-UVAE",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CABR"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TRADERJAY85-UVAE",
+          "identifier": "TraderJay85",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CHSN"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALPHATUNA-UVAE",
+          "identifier": "AlphaTuna",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IFBD"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DAVIDSCOTT-UVAE",
+          "identifier": "DavidScott",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-UVAE",
+          "identifier": "PSM_EmpowerTrading",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JLTRADEZ-UVAE",
+          "identifier": "JL_TradeZ",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ELLIOTVANCE-UVAE",
+          "identifier": "ElliotVance",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-CHARTCHARTIST-UVAE",
+          "identifier": "ChartChartist",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-LECORB-UVAE",
+          "identifier": "lecorb",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTR8-UVAE",
+          "identifier": "SMARTR8",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "AGL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SIMONYAC-UVAE",
+          "identifier": "Simonyac",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "AGL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-UVAE",
+          "identifier": "Stock_Catcher",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "RBOT"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-UNCLESTOCK-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-UNCLESTOCK-UVAE",
+      "identifier": "UncleStock",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "FBYD",
+          "schemeId": "SCHEME-FBYD-20260309-MMK3UVA8",
+          "schemeName": "Falcon's Beyond Global, Inc. Class A Common Stock",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FBYD"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FBYD"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-ALPHABULL10M-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-ALPHABULL10M-UVAE",
+      "identifier": "AlphaBull_10M",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "FLX",
+          "schemeId": "SCHEME-FLX-20260309-MMK3UVA8",
+          "schemeName": "BingEx Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FLX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-UDOMM-UVAE",
+          "identifier": "Udomm",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FLX"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-UDOMM-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-UDOMM-UVAE",
+      "identifier": "Udomm",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "FLX",
+          "schemeId": "SCHEME-FLX-20260309-MMK3UVA8",
+          "schemeName": "BingEx Limited",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FLX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ALPHABULL10M-UVAE",
+          "identifier": "AlphaBull_10M",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FLX"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-DLN101-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-DLN101-UVAE",
+      "identifier": "dln101",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
       "totalPosts": 4,
       "confidence": "high",
       "stocksPromoted": [
         {
-          "symbol": "RDNW",
-          "schemeId": "SCHEME-RDNW-20260306-MMFTFRZI",
-          "schemeName": "RideNow Group, Inc.",
+          "symbol": "FOSL",
+          "schemeId": "SCHEME-FOSL-20260309-MMK3UVA8",
+          "schemeName": "Fossil Group, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 2
         },
         {
-          "symbol": "VGAS",
-          "schemeId": "SCHEME-VGAS-20260306-MMFTFRZI",
-          "schemeName": "Verde Clean Fuels, Inc.",
+          "symbol": "CPHI",
+          "schemeId": "SCHEME-CPHI-20260309-MMK3UVAC",
+          "schemeName": "China Pharma Holdings, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        },
-        {
-          "symbol": "BIOX",
-          "schemeId": "SCHEME-BIOX-20260306-MMFTFRZI",
-          "schemeName": "Bioceres Crop Solutions Corp.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 2
         }
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-STOCKTWITS-YABOYZEZO-FRZN",
-          "identifier": "YaBoyZezo",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "VGAS"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-6GODENERGY-FRZN",
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
           "identifier": "6GodEnergy",
           "platform": "StockTwits",
           "sharedStocks": [
-            "VGAS"
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-IPOARMY1-UVAE",
+          "identifier": "IPOARMY1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SADYK189-UVAE",
+          "identifier": "SadyK189",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKANALYSIS-UVAE",
+          "identifier": "stockanalysis_",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
           ]
         }
       ],
       "riskLevel": "SERIAL_OFFENDER",
       "isActive": true
     },
-    "PROM-STOCKTWITS-YABOYZEZO-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-YABOYZEZO-FRZN",
-      "identifier": "YaBoyZezo",
+    "PROM-STOCKTWITS-IPOARMY1-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-IPOARMY1-UVAE",
+      "identifier": "IPOARMY1",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
       "totalPosts": 1,
       "confidence": "high",
       "stocksPromoted": [
         {
-          "symbol": "VGAS",
-          "schemeId": "SCHEME-VGAS-20260306-MMFTFRZI",
-          "schemeName": "Verde Clean Fuels, Inc.",
+          "symbol": "FOSL",
+          "schemeId": "SCHEME-FOSL-20260309-MMK3UVA8",
+          "schemeName": "Fossil Group, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         }
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-STOCKTWITS-GMEXAPE-FRZN",
-          "identifier": "GMExAPE",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "VGAS"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-6GODENERGY-FRZN",
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
           "identifier": "6GodEnergy",
           "platform": "StockTwits",
           "sharedStocks": [
-            "VGAS"
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DLN101-UVAE",
+          "identifier": "dln101",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SADYK189-UVAE",
+          "identifier": "SadyK189",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKANALYSIS-UVAE",
+          "identifier": "stockanalysis_",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
           ]
         }
       ],
       "riskLevel": "HIGH",
       "isActive": true
     },
-    "PROM-STOCKTWITS-6GODENERGY-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-6GODENERGY-FRZN",
-      "identifier": "6GodEnergy",
+    "PROM-STOCKTWITS-SADYK189-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-SADYK189-UVAE",
+      "identifier": "SadyK189",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
       "totalPosts": 1,
       "confidence": "medium",
       "stocksPromoted": [
         {
-          "symbol": "VGAS",
-          "schemeId": "SCHEME-VGAS-20260306-MMFTFRZI",
-          "schemeName": "Verde Clean Fuels, Inc.",
+          "symbol": "FOSL",
+          "schemeId": "SCHEME-FOSL-20260309-MMK3UVA8",
+          "schemeName": "Fossil Group, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         }
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-STOCKTWITS-GMEXAPE-FRZN",
-          "identifier": "GMExAPE",
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
           "platform": "StockTwits",
           "sharedStocks": [
-            "VGAS"
+            "FOSL"
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-YABOYZEZO-FRZN",
-          "identifier": "YaBoyZezo",
+          "promoterId": "PROM-STOCKTWITS-DLN101-UVAE",
+          "identifier": "dln101",
           "platform": "StockTwits",
           "sharedStocks": [
-            "VGAS"
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-IPOARMY1-UVAE",
+          "identifier": "IPOARMY1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKANALYSIS-UVAE",
+          "identifier": "stockanalysis_",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
           ]
         }
       ],
       "riskLevel": "MEDIUM",
       "isActive": true
     },
-    "PROM-STOCKTWITS-WATCHTHESETICKERS-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-FRZN",
+    "PROM-STOCKTWITS-STOCKANALYSIS-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-STOCKANALYSIS-UVAE",
+      "identifier": "stockanalysis_",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "FOSL",
+          "schemeId": "SCHEME-FOSL-20260309-MMK3UVA8",
+          "schemeName": "Fossil Group, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DLN101-UVAE",
+          "identifier": "dln101",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-IPOARMY1-UVAE",
+          "identifier": "IPOARMY1",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SADYK189-UVAE",
+          "identifier": "SadyK189",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOSL"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-NOVATRENDZ-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-NOVATRENDZ-UVAE",
+      "identifier": "NovaTrendz",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 6,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "ATRA",
+          "schemeId": "SCHEME-ATRA-20260309-MMK3UVA9",
+          "schemeName": "Atara Biotherapeutics, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 3
+        },
+        {
+          "symbol": "FOFO",
+          "schemeId": "SCHEME-FOFO-20260309-MMK3UVA9",
+          "schemeName": "Hang Feng Technology Innovation Co., Ltd. Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 2
+        },
+        {
+          "symbol": "DCX",
+          "schemeId": "SCHEME-DCX-20260309-MMK3UVAA",
+          "schemeName": "Digital Currency X Technology Inc",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA",
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DAYTRADE4LIFE-UVAE",
+          "identifier": "DayTrade_4Life",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+          "identifier": "KnightDuncan",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA",
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA",
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-QUANTUMTECHNOLOGY-UVAE",
+          "identifier": "QuantumTechnology",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "FOFO"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DAVIDSCOTT-UVAE",
+          "identifier": "DavidScott",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-UVAE",
+          "identifier": "PSM_EmpowerTrading",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JLTRADEZ-UVAE",
+          "identifier": "JL_TradeZ",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ELLIOTVANCE-UVAE",
+          "identifier": "ElliotVance",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-CHARTCHARTIST-UVAE",
+          "identifier": "ChartChartist",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-LECORB-UVAE",
+          "identifier": "lecorb",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-DAYTRADE4LIFE-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-DAYTRADE4LIFE-UVAE",
+      "identifier": "DayTrade_4Life",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 5,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "ATRA",
+          "schemeId": "SCHEME-ATRA-20260309-MMK3UVA9",
+          "schemeName": "Atara Biotherapeutics, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "CDTG",
+          "schemeId": "SCHEME-CDTG-20260309-MMK3UVAA",
+          "schemeName": "CDT Environmental Technology Investment Holdings Limited ordinary shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 2
+        },
+        {
+          "symbol": "DTG",
+          "schemeId": "SCHEME-DTG-20260309-MMK3UVAC",
+          "schemeName": "DTE Energy Company 2021 Series",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 2
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-NOVATRENDZ-UVAE",
+          "identifier": "NovaTrendz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+          "identifier": "KnightDuncan",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-UVAE",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CDTG",
+            "DTG"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-REXOM-UVAE",
+          "identifier": "REXOM",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CDTG",
+            "DTG"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-RIC1M-UVAE",
+          "identifier": "Ric_1M",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CDTG",
+            "DTG"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+      "identifier": "KnightDuncan",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 8,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "ATRA",
+          "schemeId": "SCHEME-ATRA-20260309-MMK3UVA9",
+          "schemeName": "Atara Biotherapeutics, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "BIOX",
+          "schemeId": "SCHEME-BIOX-20260309-MMK3UVA9",
+          "schemeName": "Bioceres Crop Solutions Corp.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 3
+        },
+        {
+          "symbol": "DCX",
+          "schemeId": "SCHEME-DCX-20260309-MMK3UVAA",
+          "schemeName": "Digital Currency X Technology Inc",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "RKDA",
+          "schemeId": "SCHEME-RKDA-20260309-MMK3UVAA",
+          "schemeName": "Arcadia Biosciences, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 3
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA",
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-NOVATRENDZ-UVAE",
+          "identifier": "NovaTrendz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA",
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DAYTRADE4LIFE-UVAE",
+          "identifier": "DayTrade_4Life",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA",
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GMEXAPE-UVAE",
+          "identifier": "GMExAPE",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "BIOX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DAVIDSCOTT-UVAE",
+          "identifier": "DavidScott",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-UVAE",
+          "identifier": "PSM_EmpowerTrading",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JLTRADEZ-UVAE",
+          "identifier": "JL_TradeZ",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ELLIOTVANCE-UVAE",
+          "identifier": "ElliotVance",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-CHARTCHARTIST-UVAE",
+          "identifier": "ChartChartist",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-LECORB-UVAE",
+          "identifier": "lecorb",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEROARINGBUNNY-UVAE",
+          "identifier": "TheRoaringBunny",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "RKDA"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WALLSTJOEY-UVAE",
+          "identifier": "WallStJoey",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "RKDA"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE",
+      "identifier": "topstockalerts",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 6,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "ATRA",
+          "schemeId": "SCHEME-ATRA-20260309-MMK3UVA9",
+          "schemeName": "Atara Biotherapeutics, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "ENGS",
+          "schemeId": "SCHEME-ENGS-20260309-MMK3UVAA",
+          "schemeName": "Energys Group Limited Ordinary Shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "CABR",
+          "schemeId": "SCHEME-CABR-20260309-MMK3UVAA",
+          "schemeName": "Caring Brands, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 2
+        },
+        {
+          "symbol": "DCX",
+          "schemeId": "SCHEME-DCX-20260309-MMK3UVAA",
+          "schemeName": "Digital Currency X Technology Inc",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 2
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ENGS"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA",
+            "CABR",
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-NOVATRENDZ-UVAE",
+          "identifier": "NovaTrendz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA",
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DAYTRADE4LIFE-UVAE",
+          "identifier": "DayTrade_4Life",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+          "identifier": "KnightDuncan",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "ATRA",
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-UVAE",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CABR"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DAVIDSCOTT-UVAE",
+          "identifier": "DavidScott",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-UVAE",
+          "identifier": "PSM_EmpowerTrading",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JLTRADEZ-UVAE",
+          "identifier": "JL_TradeZ",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ELLIOTVANCE-UVAE",
+          "identifier": "ElliotVance",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-CHARTCHARTIST-UVAE",
+          "identifier": "ChartChartist",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-LECORB-UVAE",
+          "identifier": "lecorb",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-GUERRERAA-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-GUERRERAA-UVAE",
+      "identifier": "Guerreraa",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 11,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260309-MMK3UVA9",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 11
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-UVAE",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKNEWSLIVE-UVAE",
+          "identifier": "StockNews_Live",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ZACKSRESEARCH-UVAE",
+          "identifier": "ZacksResearch",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JUSTTHENUT-UVAE",
+          "identifier": "JustTheNut",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KIEFERP02-UVAE",
+          "identifier": "KieferP02",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-UVAE",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-UVAE",
+          "identifier": "GlobalMarketBulletin",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-UVAE",
+          "identifier": "BoltTrade",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-WATCHTHESETICKERS-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-UVAE",
       "identifier": "WatchTheseTickers",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 2,
       "confidence": "high",
       "stocksPromoted": [
         {
           "symbol": "INVE",
-          "schemeId": "SCHEME-INVE-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-INVE-20260309-MMK3UVA9",
           "schemeName": "Identiv, Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "CABR",
+          "schemeId": "SCHEME-CABR-20260309-MMK3UVAA",
+          "schemeName": "Caring Brands, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         }
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
           "identifier": "OfficialStocktwitsUser",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -1283,15 +2433,55 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-GAYO2-FRZN",
-          "identifier": "Gayo_2",
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CABR"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CABR"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GUERRERAA-UVAE",
+          "identifier": "Guerreraa",
           "platform": "StockTwits",
           "sharedStocks": [
             "INVE"
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-KIEFERP02-FRZN",
+          "promoterId": "PROM-STOCKTWITS-STOCKNEWSLIVE-UVAE",
+          "identifier": "StockNews_Live",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ZACKSRESEARCH-UVAE",
+          "identifier": "ZacksResearch",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JUSTTHENUT-UVAE",
+          "identifier": "JustTheNut",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KIEFERP02-UVAE",
           "identifier": "KieferP02",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -1299,7 +2489,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-FRZN",
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-UVAE",
           "identifier": "TheBlackBerrry",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -1307,15 +2497,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-BULLBUTTER23-FRZN",
-          "identifier": "BullButter23",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-FRZN",
+          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-UVAE",
           "identifier": "GlobalMarketBulletin",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -1323,859 +2505,820 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-FRZN",
+          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-UVAE",
           "identifier": "BoltTrade",
           "platform": "StockTwits",
           "sharedStocks": [
             "INVE"
           ]
-        },
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-STOCKNEWSLIVE-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-STOCKNEWSLIVE-UVAE",
+      "identifier": "StockNews_Live",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
         {
-          "promoterId": "PROM-STOCKTWITS-WHOAMI1989-FRZN",
-          "identifier": "Whoami1989",
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260309-MMK3UVA9",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
+          "identifier": "OfficialStocktwitsUser",
           "platform": "StockTwits",
           "sharedStocks": [
             "INVE"
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-TWILLS08-FRZN",
-          "identifier": "Twills08",
+          "promoterId": "PROM-STOCKTWITS-GUERRERAA-UVAE",
+          "identifier": "Guerreraa",
           "platform": "StockTwits",
           "sharedStocks": [
             "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-UVAE",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ZACKSRESEARCH-UVAE",
+          "identifier": "ZacksResearch",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JUSTTHENUT-UVAE",
+          "identifier": "JustTheNut",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KIEFERP02-UVAE",
+          "identifier": "KieferP02",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-UVAE",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-UVAE",
+          "identifier": "GlobalMarketBulletin",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-UVAE",
+          "identifier": "BoltTrade",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-ZACKSRESEARCH-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-ZACKSRESEARCH-UVAE",
+      "identifier": "ZacksResearch",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260309-MMK3UVA9",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GUERRERAA-UVAE",
+          "identifier": "Guerreraa",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-UVAE",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKNEWSLIVE-UVAE",
+          "identifier": "StockNews_Live",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JUSTTHENUT-UVAE",
+          "identifier": "JustTheNut",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KIEFERP02-UVAE",
+          "identifier": "KieferP02",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-UVAE",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-UVAE",
+          "identifier": "GlobalMarketBulletin",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-UVAE",
+          "identifier": "BoltTrade",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-JUSTTHENUT-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-JUSTTHENUT-UVAE",
+      "identifier": "JustTheNut",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260309-MMK3UVA9",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GUERRERAA-UVAE",
+          "identifier": "Guerreraa",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-UVAE",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKNEWSLIVE-UVAE",
+          "identifier": "StockNews_Live",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ZACKSRESEARCH-UVAE",
+          "identifier": "ZacksResearch",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KIEFERP02-UVAE",
+          "identifier": "KieferP02",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-UVAE",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-UVAE",
+          "identifier": "GlobalMarketBulletin",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-UVAE",
+          "identifier": "BoltTrade",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-KIEFERP02-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-KIEFERP02-UVAE",
+      "identifier": "KieferP02",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260309-MMK3UVA9",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GUERRERAA-UVAE",
+          "identifier": "Guerreraa",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-UVAE",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKNEWSLIVE-UVAE",
+          "identifier": "StockNews_Live",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ZACKSRESEARCH-UVAE",
+          "identifier": "ZacksResearch",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JUSTTHENUT-UVAE",
+          "identifier": "JustTheNut",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-UVAE",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-UVAE",
+          "identifier": "GlobalMarketBulletin",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-UVAE",
+          "identifier": "BoltTrade",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-THEBLACKBERRRY-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-UVAE",
+      "identifier": "TheBlackBerrry",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260309-MMK3UVA9",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GUERRERAA-UVAE",
+          "identifier": "Guerreraa",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-UVAE",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKNEWSLIVE-UVAE",
+          "identifier": "StockNews_Live",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ZACKSRESEARCH-UVAE",
+          "identifier": "ZacksResearch",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JUSTTHENUT-UVAE",
+          "identifier": "JustTheNut",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KIEFERP02-UVAE",
+          "identifier": "KieferP02",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-UVAE",
+          "identifier": "GlobalMarketBulletin",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-UVAE",
+          "identifier": "BoltTrade",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-UVAE",
+      "identifier": "GlobalMarketBulletin",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260309-MMK3UVA9",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GUERRERAA-UVAE",
+          "identifier": "Guerreraa",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-UVAE",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKNEWSLIVE-UVAE",
+          "identifier": "StockNews_Live",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ZACKSRESEARCH-UVAE",
+          "identifier": "ZacksResearch",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JUSTTHENUT-UVAE",
+          "identifier": "JustTheNut",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KIEFERP02-UVAE",
+          "identifier": "KieferP02",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-UVAE",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-UVAE",
+          "identifier": "BoltTrade",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-BOLTTRADE-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-BOLTTRADE-UVAE",
+      "identifier": "BoltTrade",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "INVE",
+          "schemeId": "SCHEME-INVE-20260309-MMK3UVA9",
+          "schemeName": "Identiv, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
+          "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GUERRERAA-UVAE",
+          "identifier": "Guerreraa",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-UVAE",
+          "identifier": "WatchTheseTickers",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-STOCKNEWSLIVE-UVAE",
+          "identifier": "StockNews_Live",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ZACKSRESEARCH-UVAE",
+          "identifier": "ZacksResearch",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JUSTTHENUT-UVAE",
+          "identifier": "JustTheNut",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KIEFERP02-UVAE",
+          "identifier": "KieferP02",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-UVAE",
+          "identifier": "TheBlackBerrry",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-UVAE",
+          "identifier": "GlobalMarketBulletin",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "INVE"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-TRADERJAY85-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-TRADERJAY85-UVAE",
+      "identifier": "TraderJay85",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "CHSN",
+          "schemeId": "SCHEME-CHSN-20260309-MMK3UVA9",
+          "schemeName": "Chanson International Holding",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CHSN"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-GMEXAPE-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-GMEXAPE-UVAE",
+      "identifier": "GMExAPE",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 2,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "BIOX",
+          "schemeId": "SCHEME-BIOX-20260309-MMK3UVA9",
+          "schemeName": "Bioceres Crop Solutions Corp.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 2
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+          "identifier": "KnightDuncan",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "BIOX"
           ]
         }
       ],
       "riskLevel": "HIGH",
       "isActive": true
     },
-    "PROM-STOCKTWITS-GAYO2-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-GAYO2-FRZN",
-      "identifier": "Gayo_2",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "INVE",
-          "schemeId": "SCHEME-INVE-20260306-MMFTFRZI",
-          "schemeName": "Identiv, Inc.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
-          "identifier": "OfficialStocktwitsUser",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-FRZN",
-          "identifier": "WatchTheseTickers",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-KIEFERP02-FRZN",
-          "identifier": "KieferP02",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-FRZN",
-          "identifier": "TheBlackBerrry",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BULLBUTTER23-FRZN",
-          "identifier": "BullButter23",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-FRZN",
-          "identifier": "GlobalMarketBulletin",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-FRZN",
-          "identifier": "BoltTrade",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WHOAMI1989-FRZN",
-          "identifier": "Whoami1989",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-TWILLS08-FRZN",
-          "identifier": "Twills08",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-KIEFERP02-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-KIEFERP02-FRZN",
-      "identifier": "KieferP02",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "INVE",
-          "schemeId": "SCHEME-INVE-20260306-MMFTFRZI",
-          "schemeName": "Identiv, Inc.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
-          "identifier": "OfficialStocktwitsUser",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-FRZN",
-          "identifier": "WatchTheseTickers",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GAYO2-FRZN",
-          "identifier": "Gayo_2",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-FRZN",
-          "identifier": "TheBlackBerrry",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BULLBUTTER23-FRZN",
-          "identifier": "BullButter23",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-FRZN",
-          "identifier": "GlobalMarketBulletin",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-FRZN",
-          "identifier": "BoltTrade",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WHOAMI1989-FRZN",
-          "identifier": "Whoami1989",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-TWILLS08-FRZN",
-          "identifier": "Twills08",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-THEBLACKBERRRY-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-FRZN",
-      "identifier": "TheBlackBerrry",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "INVE",
-          "schemeId": "SCHEME-INVE-20260306-MMFTFRZI",
-          "schemeName": "Identiv, Inc.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
-          "identifier": "OfficialStocktwitsUser",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-FRZN",
-          "identifier": "WatchTheseTickers",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GAYO2-FRZN",
-          "identifier": "Gayo_2",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-KIEFERP02-FRZN",
-          "identifier": "KieferP02",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BULLBUTTER23-FRZN",
-          "identifier": "BullButter23",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-FRZN",
-          "identifier": "GlobalMarketBulletin",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-FRZN",
-          "identifier": "BoltTrade",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WHOAMI1989-FRZN",
-          "identifier": "Whoami1989",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-TWILLS08-FRZN",
-          "identifier": "Twills08",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-BULLBUTTER23-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-BULLBUTTER23-FRZN",
-      "identifier": "BullButter23",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "INVE",
-          "schemeId": "SCHEME-INVE-20260306-MMFTFRZI",
-          "schemeName": "Identiv, Inc.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
-          "identifier": "OfficialStocktwitsUser",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-FRZN",
-          "identifier": "WatchTheseTickers",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GAYO2-FRZN",
-          "identifier": "Gayo_2",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-KIEFERP02-FRZN",
-          "identifier": "KieferP02",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-FRZN",
-          "identifier": "TheBlackBerrry",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-FRZN",
-          "identifier": "GlobalMarketBulletin",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-FRZN",
-          "identifier": "BoltTrade",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WHOAMI1989-FRZN",
-          "identifier": "Whoami1989",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-TWILLS08-FRZN",
-          "identifier": "Twills08",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-FRZN",
-      "identifier": "GlobalMarketBulletin",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "INVE",
-          "schemeId": "SCHEME-INVE-20260306-MMFTFRZI",
-          "schemeName": "Identiv, Inc.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
-          "identifier": "OfficialStocktwitsUser",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-FRZN",
-          "identifier": "WatchTheseTickers",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GAYO2-FRZN",
-          "identifier": "Gayo_2",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-KIEFERP02-FRZN",
-          "identifier": "KieferP02",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-FRZN",
-          "identifier": "TheBlackBerrry",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BULLBUTTER23-FRZN",
-          "identifier": "BullButter23",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-FRZN",
-          "identifier": "BoltTrade",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WHOAMI1989-FRZN",
-          "identifier": "Whoami1989",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-TWILLS08-FRZN",
-          "identifier": "Twills08",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-BOLTTRADE-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-BOLTTRADE-FRZN",
-      "identifier": "BoltTrade",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "INVE",
-          "schemeId": "SCHEME-INVE-20260306-MMFTFRZI",
-          "schemeName": "Identiv, Inc.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
-          "identifier": "OfficialStocktwitsUser",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-FRZN",
-          "identifier": "WatchTheseTickers",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GAYO2-FRZN",
-          "identifier": "Gayo_2",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-KIEFERP02-FRZN",
-          "identifier": "KieferP02",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-FRZN",
-          "identifier": "TheBlackBerrry",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BULLBUTTER23-FRZN",
-          "identifier": "BullButter23",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-FRZN",
-          "identifier": "GlobalMarketBulletin",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WHOAMI1989-FRZN",
-          "identifier": "Whoami1989",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-TWILLS08-FRZN",
-          "identifier": "Twills08",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-WHOAMI1989-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-WHOAMI1989-FRZN",
-      "identifier": "Whoami1989",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "INVE",
-          "schemeId": "SCHEME-INVE-20260306-MMFTFRZI",
-          "schemeName": "Identiv, Inc.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
-          "identifier": "OfficialStocktwitsUser",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-FRZN",
-          "identifier": "WatchTheseTickers",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GAYO2-FRZN",
-          "identifier": "Gayo_2",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-KIEFERP02-FRZN",
-          "identifier": "KieferP02",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-FRZN",
-          "identifier": "TheBlackBerrry",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BULLBUTTER23-FRZN",
-          "identifier": "BullButter23",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-FRZN",
-          "identifier": "GlobalMarketBulletin",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-FRZN",
-          "identifier": "BoltTrade",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-TWILLS08-FRZN",
-          "identifier": "Twills08",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-TWILLS08-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-TWILLS08-FRZN",
-      "identifier": "Twills08",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "INVE",
-          "schemeId": "SCHEME-INVE-20260306-MMFTFRZI",
-          "schemeName": "Identiv, Inc.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
-          "identifier": "OfficialStocktwitsUser",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WATCHTHESETICKERS-FRZN",
-          "identifier": "WatchTheseTickers",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GAYO2-FRZN",
-          "identifier": "Gayo_2",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-KIEFERP02-FRZN",
-          "identifier": "KieferP02",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-THEBLACKBERRRY-FRZN",
-          "identifier": "TheBlackBerrry",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BULLBUTTER23-FRZN",
-          "identifier": "BullButter23",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GLOBALMARKETBULLETIN-FRZN",
-          "identifier": "GlobalMarketBulletin",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BOLTTRADE-FRZN",
-          "identifier": "BoltTrade",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WHOAMI1989-FRZN",
-          "identifier": "Whoami1989",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "INVE"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-PAULLAURENT-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-PAULLAURENT-FRZN",
+    "PROM-STOCKTWITS-PAULLAURENT-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-PAULLAURENT-UVAE",
       "identifier": "PaulLaurent",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
       "totalPosts": 6,
       "confidence": "high",
       "stocksPromoted": [
         {
           "symbol": "XBIT",
-          "schemeId": "SCHEME-XBIT-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-XBIT-20260309-MMK3UVA9",
           "schemeName": "XBiotech Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "GMHS",
-          "schemeId": "SCHEME-GMHS-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-GMHS-20260309-MMK3UVA9",
           "schemeName": "Gamehaus Holdings Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 2
-        },
-        {
-          "symbol": "HKPD",
-          "schemeId": "SCHEME-HKPD-20260306-MMFTFRZJ",
-          "schemeName": "Cellyan Biotechnology Co., Ltd",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "WAFU",
-          "schemeId": "SCHEME-WAFU-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-WAFU-20260309-MMK3UVAA",
           "schemeName": "Wah Fu Education Group Limited",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "CDTG",
+          "schemeId": "SCHEME-CDTG-20260309-MMK3UVAA",
+          "schemeName": "CDT Environmental Technology Investment Holdings Limited ordinary shares",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
           "symbol": "PRH",
-          "schemeId": "SCHEME-PRH-20260306-MMFTFRZL",
+          "schemeId": "SCHEME-PRH-20260309-MMK3UVAC",
           "schemeName": "Prudential Financial, Inc. 5.95",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "DTG",
+          "schemeId": "SCHEME-DTG-20260309-MMK3UVAC",
+          "schemeName": "DTE Energy Company 2021 Series",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         }
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
           "identifier": "OfficialStocktwitsUser",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -2185,15 +3328,16 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-FRZN",
-          "identifier": "topstockalerts",
+          "promoterId": "PROM-STOCKTWITS-DAYTRADE4LIFE-UVAE",
+          "identifier": "DayTrade_4Life",
           "platform": "StockTwits",
           "sharedStocks": [
-            "HKPD"
+            "CDTG",
+            "DTG"
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-PENNYZ-FRZN",
+          "promoterId": "PROM-STOCKTWITS-PENNYZ-UVAE",
           "identifier": "penny_z",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -2201,7 +3345,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-TRADER87-FRZN",
+          "promoterId": "PROM-STOCKTWITS-TRADER87-UVAE",
           "identifier": "trader87",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -2209,7 +3353,25 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-WALLSTJOEY-FRZN",
+          "promoterId": "PROM-STOCKTWITS-REXOM-UVAE",
+          "identifier": "REXOM",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CDTG",
+            "DTG"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-RIC1M-UVAE",
+          "identifier": "Ric_1M",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CDTG",
+            "DTG"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WALLSTJOEY-UVAE",
           "identifier": "WallStJoey",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -2217,7 +3379,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-PAROBULL-FRZN",
+          "promoterId": "PROM-STOCKTWITS-PAROBULL-UVAE",
           "identifier": "Parobull",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -2225,7 +3387,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-FENNICKTRADINGS-FRZN",
+          "promoterId": "PROM-STOCKTWITS-FENNICKTRADINGS-UVAE",
           "identifier": "FennickTradings",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -2236,29 +3398,29 @@
       "riskLevel": "SERIAL_OFFENDER",
       "isActive": true
     },
-    "PROM-STOCKTWITS-QUANTUMTECHNOLOGY-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-QUANTUMTECHNOLOGY-FRZN",
+    "PROM-STOCKTWITS-QUANTUMTECHNOLOGY-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-QUANTUMTECHNOLOGY-UVAE",
       "identifier": "QuantumTechnology",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
       "totalPosts": 1,
       "confidence": "high",
       "stocksPromoted": [
         {
           "symbol": "FOFO",
-          "schemeId": "SCHEME-FOFO-20260306-MMFTFRZI",
+          "schemeId": "SCHEME-FOFO-20260309-MMK3UVA9",
           "schemeName": "Hang Feng Technology Innovation Co., Ltd. Ordinary Shares",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         }
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-FRZN",
-          "identifier": "topstockalerts",
+          "promoterId": "PROM-STOCKTWITS-NOVATRENDZ-UVAE",
+          "identifier": "NovaTrendz",
           "platform": "StockTwits",
           "sharedStocks": [
             "FOFO"
@@ -2268,270 +3430,37 @@
       "riskLevel": "HIGH",
       "isActive": true
     },
-    "PROM-STOCKTWITS-TOPSTOCKALERTS-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-FRZN",
-      "identifier": "topstockalerts",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 3,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "FOFO",
-          "schemeId": "SCHEME-FOFO-20260306-MMFTFRZI",
-          "schemeName": "Hang Feng Technology Innovation Co., Ltd. Ordinary Shares",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        },
-        {
-          "symbol": "ENGS",
-          "schemeId": "SCHEME-ENGS-20260306-MMFTFRZJ",
-          "schemeName": "Energys Group Limited Ordinary Shares",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        },
-        {
-          "symbol": "HKPD",
-          "schemeId": "SCHEME-HKPD-20260306-MMFTFRZJ",
-          "schemeName": "Cellyan Biotechnology Co., Ltd",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
-          "identifier": "OfficialStocktwitsUser",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "ENGS"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-FRZN",
-          "identifier": "PaulLaurent",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "HKPD"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-QUANTUMTECHNOLOGY-FRZN",
-          "identifier": "QuantumTechnology",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "FOFO"
-          ]
-        }
-      ],
-      "riskLevel": "SERIAL_OFFENDER",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-CURRENTSEAFLOW-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-CURRENTSEAFLOW-FRZN",
-      "identifier": "CurrentSeaFlow",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "TKLF",
-          "schemeId": "SCHEME-TKLF-20260306-MMFTFRZJ",
-          "schemeName": "Tokyo Lifestyle Co., Ltd.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [],
-      "riskLevel": "LOW",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-BEARTAMERTRADING-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-BEARTAMERTRADING-FRZN",
-      "identifier": "BearTamerTrading",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "high",
-      "stocksPromoted": [
-        {
-          "symbol": "FGI",
-          "schemeId": "SCHEME-FGI-20260306-MMFTFRZJ",
-          "schemeName": "FGI Industries Ltd.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-GODWINS26-FRZN",
-          "identifier": "Godwins26",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "FGI"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WHISKEY1679-FRZN",
-          "identifier": "Whiskey1679",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "FGI"
-          ]
-        }
-      ],
-      "riskLevel": "HIGH",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-GODWINS26-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-GODWINS26-FRZN",
-      "identifier": "Godwins26",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "FGI",
-          "schemeId": "SCHEME-FGI-20260306-MMFTFRZJ",
-          "schemeName": "FGI Industries Ltd.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-BEARTAMERTRADING-FRZN",
-          "identifier": "BearTamerTrading",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "FGI"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-WHISKEY1679-FRZN",
-          "identifier": "Whiskey1679",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "FGI"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-WHISKEY1679-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-WHISKEY1679-FRZN",
-      "identifier": "Whiskey1679",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "FGI",
-          "schemeId": "SCHEME-FGI-20260306-MMFTFRZJ",
-          "schemeName": "FGI Industries Ltd.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-BEARTAMERTRADING-FRZN",
-          "identifier": "BearTamerTrading",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "FGI"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-GODWINS26-FRZN",
-          "identifier": "Godwins26",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "FGI"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-VICTORY777777-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-VICTORY777777-FRZN",
-      "identifier": "Victory777777",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "LOBO",
-          "schemeId": "SCHEME-LOBO-20260306-MMFTFRZJ",
-          "schemeName": "Lobo EV Technologies Ltd.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
-          "identifier": "OfficialStocktwitsUser",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "LOBO"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-ALPHATUNA-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-ALPHATUNA-FRZN",
+    "PROM-STOCKTWITS-ALPHATUNA-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-ALPHATUNA-UVAE",
       "identifier": "AlphaTuna",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
       "totalPosts": 1,
       "confidence": "medium",
       "stocksPromoted": [
         {
           "symbol": "IFBD",
-          "schemeId": "SCHEME-IFBD-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-IFBD-20260309-MMK3UVAA",
           "schemeName": "Infobird Co., Ltd",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         }
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
           "identifier": "OfficialStocktwitsUser",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "IFBD"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
           "platform": "StockTwits",
           "sharedStocks": [
             "IFBD"
@@ -2541,28 +3470,28 @@
       "riskLevel": "MEDIUM",
       "isActive": true
     },
-    "PROM-STOCKTWITS-PENNYZ-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-PENNYZ-FRZN",
+    "PROM-STOCKTWITS-PENNYZ-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-PENNYZ-UVAE",
       "identifier": "penny_z",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
       "totalPosts": 1,
       "confidence": "high",
       "stocksPromoted": [
         {
           "symbol": "WAFU",
-          "schemeId": "SCHEME-WAFU-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-WAFU-20260309-MMK3UVAA",
           "schemeName": "Wah Fu Education Group Limited",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         }
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
           "identifier": "OfficialStocktwitsUser",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -2570,7 +3499,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-FRZN",
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-UVAE",
           "identifier": "PaulLaurent",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -2578,7 +3507,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-TRADER87-FRZN",
+          "promoterId": "PROM-STOCKTWITS-TRADER87-UVAE",
           "identifier": "trader87",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -2589,46 +3518,36 @@
       "riskLevel": "HIGH",
       "isActive": true
     },
-    "PROM-STOCKTWITS-TRADER87-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-TRADER87-FRZN",
+    "PROM-STOCKTWITS-TRADER87-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-TRADER87-UVAE",
       "identifier": "trader87",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 2,
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
       "confidence": "medium",
       "stocksPromoted": [
         {
           "symbol": "WAFU",
-          "schemeId": "SCHEME-WAFU-20260306-MMFTFRZJ",
+          "schemeId": "SCHEME-WAFU-20260309-MMK3UVAA",
           "schemeName": "Wah Fu Education Group Limited",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        },
-        {
-          "symbol": "SNTG",
-          "schemeId": "SCHEME-SNTG-20260306-MMFTFRZK",
-          "schemeName": "Sentage Holdings Inc.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         }
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-FRZN",
+          "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-UVAE",
           "identifier": "OfficialStocktwitsUser",
           "platform": "StockTwits",
           "sharedStocks": [
-            "WAFU",
-            "SNTG"
+            "WAFU"
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-FRZN",
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-UVAE",
           "identifier": "PaulLaurent",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -2636,7 +3555,7 @@
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-PENNYZ-FRZN",
+          "promoterId": "PROM-STOCKTWITS-PENNYZ-UVAE",
           "identifier": "penny_z",
           "platform": "StockTwits",
           "sharedStocks": [
@@ -2644,302 +3563,1023 @@
           ]
         }
       ],
-      "riskLevel": "HIGH",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-TRADERJAY85-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-TRADERJAY85-FRZN",
-      "identifier": "TraderJay85",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 3,
-      "confidence": "high",
-      "stocksPromoted": [
-        {
-          "symbol": "LXEH",
-          "schemeId": "SCHEME-LXEH-20260306-MMFTFRZK",
-          "schemeName": "Lixiang Education Holding Co., Ltd.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 3
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-NOTTABAGHOLDER-FRZN",
-          "identifier": "NottaBagHolder",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "LXEH"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-SPARTANVI-FRZN",
-          "identifier": "SPARTANVI",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "LXEH"
-          ]
-        }
-      ],
-      "riskLevel": "HIGH",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-NOTTABAGHOLDER-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-NOTTABAGHOLDER-FRZN",
-      "identifier": "NottaBagHolder",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "LXEH",
-          "schemeId": "SCHEME-LXEH-20260306-MMFTFRZK",
-          "schemeName": "Lixiang Education Holding Co., Ltd.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-TRADERJAY85-FRZN",
-          "identifier": "TraderJay85",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "LXEH"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-SPARTANVI-FRZN",
-          "identifier": "SPARTANVI",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "LXEH"
-          ]
-        }
-      ],
       "riskLevel": "MEDIUM",
       "isActive": true
     },
-    "PROM-STOCKTWITS-SPARTANVI-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-SPARTANVI-FRZN",
-      "identifier": "SPARTANVI",
+    "PROM-STOCKTWITS-REXOM-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-REXOM-UVAE",
+      "identifier": "REXOM",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "LXEH",
-          "schemeId": "SCHEME-LXEH-20260306-MMFTFRZK",
-          "schemeName": "Lixiang Education Holding Co., Ltd.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-TRADERJAY85-FRZN",
-          "identifier": "TraderJay85",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "LXEH"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-NOTTABAGHOLDER-FRZN",
-          "identifier": "NottaBagHolder",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "LXEH"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-WALLSTJOEY-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-WALLSTJOEY-FRZN",
-      "identifier": "WallStJoey",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
-      "confidence": "high",
-      "stocksPromoted": [
-        {
-          "symbol": "PRH",
-          "schemeId": "SCHEME-PRH-20260306-MMFTFRZL",
-          "schemeName": "Prudential Financial, Inc. 5.95",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-FRZN",
-          "identifier": "PaulLaurent",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "PRH"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-PAROBULL-FRZN",
-          "identifier": "Parobull",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "PRH"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-FENNICKTRADINGS-FRZN",
-          "identifier": "FennickTradings",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "PRH"
-          ]
-        }
-      ],
-      "riskLevel": "HIGH",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-PAROBULL-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-PAROBULL-FRZN",
-      "identifier": "Parobull",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
       "totalPosts": 2,
       "confidence": "medium",
       "stocksPromoted": [
         {
-          "symbol": "PRH",
-          "schemeId": "SCHEME-PRH-20260306-MMFTFRZL",
-          "schemeName": "Prudential Financial, Inc. 5.95",
+          "symbol": "CDTG",
+          "schemeId": "SCHEME-CDTG-20260309-MMK3UVAA",
+          "schemeName": "CDT Environmental Technology Investment Holdings Limited ordinary shares",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         },
         {
-          "symbol": "MTNB",
-          "schemeId": "SCHEME-MTNB-20260306-MMFTFRZL",
-          "schemeName": "Matinas BioPharma Holdings, Inc.",
+          "symbol": "DTG",
+          "schemeId": "SCHEME-DTG-20260309-MMK3UVAC",
+          "schemeName": "DTE Energy Company 2021 Series",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         }
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-FRZN",
+          "promoterId": "PROM-STOCKTWITS-DAYTRADE4LIFE-UVAE",
+          "identifier": "DayTrade_4Life",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CDTG",
+            "DTG"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-UVAE",
           "identifier": "PaulLaurent",
           "platform": "StockTwits",
           "sharedStocks": [
-            "PRH"
+            "CDTG",
+            "DTG"
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-WALLSTJOEY-FRZN",
-          "identifier": "WallStJoey",
+          "promoterId": "PROM-STOCKTWITS-RIC1M-UVAE",
+          "identifier": "Ric_1M",
           "platform": "StockTwits",
           "sharedStocks": [
-            "PRH"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-FENNICKTRADINGS-FRZN",
-          "identifier": "FennickTradings",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "PRH"
+            "CDTG",
+            "DTG"
           ]
         }
       ],
       "riskLevel": "HIGH",
       "isActive": true
     },
-    "PROM-STOCKTWITS-FENNICKTRADINGS-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-FENNICKTRADINGS-FRZN",
-      "identifier": "FennickTradings",
+    "PROM-STOCKTWITS-RIC1M-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-RIC1M-UVAE",
+      "identifier": "Ric_1M",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 1,
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 2,
       "confidence": "medium",
       "stocksPromoted": [
         {
-          "symbol": "PRH",
-          "schemeId": "SCHEME-PRH-20260306-MMFTFRZL",
-          "schemeName": "Prudential Financial, Inc. 5.95",
+          "symbol": "CDTG",
+          "schemeId": "SCHEME-CDTG-20260309-MMK3UVAA",
+          "schemeName": "CDT Environmental Technology Investment Holdings Limited ordinary shares",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "DTG",
+          "schemeId": "SCHEME-DTG-20260309-MMK3UVAC",
+          "schemeName": "DTE Energy Company 2021 Series",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 1
         }
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-FRZN",
+          "promoterId": "PROM-STOCKTWITS-DAYTRADE4LIFE-UVAE",
+          "identifier": "DayTrade_4Life",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "CDTG",
+            "DTG"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-UVAE",
           "identifier": "PaulLaurent",
           "platform": "StockTwits",
           "sharedStocks": [
-            "PRH"
+            "CDTG",
+            "DTG"
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-WALLSTJOEY-FRZN",
-          "identifier": "WallStJoey",
+          "promoterId": "PROM-STOCKTWITS-REXOM-UVAE",
+          "identifier": "REXOM",
           "platform": "StockTwits",
           "sharedStocks": [
-            "PRH"
+            "CDTG",
+            "DTG"
+          ]
+        }
+      ],
+      "riskLevel": "HIGH",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-DAVIDSCOTT-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-DAVIDSCOTT-UVAE",
+      "identifier": "DavidScott",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "DCX",
+          "schemeId": "SCHEME-DCX-20260309-MMK3UVAA",
+          "schemeName": "Digital Currency X Technology Inc",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
           ]
         },
         {
-          "promoterId": "PROM-STOCKTWITS-PAROBULL-FRZN",
-          "identifier": "Parobull",
+          "promoterId": "PROM-STOCKTWITS-NOVATRENDZ-UVAE",
+          "identifier": "NovaTrendz",
           "platform": "StockTwits",
           "sharedStocks": [
-            "PRH"
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+          "identifier": "KnightDuncan",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-UVAE",
+          "identifier": "PSM_EmpowerTrading",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JLTRADEZ-UVAE",
+          "identifier": "JL_TradeZ",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ELLIOTVANCE-UVAE",
+          "identifier": "ElliotVance",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-CHARTCHARTIST-UVAE",
+          "identifier": "ChartChartist",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-LECORB-UVAE",
+          "identifier": "lecorb",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        }
+      ],
+      "riskLevel": "HIGH",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-PSMEMPOWERTRADING-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-UVAE",
+      "identifier": "PSM_EmpowerTrading",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "DCX",
+          "schemeId": "SCHEME-DCX-20260309-MMK3UVAA",
+          "schemeName": "Digital Currency X Technology Inc",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-NOVATRENDZ-UVAE",
+          "identifier": "NovaTrendz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+          "identifier": "KnightDuncan",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DAVIDSCOTT-UVAE",
+          "identifier": "DavidScott",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JLTRADEZ-UVAE",
+          "identifier": "JL_TradeZ",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ELLIOTVANCE-UVAE",
+          "identifier": "ElliotVance",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-CHARTCHARTIST-UVAE",
+          "identifier": "ChartChartist",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-LECORB-UVAE",
+          "identifier": "lecorb",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        }
+      ],
+      "riskLevel": "HIGH",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-JLTRADEZ-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-JLTRADEZ-UVAE",
+      "identifier": "JL_TradeZ",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "DCX",
+          "schemeId": "SCHEME-DCX-20260309-MMK3UVAA",
+          "schemeName": "Digital Currency X Technology Inc",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-NOVATRENDZ-UVAE",
+          "identifier": "NovaTrendz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+          "identifier": "KnightDuncan",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DAVIDSCOTT-UVAE",
+          "identifier": "DavidScott",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-UVAE",
+          "identifier": "PSM_EmpowerTrading",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ELLIOTVANCE-UVAE",
+          "identifier": "ElliotVance",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-CHARTCHARTIST-UVAE",
+          "identifier": "ChartChartist",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-LECORB-UVAE",
+          "identifier": "lecorb",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
           ]
         }
       ],
       "riskLevel": "MEDIUM",
       "isActive": true
     },
-    "PROM-STOCKTWITS-DLN101-FRZN": {
-      "promoterId": "PROM-STOCKTWITS-DLN101-FRZN",
-      "identifier": "dln101",
+    "PROM-STOCKTWITS-ELLIOTVANCE-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-ELLIOTVANCE-UVAE",
+      "identifier": "ElliotVance",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-03-06",
-      "totalPosts": 2,
-      "confidence": "high",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
       "stocksPromoted": [
         {
-          "symbol": "CPHI",
-          "schemeId": "SCHEME-CPHI-20260306-MMFTFRZL",
-          "schemeName": "China Pharma Holdings, Inc.",
+          "symbol": "DCX",
+          "schemeId": "SCHEME-DCX-20260309-MMK3UVAA",
+          "schemeName": "Digital Currency X Technology Inc",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-06",
-          "lastSeen": "2026-03-06",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-NOVATRENDZ-UVAE",
+          "identifier": "NovaTrendz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+          "identifier": "KnightDuncan",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DAVIDSCOTT-UVAE",
+          "identifier": "DavidScott",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-UVAE",
+          "identifier": "PSM_EmpowerTrading",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JLTRADEZ-UVAE",
+          "identifier": "JL_TradeZ",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-CHARTCHARTIST-UVAE",
+          "identifier": "ChartChartist",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-LECORB-UVAE",
+          "identifier": "lecorb",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-CHARTCHARTIST-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-CHARTCHARTIST-UVAE",
+      "identifier": "ChartChartist",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "DCX",
+          "schemeId": "SCHEME-DCX-20260309-MMK3UVAA",
+          "schemeName": "Digital Currency X Technology Inc",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-NOVATRENDZ-UVAE",
+          "identifier": "NovaTrendz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+          "identifier": "KnightDuncan",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DAVIDSCOTT-UVAE",
+          "identifier": "DavidScott",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-UVAE",
+          "identifier": "PSM_EmpowerTrading",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JLTRADEZ-UVAE",
+          "identifier": "JL_TradeZ",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ELLIOTVANCE-UVAE",
+          "identifier": "ElliotVance",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-LECORB-UVAE",
+          "identifier": "lecorb",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-LECORB-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-LECORB-UVAE",
+      "identifier": "lecorb",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "DCX",
+          "schemeId": "SCHEME-DCX-20260309-MMK3UVAA",
+          "schemeName": "Digital Currency X Technology Inc",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-NOVATRENDZ-UVAE",
+          "identifier": "NovaTrendz",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+          "identifier": "KnightDuncan",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-UVAE",
+          "identifier": "topstockalerts",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-DAVIDSCOTT-UVAE",
+          "identifier": "DavidScott",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PSMEMPOWERTRADING-UVAE",
+          "identifier": "PSM_EmpowerTrading",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-JLTRADEZ-UVAE",
+          "identifier": "JL_TradeZ",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-ELLIOTVANCE-UVAE",
+          "identifier": "ElliotVance",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-CHARTCHARTIST-UVAE",
+          "identifier": "ChartChartist",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "DCX"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-THEROARINGBUNNY-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-THEROARINGBUNNY-UVAE",
+      "identifier": "TheRoaringBunny",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 2,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "RKDA",
+          "schemeId": "SCHEME-RKDA-20260309-MMK3UVAA",
+          "schemeName": "Arcadia Biosciences, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
           "postCount": 2
         }
       ],
-      "coPromoters": [],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+          "identifier": "KnightDuncan",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "RKDA"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WALLSTJOEY-UVAE",
+          "identifier": "WallStJoey",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "RKDA"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-WALLSTJOEY-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-WALLSTJOEY-UVAE",
+      "identifier": "WallStJoey",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 2,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "RKDA",
+          "schemeId": "SCHEME-RKDA-20260309-MMK3UVAA",
+          "schemeName": "Arcadia Biosciences, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        },
+        {
+          "symbol": "PRH",
+          "schemeId": "SCHEME-PRH-20260309-MMK3UVAC",
+          "schemeName": "Prudential Financial, Inc. 5.95",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-KNIGHTDUNCAN-UVAE",
+          "identifier": "KnightDuncan",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "RKDA"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-UVAE",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "PRH"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-THEROARINGBUNNY-UVAE",
+          "identifier": "TheRoaringBunny",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "RKDA"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PAROBULL-UVAE",
+          "identifier": "Parobull",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "PRH"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-FENNICKTRADINGS-UVAE",
+          "identifier": "FennickTradings",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "PRH"
+          ]
+        }
+      ],
+      "riskLevel": "SERIAL_OFFENDER",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-PAROBULL-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-PAROBULL-UVAE",
+      "identifier": "Parobull",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "PRH",
+          "schemeId": "SCHEME-PRH-20260309-MMK3UVAC",
+          "schemeName": "Prudential Financial, Inc. 5.95",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-UVAE",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "PRH"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WALLSTJOEY-UVAE",
+          "identifier": "WallStJoey",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "PRH"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-FENNICKTRADINGS-UVAE",
+          "identifier": "FennickTradings",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "PRH"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-FENNICKTRADINGS-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-FENNICKTRADINGS-UVAE",
+      "identifier": "FennickTradings",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "PRH",
+          "schemeId": "SCHEME-PRH-20260309-MMK3UVAC",
+          "schemeName": "Prudential Financial, Inc. 5.95",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-PAULLAURENT-UVAE",
+          "identifier": "PaulLaurent",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "PRH"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-WALLSTJOEY-UVAE",
+          "identifier": "WallStJoey",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "PRH"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-PAROBULL-UVAE",
+          "identifier": "Parobull",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "PRH"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-SMARTR8-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-SMARTR8-UVAE",
+      "identifier": "SMARTR8",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "high",
+      "stocksPromoted": [
+        {
+          "symbol": "AGL",
+          "schemeId": "SCHEME-AGL-20260309-MMK3UVAC",
+          "schemeName": "Agilon Health, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "AGL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SIMONYAC-UVAE",
+          "identifier": "Simonyac",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "AGL"
+          ]
+        }
+      ],
+      "riskLevel": "HIGH",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-SIMONYAC-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-SIMONYAC-UVAE",
+      "identifier": "Simonyac",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "AGL",
+          "schemeId": "SCHEME-AGL-20260309-MMK3UVAC",
+          "schemeName": "Agilon Health, Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "AGL"
+          ]
+        },
+        {
+          "promoterId": "PROM-STOCKTWITS-SMARTR8-UVAE",
+          "identifier": "SMARTR8",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "AGL"
+          ]
+        }
+      ],
+      "riskLevel": "MEDIUM",
+      "isActive": true
+    },
+    "PROM-STOCKTWITS-STOCKCATCHER-UVAE": {
+      "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-UVAE",
+      "identifier": "Stock_Catcher",
+      "platform": "StockTwits",
+      "firstSeen": "2026-03-09",
+      "lastSeen": "2026-03-09",
+      "totalPosts": 1,
+      "confidence": "medium",
+      "stocksPromoted": [
+        {
+          "symbol": "RBOT",
+          "schemeId": "SCHEME-RBOT-20260309-MMK3UVAC",
+          "schemeName": "Vicarious Surgical Inc.",
+          "schemeStatus": "NEW",
+          "firstSeen": "2026-03-09",
+          "lastSeen": "2026-03-09",
+          "postCount": 1
+        }
+      ],
+      "coPromoters": [
+        {
+          "promoterId": "PROM-STOCKTWITS-6GODENERGY-UVAE",
+          "identifier": "6GodEnergy",
+          "platform": "StockTwits",
+          "sharedStocks": [
+            "RBOT"
+          ]
+        }
+      ],
       "riskLevel": "MEDIUM",
       "isActive": true
     }
