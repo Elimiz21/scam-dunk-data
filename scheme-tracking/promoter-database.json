@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-11T03:18:37.304Z",
-  "totalPromoters": 9,
-  "activePromoters": 9,
-  "serialOffenders": 5,
+  "lastUpdated": "2026-03-12T02:53:11.875Z",
+  "totalPromoters": 6,
+  "activePromoters": 1,
+  "serialOffenders": 4,
   "promoters": {
-    "PROM-TWITTERX-TWITTERXPROMOTERS-YZG7": {
-      "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-YZG7",
+    "PROM-TWITTERX-TWITTERXPROMOTERS-I536": {
+      "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-I536",
       "identifier": "Twitter/X promoters",
       "platform": "Twitter/X",
       "firstSeen": "2026-02-02",
@@ -62,7 +62,7 @@
           "symbol": "THH",
           "schemeId": "SCH-THH-20260202-YD9V",
           "schemeName": "TryHard Holdings Limited",
-          "schemeStatus": "COOLING",
+          "schemeStatus": "PUMP_AND_DUMP_ENDED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -71,7 +71,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "ONGOING",
+          "schemeStatus": "NO_SCAM_DETECTED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -106,7 +106,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-YZG7",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-I536",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -117,7 +117,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-YZG7",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-I536",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-YZG7",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-I536",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -150,7 +150,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-YZG7",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-I536",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -159,10 +159,10 @@
         }
       ],
       "riskLevel": "SERIAL_OFFENDER",
-      "isActive": true
+      "isActive": false
     },
-    "PROM-YOUTUBE-YOUTUBEPROMOTERS-YZG7": {
-      "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-YZG7",
+    "PROM-YOUTUBE-YOUTUBEPROMOTERS-I536": {
+      "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-I536",
       "identifier": "YouTube promoters",
       "platform": "YouTube",
       "firstSeen": "2026-02-02",
@@ -192,7 +192,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "ONGOING",
+          "schemeStatus": "NO_SCAM_DETECTED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -209,7 +209,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-YZG7",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-I536",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -220,7 +220,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-YZG7",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-I536",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -231,7 +231,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-YZG7",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-I536",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -242,7 +242,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-YZG7",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-I536",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -251,10 +251,10 @@
         }
       ],
       "riskLevel": "SERIAL_OFFENDER",
-      "isActive": true
+      "isActive": false
     },
-    "PROM-DISCORD-DISCORDPROMOTERS-YZG7": {
-      "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-YZG7",
+    "PROM-DISCORD-DISCORDPROMOTERS-I536": {
+      "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-I536",
       "identifier": "Discord promoters",
       "platform": "Discord",
       "firstSeen": "2026-02-02",
@@ -302,7 +302,7 @@
           "symbol": "THH",
           "schemeId": "SCH-THH-20260202-YD9V",
           "schemeName": "TryHard Holdings Limited",
-          "schemeStatus": "COOLING",
+          "schemeStatus": "PUMP_AND_DUMP_ENDED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -311,7 +311,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "ONGOING",
+          "schemeStatus": "NO_SCAM_DETECTED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -346,7 +346,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-YZG7",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-I536",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -362,7 +362,7 @@
           ]
         },
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-YZG7",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-I536",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -373,7 +373,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-YZG7",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-I536",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -389,7 +389,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-YZG7",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-I536",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -398,10 +398,10 @@
         }
       ],
       "riskLevel": "SERIAL_OFFENDER",
-      "isActive": true
+      "isActive": false
     },
-    "PROM-TELEGRAM-TELEGRAMPROMOTERS-YZG7": {
-      "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-YZG7",
+    "PROM-TELEGRAM-TELEGRAMPROMOTERS-I536": {
+      "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-I536",
       "identifier": "Telegram promoters",
       "platform": "Telegram",
       "firstSeen": "2026-02-02",
@@ -458,7 +458,7 @@
           "symbol": "THH",
           "schemeId": "SCH-THH-20260202-YD9V",
           "schemeName": "TryHard Holdings Limited",
-          "schemeStatus": "COOLING",
+          "schemeStatus": "PUMP_AND_DUMP_ENDED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -467,7 +467,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "ONGOING",
+          "schemeStatus": "NO_SCAM_DETECTED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-03",
           "postCount": 1
@@ -502,7 +502,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-YZG7",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-I536",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -519,7 +519,7 @@
           ]
         },
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-YZG7",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-I536",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -530,7 +530,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-YZG7",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-I536",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -546,7 +546,7 @@
           ]
         },
         {
-          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-YZG7",
+          "promoterId": "PROM-REDDIT-CARLENETRAMMEL-I536",
           "identifier": "Carlene_Trammel",
           "platform": "Reddit",
           "sharedStocks": [
@@ -555,10 +555,10 @@
         }
       ],
       "riskLevel": "SERIAL_OFFENDER",
-      "isActive": true
+      "isActive": false
     },
-    "PROM-REDDIT-CARLENETRAMMEL-YZG7": {
-      "promoterId": "PROM-REDDIT-CARLENETRAMMEL-YZG7",
+    "PROM-REDDIT-CARLENETRAMMEL-I536": {
+      "promoterId": "PROM-REDDIT-CARLENETRAMMEL-I536",
       "identifier": "Carlene_Trammel",
       "platform": "Reddit",
       "firstSeen": "2026-02-02",
@@ -570,7 +570,7 @@
           "symbol": "SXTC",
           "schemeId": "SCH-SXTC-20260202-4CVF",
           "schemeName": "China SXT Pharmaceuticals, Inc.",
-          "schemeStatus": "ONGOING",
+          "schemeStatus": "NO_SCAM_DETECTED",
           "firstSeen": "2026-02-02",
           "lastSeen": "2026-02-02",
           "postCount": 1
@@ -578,7 +578,7 @@
       ],
       "coPromoters": [
         {
-          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-YZG7",
+          "promoterId": "PROM-TWITTERX-TWITTERXPROMOTERS-I536",
           "identifier": "Twitter/X promoters",
           "platform": "Twitter/X",
           "sharedStocks": [
@@ -586,7 +586,7 @@
           ]
         },
         {
-          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-YZG7",
+          "promoterId": "PROM-YOUTUBE-YOUTUBEPROMOTERS-I536",
           "identifier": "YouTube promoters",
           "platform": "YouTube",
           "sharedStocks": [
@@ -594,7 +594,7 @@
           ]
         },
         {
-          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-YZG7",
+          "promoterId": "PROM-DISCORD-DISCORDPROMOTERS-I536",
           "identifier": "Discord promoters",
           "platform": "Discord",
           "sharedStocks": [
@@ -602,7 +602,7 @@
           ]
         },
         {
-          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-YZG7",
+          "promoterId": "PROM-TELEGRAM-TELEGRAMPROMOTERS-I536",
           "identifier": "Telegram promoters",
           "platform": "Telegram",
           "sharedStocks": [
@@ -611,168 +611,38 @@
         }
       ],
       "riskLevel": "MEDIUM",
-      "isActive": true
+      "isActive": false
     },
-    "PROM-STOCKTWITS-STOCKCATCHER-YZG8": {
-      "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-YZG8",
-      "identifier": "Stock_Catcher",
+    "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-I536": {
+      "promoterId": "PROM-STOCKTWITS-OFFICIALSTOCKTWITSUSER-I536",
+      "identifier": "OfficialStocktwitsUser",
       "platform": "StockTwits",
-      "firstSeen": "2026-03-10",
-      "lastSeen": "2026-03-10",
-      "totalPosts": 4,
+      "firstSeen": "2026-03-11",
+      "lastSeen": "2026-03-11",
+      "totalPosts": 2,
       "confidence": "high",
       "stocksPromoted": [
         {
-          "symbol": "RCON",
-          "schemeId": "SCHEME-RCON-20260310-MMLGYZG5",
-          "schemeName": "Recon Technology, Ltd.",
+          "symbol": "LVRO",
+          "schemeId": "SCHEME-LVRO-20260311-MMMVI534",
+          "schemeName": "Lavoro Limited",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-10",
-          "lastSeen": "2026-03-10",
-          "postCount": 2
-        },
-        {
-          "symbol": "FBGL",
-          "schemeId": "SCHEME-FBGL-20260310-MMLGYZG5",
-          "schemeName": "FBS Global Limited Ordinary Shares",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-10",
-          "lastSeen": "2026-03-10",
+          "firstSeen": "2026-03-11",
+          "lastSeen": "2026-03-11",
           "postCount": 1
         },
         {
-          "symbol": "RYDE",
-          "schemeId": "SCHEME-RYDE-20260310-MMLGYZG6",
-          "schemeName": "Ryde Group Ltd.",
+          "symbol": "FATBP",
+          "schemeId": "SCHEME-FATBP-20260311-MMMVI534",
+          "schemeName": "FAT Brands Inc.",
           "schemeStatus": "NEW",
-          "firstSeen": "2026-03-10",
-          "lastSeen": "2026-03-10",
+          "firstSeen": "2026-03-11",
+          "lastSeen": "2026-03-11",
           "postCount": 1
         }
       ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-YZG8",
-          "identifier": "topstockalerts",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "RCON"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-BLISSFULPARADISE-YZG8",
-          "identifier": "BlissfulParadise",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "FBGL"
-          ]
-        },
-        {
-          "promoterId": "PROM-STOCKTWITS-SILENTSPARROW-YZG8",
-          "identifier": "silentsparrow",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "RYDE"
-          ]
-        }
-      ],
-      "riskLevel": "SERIAL_OFFENDER",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-TOPSTOCKALERTS-YZG8": {
-      "promoterId": "PROM-STOCKTWITS-TOPSTOCKALERTS-YZG8",
-      "identifier": "topstockalerts",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-10",
-      "lastSeen": "2026-03-10",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "RCON",
-          "schemeId": "SCHEME-RCON-20260310-MMLGYZG5",
-          "schemeName": "Recon Technology, Ltd.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-10",
-          "lastSeen": "2026-03-10",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-YZG8",
-          "identifier": "Stock_Catcher",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "RCON"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-BLISSFULPARADISE-YZG8": {
-      "promoterId": "PROM-STOCKTWITS-BLISSFULPARADISE-YZG8",
-      "identifier": "BlissfulParadise",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-10",
-      "lastSeen": "2026-03-10",
-      "totalPosts": 1,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "FBGL",
-          "schemeId": "SCHEME-FBGL-20260310-MMLGYZG5",
-          "schemeName": "FBS Global Limited Ordinary Shares",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-10",
-          "lastSeen": "2026-03-10",
-          "postCount": 1
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-YZG8",
-          "identifier": "Stock_Catcher",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "FBGL"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
-      "isActive": true
-    },
-    "PROM-STOCKTWITS-SILENTSPARROW-YZG8": {
-      "promoterId": "PROM-STOCKTWITS-SILENTSPARROW-YZG8",
-      "identifier": "silentsparrow",
-      "platform": "StockTwits",
-      "firstSeen": "2026-03-10",
-      "lastSeen": "2026-03-10",
-      "totalPosts": 2,
-      "confidence": "medium",
-      "stocksPromoted": [
-        {
-          "symbol": "RYDE",
-          "schemeId": "SCHEME-RYDE-20260310-MMLGYZG6",
-          "schemeName": "Ryde Group Ltd.",
-          "schemeStatus": "NEW",
-          "firstSeen": "2026-03-10",
-          "lastSeen": "2026-03-10",
-          "postCount": 2
-        }
-      ],
-      "coPromoters": [
-        {
-          "promoterId": "PROM-STOCKTWITS-STOCKCATCHER-YZG8",
-          "identifier": "Stock_Catcher",
-          "platform": "StockTwits",
-          "sharedStocks": [
-            "RYDE"
-          ]
-        }
-      ],
-      "riskLevel": "MEDIUM",
+      "coPromoters": [],
+      "riskLevel": "HIGH",
       "isActive": true
     }
   }

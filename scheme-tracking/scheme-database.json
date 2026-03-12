@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-11T03:18:37.302Z",
-  "totalSchemes": 13,
-  "activeSchemes": 5,
-  "resolvedSchemes": 8,
+  "lastUpdated": "2026-03-12T02:53:11.873Z",
+  "totalSchemes": 12,
+  "activeSchemes": 2,
+  "resolvedSchemes": 10,
   "confirmedFrauds": 0,
   "schemes": {
     "SCH-EVTV-20260202-9ALD": {
@@ -110,16 +110,16 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-03-10",
+          "date": "2026-03-11",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 36 days, inactive for 25 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 37 days, inactive for 26 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 36 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 37 days of monitoring. Stock activity normalized."
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -332,7 +332,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 0.8245,
+      "currentPrice": 0.8033,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
@@ -396,16 +396,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-03-10",
+          "date": "2026-03-11",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 51.5% from peak ($1.70 → $0.82)",
+          "details": "Price crashed 52.7% from peak ($1.70 → $0.80)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 51.5% from peak. Social media promotion detected on: Twitter/X, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 52.7% from peak. Social media promotion detected on: Twitter/X, Telegram"
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -520,14 +520,14 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "COOLING",
+      "status": "PUMP_AND_DUMP_ENDED",
       "peakRiskScore": 14,
       "currentRiskScore": 14,
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.6298,
+      "currentPrice": 0.4688,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
@@ -598,10 +598,18 @@
           "details": "Price dropped 34.4% from peak ($0.96 → $0.63)",
           "category": "status_change",
           "significance": "high"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "PUMP & DUMP ENDED - With social promotion",
+          "details": "Price crashed 51.2% from peak ($0.96 → $0.47)",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 51.2% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -612,7 +620,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 14,
       "currentRiskScore": 14,
       "peakPromotionScore": 61,
@@ -701,10 +709,18 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 37 days, inactive for 36 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 37 days of monitoring. Stock activity normalized."
     },
     "SCH-MTEN-20260202-KMCM": {
       "schemeId": "SCH-MTEN-20260202-KMCM",
@@ -788,16 +804,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-03-10",
+          "date": "2026-03-11",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 36 days, inactive for 35 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 37 days, inactive for 36 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 36 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 37 days of monitoring. Stock activity normalized."
     },
     "SCH-DRTSW-20260202-H1OO": {
       "schemeId": "SCH-DRTSW-20260202-H1OO",
@@ -909,9 +925,9 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 1.22,
       "peakPrice": 1.22,
-      "currentPrice": 0.1301,
+      "currentPrice": 0.1166,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -89.33606557377051,
+      "priceChangeFromPeak": -90.44262295081967,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -990,137 +1006,60 @@
           "details": "Risk score: 16, Promotion score: 20"
         },
         {
-          "date": "2026-03-10",
+          "date": "2026-03-11",
           "event": "Status changed to COOLING - Possible dump detected",
-          "details": "Price dropped 89.3% from peak ($1.22 → $0.13)",
+          "details": "Price dropped 90.4% from peak ($1.22 → $0.12)",
           "category": "status_change",
           "significance": "high"
         },
         {
-          "date": "2026-03-10",
+          "date": "2026-03-11",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 89.3% from peak ($1.22 → $0.13)",
+          "details": "Price crashed 90.4% from peak ($1.22 → $0.12)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 89.3% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 90.4% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
     },
-    "SCHEME-RCON-20260310-MMLGYZG5": {
-      "schemeId": "SCHEME-RCON-20260310-MMLGYZG5",
-      "symbol": "RCON",
-      "name": "Recon Technology, Ltd.",
-      "sector": "Energy",
-      "industry": "Oil & Gas Equipment & Services",
-      "firstDetected": "2026-03-10",
-      "lastSeen": "2026-03-10",
+    "SCHEME-LVRO-20260311-MMMVI534": {
+      "schemeId": "SCHEME-LVRO-20260311-MMMVI534",
+      "symbol": "LVRO",
+      "name": "Lavoro Limited",
+      "sector": "Basic Materials",
+      "industry": "Agricultural Inputs",
+      "firstDetected": "2026-03-11",
+      "lastSeen": "2026-03-11",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 12,
       "currentRiskScore": 12,
-      "peakPromotionScore": 53,
-      "currentPromotionScore": 53,
+      "peakPromotionScore": 85,
+      "currentPromotionScore": 85,
       "promotionPlatforms": [
         "StockTwits"
       ],
       "promoterAccounts": [
         {
           "platform": "StockTwits",
-          "identifier": "Stock_Catcher",
-          "firstSeen": "2026-03-10",
-          "lastSeen": "2026-03-10",
-          "postCount": 2,
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-03-11",
+          "lastSeen": "2026-03-11",
+          "postCount": 1,
           "confidence": "high"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "topstockalerts",
-          "firstSeen": "2026-03-10",
-          "lastSeen": "2026-03-10",
-          "postCount": 1,
-          "confidence": "medium"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.2,
-      "peakPrice": 1.2,
-      "currentPrice": 1.2,
+      "priceAtDetection": 0.304,
+      "peakPrice": 0.304,
+      "currentPrice": 0.304,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 39277,
-      "peakVolume": 39277,
-      "currentVolume": 39277,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "VOLUME_EXPLOSION",
-        "SPIKE_THEN_DROP",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 53"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-10",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 12 and promotion score 53",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-FBGL-20260310-MMLGYZG5": {
-      "schemeId": "SCHEME-FBGL-20260310-MMLGYZG5",
-      "symbol": "FBGL",
-      "name": "FBS Global Limited Ordinary Shares",
-      "sector": "Industrials",
-      "industry": "Engineering & Construction",
-      "firstDetected": "2026-03-10",
-      "lastSeen": "2026-03-10",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 12,
-      "currentRiskScore": 12,
-      "peakPromotionScore": 53,
-      "currentPromotionScore": 53,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "Stock_Catcher",
-          "firstSeen": "2026-03-10",
-          "lastSeen": "2026-03-10",
-          "postCount": 1,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "BlissfulParadise",
-          "firstSeen": "2026-03-10",
-          "lastSeen": "2026-03-10",
-          "postCount": 1,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.4898,
-      "peakPrice": 0.4898,
-      "currentPrice": 0.4898,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 2411720,
-      "peakVolume": 2411720,
-      "currentVolume": 2411720,
+      "volumeAtDetection": 2261405,
+      "peakVolume": 2261405,
+      "currentVolume": 2261405,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -1132,84 +1071,76 @@
         "High promotion risk on StockTwits"
       ],
       "notes": [
-        "Initial detection with promotion score 53"
+        "Initial detection with promotion score 85"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-10",
+          "date": "2026-03-11",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 12 and promotion score 53",
+          "details": "Initial detection with risk score 12 and promotion score 85",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-RYDE-20260310-MMLGYZG6": {
-      "schemeId": "SCHEME-RYDE-20260310-MMLGYZG6",
-      "symbol": "RYDE",
-      "name": "Ryde Group Ltd.",
-      "sector": "Technology",
-      "industry": "Software - Application",
-      "firstDetected": "2026-03-10",
-      "lastSeen": "2026-03-10",
+    "SCHEME-FATBP-20260311-MMMVI534": {
+      "schemeId": "SCHEME-FATBP-20260311-MMMVI534",
+      "symbol": "FATBP",
+      "name": "FAT Brands Inc.",
+      "sector": "Consumer Cyclical",
+      "industry": "Restaurants",
+      "firstDetected": "2026-03-11",
+      "lastSeen": "2026-03-11",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 13,
       "currentRiskScore": 13,
-      "peakPromotionScore": 52,
-      "currentPromotionScore": 52,
+      "peakPromotionScore": 85,
+      "currentPromotionScore": 85,
       "promotionPlatforms": [
         "StockTwits"
       ],
       "promoterAccounts": [
         {
           "platform": "StockTwits",
-          "identifier": "silentsparrow",
-          "firstSeen": "2026-03-10",
-          "lastSeen": "2026-03-10",
-          "postCount": 2,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "Stock_Catcher",
-          "firstSeen": "2026-03-10",
-          "lastSeen": "2026-03-10",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-03-11",
+          "lastSeen": "2026-03-11",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.6175,
-      "peakPrice": 0.6175,
-      "currentPrice": 0.6175,
+      "priceAtDetection": 0.0701,
+      "peakPrice": 0.0701,
+      "currentPrice": 0.0701,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 2289622,
-      "peakVolume": 2289622,
-      "currentVolume": 2289622,
+      "volumeAtDetection": 809338,
+      "peakVolume": 809338,
+      "currentVolume": 809338,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
         "SPIKE_7D",
-        "VOLUME_EXPLOSION",
-        "OVERBOUGHT_RSI",
+        "SPIKE_THEN_DROP",
         "HIGH_VOLATILITY"
       ],
       "coordinationIndicators": [
         "High promotion risk on StockTwits"
       ],
       "notes": [
-        "Initial detection with promotion score 52"
+        "Initial detection with promotion score 85"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-10",
+          "date": "2026-03-11",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 13 and promotion score 52",
+          "details": "Initial detection with risk score 13 and promotion score 85",
           "significance": "high"
         }
       ]
