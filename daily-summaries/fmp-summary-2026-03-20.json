@@ -1,0 +1,29 @@
+{
+  "totalStocks": 6970,
+  "evaluated": 100,
+  "skippedNoData": 0,
+  "byRiskLevel": {
+    "LOW": 100,
+    "MEDIUM": 0,
+    "HIGH": 0,
+    "INSUFFICIENT": 0
+  },
+  "byExchange": {
+    "NASDAQ": {
+      "total": 99,
+      "LOW": 99,
+      "MEDIUM": 0,
+      "HIGH": 0
+    },
+    "NYSE": {
+      "total": 1,
+      "LOW": 1,
+      "MEDIUM": 0,
+      "HIGH": 0
+    }
+  },
+  "startTime": "2026-03-23T21:17:27.135Z",
+  "endTime": "2026-03-23T21:20:10.714Z",
+  "durationMinutes": 3,
+  "apiCallsMade": 200
+}
