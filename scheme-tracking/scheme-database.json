@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-23T21:20:10.713Z",
-  "totalSchemes": 10,
-  "activeSchemes": 2,
+  "lastUpdated": "2026-03-24T03:37:04.527Z",
+  "totalSchemes": 12,
+  "activeSchemes": 4,
   "resolvedSchemes": 8,
   "confirmedFrauds": 0,
   "schemes": {
@@ -14,16 +14,16 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-13",
       "daysActive": 2,
-      "status": "NO_SCAM_DETECTED",
+      "status": "PUMP_AND_DUMP_ENDED",
       "peakRiskScore": 16,
       "currentRiskScore": 14,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 3.55,
       "peakPrice": 3.55,
-      "currentPrice": 2.18,
+      "currentPrice": 1.7,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -38.59154929577464,
+      "priceChangeFromPeak": -52.112676056338024,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -110,16 +110,23 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-03-20",
-          "event": "No scam detected - closing investigation",
-          "details": "Monitored for 46 days, inactive for 35 days. No full pump-and-dump pattern observed.",
+          "date": "2026-03-23",
+          "event": "Status changed to COOLING - Possible dump detected",
+          "details": "Price dropped 52.1% from peak ($3.55 → $1.70)",
+          "category": "status_change",
+          "significance": "high"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "PUMP & DUMP ENDED - With social promotion",
+          "details": "Price crashed 52.1% from peak ($3.55 → $1.70)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 46 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 52.1% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -325,14 +332,14 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "COOLING",
+      "status": "PUMP_AND_DUMP_ENDED",
       "peakRiskScore": 15,
       "currentRiskScore": 15,
       "peakPromotionScore": 50,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 1.05,
+      "currentPrice": 0.8078,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
@@ -394,10 +401,18 @@
           "details": "Price dropped 38.2% from peak ($1.70 → $1.05)",
           "category": "status_change",
           "significance": "high"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "PUMP & DUMP ENDED - With social promotion",
+          "details": "Price crashed 52.5% from peak ($1.70 → $0.81)",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 52.5% from peak. Social media promotion detected on: Twitter/X, Telegram"
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -512,14 +527,14 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "COOLING",
+      "status": "PUMP_AND_DUMP_ENDED",
       "peakRiskScore": 14,
       "currentRiskScore": 14,
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.6298,
+      "currentPrice": 0.405,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
@@ -590,10 +605,18 @@
           "details": "Price dropped 34.4% from peak ($0.96 → $0.63)",
           "category": "status_change",
           "significance": "high"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "PUMP & DUMP ENDED - With social promotion",
+          "details": "Price crashed 57.8% from peak ($0.96 → $0.41)",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 57.8% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -602,21 +625,21 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-02-03",
+      "lastSeen": "2026-03-23",
       "daysActive": 2,
-      "status": "NO_SCAM_DETECTED",
+      "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 14,
+      "currentRiskScore": 8,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 0.095,
-      "currentPrice": 0.095,
-      "priceChangeFromDetection": 0,
+      "peakPrice": 1.47,
+      "currentPrice": 1.47,
+      "priceChangeFromDetection": 1447.3684210526314,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 0,
+      "currentVolume": 290195,
       "promotionPlatforms": [
         "Twitter/X",
         "YouTube",
@@ -695,16 +718,13 @@
           "significance": "medium"
         },
         {
-          "date": "2026-03-20",
-          "event": "No scam detected - closing investigation",
-          "details": "Monitored for 46 days, inactive for 45 days. No full pump-and-dump pattern observed.",
-          "category": "status_change",
-          "significance": "high"
+          "date": "2026-03-23",
+          "event": "Daily scan update",
+          "details": "Risk score: 8, Promotion score: N/A"
         }
       ],
       "notes": [],
-      "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 46 days of monitoring. Stock activity normalized."
+      "investigationFlags": []
     },
     "SCH-MTEN-20260202-KMCM": {
       "schemeId": "SCH-MTEN-20260202-KMCM",
@@ -788,16 +808,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-03-20",
+          "date": "2026-03-23",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 46 days, inactive for 45 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 49 days, inactive for 48 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 46 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 49 days of monitoring. Stock activity normalized."
     },
     "SCH-DRTSW-20260202-H1OO": {
       "schemeId": "SCH-DRTSW-20260202-H1OO",
@@ -902,7 +922,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-13",
       "daysActive": 2,
-      "status": "NO_SCAM_DETECTED",
+      "status": "ONGOING",
       "peakRiskScore": 14,
       "currentRiskScore": 16,
       "peakPromotionScore": 61,
@@ -988,18 +1008,111 @@
           "date": "2026-02-13",
           "event": "Daily scan update",
           "details": "Risk score: 16, Promotion score: 20"
-        },
-        {
-          "date": "2026-03-20",
-          "event": "No scam detected - closing investigation",
-          "details": "Monitored for 46 days, inactive for 35 days. No full pump-and-dump pattern observed.",
-          "category": "status_change",
-          "significance": "high"
         }
       ],
       "notes": [],
+      "investigationFlags": []
+    },
+    "SCHEME-OUSTZ-20260323-MN42CSG8": {
+      "schemeId": "SCHEME-OUSTZ-20260323-MN42CSG8",
+      "symbol": "OUSTZ",
+      "name": "Ouster, Inc.",
+      "sector": "Technology",
+      "industry": "Hardware, Equipment & Parts",
+      "firstDetected": "2026-03-23",
+      "lastSeen": "2026-03-23",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 14,
+      "currentRiskScore": 14,
+      "peakPromotionScore": 50,
+      "currentPromotionScore": 50,
+      "promotionPlatforms": [
+        "Twitter"
+      ],
+      "promoterAccounts": [],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 0.0015,
+      "peakPrice": 0.002,
+      "currentPrice": 0.002,
+      "priceChangeFromDetection": 33.33333333333333,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 64503.52869,
+      "peakVolume": 64503.52869,
+      "currentVolume": 64503.52869,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on Twitter"
+      ],
+      "notes": [
+        "Initial detection with promotion score 50"
+      ],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 46 days of monitoring. Stock activity normalized."
+      "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 14 and promotion score 50",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-BSLKW-20260323-MN42CSGE": {
+      "schemeId": "SCHEME-BSLKW-20260323-MN42CSGE",
+      "symbol": "BSLKW",
+      "name": "Bolt Projects Holdings, Inc.",
+      "sector": "Financial Services",
+      "industry": "Financial - Conglomerates",
+      "firstDetected": "2026-03-23",
+      "lastSeen": "2026-03-23",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 15,
+      "currentRiskScore": 15,
+      "peakPromotionScore": 55,
+      "currentPromotionScore": 55,
+      "promotionPlatforms": [],
+      "promoterAccounts": [],
+      "hadSocialMediaPromotion": false,
+      "priceAtDetection": 0.0035,
+      "peakPrice": 0.0213,
+      "currentPrice": 0.0213,
+      "priceChangeFromDetection": 508.57142857142856,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 79442.02632,
+      "peakVolume": 79442.02632,
+      "currentVolume": 79442.02632,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY"
+      ],
+      "coordinationIndicators": [],
+      "notes": [
+        "Initial detection with promotion score 55"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 15 and promotion score 55",
+          "significance": "high"
+        }
+      ]
     }
   }
 }
