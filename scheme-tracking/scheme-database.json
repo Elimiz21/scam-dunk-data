@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-24T03:37:04.527Z",
-  "totalSchemes": 12,
-  "activeSchemes": 4,
+  "lastUpdated": "2026-03-25T03:46:16.857Z",
+  "totalSchemes": 13,
+  "activeSchemes": 5,
   "resolvedSchemes": 8,
   "confirmedFrauds": 0,
   "schemes": {
@@ -21,9 +21,9 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 3.55,
       "peakPrice": 3.55,
-      "currentPrice": 1.7,
+      "currentPrice": 1.71,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -52.112676056338024,
+      "priceChangeFromPeak": -51.83098591549295,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -110,23 +110,23 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-03-23",
+          "date": "2026-03-24",
           "event": "Status changed to COOLING - Possible dump detected",
-          "details": "Price dropped 52.1% from peak ($3.55 → $1.70)",
+          "details": "Price dropped 51.8% from peak ($3.55 → $1.71)",
           "category": "status_change",
           "significance": "high"
         },
         {
-          "date": "2026-03-23",
+          "date": "2026-03-24",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 52.1% from peak ($3.55 → $1.70)",
+          "details": "Price crashed 51.8% from peak ($3.55 → $1.71)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 52.1% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 51.8% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -339,7 +339,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 0.8078,
+      "currentPrice": 0.748,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
@@ -403,16 +403,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-03-23",
+          "date": "2026-03-24",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 52.5% from peak ($1.70 → $0.81)",
+          "details": "Price crashed 56.0% from peak ($1.70 → $0.75)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 52.5% from peak. Social media promotion detected on: Twitter/X, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 56.0% from peak. Social media promotion detected on: Twitter/X, Telegram"
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -534,7 +534,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.405,
+      "currentPrice": 0.39,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
@@ -607,16 +607,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-03-23",
+          "date": "2026-03-24",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 57.8% from peak ($0.96 → $0.41)",
+          "details": "Price crashed 59.4% from peak ($0.96 → $0.39)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 57.8% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 59.4% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -625,7 +625,7 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-03-23",
+      "lastSeen": "2026-03-24",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
@@ -633,13 +633,13 @@
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 1.47,
-      "currentPrice": 1.47,
-      "priceChangeFromDetection": 1447.3684210526314,
+      "peakPrice": 1.41,
+      "currentPrice": 1.41,
+      "priceChangeFromDetection": 1384.2105263157894,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 290195,
+      "currentVolume": 300029,
       "promotionPlatforms": [
         "Twitter/X",
         "YouTube",
@@ -718,7 +718,7 @@
           "significance": "medium"
         },
         {
-          "date": "2026-03-23",
+          "date": "2026-03-24",
           "event": "Daily scan update",
           "details": "Risk score: 8, Promotion score: N/A"
         }
@@ -808,16 +808,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-03-23",
+          "date": "2026-03-24",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 49 days, inactive for 48 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 50 days, inactive for 49 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 49 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 50 days of monitoring. Stock activity normalized."
     },
     "SCH-DRTSW-20260202-H1OO": {
       "schemeId": "SCH-DRTSW-20260202-H1OO",
@@ -1013,83 +1013,42 @@
       "notes": [],
       "investigationFlags": []
     },
-    "SCHEME-OUSTZ-20260323-MN42CSG8": {
-      "schemeId": "SCHEME-OUSTZ-20260323-MN42CSG8",
-      "symbol": "OUSTZ",
-      "name": "Ouster, Inc.",
-      "sector": "Technology",
-      "industry": "Hardware, Equipment & Parts",
-      "firstDetected": "2026-03-23",
-      "lastSeen": "2026-03-23",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 14,
-      "currentRiskScore": 14,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [
-        "Twitter"
-      ],
-      "promoterAccounts": [],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.0015,
-      "peakPrice": 0.002,
-      "currentPrice": 0.002,
-      "priceChangeFromDetection": 33.33333333333333,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 64503.52869,
-      "peakVolume": 64503.52869,
-      "currentVolume": 64503.52869,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "SPIKE_7D",
-        "SPIKE_THEN_DROP",
-        "HIGH_VOLATILITY"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on Twitter"
-      ],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-03-23",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 14 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-BSLKW-20260323-MN42CSGE": {
-      "schemeId": "SCHEME-BSLKW-20260323-MN42CSGE",
-      "symbol": "BSLKW",
-      "name": "Bolt Projects Holdings, Inc.",
-      "sector": "Financial Services",
-      "industry": "Financial - Conglomerates",
-      "firstDetected": "2026-03-23",
-      "lastSeen": "2026-03-23",
+    "SCHEME-ANEB-20260324-MN5I4HAV": {
+      "schemeId": "SCHEME-ANEB-20260324-MN5I4HAV",
+      "symbol": "ANEB",
+      "name": "Anebulo Pharmaceuticals, Inc.",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "firstDetected": "2026-03-24",
+      "lastSeen": "2026-03-24",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 15,
       "currentRiskScore": 15,
-      "peakPromotionScore": 55,
-      "currentPromotionScore": 55,
-      "promotionPlatforms": [],
-      "promoterAccounts": [],
-      "hadSocialMediaPromotion": false,
-      "priceAtDetection": 0.0035,
-      "peakPrice": 0.0213,
-      "currentPrice": 0.0213,
-      "priceChangeFromDetection": 508.57142857142856,
+      "peakPromotionScore": 85,
+      "currentPromotionScore": 85,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-03-24",
+          "lastSeen": "2026-03-24",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 0.334,
+      "peakPrice": 1.01,
+      "currentPrice": 1.01,
+      "priceChangeFromDetection": 202.3952095808383,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 79442.02632,
-      "peakVolume": 79442.02632,
-      "currentVolume": 79442.02632,
+      "volumeAtDetection": 90216,
+      "peakVolume": 90216,
+      "currentVolume": 90216,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -1099,17 +1058,142 @@
         "OVERBOUGHT_RSI",
         "HIGH_VOLATILITY"
       ],
-      "coordinationIndicators": [],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
       "notes": [
-        "Initial detection with promotion score 55"
+        "Initial detection with promotion score 85"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-03-23",
+          "date": "2026-03-24",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 15 and promotion score 55",
+          "details": "Initial detection with risk score 15 and promotion score 85",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-RNWWW-20260324-MN5I4HAW": {
+      "schemeId": "SCHEME-RNWWW-20260324-MN5I4HAW",
+      "symbol": "RNWWW",
+      "name": "ReNew Energy Global plc",
+      "sector": "Utilities",
+      "industry": "Renewable Utilities",
+      "firstDetected": "2026-03-24",
+      "lastSeen": "2026-03-24",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 14,
+      "currentRiskScore": 14,
+      "peakPromotionScore": 85,
+      "currentPromotionScore": 85,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-03-24",
+          "lastSeen": "2026-03-24",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 0.0035,
+      "peakPrice": 0.0072,
+      "currentPrice": 0.0072,
+      "priceChangeFromDetection": 105.7142857142857,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 14859,
+      "peakVolume": 14859,
+      "currentVolume": 14859,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
+      "notes": [
+        "Initial detection with promotion score 85"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 14 and promotion score 85",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-RBOT-20260324-MN5I4HAW": {
+      "schemeId": "SCHEME-RBOT-20260324-MN5I4HAW",
+      "symbol": "RBOT",
+      "name": "Vicarious Surgical Inc.",
+      "sector": "Healthcare",
+      "industry": "Medical - Devices",
+      "firstDetected": "2026-03-24",
+      "lastSeen": "2026-03-24",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 17,
+      "currentRiskScore": 17,
+      "peakPromotionScore": 85,
+      "currentPromotionScore": 85,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-03-24",
+          "lastSeen": "2026-03-24",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 0.27,
+      "peakPrice": 0.88,
+      "currentPrice": 0.88,
+      "priceChangeFromDetection": 225.9259259259259,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 114901,
+      "peakVolume": 114901,
+      "currentVolume": 114901,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
+      "notes": [
+        "Initial detection with promotion score 85"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 17 and promotion score 85",
           "significance": "high"
         }
       ]
