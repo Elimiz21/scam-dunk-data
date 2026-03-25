@@ -1,18 +1,18 @@
 {
   "date": "2026-03-24",
-  "totalStocksScanned": 6561,
+  "totalStocksScanned": 100,
   "byRiskLevel": {
-    "LOW": 3341,
-    "MEDIUM": 1774,
-    "HIGH": 1446,
+    "LOW": 89,
+    "MEDIUM": 9,
+    "HIGH": 2,
     "INSUFFICIENT": 0
   },
-  "highRiskBeforeFilters": 1446,
-  "filteredByMarketCap": 2,
+  "highRiskBeforeFilters": 2,
+  "filteredByMarketCap": 1,
   "filteredByVolume": 0,
-  "filteredByNews": 641,
-  "remainingSuspicious": 803,
-  "activeSchemes": 5,
-  "newSchemes": 3,
-  "processingTimeMinutes": 275
+  "filteredByNews": 1,
+  "remainingSuspicious": 0,
+  "activeSchemes": 2,
+  "newSchemes": 0,
+  "processingTimeMinutes": 9
 }
