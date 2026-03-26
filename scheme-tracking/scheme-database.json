@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-25T21:54:59.982Z",
-  "totalSchemes": 10,
-  "activeSchemes": 2,
+  "lastUpdated": "2026-03-26T02:37:12.661Z",
+  "totalSchemes": 11,
+  "activeSchemes": 3,
   "resolvedSchemes": 8,
   "confirmedFrauds": 0,
   "schemes": {
@@ -14,16 +14,16 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-13",
       "daysActive": 2,
-      "status": "NO_SCAM_DETECTED",
+      "status": "PUMP_AND_DUMP_ENDED",
       "peakRiskScore": 16,
       "currentRiskScore": 14,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 3.55,
       "peakPrice": 3.55,
-      "currentPrice": 2.18,
+      "currentPrice": 1.67,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -38.59154929577464,
+      "priceChangeFromPeak": -52.95774647887323,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -110,16 +110,23 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-03-24",
-          "event": "No scam detected - closing investigation",
-          "details": "Monitored for 50 days, inactive for 39 days. No full pump-and-dump pattern observed.",
+          "date": "2026-03-25",
+          "event": "Status changed to COOLING - Possible dump detected",
+          "details": "Price dropped 53.0% from peak ($3.55 → $1.67)",
+          "category": "status_change",
+          "significance": "high"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "PUMP & DUMP ENDED - With social promotion",
+          "details": "Price crashed 53.0% from peak ($3.55 → $1.67)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 50 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 53.0% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -325,14 +332,14 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "COOLING",
+      "status": "PUMP_AND_DUMP_ENDED",
       "peakRiskScore": 15,
       "currentRiskScore": 15,
       "peakPromotionScore": 50,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 1.05,
+      "currentPrice": 0.7399,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
@@ -394,10 +401,18 @@
           "details": "Price dropped 38.2% from peak ($1.70 → $1.05)",
           "category": "status_change",
           "significance": "high"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "PUMP & DUMP ENDED - With social promotion",
+          "details": "Price crashed 56.5% from peak ($1.70 → $0.74)",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 56.5% from peak. Social media promotion detected on: Twitter/X, Telegram"
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -512,14 +527,14 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "COOLING",
+      "status": "PUMP_AND_DUMP_ENDED",
       "peakRiskScore": 14,
       "currentRiskScore": 14,
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.6298,
+      "currentPrice": 0.4118,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
@@ -590,10 +605,18 @@
           "details": "Price dropped 34.4% from peak ($0.96 → $0.63)",
           "category": "status_change",
           "significance": "high"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "PUMP & DUMP ENDED - With social promotion",
+          "details": "Price crashed 57.1% from peak ($0.96 → $0.41)",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 57.1% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -604,7 +627,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "NO_SCAM_DETECTED",
+      "status": "ONGOING",
       "peakRiskScore": 14,
       "currentRiskScore": 14,
       "peakPromotionScore": 61,
@@ -693,18 +716,10 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
-        },
-        {
-          "date": "2026-03-24",
-          "event": "No scam detected - closing investigation",
-          "details": "Monitored for 50 days, inactive for 49 days. No full pump-and-dump pattern observed.",
-          "category": "status_change",
-          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 50 days of monitoring. Stock activity normalized."
+      "investigationFlags": []
     },
     "SCH-MTEN-20260202-KMCM": {
       "schemeId": "SCH-MTEN-20260202-KMCM",
@@ -788,16 +803,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-03-24",
+          "date": "2026-03-25",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 50 days, inactive for 49 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 51 days, inactive for 50 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 50 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 51 days of monitoring. Stock activity normalized."
     },
     "SCH-DRTSW-20260202-H1OO": {
       "schemeId": "SCH-DRTSW-20260202-H1OO",
@@ -902,7 +917,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-13",
       "daysActive": 2,
-      "status": "NO_SCAM_DETECTED",
+      "status": "ONGOING",
       "peakRiskScore": 14,
       "currentRiskScore": 16,
       "peakPromotionScore": 61,
@@ -988,18 +1003,63 @@
           "date": "2026-02-13",
           "event": "Daily scan update",
           "details": "Risk score: 16, Promotion score: 20"
-        },
-        {
-          "date": "2026-03-24",
-          "event": "No scam detected - closing investigation",
-          "details": "Monitored for 50 days, inactive for 39 days. No full pump-and-dump pattern observed.",
-          "category": "status_change",
-          "significance": "high"
         }
       ],
       "notes": [],
+      "investigationFlags": []
+    },
+    "SCHEME-PTIXW-20260325-MN6V3IAC": {
+      "schemeId": "SCHEME-PTIXW-20260325-MN6V3IAC",
+      "symbol": "PTIXW",
+      "name": "Protagenic Therapeutics, Inc.",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "firstDetected": "2026-03-25",
+      "lastSeen": "2026-03-25",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 16,
+      "currentRiskScore": 16,
+      "peakPromotionScore": 70,
+      "currentPromotionScore": 70,
+      "promotionPlatforms": [
+        "TikTok"
+      ],
+      "promoterAccounts": [],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 0.0168,
+      "peakPrice": 0.015,
+      "currentPrice": 0.015,
+      "priceChangeFromDetection": -10.714285714285712,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 42144,
+      "peakVolume": 42144,
+      "currentVolume": 42144,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on TikTok"
+      ],
+      "notes": [
+        "Initial detection with promotion score 70"
+      ],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 50 days of monitoring. Stock activity normalized."
+      "timeline": [
+        {
+          "date": "2026-03-25",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 16 and promotion score 70",
+          "significance": "high"
+        }
+      ]
     }
   }
 }
