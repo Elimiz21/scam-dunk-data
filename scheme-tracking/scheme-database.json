@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-04-02T02:52:57.047Z",
-  "totalSchemes": 13,
-  "activeSchemes": 6,
+  "lastUpdated": "2026-04-03T03:11:17.769Z",
+  "totalSchemes": 15,
+  "activeSchemes": 8,
   "resolvedSchemes": 7,
   "confirmedFrauds": 0,
   "schemes": {
@@ -21,9 +21,9 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 3.55,
       "peakPrice": 3.55,
-      "currentPrice": 1.68,
+      "currentPrice": 1.71,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -52.67605633802817,
+      "priceChangeFromPeak": -51.83098591549295,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -110,23 +110,23 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-04-01",
+          "date": "2026-04-02",
           "event": "Status changed to COOLING - Possible dump detected",
-          "details": "Price dropped 52.7% from peak ($3.55 → $1.68)",
+          "details": "Price dropped 51.8% from peak ($3.55 → $1.71)",
           "category": "status_change",
           "significance": "high"
         },
         {
-          "date": "2026-04-01",
+          "date": "2026-04-02",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 52.7% from peak ($3.55 → $1.68)",
+          "details": "Price crashed 51.8% from peak ($3.55 → $1.71)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 52.7% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 51.8% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -339,7 +339,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 0.7142,
+      "currentPrice": 0.7096,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
@@ -403,16 +403,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-04-01",
+          "date": "2026-04-02",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 58.0% from peak ($1.70 → $0.71)",
+          "details": "Price crashed 58.3% from peak ($1.70 → $0.71)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 58.0% from peak. Social media promotion detected on: Twitter/X, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 58.3% from peak. Social media promotion detected on: Twitter/X, Telegram"
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -607,7 +607,7 @@
           "significance": "high"
         },
         {
-          "date": "2026-04-01",
+          "date": "2026-04-02",
           "event": "PUMP & DUMP ENDED - With social promotion",
           "details": "Price crashed 64.4% from peak ($0.96 → $0.34)",
           "category": "status_change",
@@ -625,17 +625,17 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-04-01",
+      "lastSeen": "2026-04-02",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 10,
+      "currentRiskScore": 8,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 1.8,
-      "currentPrice": 1.8,
-      "priceChangeFromDetection": 1794.7368421052633,
+      "peakPrice": 1.89,
+      "currentPrice": 1.89,
+      "priceChangeFromDetection": 1889.4736842105265,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
@@ -718,9 +718,9 @@
           "significance": "medium"
         },
         {
-          "date": "2026-04-01",
+          "date": "2026-04-02",
           "event": "Daily scan update",
-          "details": "Risk score: 10, Promotion score: N/A"
+          "details": "Risk score: 8, Promotion score: N/A"
         }
       ],
       "notes": [],
@@ -733,7 +733,7 @@
       "sector": "Industrials",
       "industry": "Manufacturing - Metal Fabrication",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-04-01",
+      "lastSeen": "2026-04-02",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
@@ -741,9 +741,9 @@
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.0314,
-      "peakPrice": 1.21,
-      "currentPrice": 1.21,
-      "priceChangeFromDetection": 3753.503184713376,
+      "peakPrice": 1.22,
+      "currentPrice": 1.22,
+      "priceChangeFromDetection": 3785.3503184713377,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
@@ -808,7 +808,7 @@
           "significance": "medium"
         },
         {
-          "date": "2026-04-01",
+          "date": "2026-04-02",
           "event": "Daily scan update",
           "details": "Risk score: 6, Promotion score: N/A"
         }
@@ -917,7 +917,7 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-04-01",
+      "lastSeen": "2026-04-02",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
@@ -925,9 +925,9 @@
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.22,
-      "peakPrice": 1.7,
-      "currentPrice": 1.7,
-      "priceChangeFromDetection": 39.34426229508197,
+      "peakPrice": 1.66,
+      "currentPrice": 1.66,
+      "priceChangeFromDetection": 36.065573770491795,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
@@ -1007,7 +1007,7 @@
           "details": "Risk score: 16, Promotion score: 20"
         },
         {
-          "date": "2026-04-01",
+          "date": "2026-04-02",
           "event": "Daily scan update",
           "details": "Risk score: 5, Promotion score: N/A"
         }
@@ -1015,18 +1015,18 @@
       "notes": [],
       "investigationFlags": []
     },
-    "SCHEME-ANEB-20260401-MNGVQPN8": {
-      "schemeId": "SCHEME-ANEB-20260401-MNGVQPN8",
+    "SCHEME-ANEB-20260402-MNIBU5MV": {
+      "schemeId": "SCHEME-ANEB-20260402-MNIBU5MV",
       "symbol": "ANEB",
       "name": "Anebulo Pharmaceuticals, Inc.",
       "sector": "Healthcare",
       "industry": "Biotechnology",
-      "firstDetected": "2026-04-01",
-      "lastSeen": "2026-04-01",
+      "firstDetected": "2026-04-02",
+      "lastSeen": "2026-04-02",
       "daysActive": 1,
       "status": "NEW",
-      "peakRiskScore": 19,
-      "currentRiskScore": 19,
+      "peakRiskScore": 20,
+      "currentRiskScore": 20,
       "peakPromotionScore": 85,
       "currentPromotionScore": 85,
       "promotionPlatforms": [
@@ -1036,21 +1036,21 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-04-01",
-          "lastSeen": "2026-04-01",
+          "firstSeen": "2026-04-02",
+          "lastSeen": "2026-04-02",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
       "priceAtDetection": 0.334,
-      "peakPrice": 0.76,
-      "currentPrice": 0.76,
-      "priceChangeFromDetection": 127.54491017964071,
+      "peakPrice": 0.75,
+      "currentPrice": 0.75,
+      "priceChangeFromDetection": 124.5508982035928,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 90216,
-      "peakVolume": 90216,
-      "currentVolume": 90216,
+      "volumeAtDetection": 76970,
+      "peakVolume": 76970,
+      "currentVolume": 76970,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -1070,22 +1070,92 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-04-01",
+          "date": "2026-04-02",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 19 and promotion score 85",
+          "details": "Initial detection with risk score 20 and promotion score 85",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-CREV-20260401-MNGVQPNA": {
-      "schemeId": "SCHEME-CREV-20260401-MNGVQPNA",
+    "SCHEME-FBLG-20260402-MNIBU5MW": {
+      "schemeId": "SCHEME-FBLG-20260402-MNIBU5MW",
+      "symbol": "FBLG",
+      "name": "FibroBiologics, Inc. Common Stock",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "firstDetected": "2026-04-02",
+      "lastSeen": "2026-04-02",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 16,
+      "currentRiskScore": 16,
+      "peakPromotionScore": 63,
+      "currentPromotionScore": 63,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-04-02",
+          "lastSeen": "2026-04-02",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "kylevallans",
+          "firstSeen": "2026-04-02",
+          "lastSeen": "2026-04-02",
+          "postCount": 1,
+          "confidence": "medium"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 4.4,
+      "peakPrice": 1.38,
+      "currentPrice": 1.38,
+      "priceChangeFromDetection": -68.63636363636364,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 289385,
+      "peakVolume": 289385,
+      "currentVolume": 289385,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ACCELERATION"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
+      "notes": [
+        "Initial detection with promotion score 63"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-04-02",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 16 and promotion score 63",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-CREV-20260402-MNIBU5MX": {
+      "schemeId": "SCHEME-CREV-20260402-MNIBU5MX",
       "symbol": "CREV",
       "name": "Carbon Revolution Public Limited Ordinary Shares",
       "sector": "Consumer Cyclical",
       "industry": "Auto - Parts",
-      "firstDetected": "2026-04-01",
-      "lastSeen": "2026-04-01",
+      "firstDetected": "2026-04-02",
+      "lastSeen": "2026-04-02",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 17,
@@ -1099,8 +1169,8 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-04-01",
-          "lastSeen": "2026-04-01",
+          "firstSeen": "2026-04-02",
+          "lastSeen": "2026-04-02",
           "postCount": 1,
           "confidence": "high"
         }
@@ -1132,7 +1202,7 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-04-01",
+          "date": "2026-04-02",
           "event": "Scheme detected",
           "category": "detection",
           "details": "Initial detection with risk score 17 and promotion score 85",
@@ -1140,18 +1210,18 @@
         }
       ]
     },
-    "SCHEME-RBOT-20260401-MNGVQPNA": {
-      "schemeId": "SCHEME-RBOT-20260401-MNGVQPNA",
-      "symbol": "RBOT",
-      "name": "Vicarious Surgical Inc.",
-      "sector": "Healthcare",
-      "industry": "Medical - Devices",
-      "firstDetected": "2026-04-01",
-      "lastSeen": "2026-04-01",
+    "SCHEME-RNWWW-20260402-MNIBU5MX": {
+      "schemeId": "SCHEME-RNWWW-20260402-MNIBU5MX",
+      "symbol": "RNWWW",
+      "name": "ReNew Energy Global plc",
+      "sector": "Utilities",
+      "industry": "Renewable Utilities",
+      "firstDetected": "2026-04-02",
+      "lastSeen": "2026-04-02",
       "daysActive": 1,
       "status": "NEW",
-      "peakRiskScore": 20,
-      "currentRiskScore": 20,
+      "peakRiskScore": 19,
+      "currentRiskScore": 19,
       "peakPromotionScore": 85,
       "currentPromotionScore": 85,
       "promotionPlatforms": [
@@ -1161,26 +1231,25 @@
         {
           "platform": "StockTwits",
           "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-04-01",
-          "lastSeen": "2026-04-01",
+          "firstSeen": "2026-04-02",
+          "lastSeen": "2026-04-02",
           "postCount": 1,
           "confidence": "high"
         }
       ],
       "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.27,
-      "peakPrice": 0.81,
-      "currentPrice": 0.81,
-      "priceChangeFromDetection": 200,
+      "priceAtDetection": 0.005966666666666668,
+      "peakPrice": 0.0034,
+      "currentPrice": 0.0034,
+      "priceChangeFromDetection": -43.016759776536325,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 105228,
-      "peakVolume": 105228,
-      "currentVolume": 105228,
+      "volumeAtDetection": 16003,
+      "peakVolume": 16003,
+      "currentVolume": 16003,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
         "MICRO_LIQUIDITY",
-        "OTC_EXCHANGE",
         "SPIKE_7D",
         "SPIKE_THEN_DROP",
         "HIGH_VOLATILITY",
@@ -1196,10 +1265,73 @@
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-04-01",
+          "date": "2026-04-02",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 20 and promotion score 85",
+          "details": "Initial detection with risk score 19 and promotion score 85",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-RBOT-20260402-MNIBU5MX": {
+      "schemeId": "SCHEME-RBOT-20260402-MNIBU5MX",
+      "symbol": "RBOT",
+      "name": "Vicarious Surgical Inc.",
+      "sector": "Healthcare",
+      "industry": "Medical - Devices",
+      "firstDetected": "2026-04-02",
+      "lastSeen": "2026-04-02",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 18,
+      "currentRiskScore": 18,
+      "peakPromotionScore": 85,
+      "currentPromotionScore": 85,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-04-02",
+          "lastSeen": "2026-04-02",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 0.27,
+      "peakPrice": 0.73,
+      "currentPrice": 0.73,
+      "priceChangeFromDetection": 170.37037037037035,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 105228,
+      "peakVolume": 105228,
+      "currentVolume": 105228,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "VOLUME_ACCELERATION"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
+      "notes": [
+        "Initial detection with promotion score 85"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-04-02",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 18 and promotion score 85",
           "significance": "high"
         }
       ]
