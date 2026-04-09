@@ -13,7 +13,7 @@ Date: 2026-04-08
 ### SXTC - China SXT Pharmaceuticals, Inc.
 - Scheme ID: SCH-SXTC-20260202-4CVF
 - Status: ONGOING | Days: 2
-- Risk: 14 | Promotion: 20
+- Risk: 11 | Promotion: 20
 - Platforms: Twitter/X, YouTube, Discord, Telegram
 
 ### MTEN - Mingteng International Corporation Inc.

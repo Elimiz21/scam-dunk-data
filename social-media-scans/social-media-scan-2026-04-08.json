@@ -1,9 +1,9 @@
 {
   "scanDate": "2026-04-08",
-  "totalScanned": 882,
+  "totalScanned": 891,
   "socialMediaScannedCount": 38,
   "highPromotionCount": 0,
-  "mediumPromotionCount": 3,
+  "mediumPromotionCount": 2,
   "results": [
     {
       "symbol": "UBXG",
@@ -20,7 +20,7 @@
         "VOLUME_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There are no recent earnings announcements, major contracts, regulatory approvals, or any significant news that would provide a legitimate reason for the unusual trading activity in UBXG. The available news articles are vague and do not convey substantive information.",
+      "newsAnalysis": "There were no recent earnings announcements, FDA approvals, major contracts, regulatory updates, or any other substantive news that would explain the unusual trading activity in UBXG. The information indicates a potential pump-and-dump pattern instead of legitimate activity.",
       "recentNews": [
         {
           "title": "Comparing U-BX Technology (NASDAQ:UBXG) and Victory Square Technologies (OTCMKTS:VSQTF)",
@@ -58,16 +58,10 @@
           "promotionRisk": "medium"
         }
       ],
-      "overallPromotionScore": 39,
+      "overallPromotionScore": 34,
       "promotionRiskLevel": "medium",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
-        {
-          "platform": "StockTwits",
-          "username": "OfficialStocktwitsUser",
-          "postCount": 3,
-          "confidence": "high"
-        },
         {
           "platform": "Forum",
           "username": "unknown",
@@ -81,7 +75,7 @@
           "confidence": "low"
         }
       ],
-      "overallAssessment": "14 mentions found across 3 platform(s). Avg promotion score: 39/100.",
+      "overallAssessment": "14 mentions found across 3 platform(s). Avg promotion score: 34/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -98,7 +92,7 @@
         "SPIKE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The recent news primarily focuses on a significant increase in short interest, a notification regarding minimum bid price deficiency from Nasdaq, and financial comparisons with other companies. These factors are not classified as legitimate explanations for unusual trading activity such as earnings announcements or significant corporate news. Instead, they may indicate potential manipulation patterns.",
+      "newsAnalysis": "The recent news involves a significant increase in short interest and a notification regarding a minimum bid price deficiency from Nasdaq, neither of which are legitimate events that would typically explain unusual trading activity. The lack of positive announcements like earnings, contracts, or product launches further supports this conclusion.",
       "recentNews": [
         {
           "title": "Zenvia Inc. (NASDAQ:ZENV) Sees Large Increase in Short Interest",
@@ -149,12 +143,12 @@
         {
           "platform": "Forum",
           "source": "real",
-          "mentionsFound": 4,
-          "activityLevel": "medium",
+          "mentionsFound": 5,
+          "activityLevel": "high",
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 34,
+      "overallPromotionScore": 33,
       "promotionRiskLevel": "medium",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
@@ -171,7 +165,7 @@
           "confidence": "medium"
         }
       ],
-      "overallAssessment": "16 mentions found across 3 platform(s). Avg promotion score: 34/100.",
+      "overallAssessment": "17 mentions found across 3 platform(s). Avg promotion score: 33/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -189,7 +183,7 @@
         "PRICE_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The significant drop in LPCN's stock price is attributed to the failure of LPCN 1154 in a Phase 3 trial, which typically warrants a decline in stock value. Additionally, the increase in CEO Mahesh Patel's stock purchases doesn't offset the negative impact of the failure. The ongoing investigation by Johnson Fistel appears to add to the uncertainty. No legitimate news or events warranting the observed trading activity. Event: LPCN 1154 failed to meet primary endpoint in Phase 3 trial",
+      "newsAnalysis": "The unusual trading activity in LPCN is primarily due to negative news regarding the failure of LPCN 1154 in a Phase 3 trial for postpartum depression, which caused a significant decline in stock price. Additionally, there are ongoing legal investigations into potential claims for shareholder losses. This context suggests potential manipulation or panic selling rather than a legitimate event leading to positive trading activity. Event: LPCN 1154 did not meet its primary endpoint in a Phase 3 trial for postpartum depression.",
       "recentNews": [
         {
           "title": "Lipocine (NASDAQ:LPCN) CEO Mahesh Patel Acquires 25,000 Shares of Stock",
@@ -224,6 +218,13 @@
       ],
       "socialMediaMentions": [
         {
+          "platform": "Reddit",
+          "source": "real",
+          "mentionsFound": 5,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
           "platform": "StockTwits",
           "source": "real",
           "mentionsFound": 12,
@@ -233,21 +234,14 @@
         {
           "platform": "Forum",
           "source": "real",
-          "mentionsFound": 6,
-          "activityLevel": "high",
-          "promotionRisk": "low"
-        },
-        {
-          "platform": "Reddit",
-          "source": "real",
-          "mentionsFound": 5,
+          "mentionsFound": 8,
           "activityLevel": "high",
           "promotionRisk": "low"
         },
         {
           "platform": "YouTube",
           "source": "real",
-          "mentionsFound": 3,
+          "mentionsFound": 2,
           "activityLevel": "medium",
           "promotionRisk": "low"
         }
@@ -260,10 +254,10 @@
           "platform": "Reddit",
           "username": "unknown",
           "postCount": 2,
-          "confidence": "low"
+          "confidence": "medium"
         }
       ],
-      "overallAssessment": "26 mentions found across 4 platform(s). Avg promotion score: 17/100.",
+      "overallAssessment": "27 mentions found across 4 platform(s). Avg promotion score: 17/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -281,7 +275,7 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The recent news and SEC filings do not provide any substantial or legitimate updates such as earnings announcements, regulatory approvals, or significant contracts that would justify the unusual trading activity observed. The information presented is either vague or does not indicate any direct catalyst for the stock price movement.",
+      "newsAnalysis": "The recent news, SEC filings, and press releases do not provide substantial announcements such as earnings results, regulatory approvals, or significant changes that would typically justify the unusual trading activity in IOBT. Instead, there are mentions of short interest fluctuations and analyst ratings which are not legitimate reasons for the observed drastic price movements and elevated volume.",
       "recentNews": [
         {
           "title": "Analysts Set IO Biotech, Inc. (NASDAQ:IOBT) PT at $6.33",
@@ -316,6 +310,13 @@
       ],
       "socialMediaMentions": [
         {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 4,
+          "activityLevel": "medium",
+          "promotionRisk": "low"
+        },
+        {
           "platform": "Forum",
           "source": "real",
           "mentionsFound": 4,
@@ -323,9 +324,9 @@
           "promotionRisk": "low"
         },
         {
-          "platform": "StockTwits",
+          "platform": "Reddit",
           "source": "real",
-          "mentionsFound": 4,
+          "mentionsFound": 2,
           "activityLevel": "medium",
           "promotionRisk": "low"
         },
@@ -335,13 +336,6 @@
           "mentionsFound": 1,
           "activityLevel": "low",
           "promotionRisk": "low"
-        },
-        {
-          "platform": "Reddit",
-          "source": "real",
-          "mentionsFound": 2,
-          "activityLevel": "medium",
-          "promotionRisk": "low"
         }
       ],
       "overallPromotionScore": 17,
@@ -349,6 +343,97 @@
       "hasRealSocialEvidence": true,
       "potentialPromoters": [],
       "overallAssessment": "11 mentions found across 4 platform(s). Avg promotion score: 17/100.",
+      "scanDate": "2026-04-08"
+    },
+    {
+      "symbol": "ANEB",
+      "name": "Anebulo Pharmaceuticals, Inc.",
+      "riskScore": 16,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The trading activity in Anebulo Pharmaceuticals does not appear to be supported by a legitimate event such as earnings announcements, FDA approvals, or significant changes in management. The company's announcement to voluntarily delist from Nasdaq and deregister with the SEC indicates significant uncertainty surrounding its future and likely contributes to the unusual trading activity. However, this does not constitute a positive or negative earnings announcement or any of the other major legitimate events listed. Event: Intention to voluntarily delist from Nasdaq and deregister with SEC",
+      "recentNews": [
+        {
+          "title": "Anebulo Pharmaceuticals (NASDAQ:ANEB) & Replimune Group (NASDAQ:REPL) Critical Comparison",
+          "date": "2026-03-12 02:08:50",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/03/12/anebulo-pharmaceuticals-nasdaqaneb-replimune-group-nasdaqrepl-critical-comparison.html"
+        },
+        {
+          "title": "Anebulo Pharmaceuticals Reports Second Quarter Fiscal Year 2026 Financial Results and Recent Updates",
+          "date": "2026-02-12 16:15:00",
+          "source": "businesswire.com",
+          "url": "https://www.businesswire.com/news/home/20260212354383/en/Anebulo-Pharmaceuticals-Reports-Second-Quarter-Fiscal-Year-2026-Financial-Results-and-Recent-Updates/"
+        },
+        {
+          "title": "Anebulo Pharmaceuticals Announces Intention to Voluntarily Delist from Nasdaq and Deregister with SEC",
+          "date": "2026-02-06 09:00:00",
+          "source": "businesswire.com",
+          "url": "https://www.businesswire.com/news/home/20260206485482/en/Anebulo-Pharmaceuticals-Announces-Intention-to-Voluntarily-Delist-from-Nasdaq-and-Deregister-with-SEC/"
+        },
+        {
+          "title": "Anebulo Pharmaceuticals (NASDAQ:ANEB) Trading Down 13.6%  – What’s Next?",
+          "date": "2026-02-06 05:02:43",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/02/06/anebulo-pharmaceuticals-nasdaqaneb-trading-down-13-6-whats-next.html"
+        },
+        {
+          "title": "Anebulo Pharmaceuticals (NASDAQ:ANEB) Stock Price Down 13.6%  – What’s Next?",
+          "date": "2026-02-06 04:12:47",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/02/06/anebulo-pharmaceuticals-nasdaqaneb-stock-price-down-13-6-whats-next.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 14,
+          "activityLevel": "high",
+          "promotionRisk": "medium"
+        },
+        {
+          "platform": "Forum",
+          "source": "real",
+          "mentionsFound": 4,
+          "activityLevel": "medium",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "TikTok",
+          "source": "real",
+          "mentionsFound": 2,
+          "activityLevel": "medium",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 31,
+      "promotionRiskLevel": "medium",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "OfficialStocktwitsUser",
+          "postCount": 4,
+          "confidence": "high"
+        }
+      ],
+      "overallAssessment": "21 mentions found across 4 platform(s). Avg promotion score: 31/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -367,7 +452,7 @@
         "PRICE_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The recent news primarily highlights a Nasdaq delisting, which typically does not justify a spike in trading activity as it often leads to negative investor sentiment. Additionally, the news on simplifying network capabilities does not directly correlate with unusual trading patterns or significant events categorizing it as legitimate.",
+      "newsAnalysis": "The recent news about Cambium Networks primarily concerns a Nasdaq delisting announcement, which is generally not a legitimate reason for positive trading activity. No substantial news, earnings announcements, or other legitimate market catalysts have been reported that would warrant the drastic changes in trading volume and price.",
       "recentNews": [
         {
           "title": "Cambium Networks Announces Nasdaq Delisting",
@@ -400,20 +485,20 @@
         {
           "platform": "Reddit",
           "source": "real",
-          "mentionsFound": 3,
+          "mentionsFound": 4,
           "activityLevel": "medium",
           "promotionRisk": "low"
         },
         {
           "platform": "Forum",
           "source": "real",
-          "mentionsFound": 3,
+          "mentionsFound": 4,
           "activityLevel": "medium",
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 30,
-      "promotionRiskLevel": "medium",
+      "overallPromotionScore": 27,
+      "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
         {
@@ -429,7 +514,7 @@
           "confidence": "low"
         }
       ],
-      "overallAssessment": "10 mentions found across 4 platform(s). Avg promotion score: 30/100.",
+      "overallAssessment": "12 mentions found across 4 platform(s). Avg promotion score: 27/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -447,7 +532,7 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The recent trading activity does not correspond to legitimate news triggers such as earnings announcements, major contracts, or regulatory approvals. The only news involves a follow-on public offering and the expiration of a lock-up period, which are less likely to account for the unusual trading patterns observed. Furthermore, the detection of a pump-and-dump pattern and significant price volatility raises suspicion about potential manipulation.",
+      "newsAnalysis": "The unusual trading activity in MGN is likely due to the upcoming expiration of the lock-up period rather than any substantive business news or announcements that would justify the significant price movement. The follow-on public offering and its closing are standard activities but do not contain new or impactful developments. No earnings, product launches, or regulatory news were noted that could support a legitimate explanation for the trading behavior.",
       "recentNews": [
         {
           "title": "MGN’s (NASDAQ:MGN) Lock-Up Period Will End  on March 25th",
@@ -484,7 +569,7 @@
         {
           "platform": "StockTwits",
           "source": "real",
-          "mentionsFound": 18,
+          "mentionsFound": 16,
           "activityLevel": "high",
           "promotionRisk": "medium"
         },
@@ -498,13 +583,13 @@
         {
           "platform": "YouTube",
           "source": "real",
-          "mentionsFound": 3,
+          "mentionsFound": 4,
           "activityLevel": "medium",
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 29,
-      "promotionRiskLevel": "low",
+      "overallPromotionScore": 30,
+      "promotionRiskLevel": "medium",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
         {
@@ -520,7 +605,7 @@
           "confidence": "medium"
         }
       ],
-      "overallAssessment": "24 mentions found across 3 platform(s). Avg promotion score: 29/100.",
+      "overallAssessment": "23 mentions found across 3 platform(s). Avg promotion score: 30/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -538,7 +623,7 @@
         "VOLUME_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The unusual trading activity appears to be driven by factors lacking substantive fundamental news or events such as earnings, contracts, or regulatory approvals. The recent announcements revolve around a plan for an ADS ratio change and previous minor fluctuations in stock price, which do not qualify as legitimate explanations for the trading activity.",
+      "newsAnalysis": "The recent trading activity and news regarding Trident Digital Tech Holdings Ltd do not correlate with any legitimate news events such as earnings announcements, product launches, or significant partnerships. The news mainly includes vague announcements about ADS ratio changes without any substance that indicates a strong reason for the significant price volatility and abnormal trading volume.",
       "recentNews": [
         {
           "title": "Trident Announces Plan to Implement ADS Ratio Change",
@@ -568,83 +653,11 @@
           "promotionRisk": "medium"
         },
         {
-          "platform": "Forum",
+          "platform": "YouTube",
           "source": "real",
-          "mentionsFound": 4,
-          "activityLevel": "medium",
+          "mentionsFound": 1,
+          "activityLevel": "low",
           "promotionRisk": "low"
-        }
-      ],
-      "overallPromotionScore": 28,
-      "promotionRiskLevel": "low",
-      "hasRealSocialEvidence": true,
-      "potentialPromoters": [
-        {
-          "platform": "StockTwits",
-          "username": "cubie",
-          "postCount": 2,
-          "confidence": "low"
-        }
-      ],
-      "overallAssessment": "11 mentions found across 2 platform(s). Avg promotion score: 28/100.",
-      "scanDate": "2026-04-08"
-    },
-    {
-      "symbol": "CLGN",
-      "name": "CollPlant Biotechnologies Ltd.",
-      "riskScore": 20,
-      "signals": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "SPIKE_7D",
-        "SPIKE_THEN_DROP",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D",
-        "VOLUME_SURGE_3D",
-        "VOLUME_ACCELERATION"
-      ],
-      "hasLegitimateNews": false,
-      "newsAnalysis": "The recent trading activity in CLGN does not seem to be explained by any substantive news regarding earnings, regulatory approvals, or significant corporate actions. The news articles mainly consist of comparisons with other companies and the relaying of financial results without significant updates or mentions of growth, partnerships, or product launches.",
-      "recentNews": [
-        {
-          "title": "Contrasting CollPlant Biotechnologies (NASDAQ:CLGN) and Inhibrx Biosciences (NASDAQ:INBX)",
-          "date": "2026-03-27 02:36:54",
-          "source": "defenseworld.net",
-          "url": "https://www.defenseworld.net/2026/03/27/contrasting-collplant-biotechnologies-nasdaqclgn-and-inhibrx-biosciences-nasdaqinbx.html"
-        },
-        {
-          "title": "COLLPLANT BIOTECHNOLOGIES REPORTS 2025 FINANCIAL RESULTS AND PROVIDES CORPORATE UPDATE",
-          "date": "2026-03-26 08:30:00",
-          "source": "prnewswire.com",
-          "url": "https://www.prnewswire.com/news-releases/collplant-biotechnologies-reports-2025-financial-results-and-provides-corporate-update-302726091.html"
-        },
-        {
-          "title": "CollPlant Biotechnologies Receives Nasdaq Notification Regarding Minimum Bid Requirement",
-          "date": "2026-03-24 16:01:00",
-          "source": "prnewswire.com",
-          "url": "https://www.prnewswire.com/news-releases/collplant-biotechnologies-receives-nasdaq-notification-regarding-minimum-bid-requirement-302723716.html"
-        },
-        {
-          "title": "CollPlant Biotechnologies Launches Redesigned Corporate Website",
-          "date": "2026-03-18 09:00:00",
-          "source": "prnewswire.com",
-          "url": "https://www.prnewswire.com/news-releases/collplant-biotechnologies-launches-redesigned-corporate-website-302717384.html"
-        },
-        {
-          "title": "Reviewing CG Oncology (NASDAQ:CGON) and CollPlant Biotechnologies (NASDAQ:CLGN)",
-          "date": "2026-03-13 02:50:57",
-          "source": "defenseworld.net",
-          "url": "https://www.defenseworld.net/2026/03/13/reviewing-cg-oncology-nasdaqcgon-and-collplant-biotechnologies-nasdaqclgn.html"
-        }
-      ],
-      "socialMediaMentions": [
-        {
-          "platform": "StockTwits",
-          "source": "real",
-          "mentionsFound": 9,
-          "activityLevel": "high",
-          "promotionRisk": "medium"
         },
         {
           "platform": "Forum",
@@ -654,18 +667,24 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 28,
-      "promotionRiskLevel": "low",
+      "overallPromotionScore": 31,
+      "promotionRiskLevel": "medium",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
         {
           "platform": "StockTwits",
-          "username": "dln101",
+          "username": "OfficialStocktwitsUser",
           "postCount": 2,
           "confidence": "high"
+        },
+        {
+          "platform": "StockTwits",
+          "username": "cubie",
+          "postCount": 2,
+          "confidence": "low"
         }
       ],
-      "overallAssessment": "14 mentions found across 2 platform(s). Avg promotion score: 28/100.",
+      "overallAssessment": "13 mentions found across 3 platform(s). Avg promotion score: 31/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -682,7 +701,7 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The recent news and press releases lack substantive information that corresponds to major announcements typically associated with unusual trading activity, such as earnings reports, major partnerships, or significant contract wins. They mainly highlight various partnerships and updates without indicating material impact on the company's financial outlook or operations.",
+      "newsAnalysis": "The recent news announcements from IP Strategy Holdings, Inc. primarily focus on highlighting partnerships, updates on projects, and involvement in tokenized assets, which do not reflect material news that would typically drive significant trading activity such as earnings reports, major contracts, or regulatory approvals. Thus, these announcements are insufficient to account for the unusual trading activity observed.",
       "recentNews": [
         {
           "title": "IP Strategy Highlights Aria's Frontline K-Pop Release with RESCENE on Story",
@@ -719,21 +738,21 @@
         {
           "platform": "StockTwits",
           "source": "real",
-          "mentionsFound": 12,
+          "mentionsFound": 16,
           "activityLevel": "high",
           "promotionRisk": "medium"
         },
         {
-          "platform": "Reddit",
+          "platform": "Forum",
           "source": "real",
-          "mentionsFound": 3,
-          "activityLevel": "medium",
+          "mentionsFound": 5,
+          "activityLevel": "high",
           "promotionRisk": "low"
         },
         {
-          "platform": "Forum",
+          "platform": "Reddit",
           "source": "real",
-          "mentionsFound": 4,
+          "mentionsFound": 2,
           "activityLevel": "medium",
           "promotionRisk": "low"
         },
@@ -752,7 +771,7 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 37,
+      "overallPromotionScore": 30,
       "promotionRiskLevel": "medium",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
@@ -769,12 +788,6 @@
           "confidence": "medium"
         },
         {
-          "platform": "Reddit",
-          "username": "unknown",
-          "postCount": 2,
-          "confidence": "medium"
-        },
-        {
           "platform": "Forum",
           "username": "unknown",
           "postCount": 2,
@@ -787,7 +800,7 @@
           "confidence": "low"
         }
       ],
-      "overallAssessment": "21 mentions found across 5 platform(s). Avg promotion score: 37/100.",
+      "overallAssessment": "25 mentions found across 5 platform(s). Avg promotion score: 30/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -805,7 +818,7 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The recent unusual trading activity in SGBX is not supported by legitimate news announcements or SEC filings that would typically drive such price and volume movements. The name change to Olenox Industries Inc. and the adjournment of the annual meeting do not indicate any substantial corporate developments that would justify the extreme market activity. Additionally, the significant increase in short interest suggests speculation rather than genuine corporate developments.",
+      "newsAnalysis": "The recent news and SEC filings do not contain any significant events or announcements that would justify the unusual trading activity observed in SGBX. The name change and the adjournment of the annual meeting lack substantive impact on the company's operations or financial performance.",
       "recentNews": [
         {
           "title": "Safe & Green Holdings Corp. (NASDAQ:SGBX) Short Interest Update",
@@ -879,7 +892,7 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The recent announcements from Captivision Inc. regarding its delisting from Nasdaq to OTC do not represent a legitimate earnings announcement, major contract, or any other significant corporate event that would typically warrant such drastic trading activity. Rather, it indicates potential financial instability, which may amplify concerns among investors, leading to unusual trading activity. Additionally, the unrelated news regarding Capitan Silver, which is a different company, does not provide any justification for Captivision's trading anomalies.",
+      "newsAnalysis": "The unusual trading activity in Captivision Inc. seems to be driven by the Nasdaq delisting announcement rather than any substantive news or legitimate corporate developments. The news does not relate to earnings, major contracts, regulatory approvals, or significant changes in the company that would typically drive legitimate trading activity. The sudden price drop and elevated volume suggest a potential pump-and-dump scheme rather than a healthy market reaction. Event: Nasdaq delisting announcement",
       "recentNews": [
         {
           "title": "Captivision Announces Nasdaq Global Markets Delisting to OTC",
@@ -916,7 +929,14 @@
         {
           "platform": "StockTwits",
           "source": "real",
-          "mentionsFound": 6,
+          "mentionsFound": 8,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "Forum",
+          "source": "real",
+          "mentionsFound": 11,
           "activityLevel": "high",
           "promotionRisk": "low"
         },
@@ -928,28 +948,21 @@
           "promotionRisk": "medium"
         },
         {
-          "platform": "YouTube",
-          "source": "real",
-          "mentionsFound": 1,
-          "activityLevel": "low",
-          "promotionRisk": "low"
-        },
-        {
-          "platform": "Forum",
-          "source": "real",
-          "mentionsFound": 8,
-          "activityLevel": "high",
-          "promotionRisk": "low"
-        },
-        {
           "platform": "Twitter",
+          "source": "real",
+          "mentionsFound": 2,
+          "activityLevel": "medium",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
           "source": "real",
           "mentionsFound": 2,
           "activityLevel": "medium",
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 21,
+      "overallPromotionScore": 19,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
@@ -966,7 +979,7 @@
           "confidence": "low"
         }
       ],
-      "overallAssessment": "19 mentions found across 5 platform(s). Avg promotion score: 21/100.",
+      "overallAssessment": "25 mentions found across 5 platform(s). Avg promotion score: 19/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -983,7 +996,7 @@
         "SPIKE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The unusual trading activity in STAI is not supported by any substantive news. The recent press releases primarily concern its transition to OTCQB and a delay in Nasdaq trading, which do not constitute legitimate news events that would typically drive significant trading activity. Additionally, there are no earnings announcements, major contract wins, or other significant business developments related to the company.",
+      "newsAnalysis": "The unusual trading activity cannot be attributed to any legitimate news or events that would typically drive such changes, like earnings announcements, contracts, or regulatory approvals. Instead, the news appears to focus on trading status changes and comparisons to other companies, which do not provide a strong basis for the observed price movements.",
       "recentNews": [
         {
           "title": "ScanTech AI Systems Begins Trading on OTCQB Venture Market and Provides Corporate Update",
@@ -1032,25 +1045,18 @@
           "promotionRisk": "low"
         },
         {
-          "platform": "YouTube",
-          "source": "real",
-          "mentionsFound": 1,
-          "activityLevel": "low",
-          "promotionRisk": "low"
-        },
-        {
           "platform": "Forum",
           "source": "real",
-          "mentionsFound": 3,
-          "activityLevel": "medium",
+          "mentionsFound": 5,
+          "activityLevel": "high",
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 26,
+      "overallPromotionScore": 25,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [],
-      "overallAssessment": "8 mentions found across 4 platform(s). Avg promotion score: 26/100.",
+      "overallAssessment": "9 mentions found across 3 platform(s). Avg promotion score: 25/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -1067,7 +1073,7 @@
         "SPIKE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The unusual trading activity in SSKN appears to be driven by a combination of high volatility, low trading volume, and significant short interest, rather than legitimate news such as earnings announcements or FDA approvals. The confirmation of Nasdaq delisting and negative performance despite positive study results do not constitute legitimate catalysts for trading.",
+      "newsAnalysis": "The unusual trading activity in SSKN does not appear to be linked to legitimate corporate events such as earnings announcements, FDA approvals, major partnerships, or significant regulatory actions. The spike in short interest and confirmation of Nasdaq delisting could contribute to volatility, but these are not substantive news triggers that directly explain the trading activity.",
       "recentNews": [
         {
           "title": "Short Interest in Strata Skin Sciences, Inc. (NASDAQ:SSKN) Rises By 89.2%",
@@ -1145,7 +1151,7 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The recent news primarily focuses on a patent infringement lawsuit update and vague comparisons with other companies, without presenting any concrete events such as major contracts, product launches, or significant corporate announcements that could justify the extreme trading activity in AIXI. The unusual trading patterns and significant price movements appear to be driven more by speculation rather than substantive news.",
+      "newsAnalysis": "The recent trading activity in AIXI does not have a clear legitimate explanation from significant news like earnings announcements, major contracts, or regulatory approvals. The most recent news about the patent infringement lawsuit against Apple does not provide substantial positive or negative indicators for investors and appears related but not directly impactful. No significant SEC filings indicating material news were identified, and the trading volume and price movements suggest potential market manipulation rather than genuine business performance.",
       "recentNews": [
         {
           "title": "Why Applied Optoelectronics Shares Are Trading Higher By Around 9%; Here Are 20 Stocks Moving Premarket",
@@ -1176,28 +1182,28 @@
         {
           "platform": "StockTwits",
           "source": "real",
-          "mentionsFound": 44,
+          "mentionsFound": 40,
           "activityLevel": "high",
           "promotionRisk": "medium"
         },
         {
           "platform": "YouTube",
           "source": "real",
-          "mentionsFound": 13,
+          "mentionsFound": 10,
           "activityLevel": "high",
-          "promotionRisk": "low"
-        },
-        {
-          "platform": "Reddit",
-          "source": "real",
-          "mentionsFound": 3,
-          "activityLevel": "medium",
           "promotionRisk": "low"
         },
         {
           "platform": "Forum",
           "source": "real",
           "mentionsFound": 3,
+          "activityLevel": "medium",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "Reddit",
+          "source": "real",
+          "mentionsFound": 2,
           "activityLevel": "medium",
           "promotionRisk": "low"
         },
@@ -1215,9 +1221,9 @@
       "potentialPromoters": [
         {
           "platform": "StockTwits",
-          "username": "VapourWave",
-          "postCount": 3,
-          "confidence": "high"
+          "username": "TradeForLifeKing",
+          "postCount": 2,
+          "confidence": "medium"
         },
         {
           "platform": "StockTwits",
@@ -1227,19 +1233,13 @@
         },
         {
           "platform": "StockTwits",
-          "username": "Digitalization2026",
-          "postCount": 2,
+          "username": "climbermatty",
+          "postCount": 3,
           "confidence": "medium"
         },
         {
           "platform": "StockTwits",
-          "username": "JMJTrading",
-          "postCount": 2,
-          "confidence": "medium"
-        },
-        {
-          "platform": "YouTube",
-          "username": "unknown",
+          "username": "Longislandbull",
           "postCount": 2,
           "confidence": "medium"
         },
@@ -1248,6 +1248,12 @@
           "username": "FinanceLegacy",
           "postCount": 5,
           "confidence": "medium"
+        },
+        {
+          "platform": "YouTube",
+          "username": "unknown",
+          "postCount": 3,
+          "confidence": "low"
         },
         {
           "platform": "Forum",
@@ -1262,106 +1268,7 @@
           "confidence": "low"
         }
       ],
-      "overallAssessment": "65 mentions found across 5 platform(s). Avg promotion score: 33/100.",
-      "scanDate": "2026-04-08"
-    },
-    {
-      "symbol": "MIGI",
-      "name": "Mawson Infrastructure Group, Inc.",
-      "riskScore": 19,
-      "signals": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "SPIKE_7D",
-        "VOLUME_EXPLOSION",
-        "OVERBOUGHT_RSI",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D",
-        "VOLUME_SURGE_3D",
-        "VOLUME_ACCELERATION"
-      ],
-      "hasLegitimateNews": false,
-      "newsAnalysis": "The observed unusual trading activity in MIGI does not correlate with any legitimate news explanations such as earnings, contracts, or management changes that would substantiate such a significant price and volume increase. The recent news focuses on governance changes and strategic initiatives without providing a substantive catalyst for trading activity. Additionally, the trading signals suggest heightened risk of manipulation typical in low-market-cap and penny stocks.",
-      "recentNews": [
-        {
-          "title": "Mawson Infrastructure Group Announces Reconstitution of its Board and New Executive Leadership to Drive Transformation",
-          "date": "2026-04-08 08:30:00",
-          "source": "globenewswire.com",
-          "url": "https://www.globenewswire.com/news-release/2026/04/08/3270108/0/en/Mawson-Infrastructure-Group-Announces-Reconstitution-of-its-Board-and-New-Executive-Leadership-to-Drive-Transformation.html"
-        },
-        {
-          "title": "Endeavor Files Preliminary Consent Materials to Remove Entire Board of Directors at Mawson Infrastructure Group",
-          "date": "2026-03-16 08:30:00",
-          "source": "globenewswire.com",
-          "url": "https://www.globenewswire.com/news-release/2026/03/16/3256269/0/en/Endeavor-Files-Preliminary-Consent-Materials-to-Remove-Entire-Board-of-Directors-at-Mawson-Infrastructure-Group.html"
-        },
-        {
-          "title": "Mawson Infrastructure Group Inc. Provides Update on Strategic Initiatives",
-          "date": "2026-03-16 06:00:00",
-          "source": "globenewswire.com",
-          "url": "https://www.globenewswire.com/news-release/2026/03/16/3256061/0/en/Mawson-Infrastructure-Group-Inc-Provides-Update-on-Strategic-Initiatives.html"
-        },
-        {
-          "title": "Reviewing Amdocs (NASDAQ:DOX) & Mawson Infrastructure Group (NASDAQ:MIGI)",
-          "date": "2026-02-19 03:32:53",
-          "source": "defenseworld.net",
-          "url": "https://www.defenseworld.net/2026/02/19/reviewing-amdocs-nasdaqdox-mawson-infrastructure-group-nasdaqmigi.html"
-        },
-        {
-          "title": "Contrasting Mawson Infrastructure Group (NASDAQ:MIGI) and CoStar Group (NASDAQ:CSGP)",
-          "date": "2026-02-17 02:42:42",
-          "source": "defenseworld.net",
-          "url": "https://www.defenseworld.net/2026/02/17/contrasting-mawson-infrastructure-group-nasdaqmigi-and-costar-group-nasdaqcsgp.html"
-        }
-      ],
-      "socialMediaMentions": [
-        {
-          "platform": "StockTwits",
-          "source": "real",
-          "mentionsFound": 14,
-          "activityLevel": "high",
-          "promotionRisk": "medium"
-        },
-        {
-          "platform": "YouTube",
-          "source": "real",
-          "mentionsFound": 5,
-          "activityLevel": "high",
-          "promotionRisk": "low"
-        },
-        {
-          "platform": "Reddit",
-          "source": "real",
-          "mentionsFound": 1,
-          "activityLevel": "low",
-          "promotionRisk": "low"
-        },
-        {
-          "platform": "Forum",
-          "source": "real",
-          "mentionsFound": 3,
-          "activityLevel": "medium",
-          "promotionRisk": "low"
-        }
-      ],
-      "overallPromotionScore": 27,
-      "promotionRiskLevel": "low",
-      "hasRealSocialEvidence": true,
-      "potentialPromoters": [
-        {
-          "platform": "StockTwits",
-          "username": "JMJTrading",
-          "postCount": 3,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "username": "BobWayne2025",
-          "postCount": 2,
-          "confidence": "medium"
-        }
-      ],
-      "overallAssessment": "23 mentions found across 4 platform(s). Avg promotion score: 27/100.",
+      "overallAssessment": "57 mentions found across 5 platform(s). Avg promotion score: 33/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -1379,7 +1286,7 @@
         "PRICE_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The recent news and filings primarily indicate a listing deficiency letter from Nasdaq and various strategic agreements, none of which represent significant financial or operational events that typically drive trading activity. The price movement and trading patterns suggest possible manipulation rather than legitimate company news.",
+      "newsAnalysis": "The recent news related to Visionary Holdings Inc. does not include significant events like earnings announcements, FDA approvals, partnerships, or any substantial regulatory approvals. While there are announcements regarding drilling campaigns and agreements, these do not directly correlate with legitimate major catalysts typically associated with significant trading changes. Additionally, the receipt of a Nasdaq continued listing deficiency letter can be viewed as a negative signal rather than a legitimate positive driver.",
       "recentNews": [
         {
           "title": "Visionary Holdings Inc. Announces Receipt of Nasdaq Continued Listing Deficiency Letter",
@@ -1428,17 +1335,17 @@
           "promotionRisk": "low"
         },
         {
-          "platform": "Forum",
-          "source": "real",
-          "mentionsFound": 2,
-          "activityLevel": "medium",
-          "promotionRisk": "low"
-        },
-        {
           "platform": "YouTube",
           "source": "real",
           "mentionsFound": 11,
           "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "Forum",
+          "source": "real",
+          "mentionsFound": 3,
+          "activityLevel": "medium",
           "promotionRisk": "low"
         }
       ],
@@ -1446,7 +1353,7 @@
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [],
-      "overallAssessment": "32 mentions found across 4 platform(s). Avg promotion score: 19/100.",
+      "overallAssessment": "33 mentions found across 4 platform(s). Avg promotion score: 19/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -1463,7 +1370,7 @@
         "PRICE_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The recent news concerning 3 E Network Technology Group Ltd (MASK) does not include any significant events such as earnings announcements, regulatory approvals, major contracts, or acquisitions that would typically provide a strong foundation for the observed unusual trading activity. Instead, the heightened trading volume and price movements appear to be linked to speculative trading patterns associated with penny stocks, such as a pump-and-dump scheme.",
+      "newsAnalysis": "The recent news primarily involves compliance with listing requirements and updates on a development project, which do not qualify as legitimate catalysts for unusual trading activity. The detected pump-and-dump pattern, combined with heavy volume and volatility, indicates the lack of substantive news to justify the price surge.",
       "recentNews": [
         {
           "title": "Nasdaq Determines That 3 E Network Has Regained Compliance with Continued Listing Requirements",
@@ -1512,6 +1419,13 @@
           "promotionRisk": "low"
         },
         {
+          "platform": "TikTok",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "medium"
+        },
+        {
           "platform": "YouTube",
           "source": "real",
           "mentionsFound": 2,
@@ -1519,14 +1433,14 @@
           "promotionRisk": "low"
         },
         {
-          "platform": "TikTok",
+          "platform": "Reddit",
           "source": "real",
           "mentionsFound": 1,
           "activityLevel": "low",
-          "promotionRisk": "medium"
+          "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 25,
+      "overallPromotionScore": 24,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
@@ -1537,7 +1451,7 @@
           "confidence": "low"
         }
       ],
-      "overallAssessment": "15 mentions found across 4 platform(s). Avg promotion score: 25/100.",
+      "overallAssessment": "16 mentions found across 5 platform(s). Avg promotion score: 24/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -1554,7 +1468,7 @@
         "SPIKE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There are no significant earnings announcements, FDA approvals, contract wins, or any other substantive company news that would typically explain unusual trading activity. The recent changes in short interest do not provide a legitimate catalyst for the observed trading patterns.",
+      "newsAnalysis": "The recent trading activity of LIDRW (AEye, Inc.) appears to be influenced by significant fluctuations in short interest, but there are no legitimate news events, earnings announcements, contract wins, or other significant corporate actions that typically explain such unusual trading activity. The absence of substantial updates in SEC filings or press releases further indicates a lack of concrete news driving this activity.",
       "recentNews": [
         {
           "title": "Short Interest in AEye, Inc. (NASDAQ:LIDRW) Declines By 34.9%",
@@ -1600,13 +1514,13 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There is no recent news, SEC filings, or press releases that provide a legitimate explanation for the unusual trading activity in INVZW. The detected pump-and-dump pattern and the absence of significant corporate actions suggest that the trading activity is more likely driven by manipulation than by legitimate company news.",
+      "newsAnalysis": "There are no recent news announcements, SEC filings, or press releases that provide a legitimate explanation for the unusual trading activity in INVZW. The stock has exhibited extreme price fluctuations and unusual trading volume inconsistent with legitimate market activity. This indicates potential manipulation rather than a significant corporate event.",
       "recentNews": [],
       "socialMediaMentions": [
         {
           "platform": "StockTwits",
           "source": "real",
-          "mentionsFound": 23,
+          "mentionsFound": 24,
           "activityLevel": "high",
           "promotionRisk": "medium"
         },
@@ -1618,7 +1532,7 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 46,
+      "overallPromotionScore": 45,
       "promotionRiskLevel": "medium",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
@@ -1629,7 +1543,7 @@
           "confidence": "medium"
         }
       ],
-      "overallAssessment": "24 mentions found across 2 platform(s). Avg promotion score: 46/100.",
+      "overallAssessment": "25 mentions found across 2 platform(s). Avg promotion score: 45/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -1647,7 +1561,7 @@
         "PRICE_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The recent news regarding HUB Cyber Security does not present any legitimate explanations for the unusual trading activity, such as earnings announcements, significant regulatory approvals, or major partnerships. The leadership transition and project updates do not inherently justify the extreme price movements detected.",
+      "newsAnalysis": "The recent news surrounding HUB Cyber Security does not provide a legitimate explanation for the unusual trading activity. The leadership transition and project updates, while potentially relevant, do not reflect significant corporate actions like earnings announcements, major contracts, or substantial product launches that typically drive stock price movements. Therefore, the observed price spikes may be indicative of speculation, manipulation, or other non-fundamental factors.",
       "recentNews": [
         {
           "title": "Senstar Technologies (NASDAQ:SNT) versus Hub Cyber Security (NASDAQ:HUBC) Critical Contrast",
@@ -1710,7 +1624,7 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 33,
+      "overallPromotionScore": 38,
       "promotionRiskLevel": "medium",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
@@ -1718,6 +1632,12 @@
           "platform": "Forum",
           "username": "unknown",
           "postCount": 4,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "username": "Digitalization2026",
+          "postCount": 2,
           "confidence": "medium"
         },
         {
@@ -1733,7 +1653,7 @@
           "confidence": "low"
         }
       ],
-      "overallAssessment": "26 mentions found across 4 platform(s). Avg promotion score: 33/100.",
+      "overallAssessment": "26 mentions found across 4 platform(s). Avg promotion score: 38/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -1752,7 +1672,7 @@
         "VOLUME_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The recent news regarding 707 Cayman Holdings Limited primarily consists of a registration statement for resale of shares under an equity line of credit, which does not constitute a significant business development, earnings announcement, or any of the legitimate explanations that would typically justify unusual trading activity.",
+      "newsAnalysis": "The unusual trading activity in JEM is primarily due to extreme price fluctuations and trading volume, which could be characteristic of penny stock manipulation. The recent filing of a Form F-1 for resale of shares gives no substantive news about earnings, contracts, or significant events that would justify such drastic price movements.",
       "recentNews": [
         {
           "title": "707 Cayman Holdings Limited Files Form F-1 Registration Statement for Resale of Shares and Potential Proceeds Up to $9.6 Million Under Equity Line of Credit",
@@ -1783,7 +1703,7 @@
         {
           "platform": "StockTwits",
           "source": "real",
-          "mentionsFound": 30,
+          "mentionsFound": 32,
           "activityLevel": "high",
           "promotionRisk": "medium"
         },
@@ -1802,21 +1722,21 @@
           "promotionRisk": "medium"
         },
         {
-          "platform": "YouTube",
+          "platform": "Forum",
           "source": "real",
-          "mentionsFound": 2,
+          "mentionsFound": 4,
           "activityLevel": "medium",
           "promotionRisk": "low"
         },
         {
-          "platform": "Forum",
+          "platform": "YouTube",
           "source": "real",
-          "mentionsFound": 3,
-          "activityLevel": "medium",
+          "mentionsFound": 1,
+          "activityLevel": "low",
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 41,
+      "overallPromotionScore": 39,
       "promotionRiskLevel": "medium",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
@@ -1851,7 +1771,7 @@
           "confidence": "low"
         }
       ],
-      "overallAssessment": "37 mentions found across 5 platform(s). Avg promotion score: 41/100.",
+      "overallAssessment": "39 mentions found across 5 platform(s). Avg promotion score: 39/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -1869,7 +1789,7 @@
         "PRICE_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There are no recent SEC filings or press releases that provide a legitimate explanation for the unusual trading activity. The only news reported indicates a minor price increase without any substantive developments that would justify the trading pattern observed, such as earnings announcements or other significant corporate events.",
+      "newsAnalysis": "There are no recent SEC filings or press releases that provide substantial news, such as earnings announcements or merger/acquisition news, that would justify the unusual trading activity. The stock's price movements and patterns suggest volatility that is typical of stocks in penny stock territory without legitimate triggers. The absence of any significant news further casts doubt on the legitimacy of the trading activity.",
       "recentNews": [
         {
           "title": "Blue Water Acquisition Corp. III (NASDAQ:BLUWW) Trading 2% Higher   – Here’s What Happened",
@@ -1887,11 +1807,11 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 15,
+      "overallPromotionScore": 14,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [],
-      "overallAssessment": "4 mentions found across 1 platform(s). Avg promotion score: 15/100.",
+      "overallAssessment": "4 mentions found across 1 platform(s). Avg promotion score: 14/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -1908,7 +1828,7 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The news provided consists of an update on strategic transaction and funding efforts, which lacks specificity and actionable information to suggest a clear reason for the unusual trading activity. Additionally, the announcement of the delisting determination from Nasdaq, while potentially affecting the stock's price, does not fit into legitimate categories such as earnings, mergers, or significant contracts. Therefore, there's no clear legitimate news that would explain the unusual trading activity.",
+      "newsAnalysis": "The recent press releases regarding strategic updates and a delisting determination letter do not contain substantial or concrete news that would account for the extreme trading activity. There are no earnings announcements, major contracts, or other significant company events that provide a legitimate explanation for the unusual trading.",
       "recentNews": [
         {
           "title": "Carbon Revolution Provides Update on Strategic Transaction and Funding Efforts",
@@ -1946,8 +1866,8 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 29,
-      "promotionRiskLevel": "low",
+      "overallPromotionScore": 30,
+      "promotionRiskLevel": "medium",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
         {
@@ -1963,7 +1883,7 @@
           "confidence": "medium"
         }
       ],
-      "overallAssessment": "21 mentions found across 3 platform(s). Avg promotion score: 29/100.",
+      "overallAssessment": "21 mentions found across 3 platform(s). Avg promotion score: 30/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -1982,7 +1902,7 @@
         "PRICE_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The unusual trading activity in BFRGW appears to be driven by factors such as extreme price volatility, elevated trading volume, and a detected pump-and-dump pattern, rather than any legitimate news such as earnings announcements, FDA approvals, or significant corporate actions. There have been no recent press releases or substantial information from SEC filings that would indicate a legitimate reason for the price increase.",
+      "newsAnalysis": "There is no recent news, SEC filings, or press releases that provide substantial information or events that would justify the unusual trading activity in BFRGW. The detected pattern of extreme price movement and elevated trading volumes aligns more with potential manipulation rather than legitimate market activity.",
       "recentNews": [
         {
           "title": "Bullfrog AI Holdings, Inc. (NASDAQ:BFRGW) Short Interest Update",
@@ -2027,7 +1947,7 @@
         "SPIKE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There is no recent news, SEC filings, or press releases that provide a substantive or legitimate explanation for the unusual trading activity in Talkspace, Inc. The presence of significant price movements, low trading volume, and indications of a potential pump-and-dump scheme suggests that the activity is likely speculative or manipulative rather than based on legitimate developments.",
+      "newsAnalysis": "There are no recent news articles, SEC filings, or press releases that provide a legitimate explanation for the unusual trading activity in Talkspace, Inc. The significant price drop, high volatility, and penny stock status suggest potential manipulation patterns rather than news-driven movements.",
       "recentNews": [],
       "socialMediaMentions": [
         {
@@ -2067,7 +1987,7 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There is no recent news or SEC filings that provide a legitimate explanation for the unusual trading activity in NXPLW, such as earnings announcements, major contracts, or regulatory approvals. The trading activity appears suspicious without substantive news.",
+      "newsAnalysis": "There is no recent news, SEC filings, or press releases provided that would explain the unusual trading activity in NXPLW. The extreme price movements and volatility in the stock, alongside the absence of any legitimate news types such as earnings announcements, regulatory approvals, or significant company actions, suggest a lack of substantiated reasons for the trading activity.",
       "recentNews": [],
       "socialMediaMentions": [
         {
@@ -2078,11 +1998,18 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 18,
+      "overallPromotionScore": 21,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
-      "potentialPromoters": [],
-      "overallAssessment": "4 mentions found across 1 platform(s). Avg promotion score: 18/100.",
+      "potentialPromoters": [
+        {
+          "platform": "Forum",
+          "username": "unknown",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "4 mentions found across 1 platform(s). Avg promotion score: 21/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -2118,11 +2045,11 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 19,
+      "overallPromotionScore": 21,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [],
-      "overallAssessment": "4 mentions found across 2 platform(s). Avg promotion score: 19/100.",
+      "overallAssessment": "4 mentions found across 2 platform(s). Avg promotion score: 21/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -2140,7 +2067,7 @@
         "PRICE_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There are no legitimate explanations found in the news, SEC filings, or press releases that correspond to the unusual trading activity. The significant price movement and trading patterns observed suggest manipulation, rather than a response to substantive corporate news.",
+      "newsAnalysis": "The unusual trading activity in AERTW lacks any legitimate news that could explain the price movement. There are no earnings announcements, FDA approvals, contract wins, or any other substantial corporate news cited. The significant decline in short interest mentioned does not correlate with any positive fundamental changes that would justify the price jump, indicating potential manipulation or speculative trading.",
       "recentNews": [
         {
           "title": "Aeries Technology, Inc (NASDAQ:AERTW) Sees Significant Decline in Short Interest",
@@ -2168,7 +2095,7 @@
     {
       "symbol": "BIAFW",
       "name": "bioAffinity Technologies, Inc.",
-      "riskScore": 17,
+      "riskScore": 15,
       "signals": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -2179,7 +2106,7 @@
         "SPIKE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There is no recent news, SEC filings, or press releases that provide a substantive explanation for the unusual trading activity in BIAFW. The detected stock signals indicate a high risk of manipulation and suggest a potential pump-and-dump pattern. Without any legitimate corporate developments or announcements, the unusual trading activity appears to be suspicious.",
+      "newsAnalysis": "There is no recent news, SEC filings, or press releases that provide a legitimate explanation for the unusual trading activity in BIAFW. The detected trading signals suggest potential manipulation or a pump-and-dump scheme.",
       "recentNews": [],
       "socialMediaMentions": [
         {
@@ -2212,7 +2139,7 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The recent trading activity in Ucommune International Ltd does not have legitimate news backing it, as the press releases mainly include a notification regarding a minimum bid price deficiency and a notice for an extraordinary general meeting, neither of which directly impact earnings or significant corporate developments. The unusual trading activity appears to be driven by factors unrelated to substantive news, suggesting manipulation risk typical for penny stocks.",
+      "newsAnalysis": "The recent news and SEC filings for Ucommune International Ltd do not provide any legitimate explanations for the unusual trading activity. The notifications regarding minimum bid price deficiencies and the announcement of an extraordinary general meeting do not indicate any positive or negative developments that would drive significant trading volume or price fluctuations. Additionally, there are no earnings reports, major contracts, acquisitions, or other substantial events that typically influence stock price.",
       "recentNews": [
         {
           "title": "Head to Head Comparison: Vonovia (OTCMKTS:VONOY) vs. Ucommune International (NASDAQ:UK)",
@@ -2243,15 +2170,15 @@
         {
           "platform": "StockTwits",
           "source": "real",
-          "mentionsFound": 13,
+          "mentionsFound": 15,
           "activityLevel": "high",
           "promotionRisk": "medium"
         },
         {
           "platform": "YouTube",
           "source": "real",
-          "mentionsFound": 4,
-          "activityLevel": "medium",
+          "mentionsFound": 6,
+          "activityLevel": "high",
           "promotionRisk": "low"
         },
         {
@@ -2264,7 +2191,7 @@
         {
           "platform": "Forum",
           "source": "real",
-          "mentionsFound": 5,
+          "mentionsFound": 7,
           "activityLevel": "high",
           "promotionRisk": "low"
         },
@@ -2276,7 +2203,7 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 28,
+      "overallPromotionScore": 26,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
@@ -2293,13 +2220,19 @@
           "confidence": "medium"
         },
         {
+          "platform": "YouTube",
+          "username": "unknown",
+          "postCount": 2,
+          "confidence": "medium"
+        },
+        {
           "platform": "Forum",
           "username": "unknown",
           "postCount": 2,
           "confidence": "low"
         }
       ],
-      "overallAssessment": "25 mentions found across 5 platform(s). Avg promotion score: 28/100.",
+      "overallAssessment": "31 mentions found across 5 platform(s). Avg promotion score: 26/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -2317,7 +2250,7 @@
         "VOLUME_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There are no recent news, SEC filings, or press releases that provide legitimate explanations for the unusual trading activity in COCHW. The detected stock activity suggests a pump-and-dump pattern, with no substantive news to support the movements.",
+      "newsAnalysis": "There is no recent news, SEC filings, or press releases that provide a legitimate explanation for the unusual trading activity in COCHW. The stock exhibits characteristics commonly associated with manipulation, such as significant price volatility, a pump-and-dump pattern, and a very low trading volume.",
       "recentNews": [],
       "socialMediaMentions": [
         {
@@ -2349,7 +2282,7 @@
         "SPIKE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There are no recent news articles, SEC filings, or press releases that could provide a legitimate explanation for the unusual trading activity in STSSW. The stock price is in 'penny stock' territory and shows signs of a pump-and-dump pattern due to significant price volatility and a recent sharp decline. These factors indicate speculative trading rather than legitimate company news.",
+      "newsAnalysis": "There have been no recent news articles, SEC filings, or press releases that provide any legitimate explanations for the unusual trading activity in STSSW. The significant price movement, high volatility, and detection of a pump-and-dump pattern suggest manipulation rather than a legitimate event.",
       "recentNews": [],
       "socialMediaMentions": [
         {
@@ -2400,6 +2333,45 @@
       "scanDate": "2026-04-08"
     },
     {
+      "symbol": "NVNIW",
+      "name": "Nvni Group Limited Warrants",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "There are no recent news articles, SEC filings, or press releases that provide a legitimate explanation for the unusual trading activity in NVNIW. The detected patterns, including a pump-and-dump pattern and significant price volatility, suggest manipulative trading without any substantive news to support the activity.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "Forum",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 13,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "2 mentions found across 2 platform(s). Avg promotion score: 13/100.",
+      "scanDate": "2026-04-08"
+    },
+    {
       "symbol": "CAPTW",
       "name": "Captivision Inc. Warrant",
       "riskScore": 21,
@@ -2415,13 +2387,13 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There is no recent news, SEC filings, or press releases that provide a legitimate explanation for the unusual trading activity observed in CAPTW. The significant price volatility and pattern of rapid price increase followed by decline suggest potential manipulation rather than a legitimate business event.",
+      "newsAnalysis": "There is no recent news, SEC filings, or press releases that provide a legitimate explanation for the unusual trading activity in CAPTW. The significant price movement and elevated trading volume appear to be characteristic of speculative trading or manipulation, rather than any legitimate events or announcements.",
       "recentNews": [],
       "socialMediaMentions": [
         {
           "platform": "Forum",
           "source": "real",
-          "mentionsFound": 3,
+          "mentionsFound": 4,
           "activityLevel": "medium",
           "promotionRisk": "low"
         },
@@ -2433,11 +2405,11 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 15,
+      "overallPromotionScore": 14,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [],
-      "overallAssessment": "4 mentions found across 2 platform(s). Avg promotion score: 15/100.",
+      "overallAssessment": "5 mentions found across 2 platform(s). Avg promotion score: 14/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -2454,16 +2426,9 @@
         "SPIKE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There is no recent news, SEC filings, or press releases that provide a legitimate explanation for the unusual trading activity in CYCUW. The significant price movement and extreme indicators suggest potential manipulation rather than a legitimate event.",
+      "newsAnalysis": "There is no recent news, SEC filings, or press releases that provide a legitimate explanation for the unusual trading activity in CYCUW. The significant price movement appears to be unsubstantiated by any specific event or announcement.",
       "recentNews": [],
       "socialMediaMentions": [
-        {
-          "platform": "YouTube",
-          "source": "real",
-          "mentionsFound": 1,
-          "activityLevel": "low",
-          "promotionRisk": "low"
-        },
         {
           "platform": "Reddit",
           "source": "real",
@@ -2476,6 +2441,13 @@
           "source": "real",
           "mentionsFound": 3,
           "activityLevel": "medium",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
           "promotionRisk": "low"
         }
       ],
@@ -2507,22 +2479,22 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There is no recent news, SEC filings, or press releases indicating any legitimate reasons for the unusual trading activity in LEXXW. Given the significant price drop and volatility alongside the absence of announcements related to earnings, FDA approvals, or any corporate governance changes, this suggests the trading activity may not be based on legitimate market news.",
+      "newsAnalysis": "There are no recent news articles, SEC filings, or press releases that provide any legitimate reason for the unusual trading activity in LEXXW. The significant price drop, high volatility, and trading volume abnormalities do not correlate with established events that typically drive stock price movements.",
       "recentNews": [],
       "socialMediaMentions": [
         {
           "platform": "Forum",
           "source": "real",
-          "mentionsFound": 7,
-          "activityLevel": "high",
+          "mentionsFound": 1,
+          "activityLevel": "low",
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 10,
+      "overallPromotionScore": 20,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [],
-      "overallAssessment": "7 mentions found across 1 platform(s). Avg promotion score: 10/100.",
+      "overallAssessment": "1 mentions found across 1 platform(s). Avg promotion score: 20/100.",
       "scanDate": "2026-04-08"
     },
     {
@@ -2542,7 +2514,7 @@
         "VOLUME_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "The unusual trading activity in AUUDW appears to be driven by the expiration of publicly traded warrants, which lacks substantive impact and does not align with the legitimate explanations for such trading activity. No significant earnings announcements, regulatory actions, or other major corporate events were reported.",
+      "newsAnalysis": "The only recent news pertains to the expiration of publicly traded warrants, which does not fit into the categories of legitimate explanations for unusual trading activity. There are no significant events such as earnings, contracts, or product launches that would justify the extreme trading fluctuations.",
       "recentNews": [
         {
           "title": "Auddia Announces Expiration of Publicly Traded Warrants (NASDAQ:AUUDW)",
@@ -2589,7 +2561,7 @@
         "VOLUME_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "There are no recent earnings announcements, press releases, or significant SEC filings that would provide a legitimate explanation for the unusual trading activity in CHACR. The price movements and volume spikes appear to be driven by factors other than substantive news, such as speculation or market manipulation.",
+      "newsAnalysis": "There are no recent press releases or SEC filings indicating significant corporate events, such as earnings announcements, major partnerships, or regulatory approvals that would typically explain the unusual trading activity. The activity appears to be driven by speculative trading rather than legitimate news.",
       "recentNews": [
         {
           "title": "Crane Harbor Acquisition (NASDAQ:CHACR) Stock Price Up 2.8%  – Should You Buy?",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T02:15:06.439Z",
+  "lastUpdated": "2026-04-09T03:28:08.677Z",
   "totalSchemes": 10,
   "activeSchemes": 3,
   "resolvedSchemes": 7,
@@ -618,21 +618,21 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-02-03",
+      "lastSeen": "2026-04-08",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 14,
+      "currentRiskScore": 11,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 0.095,
-      "currentPrice": 0.095,
-      "priceChangeFromDetection": 0,
+      "peakPrice": 2.25,
+      "currentPrice": 2.25,
+      "priceChangeFromDetection": 2268.4210526315787,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 0,
+      "currentVolume": 319379,
       "promotionPlatforms": [
         "Twitter/X",
         "YouTube",
@@ -709,6 +709,11 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-04-08",
+          "event": "Daily scan update",
+          "details": "Risk score: 11, Promotion score: N/A"
         }
       ],
       "notes": [],
