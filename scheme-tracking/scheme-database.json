@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-04-10T01:08:43.351Z",
-  "totalSchemes": 10,
-  "activeSchemes": 3,
+  "lastUpdated": "2026-04-10T04:28:28.767Z",
+  "totalSchemes": 14,
+  "activeSchemes": 7,
   "resolvedSchemes": 7,
   "confirmedFrauds": 0,
   "schemes": {
@@ -526,7 +526,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.38,
+      "currentPrice": 0.375,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
@@ -601,14 +601,14 @@
         {
           "date": "2026-04-09",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 60.4% from peak ($0.96 → $0.38)",
+          "details": "Price crashed 60.9% from peak ($0.96 → $0.38)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 60.4% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 60.9% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -617,21 +617,21 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-02-03",
+      "lastSeen": "2026-04-09",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 14,
+      "currentRiskScore": 6,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 0.095,
-      "currentPrice": 0.095,
-      "priceChangeFromDetection": 0,
+      "peakPrice": 2.07,
+      "currentPrice": 2.07,
+      "priceChangeFromDetection": 2078.9473684210525,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 0,
+      "currentVolume": 319379,
       "promotionPlatforms": [
         "Twitter/X",
         "YouTube",
@@ -708,6 +708,11 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-04-09",
+          "event": "Daily scan update",
+          "details": "Risk score: 6, Promotion score: N/A"
         }
       ],
       "notes": [],
@@ -999,6 +1004,264 @@
       ],
       "notes": [],
       "investigationFlags": []
+    },
+    "SCHEME-YMT-20260409-MNSEODLP": {
+      "schemeId": "SCHEME-YMT-20260409-MNSEODLP",
+      "symbol": "YMT",
+      "name": "Yimutian Inc. American Depositary Shares",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "firstDetected": "2026-04-09",
+      "lastSeen": "2026-04-09",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 17,
+      "currentRiskScore": 17,
+      "peakPromotionScore": 55,
+      "currentPromotionScore": 55,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "DayTrade_4Life",
+          "firstSeen": "2026-04-09",
+          "lastSeen": "2026-04-09",
+          "postCount": 1,
+          "confidence": "high"
+        },
+        {
+          "platform": "StockTwits",
+          "identifier": "_AstralRaven",
+          "firstSeen": "2026-04-09",
+          "lastSeen": "2026-04-09",
+          "postCount": 1,
+          "confidence": "medium"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 0.1652,
+      "peakPrice": 0.2116,
+      "currentPrice": 0.2116,
+      "priceChangeFromDetection": 28.087167070217912,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 1915120,
+      "peakVolume": 1915120,
+      "currentVolume": 1915120,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "VOLUME_ACCELERATION"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
+      "notes": [
+        "Initial detection with promotion score 55"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 17 and promotion score 55",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-SELX-20260409-MNSEODLP": {
+      "schemeId": "SCHEME-SELX-20260409-MNSEODLP",
+      "symbol": "SELX",
+      "name": "Semilux International Ltd. Ordinary Shares",
+      "sector": "Technology",
+      "industry": "Hardware, Equipment & Parts",
+      "firstDetected": "2026-04-09",
+      "lastSeen": "2026-04-09",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 18,
+      "currentRiskScore": 18,
+      "peakPromotionScore": 50,
+      "currentPromotionScore": 50,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "CrowNightfall",
+          "firstSeen": "2026-04-09",
+          "lastSeen": "2026-04-09",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 0.244,
+      "peakPrice": 0.484,
+      "currentPrice": 0.484,
+      "priceChangeFromDetection": 98.36065573770492,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 1846921,
+      "peakVolume": 1846921,
+      "currentVolume": 1846921,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "PRICE_ACCELERATION"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
+      "notes": [
+        "Initial detection with promotion score 50"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 18 and promotion score 50",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-CREV-20260409-MNSEODLQ": {
+      "schemeId": "SCHEME-CREV-20260409-MNSEODLQ",
+      "symbol": "CREV",
+      "name": "Carbon Revolution Public Limited Ordinary Shares",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto - Parts",
+      "firstDetected": "2026-04-09",
+      "lastSeen": "2026-04-09",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 15,
+      "currentRiskScore": 15,
+      "peakPromotionScore": 85,
+      "currentPromotionScore": 85,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-04-09",
+          "lastSeen": "2026-04-09",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 0.000099999997,
+      "peakPrice": 0.4021,
+      "currentPrice": 0.4021,
+      "priceChangeFromDetection": 402000.01206300035,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 112333,
+      "peakVolume": 112333,
+      "currentVolume": 112333,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "VOLUME_SURGE_3D"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
+      "notes": [
+        "Initial detection with promotion score 85"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 15 and promotion score 85",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-RNWWW-20260409-MNSEODLQ": {
+      "schemeId": "SCHEME-RNWWW-20260409-MNSEODLQ",
+      "symbol": "RNWWW",
+      "name": "ReNew Energy Global plc",
+      "sector": "Utilities",
+      "industry": "Renewable Utilities",
+      "firstDetected": "2026-04-09",
+      "lastSeen": "2026-04-09",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 16,
+      "currentRiskScore": 16,
+      "peakPromotionScore": 85,
+      "currentPromotionScore": 85,
+      "promotionPlatforms": [
+        "StockTwits"
+      ],
+      "promoterAccounts": [
+        {
+          "platform": "StockTwits",
+          "identifier": "OfficialStocktwitsUser",
+          "firstSeen": "2026-04-09",
+          "lastSeen": "2026-04-09",
+          "postCount": 1,
+          "confidence": "high"
+        }
+      ],
+      "hadSocialMediaPromotion": true,
+      "priceAtDetection": 0.0035,
+      "peakPrice": 0.0077,
+      "currentPrice": 0.0077,
+      "priceChangeFromDetection": 120.00000000000001,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 14798,
+      "peakVolume": 14798,
+      "currentVolume": 14798,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "coordinationIndicators": [
+        "High promotion risk on StockTwits"
+      ],
+      "notes": [
+        "Initial detection with promotion score 85"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 16 and promotion score 85",
+          "significance": "high"
+        }
+      ]
     }
   }
 }
