@@ -3,29 +3,29 @@
   "evaluated": 6562,
   "skippedNoData": 408,
   "byRiskLevel": {
-    "LOW": 2654,
-    "MEDIUM": 1799,
-    "HIGH": 2109,
+    "LOW": 2746,
+    "MEDIUM": 1726,
+    "HIGH": 2090,
     "INSUFFICIENT": 0
   },
   "byExchange": {
     "NASDAQ": {
       "total": 3965,
-      "LOW": 1048,
-      "MEDIUM": 1160,
-      "HIGH": 1757
+      "LOW": 1169,
+      "MEDIUM": 1064,
+      "HIGH": 1732
     },
     "NYSE": {
-      "total": 2320,
-      "LOW": 1569,
-      "MEDIUM": 545,
-      "HIGH": 206
+      "total": 2319,
+      "LOW": 1540,
+      "MEDIUM": 569,
+      "HIGH": 210
     },
     "OTC": {
-      "total": 10,
+      "total": 11,
       "LOW": 0,
       "MEDIUM": 0,
-      "HIGH": 10
+      "HIGH": 11
     },
     "PNK": {
       "total": 1,
@@ -36,12 +36,12 @@
     "AMEX": {
       "total": 266,
       "LOW": 37,
-      "MEDIUM": 94,
-      "HIGH": 135
+      "MEDIUM": 93,
+      "HIGH": 136
     }
   },
-  "startTime": "2026-04-10T12:57:07.445Z",
-  "endTime": "2026-04-10T18:46:17.793Z",
-  "durationMinutes": 349,
+  "startTime": "2026-04-10T23:14:38.507Z",
+  "endTime": "2026-04-11T04:45:31.048Z",
+  "durationMinutes": 331,
   "apiCallsMade": 13124
 }

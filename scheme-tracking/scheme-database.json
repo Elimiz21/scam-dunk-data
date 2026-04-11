@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T18:46:17.791Z",
+  "lastUpdated": "2026-04-11T04:45:31.045Z",
   "totalSchemes": 10,
   "activeSchemes": 3,
   "resolvedSchemes": 7,
@@ -332,7 +332,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 0.8181,
+      "currentPrice": 0.788,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
@@ -398,14 +398,14 @@
         {
           "date": "2026-04-10",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 51.9% from peak ($1.70 → $0.82)",
+          "details": "Price crashed 53.6% from peak ($1.70 → $0.79)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 51.9% from peak. Social media promotion detected on: Twitter/X, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 53.6% from peak. Social media promotion detected on: Twitter/X, Telegram"
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -527,7 +527,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.375,
+      "currentPrice": 0.3904,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
@@ -602,14 +602,14 @@
         {
           "date": "2026-04-10",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 60.9% from peak ($0.96 → $0.38)",
+          "details": "Price crashed 59.3% from peak ($0.96 → $0.39)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 60.9% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 59.3% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -626,9 +626,9 @@
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 2.06,
-      "currentPrice": 2.06,
-      "priceChangeFromDetection": 2068.421052631579,
+      "peakPrice": 2.32,
+      "currentPrice": 2.32,
+      "priceChangeFromDetection": 2342.1052631578946,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
