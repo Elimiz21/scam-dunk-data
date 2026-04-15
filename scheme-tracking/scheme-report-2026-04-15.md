@@ -2,23 +2,14 @@
 Date: 2026-04-15
 
 ## Summary
-- Total Active Schemes: 4
+- Total Active Schemes: 2
 - Critical Priority: 0
-- High Priority: 1
-- Medium Priority: 3
+- High Priority: 0
+- Medium Priority: 2
 - Confirmed Frauds (Historical): 0
-
-## 🟡 HIGH PRIORITY
-
-### JDZG - JIADE Limited
-- Scheme ID: SCH-JDZG-20260202-18AA
-- Status: ONGOING | Days: 2
-- Risk: 16 | Promotion: 20
-- Platforms: Twitter/X, YouTube, Discord, Telegram
 
 ## 🟢 MEDIUM PRIORITY - Monitor
 
-- **EVTV** (SCH-EVTV-20260202-9ALD): COOLING, Risk 14, Promo 20
-- **SXTC** (SCH-SXTC-20260202-4CVF): ONGOING, Risk 5, Promo 20
-- **MTEN** (SCH-MTEN-20260202-KMCM): ONGOING, Risk 6, Promo 20
+- **XAIR** (SCH-XAIR-20260202-M8NZ): COOLING, Risk 15, Promo 20
+- **THH** (SCH-THH-20260202-YD9V): COOLING, Risk 14, Promo 20
 
