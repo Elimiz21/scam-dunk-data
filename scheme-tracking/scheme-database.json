@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-15T03:55:33.178Z",
+  "lastUpdated": "2026-04-15T10:11:45.777Z",
   "totalSchemes": 10,
-  "activeSchemes": 3,
-  "resolvedSchemes": 7,
+  "activeSchemes": 4,
+  "resolvedSchemes": 6,
   "confirmedFrauds": 0,
   "schemes": {
     "SCH-EVTV-20260202-9ALD": {
@@ -14,16 +14,16 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-13",
       "daysActive": 2,
-      "status": "NO_SCAM_DETECTED",
+      "status": "COOLING",
       "peakRiskScore": 16,
       "currentRiskScore": 14,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 3.55,
       "peakPrice": 3.55,
-      "currentPrice": 2.18,
+      "currentPrice": 1.85,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -38.59154929577464,
+      "priceChangeFromPeak": -47.88732394366197,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -110,16 +110,15 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-04-14",
-          "event": "No scam detected - closing investigation",
-          "details": "Monitored for 71 days, inactive for 60 days. No full pump-and-dump pattern observed.",
+          "date": "2026-04-15",
+          "event": "Status changed to COOLING - Possible dump detected",
+          "details": "Price dropped 47.9% from peak ($3.55 → $1.85)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 71 days of monitoring. Stock activity normalized."
+      "investigationFlags": []
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -396,7 +395,7 @@
           "significance": "high"
         },
         {
-          "date": "2026-04-14",
+          "date": "2026-04-15",
           "event": "PUMP & DUMP ENDED - With social promotion",
           "details": "Price crashed 66.5% from peak ($1.70 → $0.57)",
           "category": "status_change",
@@ -600,7 +599,7 @@
           "significance": "high"
         },
         {
-          "date": "2026-04-14",
+          "date": "2026-04-15",
           "event": "PUMP & DUMP ENDED - With social promotion",
           "details": "Price crashed 59.2% from peak ($0.96 → $0.39)",
           "category": "status_change",
@@ -618,11 +617,11 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-04-14",
+      "lastSeen": "2026-04-15",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 7,
+      "currentRiskScore": 5,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
@@ -711,9 +710,9 @@
           "significance": "medium"
         },
         {
-          "date": "2026-04-14",
+          "date": "2026-04-15",
           "event": "Daily scan update",
-          "details": "Risk score: 7, Promotion score: N/A"
+          "details": "Risk score: 5, Promotion score: N/A"
         }
       ],
       "notes": [],
@@ -726,21 +725,21 @@
       "sector": "Industrials",
       "industry": "Manufacturing - Metal Fabrication",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-02-03",
+      "lastSeen": "2026-04-15",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 14,
+      "currentRiskScore": 6,
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.0314,
-      "peakPrice": 0.0314,
-      "currentPrice": 0.0314,
-      "priceChangeFromDetection": 0,
+      "peakPrice": 1.22,
+      "currentPrice": 1.22,
+      "priceChangeFromDetection": 3785.3503184713377,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 0,
+      "currentVolume": 422014,
       "promotionPlatforms": [
         "Twitter/X",
         "Discord",
@@ -799,6 +798,11 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-04-15",
+          "event": "Daily scan update",
+          "details": "Risk score: 6, Promotion score: N/A"
         }
       ],
       "notes": [],
