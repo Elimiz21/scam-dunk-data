@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-20T19:43:26.061Z",
-  "totalSchemes": 10,
+  "lastUpdated": "2026-04-21T03:25:02.439Z",
+  "totalSchemes": 11,
   "activeSchemes": 3,
-  "resolvedSchemes": 7,
+  "resolvedSchemes": 8,
   "confirmedFrauds": 0,
   "schemes": {
     "SCH-EVTV-20260202-9ALD": {
@@ -14,16 +14,16 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-13",
       "daysActive": 2,
-      "status": "COOLING",
+      "status": "PUMP_AND_DUMP_ENDED",
       "peakRiskScore": 16,
       "currentRiskScore": 14,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 3.55,
       "peakPrice": 3.55,
-      "currentPrice": 1.78,
+      "currentPrice": 1.76,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -49.85915492957746,
+      "priceChangeFromPeak": -50.42253521126761,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -112,13 +112,21 @@
         {
           "date": "2026-04-20",
           "event": "Status changed to COOLING - Possible dump detected",
-          "details": "Price dropped 49.9% from peak ($3.55 → $1.78)",
+          "details": "Price dropped 50.4% from peak ($3.55 → $1.76)",
+          "category": "status_change",
+          "significance": "high"
+        },
+        {
+          "date": "2026-04-20",
+          "event": "PUMP & DUMP ENDED - With social promotion",
+          "details": "Price crashed 50.4% from peak ($3.55 → $1.76)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 50.4% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -331,7 +339,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 0.5292,
+      "currentPrice": 0.545,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
@@ -397,14 +405,14 @@
         {
           "date": "2026-04-20",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 68.9% from peak ($1.70 → $0.53)",
+          "details": "Price crashed 67.9% from peak ($1.70 → $0.55)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 68.9% from peak. Social media promotion detected on: Twitter/X, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 67.9% from peak. Social media promotion detected on: Twitter/X, Telegram"
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -526,7 +534,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.46,
+      "currentPrice": 0.4512,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
@@ -601,14 +609,14 @@
         {
           "date": "2026-04-20",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 52.1% from peak ($0.96 → $0.46)",
+          "details": "Price crashed 53.0% from peak ($0.96 → $0.45)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 52.1% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 53.0% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -625,9 +633,9 @@
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 2.04,
-      "currentPrice": 2.04,
-      "priceChangeFromDetection": 2047.3684210526314,
+      "peakPrice": 2.06,
+      "currentPrice": 2.06,
+      "priceChangeFromDetection": 2068.421052631579,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
@@ -1004,6 +1012,55 @@
       ],
       "notes": [],
       "investigationFlags": []
+    },
+    "SCHEME-LEXXW-20260420-MO8295YE": {
+      "schemeId": "SCHEME-LEXXW-20260420-MO8295YE",
+      "symbol": "LEXXW",
+      "name": "Lexaria Bioscience Corp.",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "firstDetected": "2026-04-20",
+      "lastSeen": "2026-04-20",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 16,
+      "currentRiskScore": 16,
+      "peakPromotionScore": 50,
+      "currentPromotionScore": 50,
+      "promotionPlatforms": [],
+      "promoterAccounts": [],
+      "hadSocialMediaPromotion": false,
+      "priceAtDetection": 0.0039,
+      "peakPrice": 0.0012,
+      "currentPrice": 0.0012,
+      "priceChangeFromDetection": -69.23076923076924,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 12494,
+      "peakVolume": 12494,
+      "currentVolume": 12494,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "coordinationIndicators": [],
+      "notes": [
+        "Initial detection with promotion score 50"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-04-20",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 16 and promotion score 50",
+          "significance": "high"
+        }
+      ]
     }
   }
 }
