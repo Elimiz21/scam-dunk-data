@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-04-24T03:06:27.051Z",
-  "totalSchemes": 11,
-  "activeSchemes": 3,
+  "lastUpdated": "2026-04-25T02:00:06.730Z",
+  "totalSchemes": 10,
+  "activeSchemes": 2,
   "resolvedSchemes": 8,
   "confirmedFrauds": 0,
   "schemes": {
@@ -21,9 +21,9 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 3.55,
       "peakPrice": 3.55,
-      "currentPrice": 1.65,
+      "currentPrice": 1.68,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -53.52112676056338,
+      "priceChangeFromPeak": -52.67605633802817,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -110,23 +110,23 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-04-23",
+          "date": "2026-04-24",
           "event": "Status changed to COOLING - Possible dump detected",
-          "details": "Price dropped 53.5% from peak ($3.55 → $1.65)",
+          "details": "Price dropped 52.7% from peak ($3.55 → $1.68)",
           "category": "status_change",
           "significance": "high"
         },
         {
-          "date": "2026-04-23",
+          "date": "2026-04-24",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 53.5% from peak ($3.55 → $1.65)",
+          "details": "Price crashed 52.7% from peak ($3.55 → $1.68)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 53.5% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 52.7% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -339,7 +339,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 0.547,
+      "currentPrice": 0.51,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
@@ -403,16 +403,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-04-23",
+          "date": "2026-04-24",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 67.8% from peak ($1.70 → $0.55)",
+          "details": "Price crashed 70.0% from peak ($1.70 → $0.51)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 67.8% from peak. Social media promotion detected on: Twitter/X, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 70.0% from peak. Social media promotion detected on: Twitter/X, Telegram"
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -534,7 +534,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.4011,
+      "currentPrice": 0.403,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
@@ -607,16 +607,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-04-23",
+          "date": "2026-04-24",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 58.2% from peak ($0.96 → $0.40)",
+          "details": "Price crashed 58.0% from peak ($0.96 → $0.40)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 58.2% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 58.0% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -625,17 +625,17 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-04-23",
+      "lastSeen": "2026-04-24",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 7,
+      "currentRiskScore": 5,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 2.1214,
-      "currentPrice": 2.1214,
-      "priceChangeFromDetection": 2133.052631578947,
+      "peakPrice": 2.1,
+      "currentPrice": 2.1,
+      "priceChangeFromDetection": 2110.5263157894738,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
@@ -718,9 +718,9 @@
           "significance": "medium"
         },
         {
-          "date": "2026-04-23",
+          "date": "2026-04-24",
           "event": "Daily scan update",
-          "details": "Risk score: 7, Promotion score: N/A"
+          "details": "Risk score: 5, Promotion score: N/A"
         }
       ],
       "notes": [],
@@ -808,16 +808,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-04-23",
+          "date": "2026-04-24",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 80 days, inactive for 79 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 81 days, inactive for 80 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 80 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 81 days of monitoring. Stock activity normalized."
     },
     "SCH-DRTSW-20260202-H1OO": {
       "schemeId": "SCH-DRTSW-20260202-H1OO",
@@ -1012,68 +1012,6 @@
       ],
       "notes": [],
       "investigationFlags": []
-    },
-    "SCHEME-RBOT-20260423-MOCBWTBE": {
-      "schemeId": "SCHEME-RBOT-20260423-MOCBWTBE",
-      "symbol": "RBOT",
-      "name": "Vicarious Surgical Inc.",
-      "sector": "Healthcare",
-      "industry": "Medical - Devices",
-      "firstDetected": "2026-04-23",
-      "lastSeen": "2026-04-23",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 16,
-      "currentRiskScore": 16,
-      "peakPromotionScore": 85,
-      "currentPromotionScore": 85,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "OfficialStocktwitsUser",
-          "firstSeen": "2026-04-23",
-          "lastSeen": "2026-04-23",
-          "postCount": 1,
-          "confidence": "high"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.27,
-      "peakPrice": 0.55,
-      "currentPrice": 0.55,
-      "priceChangeFromDetection": 103.7037037037037,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 64411,
-      "peakVolume": 64411,
-      "currentVolume": 64411,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "OTC_EXCHANGE",
-        "SPIKE_7D",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 85"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-04-23",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 16 and promotion score 85",
-          "significance": "high"
-        }
-      ]
     }
   }
 }
