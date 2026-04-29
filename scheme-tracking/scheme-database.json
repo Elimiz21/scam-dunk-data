@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-04-28T03:58:11.361Z",
-  "totalSchemes": 10,
-  "activeSchemes": 2,
+  "lastUpdated": "2026-04-29T02:18:57.945Z",
+  "totalSchemes": 11,
+  "activeSchemes": 3,
   "resolvedSchemes": 8,
   "confirmedFrauds": 0,
   "schemes": {
@@ -21,9 +21,9 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 3.55,
       "peakPrice": 3.55,
-      "currentPrice": 1.77,
+      "currentPrice": 1.7,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -50.140845070422536,
+      "priceChangeFromPeak": -52.112676056338024,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -110,23 +110,23 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-04-27",
+          "date": "2026-04-28",
           "event": "Status changed to COOLING - Possible dump detected",
-          "details": "Price dropped 50.1% from peak ($3.55 → $1.77)",
+          "details": "Price dropped 52.1% from peak ($3.55 → $1.70)",
           "category": "status_change",
           "significance": "high"
         },
         {
-          "date": "2026-04-27",
+          "date": "2026-04-28",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 50.1% from peak ($3.55 → $1.77)",
+          "details": "Price crashed 52.1% from peak ($3.55 → $1.70)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 50.1% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 52.1% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -339,7 +339,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 0.4871,
+      "currentPrice": 0.5091,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
@@ -403,16 +403,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-04-27",
+          "date": "2026-04-28",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 71.3% from peak ($1.70 → $0.49)",
+          "details": "Price crashed 70.1% from peak ($1.70 → $0.51)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 71.3% from peak. Social media promotion detected on: Twitter/X, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 70.1% from peak. Social media promotion detected on: Twitter/X, Telegram"
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -534,7 +534,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.3833,
+      "currentPrice": 0.368,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
@@ -607,16 +607,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-04-27",
+          "date": "2026-04-28",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 60.1% from peak ($0.96 → $0.38)",
+          "details": "Price crashed 61.7% from peak ($0.96 → $0.37)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 60.1% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 61.7% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -625,7 +625,7 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-04-27",
+      "lastSeen": "2026-04-28",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
@@ -633,9 +633,9 @@
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 2.08,
-      "currentPrice": 2.08,
-      "priceChangeFromDetection": 2089.4736842105262,
+      "peakPrice": 2.09,
+      "currentPrice": 2.09,
+      "priceChangeFromDetection": 2100,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
@@ -718,7 +718,7 @@
           "significance": "medium"
         },
         {
-          "date": "2026-04-27",
+          "date": "2026-04-28",
           "event": "Daily scan update",
           "details": "Risk score: 5, Promotion score: N/A"
         }
@@ -808,16 +808,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-04-27",
+          "date": "2026-04-28",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 84 days, inactive for 83 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 85 days, inactive for 84 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 84 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 85 days of monitoring. Stock activity normalized."
     },
     "SCH-DRTSW-20260202-H1OO": {
       "schemeId": "SCH-DRTSW-20260202-H1OO",
@@ -1012,6 +1012,56 @@
       ],
       "notes": [],
       "investigationFlags": []
+    },
+    "SCHEME-BLZRW-20260428-MOJFF09K": {
+      "schemeId": "SCHEME-BLZRW-20260428-MOJFF09K",
+      "symbol": "BLZRW",
+      "name": "Trailblazer Acquisition Corp. Warrant",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "firstDetected": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 16,
+      "currentRiskScore": 16,
+      "peakPromotionScore": 55,
+      "currentPromotionScore": 55,
+      "promotionPlatforms": [],
+      "promoterAccounts": [],
+      "hadSocialMediaPromotion": false,
+      "priceAtDetection": 0.35,
+      "peakPrice": 0.4496,
+      "currentPrice": 0.4496,
+      "priceChangeFromDetection": 28.457142857142863,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 18950.90805,
+      "peakVolume": 18950.90805,
+      "currentVolume": 18950.90805,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "coordinationIndicators": [],
+      "notes": [
+        "Initial detection with promotion score 55"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-04-28",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 16 and promotion score 55",
+          "significance": "high"
+        }
+      ]
     }
   }
 }
