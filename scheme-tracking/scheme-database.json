@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-02T02:13:05.433Z",
-  "totalSchemes": 14,
-  "activeSchemes": 6,
-  "resolvedSchemes": 8,
+  "lastUpdated": "2026-05-05T02:33:08.734Z",
+  "totalSchemes": 13,
+  "activeSchemes": 4,
+  "resolvedSchemes": 9,
   "confirmedFrauds": 0,
   "schemes": {
     "SCH-EVTV-20260202-9ALD": {
@@ -12,21 +12,21 @@
       "sector": "Consumer Cyclical",
       "industry": "Auto - Manufacturers",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-05-01",
+      "lastSeen": "2026-02-13",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "PUMP_AND_DUMP_ENDED",
       "peakRiskScore": 16,
-      "currentRiskScore": 7,
+      "currentRiskScore": 14,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 3.55,
       "peakPrice": 3.55,
-      "currentPrice": 1.78,
-      "priceChangeFromDetection": -49.85915492957746,
-      "priceChangeFromPeak": -49.85915492957746,
+      "currentPrice": 1.72,
+      "priceChangeFromDetection": 0,
+      "priceChangeFromPeak": -51.54929577464789,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 1410795,
+      "currentVolume": 0,
       "promotionPlatforms": [
         "Twitter/X",
         "YouTube",
@@ -110,20 +110,23 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-05-01",
+          "date": "2026-05-04",
           "event": "Status changed to COOLING - Possible dump detected",
-          "details": "Price dropped 49.9% from peak ($3.55 → $1.78)",
+          "details": "Price dropped 51.5% from peak ($3.55 → $1.72)",
           "category": "status_change",
           "significance": "high"
         },
         {
-          "date": "2026-05-01",
-          "event": "Daily scan update",
-          "details": "Risk score: 7, Promotion score: N/A"
+          "date": "2026-05-04",
+          "event": "PUMP & DUMP ENDED - With social promotion",
+          "details": "Price crashed 51.5% from peak ($3.55 → $1.72)",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 51.5% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -336,7 +339,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 0.514,
+      "currentPrice": 0.577,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
@@ -400,16 +403,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-05-01",
+          "date": "2026-05-04",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 69.8% from peak ($1.70 → $0.51)",
+          "details": "Price crashed 66.1% from peak ($1.70 → $0.58)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 69.8% from peak. Social media promotion detected on: Twitter/X, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 66.1% from peak. Social media promotion detected on: Twitter/X, Telegram"
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -531,7 +534,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.3663,
+      "currentPrice": 0.3601,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
@@ -604,16 +607,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-05-01",
+          "date": "2026-05-04",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 61.8% from peak ($0.96 → $0.37)",
+          "details": "Price crashed 62.5% from peak ($0.96 → $0.36)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 61.8% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 62.5% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -715,16 +718,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-05-01",
+          "date": "2026-05-04",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 88 days, inactive for 87 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 91 days, inactive for 90 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 88 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 91 days of monitoring. Stock activity normalized."
     },
     "SCH-MTEN-20260202-KMCM": {
       "schemeId": "SCH-MTEN-20260202-KMCM",
@@ -808,16 +811,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-05-01",
+          "date": "2026-05-04",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 88 days, inactive for 87 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 91 days, inactive for 90 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 88 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 91 days of monitoring. Stock activity normalized."
     },
     "SCH-DRTSW-20260202-H1OO": {
       "schemeId": "SCH-DRTSW-20260202-H1OO",
@@ -920,21 +923,21 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-05-01",
+      "lastSeen": "2026-02-13",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 5,
+      "currentRiskScore": 16,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.22,
       "peakPrice": 1.22,
-      "currentPrice": 1.19,
-      "priceChangeFromDetection": -2.4590163934426252,
-      "priceChangeFromPeak": -2.4590163934426252,
+      "currentPrice": 3.81,
+      "priceChangeFromDetection": 0,
+      "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 855667,
+      "currentVolume": 0,
       "promotionPlatforms": [
         "Twitter/X",
         "YouTube",
@@ -1008,138 +1011,36 @@
           "date": "2026-02-13",
           "event": "Daily scan update",
           "details": "Risk score: 16, Promotion score: 20"
-        },
-        {
-          "date": "2026-05-01",
-          "event": "Daily scan update",
-          "details": "Risk score: 5, Promotion score: N/A"
         }
       ],
       "notes": [],
       "investigationFlags": []
     },
-    "SCHEME-BRLS-20260501-MONPJ09I": {
-      "schemeId": "SCHEME-BRLS-20260501-MONPJ09I",
-      "symbol": "BRLS",
-      "name": "Borealis Foods Inc.",
-      "sector": "Consumer Defensive",
-      "industry": "Packaged Foods",
-      "firstDetected": "2026-05-01",
-      "lastSeen": "2026-05-01",
+    "SCHEME-EVGOW-20260504-MOS0KCQL": {
+      "schemeId": "SCHEME-EVGOW-20260504-MOS0KCQL",
+      "symbol": "EVGOW",
+      "name": "EVgo, Inc.",
+      "sector": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "firstDetected": "2026-05-04",
+      "lastSeen": "2026-05-04",
       "daysActive": 1,
       "status": "NEW",
-      "peakRiskScore": 16,
-      "currentRiskScore": 16,
-      "peakPromotionScore": 73,
-      "currentPromotionScore": 73,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "FuegoFiesta",
-          "firstSeen": "2026-05-01",
-          "lastSeen": "2026-05-01",
-          "postCount": 2,
-          "confidence": "high"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "TheBlackPearls",
-          "firstSeen": "2026-05-01",
-          "lastSeen": "2026-05-01",
-          "postCount": 1,
-          "confidence": "high"
-        },
-        {
-          "platform": "YouTube",
-          "identifier": "DailyMarketMovers",
-          "firstSeen": "2026-05-01",
-          "lastSeen": "2026-05-01",
-          "postCount": 1,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.895,
-      "peakPrice": 1.66,
-      "currentPrice": 1.66,
-      "priceChangeFromDetection": 85.47486033519552,
+      "peakRiskScore": 15,
+      "currentRiskScore": 15,
+      "peakPromotionScore": 55,
+      "currentPromotionScore": 55,
+      "promotionPlatforms": [],
+      "promoterAccounts": [],
+      "hadSocialMediaPromotion": false,
+      "priceAtDetection": 0.0195,
+      "peakPrice": 0.014,
+      "currentPrice": 0.014,
+      "priceChangeFromDetection": -28.205128205128204,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 1517944,
-      "peakVolume": 1517944,
-      "currentVolume": 1517944,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "SPIKE_7D",
-        "VOLUME_EXPLOSION",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D",
-        "VOLUME_SURGE_3D"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 73"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-05-01",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 16 and promotion score 73",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-RYOJ-20260501-MONPJ09I": {
-      "schemeId": "SCHEME-RYOJ-20260501-MONPJ09I",
-      "symbol": "RYOJ",
-      "name": "rYojbaba Co., Ltd. Common Shares",
-      "sector": "Industrials",
-      "industry": "Consulting Services",
-      "firstDetected": "2026-05-01",
-      "lastSeen": "2026-05-01",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 16,
-      "currentRiskScore": 16,
-      "peakPromotionScore": 67,
-      "currentPromotionScore": 67,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "FuegoFiesta",
-          "firstSeen": "2026-05-01",
-          "lastSeen": "2026-05-01",
-          "postCount": 4,
-          "confidence": "high"
-        },
-        {
-          "platform": "StockTwits",
-          "identifier": "topstockalerts",
-          "firstSeen": "2026-05-01",
-          "lastSeen": "2026-05-01",
-          "postCount": 1,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 1.99,
-      "peakPrice": 2.63,
-      "currentPrice": 2.63,
-      "priceChangeFromDetection": 32.1608040201005,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 15662,
-      "peakVolume": 15662,
-      "currentVolume": 15662,
+      "volumeAtDetection": 55106,
+      "peakVolume": 55106,
+      "currentVolume": 55106,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
@@ -1147,155 +1048,135 @@
         "SPIKE_7D",
         "VOLUME_EXPLOSION",
         "HIGH_VOLATILITY",
-        "SPIKE_3D",
-        "VOLUME_SURGE_3D"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
-      "notes": [
-        "Initial detection with promotion score 67"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-05-01",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 16 and promotion score 67",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-WYHG-20260501-MONPJ09J": {
-      "schemeId": "SCHEME-WYHG-20260501-MONPJ09J",
-      "symbol": "WYHG",
-      "name": "Wing Yip Food Holdings Group Limited American Depositary Shares",
-      "sector": "Consumer Defensive",
-      "industry": "Packaged Foods",
-      "firstDetected": "2026-05-01",
-      "lastSeen": "2026-05-01",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 16,
-      "currentRiskScore": 16,
-      "peakPromotionScore": 54,
-      "currentPromotionScore": 54,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
-      "promoterAccounts": [
-        {
-          "platform": "StockTwits",
-          "identifier": "FuegoFiesta",
-          "firstSeen": "2026-05-01",
-          "lastSeen": "2026-05-01",
-          "postCount": 2,
-          "confidence": "high"
-        }
-      ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.3981,
-      "peakPrice": 0.685,
-      "currentPrice": 0.685,
-      "priceChangeFromDetection": 72.0673197689023,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 641825,
-      "peakVolume": 641825,
-      "currentVolume": 641825,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "SPIKE_7D",
-        "VOLUME_EXPLOSION",
-        "SPIKE_THEN_DROP",
-        "HIGH_VOLATILITY",
         "SPIKE_3D"
       ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
+      "coordinationIndicators": [],
       "notes": [
-        "Initial detection with promotion score 54"
+        "Initial detection with promotion score 55"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-05-01",
+          "date": "2026-05-04",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 16 and promotion score 54",
+          "details": "Initial detection with risk score 15 and promotion score 55",
           "significance": "high"
         }
       ]
     },
-    "SCHEME-SEGG-20260501-MONPJ09J": {
-      "schemeId": "SCHEME-SEGG-20260501-MONPJ09J",
-      "symbol": "SEGG",
-      "name": "Sports Entertainment Gaming Global Corporation",
+    "SCHEME-ECDAW-20260504-MOS0KCQM": {
+      "schemeId": "SCHEME-ECDAW-20260504-MOS0KCQM",
+      "symbol": "ECDAW",
+      "name": "ECD Automotive Design, Inc.",
       "sector": "Consumer Cyclical",
-      "industry": "Gambling, Resorts & Casinos",
-      "firstDetected": "2026-05-01",
-      "lastSeen": "2026-05-01",
+      "industry": "Auto - Manufacturers",
+      "firstDetected": "2026-05-04",
+      "lastSeen": "2026-05-04",
       "daysActive": 1,
       "status": "NEW",
       "peakRiskScore": 17,
       "currentRiskScore": 17,
-      "peakPromotionScore": 60,
-      "currentPromotionScore": 60,
-      "promotionPlatforms": [
-        "StockTwits"
-      ],
+      "peakPromotionScore": 55,
+      "currentPromotionScore": 55,
+      "promotionPlatforms": [],
       "promoterAccounts": [
         {
-          "platform": "StockTwits",
-          "identifier": "FuegoFiesta",
-          "firstSeen": "2026-05-01",
-          "lastSeen": "2026-05-01",
-          "postCount": 3,
-          "confidence": "high"
-        },
-        {
-          "platform": "YouTube",
-          "identifier": "Jad Farhat",
-          "firstSeen": "2026-05-01",
-          "lastSeen": "2026-05-01",
-          "postCount": 1,
+          "platform": "Forum",
+          "identifier": "unknown",
+          "firstSeen": "2026-05-04",
+          "lastSeen": "2026-05-04",
+          "postCount": 2,
           "confidence": "medium"
         }
       ],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.507,
-      "peakPrice": 1.22,
-      "currentPrice": 1.22,
-      "priceChangeFromDetection": 140.63116370808677,
+      "hadSocialMediaPromotion": false,
+      "priceAtDetection": 0.005,
+      "peakPrice": 0.0016,
+      "currentPrice": 0.0016,
+      "priceChangeFromDetection": -68,
       "priceChangeFromPeak": 0,
-      "volumeAtDetection": 2423741,
-      "peakVolume": 2423741,
-      "currentVolume": 2423741,
+      "volumeAtDetection": 40646.87943,
+      "peakVolume": 40646.87943,
+      "currentVolume": 40646.87943,
       "signalsDetected": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
         "SPIKE_7D",
-        "VOLUME_EXPLOSION",
         "SPIKE_THEN_DROP",
-        "OVERBOUGHT_RSI",
         "HIGH_VOLATILITY",
         "SPIKE_3D"
       ],
-      "coordinationIndicators": [
-        "High promotion risk on StockTwits"
-      ],
+      "coordinationIndicators": [],
       "notes": [
-        "Initial detection with promotion score 60"
+        "Initial detection with promotion score 55"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-05-01",
+          "date": "2026-05-04",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 17 and promotion score 60",
+          "details": "Initial detection with risk score 17 and promotion score 55",
+          "significance": "high"
+        }
+      ]
+    },
+    "SCHEME-CDIOW-20260504-MOS0KCQM": {
+      "schemeId": "SCHEME-CDIOW-20260504-MOS0KCQM",
+      "symbol": "CDIOW",
+      "name": "Cardio Diagnostics Holdings, Inc.",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "firstDetected": "2026-05-04",
+      "lastSeen": "2026-05-04",
+      "daysActive": 1,
+      "status": "NEW",
+      "peakRiskScore": 15,
+      "currentRiskScore": 15,
+      "peakPromotionScore": 55,
+      "currentPromotionScore": 55,
+      "promotionPlatforms": [],
+      "promoterAccounts": [
+        {
+          "platform": "Forum",
+          "identifier": "unknown",
+          "firstSeen": "2026-05-04",
+          "lastSeen": "2026-05-04",
+          "postCount": 5,
+          "confidence": "medium"
+        }
+      ],
+      "hadSocialMediaPromotion": false,
+      "priceAtDetection": 0.0123,
+      "peakPrice": 0.0163,
+      "currentPrice": 0.0163,
+      "priceChangeFromDetection": 32.52032520325202,
+      "priceChangeFromPeak": 0,
+      "volumeAtDetection": 42626.48858,
+      "peakVolume": 42626.48858,
+      "currentVolume": 42626.48858,
+      "signalsDetected": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "PRICE_ACCELERATION"
+      ],
+      "coordinationIndicators": [],
+      "notes": [
+        "Initial detection with promotion score 55"
+      ],
+      "investigationFlags": [],
+      "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Scheme detected",
+          "category": "detection",
+          "details": "Initial detection with risk score 15 and promotion score 55",
           "significance": "high"
         }
       ]
