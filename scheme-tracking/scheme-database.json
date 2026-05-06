@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-05T02:33:08.734Z",
-  "totalSchemes": 13,
-  "activeSchemes": 4,
-  "resolvedSchemes": 9,
+  "lastUpdated": "2026-05-06T03:11:01.780Z",
+  "totalSchemes": 10,
+  "activeSchemes": 2,
+  "resolvedSchemes": 8,
   "confirmedFrauds": 0,
   "schemes": {
     "SCH-EVTV-20260202-9ALD": {
@@ -14,16 +14,16 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-13",
       "daysActive": 2,
-      "status": "PUMP_AND_DUMP_ENDED",
+      "status": "COOLING",
       "peakRiskScore": 16,
       "currentRiskScore": 14,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 3.55,
       "peakPrice": 3.55,
-      "currentPrice": 1.72,
+      "currentPrice": 1.8,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -51.54929577464789,
+      "priceChangeFromPeak": -49.29577464788732,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -110,23 +110,15 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-05-04",
+          "date": "2026-05-05",
           "event": "Status changed to COOLING - Possible dump detected",
-          "details": "Price dropped 51.5% from peak ($3.55 → $1.72)",
-          "category": "status_change",
-          "significance": "high"
-        },
-        {
-          "date": "2026-05-04",
-          "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 51.5% from peak ($3.55 → $1.72)",
+          "details": "Price dropped 49.3% from peak ($3.55 → $1.80)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 51.5% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
+      "investigationFlags": []
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -339,7 +331,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 0.577,
+      "currentPrice": 0.58,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
@@ -403,16 +395,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-05-04",
+          "date": "2026-05-05",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 66.1% from peak ($1.70 → $0.58)",
+          "details": "Price crashed 65.9% from peak ($1.70 → $0.58)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 66.1% from peak. Social media promotion detected on: Twitter/X, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 65.9% from peak. Social media promotion detected on: Twitter/X, Telegram"
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -534,7 +526,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.3601,
+      "currentPrice": 0.3387,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
@@ -607,16 +599,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-05-04",
+          "date": "2026-05-05",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 62.5% from peak ($0.96 → $0.36)",
+          "details": "Price crashed 64.7% from peak ($0.96 → $0.34)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 62.5% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 64.7% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -718,16 +710,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-05-04",
+          "date": "2026-05-05",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 91 days, inactive for 90 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 92 days, inactive for 91 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 91 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 92 days of monitoring. Stock activity normalized."
     },
     "SCH-MTEN-20260202-KMCM": {
       "schemeId": "SCH-MTEN-20260202-KMCM",
@@ -811,16 +803,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-05-04",
+          "date": "2026-05-05",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 91 days, inactive for 90 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 92 days, inactive for 91 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 91 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 92 days of monitoring. Stock activity normalized."
     },
     "SCH-DRTSW-20260202-H1OO": {
       "schemeId": "SCH-DRTSW-20260202-H1OO",
@@ -1015,171 +1007,6 @@
       ],
       "notes": [],
       "investigationFlags": []
-    },
-    "SCHEME-EVGOW-20260504-MOS0KCQL": {
-      "schemeId": "SCHEME-EVGOW-20260504-MOS0KCQL",
-      "symbol": "EVGOW",
-      "name": "EVgo, Inc.",
-      "sector": "Consumer Cyclical",
-      "industry": "Specialty Retail",
-      "firstDetected": "2026-05-04",
-      "lastSeen": "2026-05-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 15,
-      "currentRiskScore": 15,
-      "peakPromotionScore": 55,
-      "currentPromotionScore": 55,
-      "promotionPlatforms": [],
-      "promoterAccounts": [],
-      "hadSocialMediaPromotion": false,
-      "priceAtDetection": 0.0195,
-      "peakPrice": 0.014,
-      "currentPrice": 0.014,
-      "priceChangeFromDetection": -28.205128205128204,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 55106,
-      "peakVolume": 55106,
-      "currentVolume": 55106,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "SPIKE_7D",
-        "VOLUME_EXPLOSION",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D"
-      ],
-      "coordinationIndicators": [],
-      "notes": [
-        "Initial detection with promotion score 55"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-05-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 15 and promotion score 55",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-ECDAW-20260504-MOS0KCQM": {
-      "schemeId": "SCHEME-ECDAW-20260504-MOS0KCQM",
-      "symbol": "ECDAW",
-      "name": "ECD Automotive Design, Inc.",
-      "sector": "Consumer Cyclical",
-      "industry": "Auto - Manufacturers",
-      "firstDetected": "2026-05-04",
-      "lastSeen": "2026-05-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 17,
-      "currentRiskScore": 17,
-      "peakPromotionScore": 55,
-      "currentPromotionScore": 55,
-      "promotionPlatforms": [],
-      "promoterAccounts": [
-        {
-          "platform": "Forum",
-          "identifier": "unknown",
-          "firstSeen": "2026-05-04",
-          "lastSeen": "2026-05-04",
-          "postCount": 2,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": false,
-      "priceAtDetection": 0.005,
-      "peakPrice": 0.0016,
-      "currentPrice": 0.0016,
-      "priceChangeFromDetection": -68,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 40646.87943,
-      "peakVolume": 40646.87943,
-      "currentVolume": 40646.87943,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "SPIKE_7D",
-        "SPIKE_THEN_DROP",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D"
-      ],
-      "coordinationIndicators": [],
-      "notes": [
-        "Initial detection with promotion score 55"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-05-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 17 and promotion score 55",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-CDIOW-20260504-MOS0KCQM": {
-      "schemeId": "SCHEME-CDIOW-20260504-MOS0KCQM",
-      "symbol": "CDIOW",
-      "name": "Cardio Diagnostics Holdings, Inc.",
-      "sector": "Healthcare",
-      "industry": "Biotechnology",
-      "firstDetected": "2026-05-04",
-      "lastSeen": "2026-05-04",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 15,
-      "currentRiskScore": 15,
-      "peakPromotionScore": 55,
-      "currentPromotionScore": 55,
-      "promotionPlatforms": [],
-      "promoterAccounts": [
-        {
-          "platform": "Forum",
-          "identifier": "unknown",
-          "firstSeen": "2026-05-04",
-          "lastSeen": "2026-05-04",
-          "postCount": 5,
-          "confidence": "medium"
-        }
-      ],
-      "hadSocialMediaPromotion": false,
-      "priceAtDetection": 0.0123,
-      "peakPrice": 0.0163,
-      "currentPrice": 0.0163,
-      "priceChangeFromDetection": 32.52032520325202,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 42626.48858,
-      "peakVolume": 42626.48858,
-      "currentVolume": 42626.48858,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "SPIKE_THEN_DROP",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D",
-        "PRICE_ACCELERATION"
-      ],
-      "coordinationIndicators": [],
-      "notes": [
-        "Initial detection with promotion score 55"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-05-04",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 15 and promotion score 55",
-          "significance": "high"
-        }
-      ]
     }
   }
 }
