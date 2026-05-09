@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T02:10:14.803Z",
+  "lastUpdated": "2026-05-09T03:31:47.124Z",
   "totalSchemes": 10,
   "activeSchemes": 3,
   "resolvedSchemes": 7,
@@ -14,16 +14,16 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-13",
       "daysActive": 2,
-      "status": "PUMP_AND_DUMP_ENDED",
+      "status": "COOLING",
       "peakRiskScore": 16,
       "currentRiskScore": 14,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 3.55,
       "peakPrice": 3.55,
-      "currentPrice": 1.77,
+      "currentPrice": 2.05,
       "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -50.140845070422536,
+      "priceChangeFromPeak": -42.25352112676057,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 0,
@@ -110,23 +110,15 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-05-07",
+          "date": "2026-05-08",
           "event": "Status changed to COOLING - Possible dump detected",
-          "details": "Price dropped 50.1% from peak ($3.55 → $1.77)",
-          "category": "status_change",
-          "significance": "high"
-        },
-        {
-          "date": "2026-05-07",
-          "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 50.1% from peak ($3.55 → $1.77)",
+          "details": "Price dropped 42.3% from peak ($3.55 → $2.05)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 50.1% from peak. Social media promotion detected on: Twitter/X, YouTube, Discord, Telegram"
+      "investigationFlags": []
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -339,7 +331,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
       "peakPrice": 1.7,
-      "currentPrice": 0.4972,
+      "currentPrice": 0.513,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
@@ -403,16 +395,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-05-07",
+          "date": "2026-05-08",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 70.8% from peak ($1.70 → $0.50)",
+          "details": "Price crashed 69.8% from peak ($1.70 → $0.51)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 70.8% from peak. Social media promotion detected on: Twitter/X, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 69.8% from peak. Social media promotion detected on: Twitter/X, Telegram"
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -534,7 +526,7 @@
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
       "peakPrice": 0.9601,
-      "currentPrice": 0.325,
+      "currentPrice": 0.3231,
       "priceChangeFromDetection": 0,
       "priceChangeFromPeak": -34.402666388917815,
       "volumeAtDetection": 0,
@@ -607,16 +599,16 @@
           "significance": "high"
         },
         {
-          "date": "2026-05-07",
+          "date": "2026-05-08",
           "event": "PUMP & DUMP ENDED - With social promotion",
-          "details": "Price crashed 66.1% from peak ($0.96 → $0.33)",
+          "details": "Price crashed 66.3% from peak ($0.96 → $0.32)",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 66.1% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
+      "resolutionDetails": "PUMP & DUMP CONFIRMED: Price crashed 66.3% from peak. Social media promotion detected on: Twitter/X, Discord, Telegram"
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -625,21 +617,21 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-05-07",
+      "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 14,
-      "currentRiskScore": 6,
+      "currentRiskScore": 14,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 1.66,
-      "currentPrice": 1.66,
-      "priceChangeFromDetection": 1647.3684210526314,
+      "peakPrice": 0.095,
+      "currentPrice": 0.095,
+      "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 154578,
+      "currentVolume": 0,
       "promotionPlatforms": [
         "Twitter/X",
         "YouTube",
@@ -718,13 +710,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-05-07",
-          "event": "Daily scan update",
-          "details": "Risk score: 6, Promotion score: N/A"
+          "date": "2026-05-08",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 95 days, inactive for 94 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 95 days of monitoring. Stock activity normalized."
     },
     "SCH-MTEN-20260202-KMCM": {
       "schemeId": "SCH-MTEN-20260202-KMCM",
@@ -733,17 +728,17 @@
       "sector": "Industrials",
       "industry": "Manufacturing - Metal Fabrication",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-05-07",
+      "lastSeen": "2026-05-08",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 6,
+      "currentRiskScore": 8,
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.0314,
-      "peakPrice": 1.04,
-      "currentPrice": 1.04,
-      "priceChangeFromDetection": 3212.1019108280257,
+      "peakPrice": 1.06,
+      "currentPrice": 1.06,
+      "priceChangeFromDetection": 3275.796178343949,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
@@ -808,9 +803,9 @@
           "significance": "medium"
         },
         {
-          "date": "2026-05-07",
+          "date": "2026-05-08",
           "event": "Daily scan update",
-          "details": "Risk score: 6, Promotion score: N/A"
+          "details": "Risk score: 8, Promotion score: N/A"
         }
       ],
       "notes": [],
