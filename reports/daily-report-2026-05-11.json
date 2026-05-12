@@ -1,0 +1,19 @@
+{
+  "date": "2026-05-11",
+  "totalStocksScanned": 6563,
+  "byRiskLevel": {
+    "LOW": 2585,
+    "MEDIUM": 1826,
+    "HIGH": 2152,
+    "INSUFFICIENT": 0
+  },
+  "highRiskBeforeFilters": 2152,
+  "filteredByMarketCap": 83,
+  "filteredByVolume": 219,
+  "filteredByNews": 947,
+  "newsFilterSkipped": 0,
+  "remainingSuspicious": 903,
+  "activeSchemes": 4,
+  "newSchemes": 0,
+  "processingTimeMinutes": 178
+}

@@ -1,0 +1,1192 @@
+{
+  "date": "2026-05-11",
+  "totalHighRiskStocks": 2152,
+  "promotedStocks": [
+    {
+      "symbol": "SVREW",
+      "name": "SaverOne 2014 Ltd",
+      "riskScore": 22,
+      "price": 0.0194,
+      "marketCap": "17.0M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.02) is below $5 (penny stock territory)",
+        "Small market cap ($17M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Significant price movement (+43%) in 7 days",
+        "Elevated trading volume (3.3x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (24.8% daily)",
+        "Price moved 60.3% in 3 days",
+        "3-day volume 6.4x above 30-day average",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "Forum: 9 mentions (real)"
+      ],
+      "assessment": "9 mentions found across 1 platform(s). Avg promotion score: 2/100."
+    },
+    {
+      "symbol": "POM",
+      "name": "POMDOCTOR Ltd",
+      "riskScore": 21,
+      "price": 0.1481,
+      "marketCap": "15.8M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "Reddit",
+        "YouTube",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.15) is below $5 (penny stock territory)",
+        "Small market cap ($16M) - higher manipulation risk",
+        "Extreme price movement (-61%) in 7 days",
+        "Elevated trading volume (3.9x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (37.4% daily)",
+        "Price moved -70.0% in 3 days",
+        "3-day volume 9.0x above 30-day average",
+        "Volume increasing for 3+ consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)",
+        "Reddit: 3 mentions (real)",
+        "YouTube: 27 mentions (real)",
+        "Forum: 8 mentions (real)"
+      ],
+      "assessment": "68 mentions found across 4 platform(s). Avg promotion score: 24/100."
+    },
+    {
+      "symbol": "AUUDW",
+      "name": "Auddia Inc.",
+      "riskScore": 21,
+      "price": 0.0408,
+      "marketCap": "127K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.04) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Extreme price movement (+316%) in 7 days",
+        "Elevated trading volume (3.1x normal)",
+        "Overbought indicator (RSI: 73)",
+        "High price volatility (397.5% daily)",
+        "Price moved 655.6% in 3 days",
+        "3-day volume 6.7x above 30-day average",
+        "Volume increasing for 3+ consecutive days"
+      ],
+      "sources": [
+        "Forum: 3 mentions (real)"
+      ],
+      "assessment": "3 mentions found across 1 platform(s). Avg promotion score: 13/100."
+    },
+    {
+      "symbol": "WOK",
+      "name": "WORK Medical Technology Group Ltd.",
+      "riskScore": 20,
+      "price": 3.92,
+      "marketCap": "22K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "YouTube",
+        "Reddit",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($3.92) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($123K)",
+        "Extreme price movement (+224%) in 7 days",
+        "Elevated trading volume (4.3x normal)",
+        "Overbought indicator (RSI: 95)",
+        "High price volatility (53.0% daily)",
+        "Price moved 194.7% in 3 days",
+        "3-day volume 9.9x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 26 mentions (real)",
+        "YouTube: 4 mentions (real)",
+        "Reddit: 7 mentions (real)",
+        "Forum: 9 mentions (real)"
+      ],
+      "assessment": "46 mentions found across 4 platform(s). Avg promotion score: 21/100."
+    },
+    {
+      "symbol": "DRTSW",
+      "name": "Alpha Tau Medical Ltd.",
+      "riskScore": 19,
+      "price": 1.97,
+      "marketCap": "173.4M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum",
+        "Reddit"
+      ],
+      "redFlags": [
+        "Stock price ($1.97) is below $5 (penny stock territory)",
+        "Small market cap ($173M) - higher manipulation risk",
+        "Very low daily trading volume ($47K)",
+        "Extreme price movement (+63%) in 7 days",
+        "Overbought indicator (RSI: 73)",
+        "High price volatility (20.4% daily)",
+        "Price moved 109.5% in 3 days",
+        "Price gains accelerating over 3 consecutive days",
+        "Volume increasing for 3+ consecutive days"
+      ],
+      "sources": [
+        "Forum: 7 mentions (real)",
+        "Reddit: 2 mentions (real)"
+      ],
+      "assessment": "9 mentions found across 2 platform(s). Avg promotion score: 19/100."
+    },
+    {
+      "symbol": "EZGO",
+      "name": "EZGO Technologies Ltd.",
+      "riskScore": 19,
+      "price": 0.04,
+      "marketCap": "9K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "Reddit",
+        "YouTube",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.04) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Extreme price movement (-97%) in 7 days",
+        "Elevated trading volume (4.3x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (33.3% daily)",
+        "Price moved -75.0% in 3 days",
+        "3-day volume 8.9x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 21 mentions (real)",
+        "Reddit: 1 mentions (real)",
+        "YouTube: 15 mentions (real)",
+        "Forum: 3 mentions (real)"
+      ],
+      "assessment": "40 mentions found across 4 platform(s). Avg promotion score: 25/100."
+    },
+    {
+      "symbol": "ENGNW",
+      "name": "enGene Holdings Inc. Warrants",
+      "riskScore": 18,
+      "price": 0.1674,
+      "marketCap": "8.6M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Reddit",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.17) is below $5 (penny stock territory)",
+        "Small market cap ($9M) - higher manipulation risk",
+        "Very low daily trading volume ($2K)",
+        "Extreme price movement (-92%) in 7 days",
+        "High price volatility (29.8% daily)",
+        "Price moved -93.4% in 3 days",
+        "3-day volume 6.5x above 30-day average",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "Reddit: 3 mentions (real)",
+        "Forum: 3 mentions (real)"
+      ],
+      "assessment": "6 mentions found across 2 platform(s). Avg promotion score: 15/100."
+    },
+    {
+      "symbol": "GMGI",
+      "name": "Golden Matrix Group, Inc.",
+      "riskScore": 18,
+      "price": 0.6372,
+      "marketCap": "8.1M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.64) is below $5 (penny stock territory)",
+        "Small market cap ($8M) - higher manipulation risk",
+        "Very low daily trading volume ($13K)",
+        "Extreme price movement (+104%) in 7 days",
+        "Overbought indicator (RSI: 87)",
+        "High price volatility (7.9% daily)",
+        "Price moved 57.9% in 3 days",
+        "3-day volume 5.2x above 30-day average"
+      ],
+      "sources": [
+        "Forum: 4 mentions (real)"
+      ],
+      "assessment": "4 mentions found across 1 platform(s). Avg promotion score: 18/100."
+    },
+    {
+      "symbol": "CGTL",
+      "name": "Creative Global Technology Holdings Limited Ordinary Shares",
+      "riskScore": 18,
+      "price": 1.65,
+      "marketCap": "38.9M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "YouTube",
+        "Forum",
+        "TikTok"
+      ],
+      "redFlags": [
+        "Stock price ($1.65) is below $5 (penny stock territory)",
+        "Small market cap ($39M) - higher manipulation risk",
+        "Significant price movement (+41%) in 7 days",
+        "Elevated trading volume (3.2x normal)",
+        "Overbought indicator (RSI: 71)",
+        "High price volatility (13.9% daily)",
+        "Price moved 37.5% in 3 days",
+        "3-day volume 6.4x above 30-day average",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 12 mentions (real)",
+        "YouTube: 7 mentions (real)",
+        "Forum: 4 mentions (real)",
+        "TikTok: 1 mentions (real)"
+      ],
+      "assessment": "24 mentions found across 4 platform(s). Avg promotion score: 29/100."
+    },
+    {
+      "symbol": "TALKW",
+      "name": "Talkspace, Inc.",
+      "riskScore": 18,
+      "price": 0.0016,
+      "marketCap": "268K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Significant price movement (-48%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (41.2% daily)",
+        "Price moved -54.3% in 3 days",
+        "Volume increasing for 3+ consecutive days"
+      ],
+      "sources": [
+        "Forum: 6 mentions (real)"
+      ],
+      "assessment": "6 mentions found across 1 platform(s). Avg promotion score: 18/100."
+    },
+    {
+      "symbol": "COOTW",
+      "name": "Australian Oilseeds Holdings Limited Warrant",
+      "riskScore": 18,
+      "price": 0.0656,
+      "marketCap": "1.8M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "TikTok",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.07) is below $5 (penny stock territory)",
+        "Small market cap ($2M) - higher manipulation risk",
+        "Very low daily trading volume ($3K)",
+        "Extreme price movement (+245%) in 7 days",
+        "Overbought indicator (RSI: 84)",
+        "High price volatility (63.5% daily)",
+        "Price moved 239.9% in 3 days",
+        "3-day volume 6.2x above 30-day average"
+      ],
+      "sources": [
+        "TikTok: 1 mentions (real)",
+        "Forum: 6 mentions (real)"
+      ],
+      "assessment": "7 mentions found across 2 platform(s). Avg promotion score: 19/100."
+    },
+    {
+      "symbol": "KPLTW",
+      "name": "Katapult Holdings, Inc.",
+      "riskScore": 18,
+      "price": 0.0015,
+      "marketCap": "7K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum",
+        "Reddit"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Significant price movement (-29%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (39.8% daily)",
+        "Price moved -61.5% in 3 days",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "Forum: 2 mentions (real)",
+        "Reddit: 2 mentions (real)"
+      ],
+      "assessment": "4 mentions found across 2 platform(s). Avg promotion score: 0/100."
+    },
+    {
+      "symbol": "CREG",
+      "name": "Smart Powerr Corp.",
+      "riskScore": 17,
+      "price": 0.179,
+      "marketCap": "4.1M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "Forum",
+        "YouTube"
+      ],
+      "redFlags": [
+        "Stock price ($0.18) is below $5 (penny stock territory)",
+        "Small market cap ($4M) - higher manipulation risk",
+        "Extreme price movement (-80%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (20.9% daily)",
+        "Price moved -65.9% in 3 days",
+        "Volume increasing for 3+ consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 18 mentions (real)",
+        "Forum: 4 mentions (real)",
+        "YouTube: 5 mentions (real)"
+      ],
+      "assessment": "27 mentions found across 3 platform(s). Avg promotion score: 11/100."
+    },
+    {
+      "symbol": "SGBX",
+      "name": "Safe & Green Holdings Corp.",
+      "riskScore": 17,
+      "price": 1.06,
+      "marketCap": "534K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Reddit",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($1.06) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Extreme price movement (+74%) in 7 days",
+        "Elevated trading volume (3.3x normal)",
+        "Overbought indicator (RSI: 78)",
+        "High price volatility (12.4% daily)",
+        "Price moved 81.1% in 3 days",
+        "3-day volume 7.5x above 30-day average"
+      ],
+      "sources": [
+        "Reddit: 4 mentions (real)",
+        "Forum: 2 mentions (real)"
+      ],
+      "assessment": "6 mentions found across 2 platform(s). Avg promotion score: 28/100."
+    },
+    {
+      "symbol": "STAI",
+      "name": "ScanTech AI Systems Inc.",
+      "riskScore": 17,
+      "price": 0.085,
+      "marketCap": "175K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "Forum",
+        "YouTube"
+      ],
+      "redFlags": [
+        "Stock price ($0.09) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($4K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-23%) in 7 days",
+        "High price volatility (5.3% daily)",
+        "Price moved -12.9% in 3 days",
+        "3-day volume 2.2x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 9 mentions (real)",
+        "Forum: 5 mentions (real)",
+        "YouTube: 3 mentions (real)"
+      ],
+      "assessment": "17 mentions found across 3 platform(s). Avg promotion score: 17/100."
+    },
+    {
+      "symbol": "ECDAW",
+      "name": "ECD Automotive Design, Inc.",
+      "riskScore": 17,
+      "price": 0.0016,
+      "marketCap": "4K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Extreme price movement (-68%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (31.3% daily)",
+        "Price moved -83.0% in 3 days"
+      ],
+      "sources": [
+        "Forum: 1 mentions (real)"
+      ],
+      "assessment": "1 mentions found across 1 platform(s). Avg promotion score: 15/100."
+    },
+    {
+      "symbol": "CHACR",
+      "name": "Crane Harbor Acquisition Corp.",
+      "riskScore": 17,
+      "price": 0.95,
+      "marketCap": "21.5M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum",
+        "TikTok"
+      ],
+      "redFlags": [
+        "Stock price ($0.95) is below $5 (penny stock territory)",
+        "Small market cap ($22M) - higher manipulation risk",
+        "Significant price movement (+27%) in 7 days",
+        "Overbought indicator (RSI: 78)",
+        "High price volatility (6.1% daily)",
+        "Price moved 28.4% in 3 days",
+        "3-day volume 5.2x above 30-day average",
+        "Price gains accelerating over 3 consecutive days",
+        "Volume increasing for 3+ consecutive days"
+      ],
+      "sources": [
+        "Forum: 6 mentions (real)",
+        "TikTok: 1 mentions (real)"
+      ],
+      "assessment": "7 mentions found across 2 platform(s). Avg promotion score: 11/100."
+    },
+    {
+      "symbol": "EURKR",
+      "name": "Eureka Acquisition Corp",
+      "riskScore": 17,
+      "price": 0.3468,
+      "marketCap": "2.2M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.35) is below $5 (penny stock territory)",
+        "Small market cap ($2M) - higher manipulation risk",
+        "Very low daily trading volume ($4K)",
+        "Elevated trading volume (3.9x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (32.8% daily)",
+        "Price moved 44.4% in 3 days",
+        "3-day volume 4.6x above 30-day average"
+      ],
+      "sources": [
+        "Forum: 2 mentions (real)"
+      ],
+      "assessment": "2 mentions found across 1 platform(s). Avg promotion score: 0/100."
+    },
+    {
+      "symbol": "SPKLW",
+      "name": "Spark I Acquisition Corp. Warrant",
+      "riskScore": 17,
+      "price": 0.4887,
+      "marketCap": "7.9M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Reddit",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.49) is below $5 (penny stock territory)",
+        "Small market cap ($8M) - higher manipulation risk",
+        "Very low daily trading volume ($14K)",
+        "Extreme price movement (+146%) in 7 days",
+        "Overbought indicator (RSI: 78)",
+        "High price volatility (37.2% daily)",
+        "Price moved 195.2% in 3 days",
+        "3-day volume 6.1x above 30-day average"
+      ],
+      "sources": [
+        "Reddit: 3 mentions (real)",
+        "Forum: 3 mentions (real)"
+      ],
+      "assessment": "6 mentions found across 2 platform(s). Avg promotion score: 17/100."
+    },
+    {
+      "symbol": "KITTW",
+      "name": "Nauticus Robotics, Inc.",
+      "riskScore": 16,
+      "price": 0.035,
+      "marketCap": "18.4M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "TikTok",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.04) is below $5 (penny stock territory)",
+        "Small market cap ($18M) - higher manipulation risk",
+        "Very low daily trading volume ($4K)",
+        "Extreme price movement (+87%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (14.7% daily)",
+        "Price moved 24.9% in 3 days"
+      ],
+      "sources": [
+        "TikTok: 2 mentions (real)",
+        "Forum: 2 mentions (real)"
+      ],
+      "assessment": "4 mentions found across 2 platform(s). Avg promotion score: 18/100."
+    },
+    {
+      "symbol": "STSSW",
+      "name": "Sharps Technology, Inc.",
+      "riskScore": 16,
+      "price": 0.0384,
+      "marketCap": "980K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.04) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($5K)",
+        "Significant price movement (+26%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (12.3% daily)",
+        "Price moved 58.3% in 3 days"
+      ],
+      "sources": [
+        "Forum: 1 mentions (real)"
+      ],
+      "assessment": "1 mentions found across 1 platform(s). Avg promotion score: 15/100."
+    },
+    {
+      "symbol": "NIXXW",
+      "name": "Nixxy, Inc.",
+      "riskScore": 16,
+      "price": 0.0055,
+      "marketCap": "144K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.01) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Extreme price movement (-59%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (24.4% daily)",
+        "Price moved -26.7% in 3 days"
+      ],
+      "sources": [
+        "Forum: 2 mentions (real)"
+      ],
+      "assessment": "2 mentions found across 1 platform(s). Avg promotion score: 15/100."
+    },
+    {
+      "symbol": "SWAGW",
+      "name": "Stran & Company, Inc.",
+      "riskScore": 16,
+      "price": 0.02635,
+      "marketCap": "486K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "YouTube"
+      ],
+      "redFlags": [
+        "Stock price ($0.03) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Extreme price movement (-62%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (75.3% daily)",
+        "Price moved 27.9% in 3 days"
+      ],
+      "sources": [
+        "YouTube: 1 mentions (real)"
+      ],
+      "assessment": "1 mentions found across 1 platform(s). Avg promotion score: 0/100."
+    },
+    {
+      "symbol": "ORGNW",
+      "name": "Origin Materials, Inc.",
+      "riskScore": 16,
+      "price": 0.0006,
+      "marketCap": "88K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Extreme price movement (-67%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (28.8% daily)",
+        "Price moved -33.3% in 3 days"
+      ],
+      "sources": [
+        "Forum: 3 mentions (real)"
+      ],
+      "assessment": "3 mentions found across 1 platform(s). Avg promotion score: 13/100."
+    },
+    {
+      "symbol": "CINGW",
+      "name": "Cingulate Inc.",
+      "riskScore": 16,
+      "price": 0.017093,
+      "marketCap": "115K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.02) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Extreme price movement (-50%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (37.5% daily)",
+        "Price moved -19.4% in 3 days"
+      ],
+      "sources": [
+        "Forum: 5 mentions (real)"
+      ],
+      "assessment": "5 mentions found across 1 platform(s). Avg promotion score: 15/100."
+    },
+    {
+      "symbol": "RELIW",
+      "name": "Reliance Global Group, Inc.",
+      "riskScore": 16,
+      "price": 0.0045,
+      "marketCap": "44K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Extreme price movement (-58%) in 7 days",
+        "High price volatility (25.5% daily)",
+        "Price moved -35.4% in 3 days",
+        "3-day volume 5.4x above 30-day average"
+      ],
+      "sources": [
+        "Forum: 2 mentions (real)"
+      ],
+      "assessment": "2 mentions found across 1 platform(s). Avg promotion score: 13/100."
+    },
+    {
+      "symbol": "LEXXW",
+      "name": "Lexaria Bioscience Corp.",
+      "riskScore": 16,
+      "price": 0.0012,
+      "marketCap": "30K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Extreme price movement (-87%) in 7 days",
+        "High price volatility (49.9% daily)",
+        "Price moved -80.6% in 3 days",
+        "3-day volume 3.4x above 30-day average"
+      ],
+      "sources": [
+        "Forum: 1 mentions (real)"
+      ],
+      "assessment": "1 mentions found across 1 platform(s). Avg promotion score: 10/100."
+    },
+    {
+      "symbol": "FSHPR",
+      "name": "Flag Ship Acquisition Corporation",
+      "riskScore": 16,
+      "price": 0.0812,
+      "marketCap": "381K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.08) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Significant price movement (-46%) in 7 days",
+        "Elevated trading volume (3.7x normal)",
+        "High price volatility (24.2% daily)",
+        "Price moved -26.2% in 3 days",
+        "3-day volume 8.3x above 30-day average"
+      ],
+      "sources": [
+        "Forum: 1 mentions (real)"
+      ],
+      "assessment": "1 mentions found across 1 platform(s). Avg promotion score: 10/100."
+    },
+    {
+      "symbol": "MBAVW",
+      "name": "M3-Brigade Acquisition V Corp.",
+      "riskScore": 16,
+      "price": 0.38,
+      "marketCap": "10.9M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.38) is below $5 (penny stock territory)",
+        "Small market cap ($11M) - higher manipulation risk",
+        "Very low daily trading volume ($20K)",
+        "Extreme price movement (+65%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (44.3% daily)",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "Forum: 2 mentions (real)"
+      ],
+      "assessment": "2 mentions found across 1 platform(s). Avg promotion score: 15/100."
+    },
+    {
+      "symbol": "SLDPW",
+      "name": "Solid Power, Inc.",
+      "riskScore": 15,
+      "price": 0.226,
+      "marketCap": "43.7M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum",
+        "StockTwits",
+        "Reddit"
+      ],
+      "redFlags": [
+        "Stock price ($0.23) is below $5 (penny stock territory)",
+        "Small market cap ($44M) - higher manipulation risk",
+        "Very low daily trading volume ($22K)",
+        "Significant price movement (-29%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (7.9% daily)",
+        "Price moved -20.1% in 3 days"
+      ],
+      "sources": [
+        "Forum: 3 mentions (real)",
+        "StockTwits: 27 mentions (real)",
+        "Reddit: 1 mentions (real)"
+      ],
+      "assessment": "31 mentions found across 3 platform(s). Avg promotion score: 2/100."
+    },
+    {
+      "symbol": "ABVEW",
+      "name": "Above Food Ingredients Inc. Warrants",
+      "riskScore": 15,
+      "price": 0.19,
+      "marketCap": "11.8M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.19) is below $5 (penny stock territory)",
+        "Small market cap ($12M) - higher manipulation risk",
+        "Very low daily trading volume ($23K)",
+        "Significant price movement (+36%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (21.3% daily)",
+        "Price moved 32.9% in 3 days"
+      ],
+      "sources": [
+        "StockTwits: 29 mentions (real)",
+        "Forum: 2 mentions (real)"
+      ],
+      "assessment": "31 mentions found across 2 platform(s). Avg promotion score: 1/100."
+    },
+    {
+      "symbol": "OABIW",
+      "name": "OmniAb, Inc.",
+      "riskScore": 15,
+      "price": 0.064,
+      "marketCap": "9.3M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.06) is below $5 (penny stock territory)",
+        "Small market cap ($9M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Significant price movement (-29%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (12.6% daily)",
+        "Price moved -28.9% in 3 days"
+      ],
+      "sources": [
+        "Forum: 1 mentions (real)"
+      ],
+      "assessment": "1 mentions found across 1 platform(s). Avg promotion score: 10/100."
+    },
+    {
+      "symbol": "SSKN",
+      "name": "STRATA Skin Sciences, Inc.",
+      "riskScore": 15,
+      "price": 0.1287,
+      "marketCap": "598K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "Forum",
+        "YouTube"
+      ],
+      "redFlags": [
+        "Stock price ($0.13) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($50K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (12.6% daily)",
+        "Price moved -15.6% in 3 days"
+      ],
+      "sources": [
+        "StockTwits: 8 mentions (real)",
+        "Forum: 4 mentions (real)",
+        "YouTube: 2 mentions (real)"
+      ],
+      "assessment": "14 mentions found across 3 platform(s). Avg promotion score: 17/100."
+    },
+    {
+      "symbol": "SCLXW",
+      "name": "Scilex Holding Company",
+      "riskScore": 15,
+      "price": 0.1201,
+      "marketCap": "1.0M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Reddit"
+      ],
+      "redFlags": [
+        "Stock price ($0.12) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($2K)",
+        "Significant price movement (-40%) in 7 days",
+        "High price volatility (11.8% daily)",
+        "Price moved -38.9% in 3 days",
+        "Volume increasing for 3+ consecutive days"
+      ],
+      "sources": [
+        "Reddit: 1 mentions (real)"
+      ],
+      "assessment": "1 mentions found across 1 platform(s). Avg promotion score: 0/100."
+    },
+    {
+      "symbol": "HUBCZ",
+      "name": "HUB Cyber Security Ltd.",
+      "riskScore": 15,
+      "price": 0.0098,
+      "marketCap": "101K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Reddit",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.01) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (20.7% daily)",
+        "Price moved 40.0% in 3 days",
+        "Volume increasing for 3+ consecutive days"
+      ],
+      "sources": [
+        "Reddit: 3 mentions (real)",
+        "Forum: 1 mentions (real)"
+      ],
+      "assessment": "4 mentions found across 2 platform(s). Avg promotion score: 29/100."
+    },
+    {
+      "symbol": "ABPWW",
+      "name": "Abpro Holdings Inc",
+      "riskScore": 15,
+      "price": 0.002,
+      "marketCap": "592K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (16.9% daily)",
+        "Price moved -12.9% in 3 days"
+      ],
+      "sources": [
+        "Forum: 1 mentions (real)"
+      ],
+      "assessment": "1 mentions found across 1 platform(s). Avg promotion score: 15/100."
+    },
+    {
+      "symbol": "ATIIW",
+      "name": "Archimedes Tech SPAC Partners II Co. Warrant",
+      "riskScore": 15,
+      "price": 2.05,
+      "marketCap": "60.7M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "YouTube",
+        "Reddit",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($2.05) is below $5 (penny stock territory)",
+        "Small market cap ($61M) - higher manipulation risk",
+        "Very low daily trading volume ($100K)",
+        "Extreme price movement (+80%) in 7 days",
+        "Overbought indicator (RSI: 83)",
+        "High price volatility (16.5% daily)",
+        "Price moved 15.2% in 3 days"
+      ],
+      "sources": [
+        "YouTube: 1 mentions (real)",
+        "Reddit: 1 mentions (real)",
+        "Forum: 4 mentions (real)"
+      ],
+      "assessment": "6 mentions found across 3 platform(s). Avg promotion score: 14/100."
+    },
+    {
+      "symbol": "GIGGW",
+      "name": "GigCapital7 Corp.",
+      "riskScore": 15,
+      "price": 0.45,
+      "marketCap": "12.3M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "YouTube",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.45) is below $5 (penny stock territory)",
+        "Small market cap ($12M) - higher manipulation risk",
+        "Very low daily trading volume ($65K)",
+        "Significant price movement (-34%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (17.4% daily)",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "YouTube: 1 mentions (real)",
+        "Forum: 5 mentions (real)"
+      ],
+      "assessment": "6 mentions found across 2 platform(s). Avg promotion score: 18/100."
+    },
+    {
+      "symbol": "KVACW",
+      "name": "Keen Vision Acquisition Corporation Warrant",
+      "riskScore": 15,
+      "price": 0.0125,
+      "marketCap": "115K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.01) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Significant price movement (-30%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (105.0% daily)",
+        "Price moved -30.6% in 3 days"
+      ],
+      "sources": [
+        "Forum: 2 mentions (real)"
+      ],
+      "assessment": "2 mentions found across 1 platform(s). Avg promotion score: 10/100."
+    },
+    {
+      "symbol": "GENVR",
+      "name": "Gen Digital Inc. Contingent Value Rights",
+      "riskScore": 14,
+      "price": 0.7668,
+      "marketCap": "469.3M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($0.77) is below $5 (penny stock territory)",
+        "Very low daily trading volume ($37K)",
+        "Extreme price movement (+87%) in 7 days",
+        "Overbought indicator (RSI: 81)",
+        "High price volatility (13.2% daily)",
+        "Price moved 91.7% in 3 days"
+      ],
+      "sources": [
+        "Forum: 6 mentions (real)"
+      ],
+      "assessment": "6 mentions found across 1 platform(s). Avg promotion score: 14/100."
+    },
+    {
+      "symbol": "CRESW",
+      "name": "Cresud S.A. Warrant 2021-08.03.26 on Cresud",
+      "riskScore": 14,
+      "price": 0.0308,
+      "marketCap": "18.8M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "Forum",
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.03) is below $5 (penny stock territory)",
+        "Small market cap ($19M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Extreme price movement (+1953%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (510.0% daily)"
+      ],
+      "sources": [
+        "Forum: 7 mentions (real)",
+        "StockTwits: 17 mentions (real)"
+      ],
+      "assessment": "24 mentions found across 2 platform(s). Avg promotion score: 4/100."
+    },
+    {
+      "symbol": "HCHL",
+      "name": "Happy City Holdings Limited Class A Ordinary shares",
+      "riskScore": 14,
+      "price": 2.5,
+      "marketCap": "48.0M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($2.50) is below $5 (penny stock territory)",
+        "Small market cap ($48M) - higher manipulation risk",
+        "Significant price movement (+32%) in 7 days",
+        "Overbought indicator (RSI: 83)",
+        "High price volatility (6.8% daily)",
+        "Price moved 23.8% in 3 days",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 6 mentions (real)",
+        "Forum: 8 mentions (real)"
+      ],
+      "assessment": "14 mentions found across 2 platform(s). Avg promotion score: 29/100."
+    },
+    {
+      "symbol": "WFCF",
+      "name": "Where Food Comes From, Inc.",
+      "riskScore": 14,
+      "price": 13.58,
+      "marketCap": "68.7M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "Forum",
+        "Reddit"
+      ],
+      "redFlags": [
+        "Small market cap ($69M) - higher manipulation risk",
+        "Very low daily trading volume ($120K)",
+        "Elevated trading volume (3.5x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (13.5% daily)",
+        "Price moved -25.1% in 3 days",
+        "3-day volume 5.8x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 9 mentions (real)",
+        "Forum: 6 mentions (real)",
+        "Reddit: 2 mentions (real)"
+      ],
+      "assessment": "17 mentions found across 3 platform(s). Avg promotion score: 29/100."
+    },
+    {
+      "symbol": "SATLW",
+      "name": "Satellogic Inc.",
+      "riskScore": 14,
+      "price": 2.64,
+      "marketCap": "349.7M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "YouTube",
+        "Reddit",
+        "Forum"
+      ],
+      "redFlags": [
+        "Stock price ($2.64) is below $5 (penny stock territory)",
+        "Very low daily trading volume ($136K)",
+        "Extreme price movement (+100%) in 7 days",
+        "High price volatility (16.9% daily)",
+        "Price moved 51.2% in 3 days",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "YouTube: 2 mentions (real)",
+        "Reddit: 1 mentions (real)",
+        "Forum: 2 mentions (real)"
+      ],
+      "assessment": "5 mentions found across 3 platform(s). Avg promotion score: 27/100."
+    },
+    {
+      "symbol": "WFF",
+      "name": "WF Holding Limited Ordinary Shares",
+      "riskScore": 14,
+      "price": 1.92,
+      "marketCap": "9.7M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "Forum",
+        "YouTube"
+      ],
+      "redFlags": [
+        "Stock price ($1.92) is below $5 (penny stock territory)",
+        "Small market cap ($10M) - higher manipulation risk",
+        "Significant price movement (+43%) in 7 days",
+        "Overbought indicator (RSI: 82)",
+        "High price volatility (5.3% daily)",
+        "Price moved 20.0% in 3 days",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 15 mentions (real)",
+        "Forum: 4 mentions (real)",
+        "YouTube: 4 mentions (real)"
+      ],
+      "assessment": "23 mentions found across 3 platform(s). Avg promotion score: 31/100."
+    }
+  ]
+}
