@@ -1,45 +1,10 @@
 {
   "scanDate": "2026-08-28",
-  "totalScanned": 1427,
-  "socialMediaScannedCount": 17,
+  "totalScanned": 1406,
+  "socialMediaScannedCount": 23,
   "highPromotionCount": 0,
   "mediumPromotionCount": 0,
   "results": [
-    {
-      "symbol": "DAICW",
-      "name": "CID HoldCo, Inc. Warrants",
-      "riskScore": 23,
-      "signals": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "SPIKE_7D",
-        "VOLUME_EXPLOSION",
-        "SPIKE_THEN_DROP",
-        "OVERBOUGHT_RSI",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D",
-        "VOLUME_SURGE_3D"
-      ],
-      "hasLegitimateNews": false,
-      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
-      "recentNews": [],
-      "socialMediaMentions": [
-        {
-          "platform": "Forum",
-          "source": "real",
-          "mentionsFound": 1,
-          "activityLevel": "low",
-          "promotionRisk": "low"
-        }
-      ],
-      "overallPromotionScore": 0,
-      "promotionRiskLevel": "low",
-      "hasRealSocialEvidence": true,
-      "potentialPromoters": [],
-      "overallAssessment": "1 mentions found across 1 platform(s). Avg promotion score: 0/100.",
-      "scanDate": "2026-08-28"
-    },
     {
       "symbol": "BSLK",
       "name": "Bolt Projects Holdings, Inc.",
@@ -82,6 +47,73 @@
       "scanDate": "2026-08-28"
     },
     {
+      "symbol": "GFAIW",
+      "name": "Guardforce AI Co., Limited",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases to substantiate trading activity.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Forum",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 0,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "1 mentions found across 1 platform(s). Avg promotion score: 0/100.",
+      "scanDate": "2026-08-28"
+    },
+    {
+      "symbol": "AREBW",
+      "name": "American Rebel Holdings, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases to substantiate trading activity.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Reddit",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 10,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "1 mentions found across 1 platform(s). Avg promotion score: 10/100.",
+      "scanDate": "2026-08-28"
+    },
+    {
       "symbol": "RNWWW",
       "name": "ReNew Energy Global plc",
       "riskScore": 20,
@@ -97,7 +129,7 @@
         "VOLUME_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "Short interest update does not present a substantive event or significant corporate development affecting stock trading.",
+      "newsAnalysis": "No recent news, SEC filings, or press releases to substantiate trading activity.",
       "recentNews": [
         {
           "title": "ReNew Energy Global Plc (NASDAQ:RNWWW) Short Interest Update",
@@ -156,60 +188,6 @@
       "scanDate": "2026-08-28"
     },
     {
-      "symbol": "STAI",
-      "name": "ScanTech AI Systems Inc.",
-      "riskScore": 20,
-      "signals": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "OTC_EXCHANGE",
-        "SPIKE_7D",
-        "SPIKE_THEN_DROP",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D"
-      ],
-      "hasLegitimateNews": false,
-      "newsAnalysis": "No recent news, SEC filings, or press releases provided a legitimate explanation for unusual trading activity.",
-      "recentNews": [],
-      "socialMediaMentions": [
-        {
-          "platform": "Reddit",
-          "source": "real",
-          "mentionsFound": 3,
-          "activityLevel": "medium",
-          "promotionRisk": "low"
-        },
-        {
-          "platform": "Forum",
-          "source": "real",
-          "mentionsFound": 1,
-          "activityLevel": "low",
-          "promotionRisk": "low"
-        },
-        {
-          "platform": "StockTwits",
-          "source": "real",
-          "mentionsFound": 30,
-          "activityLevel": "high",
-          "promotionRisk": "low"
-        },
-        {
-          "platform": "YouTube",
-          "source": "real",
-          "mentionsFound": 2,
-          "activityLevel": "medium",
-          "promotionRisk": "low"
-        }
-      ],
-      "overallPromotionScore": 3,
-      "promotionRiskLevel": "low",
-      "hasRealSocialEvidence": true,
-      "potentialPromoters": [],
-      "overallAssessment": "36 mentions found across 4 platform(s). Avg promotion score: 3/100.",
-      "scanDate": "2026-08-28"
-    },
-    {
       "symbol": "TIRX",
       "name": "Tian Ruixiang Holdings Ltd",
       "riskScore": 20,
@@ -224,11 +202,59 @@
         "PRICE_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "No recent news, SEC filings, or press releases provided a legitimate explanation for unusual trading activity.",
+      "newsAnalysis": "There are no recent news, SEC filings, or press releases indicating substantive events.",
       "recentNews": [],
       "socialMediaMentions": [
         {
           "platform": "Twitter",
+          "source": "real",
+          "mentionsFound": 3,
+          "activityLevel": "medium",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 2,
+          "activityLevel": "medium",
+          "promotionRisk": "medium"
+        }
+      ],
+      "overallPromotionScore": 22,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "Mike7m",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "5 mentions found across 2 platform(s). Avg promotion score: 22/100.",
+      "scanDate": "2026-08-28"
+    },
+    {
+      "symbol": "ARQQW",
+      "name": "Arqit Quantum Inc.",
+      "riskScore": 19,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "VOLUME_SURGE_3D",
+        "PRICE_ACCELERATION",
+        "VOLUME_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "There are no recent news, SEC filings, or press releases indicating substantive events.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "Forum",
           "source": "real",
           "mentionsFound": 1,
           "activityLevel": "low",
@@ -257,13 +283,13 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "No recent news, SEC filings, or press releases provided a legitimate explanation for unusual trading activity.",
+      "newsAnalysis": "No recent news, SEC filings, or press releases to provide legitimate explanations.",
       "recentNews": [],
       "socialMediaMentions": [
         {
           "platform": "Forum",
           "source": "real",
-          "mentionsFound": 2,
+          "mentionsFound": 3,
           "activityLevel": "medium",
           "promotionRisk": "low"
         }
@@ -272,47 +298,7 @@
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [],
-      "overallAssessment": "2 mentions found across 1 platform(s). Avg promotion score: 0/100.",
-      "scanDate": "2026-08-28"
-    },
-    {
-      "symbol": "GFAIW",
-      "name": "Guardforce AI Co., Limited",
-      "riskScore": 18,
-      "signals": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "SPIKE_7D",
-        "VOLUME_EXPLOSION",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D",
-        "VOLUME_SURGE_3D"
-      ],
-      "hasLegitimateNews": false,
-      "newsAnalysis": "No recent news, SEC filings, or press releases provided a legitimate explanation for unusual trading activity.",
-      "recentNews": [],
-      "socialMediaMentions": [
-        {
-          "platform": "Twitter",
-          "source": "real",
-          "mentionsFound": 1,
-          "activityLevel": "low",
-          "promotionRisk": "low"
-        },
-        {
-          "platform": "Forum",
-          "source": "real",
-          "mentionsFound": 1,
-          "activityLevel": "low",
-          "promotionRisk": "low"
-        }
-      ],
-      "overallPromotionScore": 0,
-      "promotionRiskLevel": "low",
-      "hasRealSocialEvidence": true,
-      "potentialPromoters": [],
-      "overallAssessment": "2 mentions found across 2 platform(s). Avg promotion score: 0/100.",
+      "overallAssessment": "3 mentions found across 1 platform(s). Avg promotion score: 0/100.",
       "scanDate": "2026-08-28"
     },
     {
@@ -330,7 +316,7 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "No recent news, SEC filings, or press releases available to explain trading activity.",
+      "newsAnalysis": "No recent news, SEC filings, or press releases to provide legitimate explanations.",
       "recentNews": [],
       "socialMediaMentions": [
         {
@@ -363,29 +349,22 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "No recent news, SEC filings, or press releases available to explain trading activity.",
+      "newsAnalysis": "No recent news, SEC filings, or press releases to provide legitimate explanations.",
       "recentNews": [],
       "socialMediaMentions": [
-        {
-          "platform": "StockTwits",
-          "source": "real",
-          "mentionsFound": 32,
-          "activityLevel": "high",
-          "promotionRisk": "low"
-        },
         {
           "platform": "Reddit",
           "source": "real",
           "mentionsFound": 3,
           "activityLevel": "medium",
-          "promotionRisk": "medium"
+          "promotionRisk": "low"
         },
         {
-          "platform": "Forum",
+          "platform": "StockTwits",
           "source": "real",
-          "mentionsFound": 1,
-          "activityLevel": "low",
-          "promotionRisk": "medium"
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
         },
         {
           "platform": "YouTube",
@@ -395,24 +374,18 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 13,
+      "overallPromotionScore": 6,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
         {
           "platform": "Reddit",
           "username": "unknown",
-          "postCount": 3,
-          "confidence": "medium"
-        },
-        {
-          "platform": "StockTwits",
-          "username": "topstockalerts",
-          "postCount": 3,
+          "postCount": 2,
           "confidence": "medium"
         }
       ],
-      "overallAssessment": "39 mentions found across 4 platform(s). Avg promotion score: 13/100.",
+      "overallAssessment": "36 mentions found across 3 platform(s). Avg promotion score: 6/100.",
       "scanDate": "2026-08-28"
     },
     {
@@ -430,7 +403,7 @@
         "PRICE_ACCELERATION"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "No recent news, SEC filings, or press releases available to explain trading activity.",
+      "newsAnalysis": "No recent news, SEC filings, or press releases identified to explain unusual trading activity.",
       "recentNews": [],
       "socialMediaMentions": [
         {
@@ -441,16 +414,16 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 15,
+      "overallPromotionScore": 0,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [],
-      "overallAssessment": "1 mentions found across 1 platform(s). Avg promotion score: 15/100.",
+      "overallAssessment": "1 mentions found across 1 platform(s). Avg promotion score: 0/100.",
       "scanDate": "2026-08-28"
     },
     {
-      "symbol": "ALUR",
-      "name": "Allurion Technologies Inc.",
+      "symbol": "PRPH",
+      "name": "ProPhase Labs, Inc.",
       "riskScore": 17,
       "signals": [
         "MICROCAP_PRICE",
@@ -462,19 +435,51 @@
         "SPIKE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "No substantive events or recent news were found that provide legitimate explanations for the trading activity, only vague promotions related to the company's plans.",
+      "newsAnalysis": "No recent substantive news or events reported; unusual trading not explained by any events.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 28,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "28 mentions found across 1 platform(s). Avg promotion score: 6/100.",
+      "scanDate": "2026-08-28"
+    },
+    {
+      "symbol": "SMJF",
+      "name": "SMJ International Holdings Inc.",
+      "riskScore": 17,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The statements and announcements do not contain substantive news or events that would explain the trading activity.",
       "recentNews": [
         {
-          "title": "Allurion Advances Plan to Re-List",
-          "date": "2026-06-17 16:05:00",
-          "source": "businesswire.com",
-          "url": "https://www.businesswire.com/news/home/20260617214811/en/Allurion-Advances-Plan-to-Re-List/"
+          "title": "SMJ International Holdings Inc. Issues Statement Regarding Unusual Market Action",
+          "date": "2026-08-28 11:45:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/08/28/3352784/0/en/smj-international-holdings-inc-issues-statement-regarding-unusual-market-action.html"
         },
         {
-          "title": "Allurion Announces Strong Start to U.S. Launch with Exceptional Early Outcomes and Growth Momentum",
-          "date": "2026-06-02 09:00:00",
-          "source": "businesswire.com",
-          "url": "https://www.businesswire.com/news/home/20260602792431/en/Allurion-Announces-Strong-Start-to-U.S.-Launch-with-Exceptional-Early-Outcomes-and-Growth-Momentum/"
+          "title": "SMJ International Holdings Inc. Announces Filing of Its Form 20-F for Fiscal Year 2026",
+          "date": "2026-07-28 11:45:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/07/28/3334530/0/en/SMJ-International-Holdings-Inc-Announces-Filing-of-Its-Form-20-F-for-Fiscal-Year-2026.html"
         }
       ],
       "socialMediaMentions": [
@@ -486,35 +491,35 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 11,
+      "overallPromotionScore": 5,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
         {
           "platform": "StockTwits",
-          "username": "prismmarketview",
-          "postCount": 5,
+          "username": "BULLTRADER0007",
+          "postCount": 2,
           "confidence": "low"
         }
       ],
-      "overallAssessment": "29 mentions found across 1 platform(s). Avg promotion score: 11/100.",
+      "overallAssessment": "29 mentions found across 1 platform(s). Avg promotion score: 5/100.",
       "scanDate": "2026-08-28"
     },
     {
-      "symbol": "ANEB",
-      "name": "Anebulo Pharmaceuticals, Inc.",
+      "symbol": "KXIN",
+      "name": "Kaixin Auto Holdings",
       "riskScore": 16,
       "signals": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "OTC_EXCHANGE",
         "SPIKE_7D",
-        "SPIKE_THEN_DROP",
-        "HIGH_VOLATILITY"
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "newsAnalysis": "There are no recent news, SEC filings, or press releases to substantiate the unusual trading activity.",
       "recentNews": [],
       "socialMediaMentions": [
         {
@@ -525,11 +530,18 @@
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 5,
+      "overallPromotionScore": 7,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
-      "potentialPromoters": [],
-      "overallAssessment": "30 mentions found across 1 platform(s). Avg promotion score: 5/100.",
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "JesterOfWallSt",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "30 mentions found across 1 platform(s). Avg promotion score: 7/100.",
       "scanDate": "2026-08-28"
     },
     {
@@ -546,7 +558,7 @@
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "No recent news or SEC filings to explain trading activity; therefore, no legitimate explanation found.",
+      "newsAnalysis": "There are no recent news, SEC filings, or press releases to substantiate the unusual trading activity.",
       "recentNews": [],
       "socialMediaMentions": [
         {
@@ -572,35 +584,42 @@
       "scanDate": "2026-08-28"
     },
     {
-      "symbol": "PRPH",
-      "name": "ProPhase Labs, Inc.",
+      "symbol": "PSNYW",
+      "name": "Polestar Automotive Holding UK PLC",
       "riskScore": 16,
       "signals": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "OTC_EXCHANGE",
         "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "OVERBOUGHT_RSI",
         "HIGH_VOLATILITY",
-        "SPIKE_3D"
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "No recent news or SEC filings to explain trading activity; therefore, no legitimate explanation found.",
+      "newsAnalysis": "No substantiated news, SEC filings, or press releases provided that could explain the unusual trading activity.",
       "recentNews": [],
       "socialMediaMentions": [
         {
           "platform": "StockTwits",
           "source": "real",
-          "mentionsFound": 28,
+          "mentionsFound": 30,
           "activityLevel": "high",
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 6,
+      "overallPromotionScore": 7,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
-      "potentialPromoters": [],
-      "overallAssessment": "28 mentions found across 1 platform(s). Avg promotion score: 6/100.",
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "GDoGGT",
+          "postCount": 2,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "30 mentions found across 1 platform(s). Avg promotion score: 7/100.",
       "scanDate": "2026-08-28"
     },
     {
@@ -617,7 +636,7 @@
         "SPIKE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "No recent news or SEC filings to explain trading activity; therefore, no legitimate explanation found.",
+      "newsAnalysis": "No verified events or filings reported that would substantively account for trading activity.",
       "recentNews": [],
       "socialMediaMentions": [
         {
@@ -636,49 +655,235 @@
       "scanDate": "2026-08-28"
     },
     {
-      "symbol": "WNW",
-      "name": "Meiwu Technology Company Limited",
+      "symbol": "STAI",
+      "name": "ScanTech AI Systems Inc.",
       "riskScore": 16,
       "signals": [
         "MICROCAP_PRICE",
         "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "Lack of substantial events or filings to support the unusual trading patterns observed.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 2,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions found across 1 platform(s). Avg promotion score: 2/100.",
+      "scanDate": "2026-08-28"
+    },
+    {
+      "symbol": "ABLV",
+      "name": "Able View Inc.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
         "SPIKE_7D",
-        "VOLUME_EXPLOSION",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "PRICE_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions found across 1 platform(s). Avg promotion score: 5/100.",
+      "scanDate": "2026-08-28"
+    },
+    {
+      "symbol": "BCAB",
+      "name": "BioAtla, Inc.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "SPIKE_7D",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "There is no recent substantive news or events to account for the unusual trading activity in BioAtla, Inc.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 4,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions found across 1 platform(s). Avg promotion score: 4/100.",
+      "scanDate": "2026-08-28"
+    },
+    {
+      "symbol": "BHAT",
+      "name": "Fujian Blue Hat Interactive Entertainment Technology Ltd.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No substantive news or filings present to justify the significant price movement for Fujian Blue Hat.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "Mike7m",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "30 mentions found across 1 platform(s). Avg promotion score: 3/100.",
+      "scanDate": "2026-08-28"
+    },
+    {
+      "symbol": "BTM",
+      "name": "Bitcoin Depot Inc.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No relevant substantive news or events reported to explain the price movements for Bitcoin Depot Inc.",
+      "recentNews": [
+        {
+          "title": "LG Energy Solution Releases 2026 Second-Quarter Financial Results",
+          "date": "2026-07-29 22:00:00",
+          "source": "gurufocus.com",
+          "url": "https://www.gurufocus.com/news/8988674/lg-energy-solution-releases-2026-secondquarter-financial-results"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 10,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "Tom2772",
+          "postCount": 2,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "username": "In_N__Out",
+          "postCount": 3,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "30 mentions found across 1 platform(s). Avg promotion score: 10/100.",
+      "scanDate": "2026-08-28"
+    },
+    {
+      "symbol": "CHOW",
+      "name": "ChowChow Cloud International Holdings Ltd.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "SPIKE_7D",
         "OVERBOUGHT_RSI",
         "HIGH_VOLATILITY",
         "SPIKE_3D",
         "VOLUME_SURGE_3D"
       ],
       "hasLegitimateNews": false,
-      "newsAnalysis": "No substantial or date-specific news or SEC filings provided.",
-      "recentNews": [],
+      "newsAnalysis": "The company's response to unusual market action does not constitute a specific substantive event that justifies trading activity.",
+      "recentNews": [
+        {
+          "title": "ChowChow Cloud International Holdings Limited Provides Response to Unusual Market Action",
+          "date": "2026-06-11 23:23:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/06/12/3310878/0/en/ChowChow-Cloud-International-Holdings-Limited-Provides-Response-to-Unusual-Market-Action.html"
+        }
+      ],
       "socialMediaMentions": [
         {
           "platform": "StockTwits",
           "source": "real",
-          "mentionsFound": 29,
+          "mentionsFound": 32,
           "activityLevel": "high",
           "promotionRisk": "low"
         }
       ],
-      "overallPromotionScore": 15,
+      "overallPromotionScore": 7,
       "promotionRiskLevel": "low",
       "hasRealSocialEvidence": true,
       "potentialPromoters": [
         {
           "platform": "StockTwits",
-          "username": "johnrivers0110",
+          "username": "danceraka",
           "postCount": 2,
-          "confidence": "high"
-        },
-        {
-          "platform": "StockTwits",
-          "username": "topstockalerts",
-          "postCount": 5,
-          "confidence": "low"
+          "confidence": "medium"
         }
       ],
-      "overallAssessment": "29 mentions found across 1 platform(s). Avg promotion score: 15/100.",
+      "overallAssessment": "32 mentions found across 1 platform(s). Avg promotion score: 7/100.",
       "scanDate": "2026-08-28"
     }
   ]

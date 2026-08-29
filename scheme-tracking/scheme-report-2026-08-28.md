@@ -4,8 +4,8 @@ Date: 2026-08-28
 ## Summary
 - Total Active Schemes: 6
 - Critical Priority: 0
-- High Priority: 5
-- Medium Priority: 1
+- High Priority: 4
+- Medium Priority: 2
 - Confirmed Frauds (Historical): 0
 
 ## 🟡 HIGH PRIORITY
@@ -16,16 +16,10 @@ Date: 2026-08-28
 - Risk: 10 | Promotion: 20
 - Platforms: Twitter/X, Telegram
 
-### THH - TryHard Holdings Limited
-- Scheme ID: SCH-THH-20260202-YD9V
-- Status: ONGOING | Days: 2
-- Risk: 8 | Promotion: 20
-- Platforms: Twitter/X, Discord, Telegram
-
 ### SXTC - China SXT Pharmaceuticals, Inc.
 - Scheme ID: SCH-SXTC-20260202-4CVF
 - Status: ONGOING | Days: 2
-- Risk: 11 | Promotion: 20
+- Risk: 14 | Promotion: 20
 - Platforms: Twitter/X, YouTube, Discord, Telegram
 
 ### MTEN - Mingteng International Corporation Inc.
@@ -43,4 +37,5 @@ Date: 2026-08-28
 ## 🟢 MEDIUM PRIORITY - Monitor
 
 - **EVTV** (SCH-EVTV-20260202-9ALD): ONGOING, Risk 7, Promo 20
+- **THH** (SCH-THH-20260202-YD9V): ONGOING, Risk 7, Promo 20
 
