@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-01T02:00:52.495Z",
-  "totalSchemes": 12,
-  "activeSchemes": 7,
+  "lastUpdated": "2026-09-02T00:43:21.925Z",
+  "totalSchemes": 10,
+  "activeSchemes": 5,
   "resolvedSchemes": 5,
   "confirmedFrauds": 0,
   "schemes": {
@@ -12,7 +12,7 @@
       "sector": "Consumer Cyclical",
       "industry": "Auto - Manufacturers",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 16,
@@ -110,14 +110,14 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-08-31",
+          "date": "2026-09-01",
           "event": "Status changed to COOLING - Possible dump detected",
           "details": "Price dropped 45.4% from peak ($3.55 → $1.94)",
           "category": "status_change",
           "significance": "high"
         },
         {
-          "date": "2026-08-31",
+          "date": "2026-09-01",
           "event": "Daily scan update",
           "details": "Risk score: 7, Promotion score: N/A"
         }
@@ -327,21 +327,21 @@
       "sector": "Healthcare",
       "industry": "Medical - Devices",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "COOLING",
       "peakRiskScore": 15,
-      "currentRiskScore": 11,
+      "currentRiskScore": 15,
       "peakPromotionScore": 50,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
-      "peakPrice": 3.97,
-      "currentPrice": 3.97,
-      "priceChangeFromDetection": 133.5294117647059,
-      "priceChangeFromPeak": 0,
+      "peakPrice": 1.7,
+      "currentPrice": 1.05,
+      "priceChangeFromDetection": 0,
+      "priceChangeFromPeak": -38.23529411764706,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 80900,
+      "currentVolume": 0,
       "promotionPlatforms": [
         "Twitter/X",
         "Telegram"
@@ -398,11 +398,6 @@
           "details": "Price dropped 38.2% from peak ($1.70 → $1.05)",
           "category": "status_change",
           "significance": "high"
-        },
-        {
-          "date": "2026-08-31",
-          "event": "Daily scan update",
-          "details": "Risk score: 11, Promotion score: N/A"
         }
       ],
       "notes": [],
@@ -519,21 +514,21 @@
       "sector": "Industrials",
       "industry": "Specialty Business Services",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-02-03",
+      "lastSeen": "2026-09-01",
       "daysActive": 2,
-      "status": "COOLING",
+      "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 14,
+      "currentRiskScore": 10,
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
-      "peakPrice": 0.9601,
-      "currentPrice": 0.6298,
-      "priceChangeFromDetection": 0,
-      "priceChangeFromPeak": -34.402666388917815,
+      "peakPrice": 1.75,
+      "currentPrice": 1.75,
+      "priceChangeFromDetection": 82.27267992917405,
+      "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 0,
+      "currentVolume": 98119,
       "promotionPlatforms": [
         "Twitter/X",
         "Discord",
@@ -599,6 +594,11 @@
           "details": "Price dropped 34.4% from peak ($0.96 → $0.63)",
           "category": "status_change",
           "significance": "high"
+        },
+        {
+          "date": "2026-09-01",
+          "event": "Daily scan update",
+          "details": "Risk score: 10, Promotion score: N/A"
         }
       ],
       "notes": [],
@@ -611,21 +611,21 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-02-03",
+      "lastSeen": "2026-09-01",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 14,
+      "currentRiskScore": 13,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 0.095,
-      "currentPrice": 0.095,
-      "priceChangeFromDetection": 0,
+      "peakPrice": 2.46,
+      "currentPrice": 2.46,
+      "priceChangeFromDetection": 2489.473684210526,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 0,
+      "currentVolume": 672477,
       "promotionPlatforms": [
         "Twitter/X",
         "YouTube",
@@ -702,6 +702,11 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-09-01",
+          "event": "Daily scan update",
+          "details": "Risk score: 13, Promotion score: N/A"
         }
       ],
       "notes": [],
@@ -789,16 +794,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-08-31",
+          "date": "2026-09-01",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 210 days, inactive for 209 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 211 days, inactive for 210 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 210 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 211 days of monitoring. Stock activity normalized."
     },
     "SCH-DRTSW-20260202-H1OO": {
       "schemeId": "SCH-DRTSW-20260202-H1OO",
@@ -901,21 +906,21 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-02-13",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 10,
+      "currentRiskScore": 16,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.22,
-      "peakPrice": 3.21,
-      "currentPrice": 3.21,
-      "priceChangeFromDetection": 163.11475409836063,
+      "peakPrice": 1.22,
+      "currentPrice": 3.81,
+      "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 159175,
+      "currentVolume": 0,
       "promotionPlatforms": [
         "Twitter/X",
         "YouTube",
@@ -989,121 +994,10 @@
           "date": "2026-02-13",
           "event": "Daily scan update",
           "details": "Risk score: 16, Promotion score: 20"
-        },
-        {
-          "date": "2026-08-31",
-          "event": "Daily scan update",
-          "details": "Risk score: 10, Promotion score: N/A"
         }
       ],
       "notes": [],
       "investigationFlags": []
-    },
-    "SCHEME-EVLVW-20260831-MTI0T827": {
-      "schemeId": "SCHEME-EVLVW-20260831-MTI0T827",
-      "symbol": "EVLVW",
-      "name": "Evolv Technologies Holdings, Inc.",
-      "sector": "Technology",
-      "industry": "Consumer Electronics",
-      "firstDetected": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 21,
-      "currentRiskScore": 21,
-      "peakPromotionScore": 60,
-      "currentPromotionScore": 60,
-      "promotionPlatforms": [
-        "Twitter"
-      ],
-      "promoterAccounts": [],
-      "hadSocialMediaPromotion": true,
-      "priceAtDetection": 0.036989999999999995,
-      "peakPrice": 0.0042,
-      "currentPrice": 0.0042,
-      "priceChangeFromDetection": -88.64557988645579,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 454811,
-      "peakVolume": 454811,
-      "currentVolume": 454811,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "SPIKE_7D",
-        "VOLUME_EXPLOSION",
-        "OVERBOUGHT_RSI",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D",
-        "VOLUME_SURGE_3D",
-        "PRICE_ACCELERATION"
-      ],
-      "coordinationIndicators": [
-        "High promotion risk on Twitter"
-      ],
-      "notes": [
-        "Initial detection with promotion score 60"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-08-31",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 21 and promotion score 60",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-ABPWW-20260831-MTI0T827": {
-      "schemeId": "SCHEME-ABPWW-20260831-MTI0T827",
-      "symbol": "ABPWW",
-      "name": "Abpro Holdings Inc",
-      "sector": "Healthcare",
-      "industry": "Biotechnology",
-      "firstDetected": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 19,
-      "currentRiskScore": 19,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [],
-      "promoterAccounts": [],
-      "hadSocialMediaPromotion": false,
-      "priceAtDetection": 0.0025,
-      "peakPrice": 0.0021,
-      "currentPrice": 0.0021,
-      "priceChangeFromDetection": -16.000000000000007,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 24517.52632,
-      "peakVolume": 24517.52632,
-      "currentVolume": 24517.52632,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "OTC_EXCHANGE",
-        "SPIKE_7D",
-        "SPIKE_THEN_DROP",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D"
-      ],
-      "coordinationIndicators": [],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-08-31",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 19 and promotion score 50",
-          "significance": "high"
-        }
-      ]
     }
   }
 }
