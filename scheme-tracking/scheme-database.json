@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-03T02:19:30.653Z",
-  "totalSchemes": 13,
-  "activeSchemes": 8,
+  "lastUpdated": "2026-09-04T02:19:27.117Z",
+  "totalSchemes": 11,
+  "activeSchemes": 6,
   "resolvedSchemes": 5,
   "confirmedFrauds": 0,
   "schemes": {
@@ -12,7 +12,7 @@
       "sector": "Consumer Cyclical",
       "industry": "Auto - Manufacturers",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 16,
@@ -110,14 +110,14 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-09-02",
+          "date": "2026-09-03",
           "event": "Status changed to COOLING - Possible dump detected",
           "details": "Price dropped 45.4% from peak ($3.55 → $1.94)",
           "category": "status_change",
           "significance": "high"
         },
         {
-          "date": "2026-09-02",
+          "date": "2026-09-03",
           "event": "Daily scan update",
           "details": "Risk score: 7, Promotion score: N/A"
         }
@@ -327,21 +327,21 @@
       "sector": "Healthcare",
       "industry": "Medical - Devices",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 15,
-      "currentRiskScore": 14,
+      "currentRiskScore": 10,
       "peakPromotionScore": 50,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
-      "peakPrice": 3.62,
-      "currentPrice": 3.62,
-      "priceChangeFromDetection": 112.94117647058826,
+      "peakPrice": 3.59,
+      "currentPrice": 3.59,
+      "priceChangeFromDetection": 111.1764705882353,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 198320,
+      "currentVolume": 199800,
       "promotionPlatforms": [
         "Twitter/X",
         "Telegram"
@@ -400,9 +400,9 @@
           "significance": "high"
         },
         {
-          "date": "2026-09-02",
+          "date": "2026-09-03",
           "event": "Daily scan update",
-          "details": "Risk score: 14, Promotion score: N/A"
+          "details": "Risk score: 10, Promotion score: N/A"
         }
       ],
       "notes": [],
@@ -519,21 +519,21 @@
       "sector": "Industrials",
       "industry": "Specialty Business Services",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 7,
+      "currentRiskScore": 12,
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
-      "peakPrice": 1.68,
-      "currentPrice": 1.68,
-      "priceChangeFromDetection": 74.98177273200707,
+      "peakPrice": 1.7,
+      "currentPrice": 1.7,
+      "priceChangeFromDetection": 77.06488907405479,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 98848,
+      "currentVolume": 99122,
       "promotionPlatforms": [
         "Twitter/X",
         "Discord",
@@ -601,9 +601,9 @@
           "significance": "high"
         },
         {
-          "date": "2026-09-02",
+          "date": "2026-09-03",
           "event": "Daily scan update",
-          "details": "Risk score: 7, Promotion score: N/A"
+          "details": "Risk score: 12, Promotion score: N/A"
         }
       ],
       "notes": [],
@@ -616,17 +616,17 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 13,
+      "currentRiskScore": 11,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 2.22,
-      "currentPrice": 2.22,
-      "priceChangeFromDetection": 2236.842105263158,
+      "peakPrice": 2.2,
+      "currentPrice": 2.2,
+      "priceChangeFromDetection": 2215.7894736842104,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
@@ -709,9 +709,9 @@
           "significance": "medium"
         },
         {
-          "date": "2026-09-02",
+          "date": "2026-09-03",
           "event": "Daily scan update",
-          "details": "Risk score: 13, Promotion score: N/A"
+          "details": "Risk score: 11, Promotion score: N/A"
         }
       ],
       "notes": [],
@@ -799,16 +799,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-09-02",
+          "date": "2026-09-03",
           "event": "No scam detected - closing investigation",
-          "details": "Monitored for 212 days, inactive for 211 days. No full pump-and-dump pattern observed.",
+          "details": "Monitored for 213 days, inactive for 212 days. No full pump-and-dump pattern observed.",
           "category": "status_change",
           "significance": "high"
         }
       ],
       "notes": [],
       "investigationFlags": [],
-      "resolutionDetails": "No pump-and-dump pattern detected after 212 days of monitoring. Stock activity normalized."
+      "resolutionDetails": "No pump-and-dump pattern detected after 213 days of monitoring. Stock activity normalized."
     },
     "SCH-DRTSW-20260202-H1OO": {
       "schemeId": "SCH-DRTSW-20260202-H1OO",
@@ -911,21 +911,21 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 11,
+      "currentRiskScore": 8,
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.22,
-      "peakPrice": 3.08,
-      "currentPrice": 3.08,
-      "priceChangeFromDetection": 152.45901639344262,
+      "peakPrice": 3.01,
+      "currentPrice": 3.01,
+      "priceChangeFromDetection": 146.72131147540983,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 161525,
+      "currentVolume": 162141,
       "promotionPlatforms": [
         "Twitter/X",
         "YouTube",
@@ -1001,139 +1001,37 @@
           "details": "Risk score: 16, Promotion score: 20"
         },
         {
-          "date": "2026-09-02",
+          "date": "2026-09-03",
           "event": "Daily scan update",
-          "details": "Risk score: 11, Promotion score: N/A"
+          "details": "Risk score: 8, Promotion score: N/A"
         }
       ],
       "notes": [],
       "investigationFlags": []
     },
-    "SCHEME-ABPWW-20260902-MTKWCW64": {
-      "schemeId": "SCHEME-ABPWW-20260902-MTKWCW64",
-      "symbol": "ABPWW",
-      "name": "Abpro Holdings Inc",
-      "sector": "Healthcare",
-      "industry": "Biotechnology",
-      "firstDetected": "2026-09-02",
-      "lastSeen": "2026-09-02",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 19,
-      "currentRiskScore": 19,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [],
-      "promoterAccounts": [],
-      "hadSocialMediaPromotion": false,
-      "priceAtDetection": 0.0025,
-      "peakPrice": 0.0021,
-      "currentPrice": 0.0021,
-      "priceChangeFromDetection": -16.000000000000007,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 24517.52632,
-      "peakVolume": 24517.52632,
-      "currentVolume": 24517.52632,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "OTC_EXCHANGE",
-        "SPIKE_7D",
-        "SPIKE_THEN_DROP",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D"
-      ],
-      "coordinationIndicators": [],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-09-02",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 19 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-EVLVW-20260902-MTKWCW64": {
-      "schemeId": "SCHEME-EVLVW-20260902-MTKWCW64",
-      "symbol": "EVLVW",
-      "name": "Evolv Technologies Holdings, Inc.",
-      "sector": "Technology",
-      "industry": "Consumer Electronics",
-      "firstDetected": "2026-09-02",
-      "lastSeen": "2026-09-02",
-      "daysActive": 1,
-      "status": "NEW",
-      "peakRiskScore": 21,
-      "currentRiskScore": 21,
-      "peakPromotionScore": 50,
-      "currentPromotionScore": 50,
-      "promotionPlatforms": [],
-      "promoterAccounts": [],
-      "hadSocialMediaPromotion": false,
-      "priceAtDetection": 0.036989999999999995,
-      "peakPrice": 0.0042,
-      "currentPrice": 0.0042,
-      "priceChangeFromDetection": -88.64557988645579,
-      "priceChangeFromPeak": 0,
-      "volumeAtDetection": 454811,
-      "peakVolume": 454811,
-      "currentVolume": 454811,
-      "signalsDetected": [
-        "MICROCAP_PRICE",
-        "SMALL_MARKET_CAP",
-        "MICRO_LIQUIDITY",
-        "SPIKE_7D",
-        "VOLUME_EXPLOSION",
-        "OVERBOUGHT_RSI",
-        "HIGH_VOLATILITY",
-        "SPIKE_3D",
-        "VOLUME_SURGE_3D",
-        "PRICE_ACCELERATION"
-      ],
-      "coordinationIndicators": [],
-      "notes": [
-        "Initial detection with promotion score 50"
-      ],
-      "investigationFlags": [],
-      "timeline": [
-        {
-          "date": "2026-09-02",
-          "event": "Scheme detected",
-          "category": "detection",
-          "details": "Initial detection with risk score 21 and promotion score 50",
-          "significance": "high"
-        }
-      ]
-    },
-    "SCHEME-BIAFW-20260902-MTKWCW64": {
-      "schemeId": "SCHEME-BIAFW-20260902-MTKWCW64",
+    "SCHEME-BIAFW-20260903-MTMBSO3X": {
+      "schemeId": "SCHEME-BIAFW-20260903-MTMBSO3X",
       "symbol": "BIAFW",
       "name": "bioAffinity Technologies, Inc.",
       "sector": "Healthcare",
       "industry": "Medical - Diagnostics & Research",
-      "firstDetected": "2026-09-02",
-      "lastSeen": "2026-09-02",
+      "firstDetected": "2026-09-03",
+      "lastSeen": "2026-09-03",
       "daysActive": 1,
       "status": "NEW",
-      "peakRiskScore": 19,
-      "currentRiskScore": 19,
-      "peakPromotionScore": 65,
-      "currentPromotionScore": 65,
+      "peakRiskScore": 21,
+      "currentRiskScore": 21,
+      "peakPromotionScore": 75,
+      "currentPromotionScore": 75,
       "promotionPlatforms": [
         "Twitter"
       ],
       "promoterAccounts": [],
       "hadSocialMediaPromotion": true,
       "priceAtDetection": 0.0504,
-      "peakPrice": 0.22,
-      "currentPrice": 0.22,
-      "priceChangeFromDetection": 336.5079365079365,
+      "peakPrice": 0.391,
+      "currentPrice": 0.391,
+      "priceChangeFromDetection": 675.7936507936508,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 1207,
       "peakVolume": 1207,
@@ -1147,21 +1045,22 @@
         "OVERBOUGHT_RSI",
         "HIGH_VOLATILITY",
         "SPIKE_3D",
-        "VOLUME_SURGE_3D"
+        "VOLUME_SURGE_3D",
+        "PRICE_ACCELERATION"
       ],
       "coordinationIndicators": [
         "High promotion risk on Twitter"
       ],
       "notes": [
-        "Initial detection with promotion score 65"
+        "Initial detection with promotion score 75"
       ],
       "investigationFlags": [],
       "timeline": [
         {
-          "date": "2026-09-02",
+          "date": "2026-09-03",
           "event": "Scheme detected",
           "category": "detection",
-          "details": "Initial detection with risk score 19 and promotion score 65",
+          "details": "Initial detection with risk score 21 and promotion score 75",
           "significance": "high"
         }
       ]
