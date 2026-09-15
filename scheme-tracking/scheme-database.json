@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-12T02:08:45.719Z",
+  "lastUpdated": "2026-09-15T01:31:00.881Z",
   "totalSchemes": 10,
-  "activeSchemes": 6,
-  "resolvedSchemes": 4,
+  "activeSchemes": 5,
+  "resolvedSchemes": 5,
   "confirmedFrauds": 0,
   "schemes": {
     "SCH-EVTV-20260202-9ALD": {
@@ -12,7 +12,7 @@
       "sector": "Consumer Cyclical",
       "industry": "Auto - Manufacturers",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-14",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 16,
@@ -110,14 +110,14 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-09-11",
+          "date": "2026-09-14",
           "event": "Status changed to COOLING - Possible dump detected",
           "details": "Price dropped 45.4% from peak ($3.55 → $1.94)",
           "category": "status_change",
           "significance": "high"
         },
         {
-          "date": "2026-09-11",
+          "date": "2026-09-14",
           "event": "Daily scan update",
           "details": "Risk score: 5, Promotion score: N/A"
         }
@@ -327,21 +327,21 @@
       "sector": "Healthcare",
       "industry": "Medical - Devices",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-14",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 15,
-      "currentRiskScore": 7,
+      "currentRiskScore": 5,
       "peakPromotionScore": 50,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
-      "peakPrice": 3.2,
-      "currentPrice": 3.2,
-      "priceChangeFromDetection": 88.23529411764707,
+      "peakPrice": 3.14,
+      "currentPrice": 3.14,
+      "priceChangeFromDetection": 84.70588235294119,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 202783,
+      "currentVolume": 203197,
       "promotionPlatforms": [
         "Twitter/X",
         "Telegram"
@@ -400,9 +400,9 @@
           "significance": "high"
         },
         {
-          "date": "2026-09-11",
+          "date": "2026-09-14",
           "event": "Daily scan update",
-          "details": "Risk score: 7, Promotion score: N/A"
+          "details": "Risk score: 5, Promotion score: N/A"
         }
       ],
       "notes": [],
@@ -519,7 +519,7 @@
       "sector": "Industrials",
       "industry": "Specialty Business Services",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-14",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
@@ -527,13 +527,13 @@
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
-      "peakPrice": 1.67,
-      "currentPrice": 1.67,
-      "priceChangeFromDetection": 73.94021456098324,
+      "peakPrice": 1.6,
+      "currentPrice": 1.6,
+      "priceChangeFromDetection": 66.64930736381629,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 99412,
+      "currentVolume": 99787,
       "promotionPlatforms": [
         "Twitter/X",
         "Discord",
@@ -601,7 +601,7 @@
           "significance": "high"
         },
         {
-          "date": "2026-09-11",
+          "date": "2026-09-14",
           "event": "Daily scan update",
           "details": "Risk score: 5, Promotion score: N/A"
         }
@@ -616,7 +616,7 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-14",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
@@ -624,13 +624,13 @@
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 2.56,
-      "currentPrice": 2.56,
-      "priceChangeFromDetection": 2594.736842105263,
+      "peakPrice": 2.66,
+      "currentPrice": 2.66,
+      "priceChangeFromDetection": 2700,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 672477,
+      "currentVolume": 885885,
       "promotionPlatforms": [
         "Twitter/X",
         "YouTube",
@@ -709,7 +709,7 @@
           "significance": "medium"
         },
         {
-          "date": "2026-09-11",
+          "date": "2026-09-14",
           "event": "Daily scan update",
           "details": "Risk score: 7, Promotion score: N/A"
         }
@@ -724,21 +724,21 @@
       "sector": "Industrials",
       "industry": "Manufacturing - Metal Fabrication",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 14,
-      "currentRiskScore": 6,
+      "currentRiskScore": 14,
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.0314,
-      "peakPrice": 1.02,
-      "currentPrice": 1.02,
-      "priceChangeFromDetection": 3148.407643312102,
+      "peakPrice": 0.0314,
+      "currentPrice": 0.0314,
+      "priceChangeFromDetection": 0,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 3297703,
+      "currentVolume": 0,
       "promotionPlatforms": [
         "Twitter/X",
         "Discord",
@@ -799,13 +799,16 @@
           "significance": "medium"
         },
         {
-          "date": "2026-09-11",
-          "event": "Daily scan update",
-          "details": "Risk score: 6, Promotion score: N/A"
+          "date": "2026-09-14",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 224 days, inactive for 223 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 224 days of monitoring. Stock activity normalized."
     },
     "SCH-DRTSW-20260202-H1OO": {
       "schemeId": "SCH-DRTSW-20260202-H1OO",
@@ -908,7 +911,7 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-14",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
@@ -916,13 +919,13 @@
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.22,
-      "peakPrice": 3.5,
-      "currentPrice": 3.5,
-      "priceChangeFromDetection": 186.88524590163937,
+      "peakPrice": 3.68,
+      "currentPrice": 3.68,
+      "priceChangeFromDetection": 201.63934426229505,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 170821,
+      "currentVolume": 180901,
       "promotionPlatforms": [
         "Twitter/X",
         "YouTube",
@@ -998,7 +1001,7 @@
           "details": "Risk score: 16, Promotion score: 20"
         },
         {
-          "date": "2026-09-11",
+          "date": "2026-09-14",
           "event": "Daily scan update",
           "details": "Risk score: 5, Promotion score: N/A"
         }
