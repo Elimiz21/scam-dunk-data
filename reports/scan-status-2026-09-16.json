@@ -1,0 +1,205 @@
+{
+  "date": "2026-09-16",
+  "pipelineStatus": "degraded",
+  "startedAt": "2026-09-16T23:24:58.511Z",
+  "completedAt": "2026-09-17T02:50:22.149Z",
+  "durationMinutes": 205,
+  "error": "Degraded phases: Risk Scoring All Stocks, News & SEC Filing Analysis, Social Media Scanning",
+  "failedAtPhase": null,
+  "aiBackend": {
+    "configured": true,
+    "available": true,
+    "layersUsed": [
+      "Layer 1: TypeScript deterministic",
+      "Python rule signals",
+      "Statistical anomaly detection"
+    ],
+    "scoringMode": "rules_only",
+    "attempted": 3826,
+    "accepted": 3793
+  },
+  "phases": {
+    "phase0_socialEarlyWarning": {
+      "name": "Social Early Warning & Pre-Pump Scan",
+      "status": "completed",
+      "startedAt": "2026-09-16T23:24:58.520Z",
+      "completedAt": "2026-09-16T23:24:59.602Z",
+      "durationMs": 1082,
+      "error": null,
+      "details": {
+        "tickersScanned": 2217,
+        "watchlistAdded": 0,
+        "existingWatchlist": 0
+      }
+    },
+    "phase1_riskScoring": {
+      "name": "Risk Scoring All Stocks",
+      "status": "degraded",
+      "startedAt": "2026-09-16T23:24:59.604Z",
+      "completedAt": "2026-09-17T02:45:48.141Z",
+      "durationMs": 12048537,
+      "error": null,
+      "details": {
+        "listedExpected": 6939,
+        "listedEvaluated": 6544,
+        "listedMissing": 395,
+        "processed": 9208,
+        "skippedNoData": 7712,
+        "otcCoverage": {
+          "status": "degraded",
+          "eligible": 9989,
+          "evaluated": 2664,
+          "artifact": "otc-coverage-2026-09-16.json"
+        },
+        "riskCounts": {
+          "LOW": 2718,
+          "MEDIUM": 1233,
+          "HIGH": 5257,
+          "INSUFFICIENT": 0
+        },
+        "highRiskFound": 5257,
+        "pythonBackend": {
+          "attempted": 3826,
+          "accepted": 3793,
+          "acceptedLayers": [
+            "Python rule signals",
+            "Statistical anomaly detection"
+          ],
+          "preflightFailure": null
+        }
+      }
+    },
+    "phase2_sizeFiltering": {
+      "name": "Size & Volume Filtering",
+      "status": "completed",
+      "startedAt": "2026-09-17T02:45:48.141Z",
+      "completedAt": "2026-09-17T02:45:48.145Z",
+      "durationMs": 4,
+      "error": null,
+      "details": {
+        "filteredByMarketCap": 484,
+        "filteredByVolume": 277,
+        "remainingForNewsCheck": 4496
+      }
+    },
+    "phase3_newsAnalysis": {
+      "name": "News & SEC Filing Analysis",
+      "status": "degraded",
+      "startedAt": "2026-09-17T02:45:48.145Z",
+      "completedAt": "2026-09-17T02:48:04.731Z",
+      "durationMs": 136586,
+      "error": "4296 records were retained as suspicious without a completed news classification",
+      "details": {
+        "stocksAnalyzed": 4496,
+        "filteredByNews": 74,
+        "remainingSuspicious": 4422,
+        "newsFilterSkipped": 4296,
+        "newsAnalysisMetrics": {
+          "configuredCandidateCap": 200,
+          "configuredBatchSize": 10,
+          "eligibleRecords": 4496,
+          "uniqueInstruments": 4496,
+          "duplicateInstrumentRecords": 0,
+          "candidatesSelected": 200,
+          "candidatesDeferred": 4296,
+          "candidatesWithoutEvidence": 75,
+          "plannedModelCallUpperBound": 20,
+          "modelCallsMade": 20,
+          "failedModelCalls": 0,
+          "unavailableModelBatches": 0,
+          "promptTokens": 58362,
+          "completionTokens": 6540,
+          "estimatedCostUsd": 0.012678
+        }
+      }
+    },
+    "phase4_socialMedia": {
+      "name": "Social Media Scanning",
+      "status": "degraded",
+      "startedAt": "2026-09-17T02:48:04.731Z",
+      "completedAt": "2026-09-17T02:50:21.769Z",
+      "durationMs": 137038,
+      "error": "50/50 submitted tickers have verified search coverage; partial evidence was retained",
+      "details": {
+        "eligibleCandidates": 4422,
+        "tickersSubmitted": 50,
+        "tickersActuallySearched": 50,
+        "platformsUsed": [
+          "discord_bot",
+          "youtube_api",
+          "serper_dev",
+          "stocktwits",
+          "perplexity"
+        ],
+        "totalMentions": 890
+      }
+    },
+    "phase5_schemeTracking": {
+      "name": "Scheme Tracking & Numbering",
+      "status": "completed",
+      "startedAt": "2026-09-17T02:50:21.769Z",
+      "completedAt": "2026-09-17T02:50:21.786Z",
+      "durationMs": 17,
+      "error": null,
+      "details": {
+        "newSchemes": 0,
+        "ongoingSchemes": 6,
+        "coolingSchemes": 1,
+        "resolvedSchemes": 0,
+        "noScamSchemes": 0,
+        "totalActiveSchemes": 6
+      }
+    }
+  },
+  "summary": {
+    "totalStocks": 16937,
+    "processed": 9208,
+    "skippedNoData": 7712,
+    "riskCounts": {
+      "LOW": 2718,
+      "MEDIUM": 1233,
+      "HIGH": 5257,
+      "INSUFFICIENT": 0
+    },
+    "highRiskBeforeFilters": 5257,
+    "filteredByMarketCap": 484,
+    "filteredByVolume": 277,
+    "filteredByNews": 74,
+    "newsAnalysisMetrics": {
+      "configuredCandidateCap": 200,
+      "configuredBatchSize": 10,
+      "eligibleRecords": 4496,
+      "uniqueInstruments": 4496,
+      "duplicateInstrumentRecords": 0,
+      "candidatesSelected": 200,
+      "candidatesDeferred": 4296,
+      "candidatesWithoutEvidence": 75,
+      "plannedModelCallUpperBound": 20,
+      "modelCallsMade": 20,
+      "failedModelCalls": 0,
+      "unavailableModelBatches": 0,
+      "promptTokens": 58362,
+      "completionTokens": 6540,
+      "estimatedCostUsd": 0.012678
+    },
+    "remainingSuspicious": 4422,
+    "newSchemes": 0,
+    "ongoingSchemes": 6,
+    "totalActiveSchemes": 6
+  },
+  "socialMediaDetails": {
+    "platformsUsed": [
+      "discord_bot",
+      "youtube_api",
+      "serper_dev",
+      "stocktwits",
+      "perplexity"
+    ],
+    "platformResults": [],
+    "totalMentions": 890,
+    "tickersScanned": 50,
+    "tickersWithMentions": 37,
+    "tickersSubmitted": 50,
+    "tickersActuallySearched": 50
+  }
+}

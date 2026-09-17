@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-16",
+  "timestamp": "2026-09-17T02:50:23Z",
+  "status": "degraded",
+  "scanPipelineStatus": "degraded",
+  "filesExpected": 10,
+  "filesPresent": 10,
+  "filesMissing": 0,
+  "missingFiles": "",
+  "files": [{"name":"scan-status","file":"scan-status-2026-09-16.json","status":"present","sizeBytes":5921},{"name":"promoted-stocks","file":"promoted-stocks-2026-09-16.json","status":"present","sizeBytes":46775},{"name":"scheme-database","file":"scheme-database.json","status":"present","sizeBytes":30448},{"name":"social-media-scan","file":"social-media-scan-2026-09-16.json","status":"present","sizeBytes":58687},{"name":"fmp-summary","file":"fmp-summary-2026-09-16.json","status":"present","sizeBytes":3158861},{"name":"suspicious-stocks","file":"suspicious-stocks-2026-09-16.json","status":"present","sizeBytes":10929566},{"name":"enhanced-evaluation","file":"enhanced-evaluation-2026-09-16.json","status":"present","sizeBytes":17846559},{"name":"enhanced-high-risk","file":"enhanced-high-risk-2026-09-16.json","status":"present","sizeBytes":12619720},{"name":"daily-report","file":"daily-report-2026-09-16.json","status":"present","sizeBytes":914},{"name":"otc-coverage","file":"otc-coverage-2026-09-16.json","status":"present","sizeBytes":2901825}],
+  "schemeTracking": {
+    "status": "active",
+    "activeSchemes": 6,
+    "totalSchemes": 10
+  },
+  "workflowRun": "35162131819",
+  "workflowUrl": "https://github.com/Elimiz21/scam-dunk-re-write-claude-code/actions/runs/35162131819"
+}
