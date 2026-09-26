@@ -1,0 +1,2404 @@
+{
+  "scanDate": "2026-09-25",
+  "publication": null,
+  "eligibleCandidates": 4434,
+  "tickersSubmitted": 50,
+  "tickersActuallySearched": 50,
+  "totalScanned": 8,
+  "socialMediaScannedCount": 8,
+  "partialEvidenceCount": 36,
+  "highPromotionCount": 0,
+  "mediumPromotionCount": 0,
+  "results": [
+    {
+      "symbol": "YAYO",
+      "name": "EVmo, Inc.",
+      "riskScore": 26,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
+          "source": "real",
+          "mentionsFound": 8,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "Twitter",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "YouTube",
+          "username": "unknown",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "39 mentions retained across 3 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "CMCXF",
+      "name": "Walker Lane Resources Ltd.",
+      "riskScore": 24,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 0,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "1 mentions retained across 1 platform(s). Coverage: complete; avg promotion score: 0/100.",
+      "coverage": {
+        "status": "COMPLETE",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "CELV",
+      "name": "Cellev8 Nutrition Inc.",
+      "riskScore": 23,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 21,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 2,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "21 mentions retained across 1 platform(s). Coverage: complete; avg promotion score: 2/100.",
+      "coverage": {
+        "status": "COMPLETE",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "PHSE",
+      "name": "Pride Holdings Group",
+      "riskScore": 23,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 12,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "Twitter",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "Reddit",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "14 mentions retained across 3 platform(s). Coverage: complete; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "COMPLETE",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "NXGB",
+      "name": "NxGen Brands Inc.",
+      "riskScore": 23,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "VOLUME_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The recent announcements about fundraising programs and platform launches are promotional in nature and lack substance regarding financial performance or significant corporate events.",
+      "recentNews": [
+        {
+          "title": "BeNXGen.ai Launchs Candy Bag Fundraiser Program",
+          "date": "2026-07-08 11:07:39",
+          "source": "prismmediawire.com",
+          "url": "https://prismmediawire.com/benxgen-ai-launchs-candy-bag-fundraiser-program/"
+        },
+        {
+          "title": "BeNXGen.ai Launches Candy Bag Fundraiser Program",
+          "date": "2026-07-08 10:10:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/07/08/3324244/0/en/BeNXGen-ai-Launches-Candy-Bag-Fundraiser-Program.html"
+        },
+        {
+          "title": "BeNXGen.ai Ignites Revenue Potential for the Next Generation of Automated Brand Owners",
+          "date": "2026-07-01 12:45:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/07/01/3320908/0/en/BeNXGen-ai-Ignites-Revenue-Potential-for-the-Next-Generation-of-Automated-Brand-Owners.html"
+        },
+        {
+          "title": "NXGen Brands, Inc. (OTC: NXGB) Launches BeNXGen.ai — A Breakthrough AI-Powered Brand Creation Platform Designed to Turn Ideas into Fully Automated Businesses",
+          "date": "2026-06-30 13:56:37",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/06/30/3320060/0/en/nxgen-brands-inc-otc-nxgb-launches-benxgen-ai-a-breakthrough-ai-powered-brand-creation-platform-designed-to-turn-ideas-into-fully-automated-businesses.html"
+        },
+        {
+          "title": "NXGen Brands, Inc. (OTC: NXGB) Launches BeNXGen.ai — A Breakthrough AI-Powered Brand Creation Platform Designed to Turn Ideas into Fully Automated Businesses",
+          "date": "2026-06-30 13:56:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/06/30/3320060/0/en/NXGen-Brands-Inc-OTC-NXGB-Launches-BeNXGen-ai-A-Breakthrough-AI-Powered-Brand-Creation-Platform-Designed-to-Turn-Ideas-into-Fully-Automated-Businesses.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 4,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: complete; avg promotion score: 4/100.",
+      "coverage": {
+        "status": "COMPLETE",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "GOGR",
+      "name": "Go Green Global Technologies Corp.",
+      "riskScore": 22,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 27,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 7,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "NewsAndFilings",
+          "postCount": 3,
+          "confidence": "low"
+        },
+        {
+          "platform": "StockTwits",
+          "username": "LongMoneyMovements",
+          "postCount": 3,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "27 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "HALB",
+      "name": "Halberd Corporation",
+      "riskScore": 22,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "Reddit",
+          "source": "real",
+          "mentionsFound": 7,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "38 mentions retained across 3 platform(s). Coverage: complete; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "COMPLETE",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "NWPG",
+      "name": "Newport Gold, Inc.",
+      "riskScore": 22,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "Press releases focus on niche developments with no substantial impact on stock valuation or significant corporate events.",
+      "recentNews": [
+        {
+          "title": "Glory Days Speed Shop Joins NFI Empire's Project REBORN #001 with First-of-Its-Kind 5-Inch Stainless Actuating Muffler",
+          "date": "2026-09-25 10:50:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/glory-days-speed-shop-joins-nfi-empires-project-reborn-%23001-with-first-of-its-k-1227162"
+        },
+        {
+          "title": "Dan's Diesel Performance Joins NFI Empire's Project REBORN, Supporting The Brett Boyer Foundation with High-Performance Duramax Upgrades",
+          "date": "2026-09-24 16:09:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/dans-diesel-performance-joins-nfi-empires-project-reborn-supporting-the-brett-boy-1226798"
+        },
+        {
+          "title": "Berger Chevrolet Helps Keep Project REBORN Moving, Providing a Critical New Frame in Support of The Brett Boyer Foundation",
+          "date": "2026-09-17 12:48:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/berger-chevrolet-helps-keep-project-reborn-moving-providing-a-critical-new-frame-1221625"
+        },
+        {
+          "title": "NWPG's NFI Empire Advances Project Reborn-001 Toward Auction Benefiting The Brett Boyer Foundation",
+          "date": "2026-09-15 09:30:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/nwpgs-nfi-empire-advances-project-reborn-001-toward-auction-benefiting-the-brett-1219465"
+        },
+        {
+          "title": "Newport Gold, Inc. (OTCID:NWPG) Engages PCAOB-Registered Auditor as Part of Our Uplisting Strategy",
+          "date": "2026-09-10 18:45:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/newport-gold-inc.-otcid-nwpg-engages-pcaob-registered-auditor-as-part-of-our-upli-1219598"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "QIND",
+      "name": "Quality Industrial Corp.",
+      "riskScore": 22,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "VOLUME_SURGE_3D",
+        "PRICE_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "There are no recent news events or SEC filings that explain the unusual trading activity.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "Reddit",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 9,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "MrHamilton",
+          "postCount": 6,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "31 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 9/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "AGIN",
+      "name": "American Graphite Technologies, Inc.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 26,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "Reddit",
+          "source": "real",
+          "mentionsFound": 6,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
+          "source": "real",
+          "mentionsFound": 4,
+          "activityLevel": "medium",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "36 mentions retained across 3 platform(s). Coverage: complete; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "COMPLETE",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "CYBL",
+      "name": "Cyberlux Corporation",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "Twitter",
+          "source": "real",
+          "mentionsFound": 2,
+          "activityLevel": "medium",
+          "promotionRisk": "medium"
+        }
+      ],
+      "overallPromotionScore": 7,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "Twitter",
+          "username": "unknown",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "32 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "CPWR",
+      "name": "Ocean Thermal Energy Corporation",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "There are no recent news articles or significant events that could explain unusual trading activity.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "Reddit",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "LuckyCharm7",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "31 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "DPUI",
+      "name": "Discount Print USA Inc",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 27,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 10,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "27 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 10/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "ELLXF",
+      "name": "Elixinol Wellness Limited",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: complete; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "COMPLETE",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "ENTEF",
+      "name": "ESE Entertainment Inc.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "ELRE",
+      "name": "Yinfu Gold Corporation",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "There are no substantive news, filings, or press releases to explain the unusual trading activity.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: complete; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "COMPLETE",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "KTEL",
+      "name": "KonaTel, Inc.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "There are no substantive news or events to justify the unusual trading activity.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 8,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 8/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "XCRT",
+      "name": "Xcelerate Inc.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 8,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "CTL1985",
+          "postCount": 5,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 8/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "NTRR",
+      "name": "Neutra Corp.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "PRICE_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The provided news items are focused on expanding relationships and future strategies without concrete, direct impact on earnings, partnerships, or significant company developments.",
+      "recentNews": [
+        {
+          "title": "Neutra Corp's Neutra Life Sciences Expands 2026 Industry Conference Schedule to Deepen Sponsor and CRO Relationships Across Its Site Network",
+          "date": "2026-09-14 15:40:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/09/14/3361519/0/en/neutra-corp-s-neutra-life-sciences-expands-2026-industry-conference-schedule-to-deepen-sponsor-and-cro-relationships-across-its-site-network.html"
+        },
+        {
+          "title": "Neutra Corp Targets Expanded Sponsor and CRO Relationships in Q3 & Q4 2026, Reaffirming Full Commitment to Life Sciences Growth",
+          "date": "2026-07-13 13:02:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/07/13/3326389/0/en/Neutra-Corp-Targets-Expanded-Sponsor-and-CRO-Relationships-in-Q3-Q4-2026-Reaffirming-Full-Commitment-to-Life-Sciences-Growth.html"
+        },
+        {
+          "title": "Neutra Corp's Subsidiary Neutra Life Sciences Executes New Women's Health Joint Venture and Expands Trial Portfolio",
+          "date": "2026-06-29 15:29:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/06/29/3319254/0/en/Neutra-Corp-s-Subsidiary-Neutra-Life-Sciences-Executes-New-Women-s-Health-Joint-Venture-and-Expands-Trial-Portfolio.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 8,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 8/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "QPRC",
+      "name": "Quest Patent Research Corporation",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "OVERBOUGHT_RSI",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "There are no substantive news, SEC filings, or press releases that provide an explanation for the unusual trading activity.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 19,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "19 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "UAPC",
+      "name": "UAPC, Inc.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The news regarding crossing above a moving average does not constitute substantial news or an event that impacts the underlying fundamentals of the company.",
+      "recentNews": [
+        {
+          "title": "UAPC (OTCMKTS:UAPC) Shares Cross Above 200-Day Moving Average   – Here’s What Happened",
+          "date": "2026-09-02 02:04:26",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/09/02/uapc-otcmktsuapc-shares-cross-above-200-day-moving-average-heres-what-happened.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 9,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 9/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "UMAV",
+      "name": "UAV Corp.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The news presented does not indicate a significant event that would impact the company directly and does not represent a legitimate reason for unusual trading activity.",
+      "recentNews": [
+        {
+          "title": "First Tellurium Subsidiary PyroDelta Energy Announces Development of Next-Generation Heavy-Lift Coaxial UAV",
+          "date": "2026-08-27 06:00:00",
+          "source": "thenewswire.com",
+          "url": "https://www.thenewswire.com/press-releases/1AdyFYMEl-first-tellurium-subsidiary-pyrodelta-energy-announces-development-of-next-generation-heavy-lift-coaxial-uav.html"
+        },
+        {
+          "title": "T3 Defense Targets UAV, Counter-UAV Market with New Platforms",
+          "date": "2026-08-21 13:20:25",
+          "source": "benzinga.com",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/08/61363000/t3-defense-targets-uav-counter-uav-market-with-new-platforms"
+        },
+        {
+          "title": "T3 Defense Enters the UAV and Counter-UAV (C-UAV) Platform Market",
+          "date": "2026-08-21 09:25:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/08/21/3349098/0/en/t3-defense-enters-the-uav-and-counter-uav-c-uav-platform-market.html"
+        },
+        {
+          "title": "UAV Magnetic Survey Reveals Untested Convergence Zone at AZ Copper-Gold Project",
+          "date": "2026-08-20 07:00:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/08/20/3348211/0/en/uav-magnetic-survey-reveals-untested-convergence-zone-at-az-copper-gold-project.html"
+        },
+        {
+          "title": "T3 Defense Acquires Majority Stake in Project35, Accelerating Leadership in the Drone and Counter-UAV Market",
+          "date": "2026-07-10 09:00:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/07/10/3325506/0/en/T3-Defense-Acquires-Majority-Stake-in-Project35-Accelerating-Leadership-in-the-Drone-and-Counter-UAV-Market.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 32,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "32 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "CCWF",
+      "name": "Church & Crawford, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 28,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "28 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "CYIO",
+      "name": "CYIOS Corporation",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 7,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "Yfin42",
+          "postCount": 3,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "EXMT",
+      "name": "Anything Technologies Media, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "Demogod1",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "AVVH",
+      "name": "AVVAA World Health Care Products, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The increase in short interest is not date-specific or a substantive event related to a corporate action.",
+      "recentNews": [
+        {
+          "title": "Short Interest in AVVAA World Health Care Products, Inc. (OTCMKTS:AVVH) Increases By ∞",
+          "date": "2026-07-30 01:41:28",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/07/30/short-interest-in-avvaa-world-health-care-products-inc-otcmktsavvh-increases-by-%e2%88%9e.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 31,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 10,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "mshock58",
+          "postCount": 2,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "31 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 10/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "BBLR",
+      "name": "Bubblr Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "There are no substantive news or SEC filings indicating a legitimate corporate event.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 29,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 18,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "DiamondCapital",
+          "postCount": 16,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 18/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "CBIH",
+      "name": "Cannabis Bioscience International Holdings, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The press release about a recognition initiative does not convey a substantive corporate event impacting trading activity.",
+      "recentNews": [
+        {
+          "title": "CBIH Announces Recognition Initiative Funded Through CEO's Personal Share Holdings",
+          "date": "2026-07-06 07:00:00",
+          "source": "feeds.newsfilecorp.com",
+          "url": "https://www.newsfilecorp.com/release/303954/CBIH-Announces-Recognition-Initiative-Funded-Through-CEOs-Personal-Share-Holdings"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 32,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 9,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "Demogod1",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "32 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 9/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "HMMR",
+      "name": "Hammer Technology Holdings Corp.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "There are no substantive news or SEC filings indicating a legitimate corporate event related to trading activity.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 4,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "HYEG",
+      "name": "Hydrogen Engine Center, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 27,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "27 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "IPGGF",
+      "name": "Imperium Technology Group Limited",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 29,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "KOSK",
+      "name": "Metawells Oil & Gas Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 31,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 11,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "31 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 11/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "KYNC",
+      "name": "KYN Capital Group, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 29,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "IPSI",
+      "name": "Innovative Payment Solutions, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No significant news, SEC filings, or press releases that would explain the unusual trading activity.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 33,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "33 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "RMTG",
+      "name": "Regenerative Medical Technology Group Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "PRICE_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "While there are multiple recent announcements, they do not constitute significant date-specific events related to earnings, partnerships, or regulatory approvals.",
+      "recentNews": [
+        {
+          "title": "RMTG's ISSCA Division to Host ISSCA 125 Global Summit in Cancún, Mexico",
+          "date": "2026-09-21 07:01:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/biotechnology/rmtgs-issca-division-to-host-issca-125-global-summit-in-canc%c3%ban-mexico-1224543"
+        },
+        {
+          "title": "RMTG's ISSCA Division Launches Integrative Fellowship in Point-of-Care Regenerative Medicine through ISSCA AI(TM) Strategy",
+          "date": "2026-09-17 07:02:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/biotechnology/rmtgs-issca-division-launches-integrative-fellowship-in-point-of-care-regenerative-me-1222865"
+        },
+        {
+          "title": "Regenerative Medical Technology Group, Inc. Details Expanded ISSCA AI(TM) Clinical Intelligence Platform, Including Protocol-Native Engine, Structured Data Assets, and Multi-Line Commercial Model",
+          "date": "2026-09-14 07:01:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/biotechnology/regenerative-medical-technology-group-inc.-details-expanded-issca-aitm-clinical-intel-1220415"
+        },
+        {
+          "title": "RMTG's Cellgenic Division Begins Local Commercial Activity in Colombia, Subject to Colombian Regulatory Requirements",
+          "date": "2026-09-08 07:02:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/biotechnology/rmtgs-cellgenic-division-begins-local-commercial-activity-in-colombia-subject-to-colo-1217331"
+        },
+        {
+          "title": "Cellgenic Establishes Local Commercial Presence in Brazil",
+          "date": "2026-09-03 07:01:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/biotechnology/cellgenic-establishes-local-commercial-presence-in-brazil-1216079"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 31,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "Golden_Cross",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "31 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "RMTO",
+      "name": "RM2 International, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 4,
+          "activityLevel": "medium",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 10,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "4 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 10/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "SAENF",
+      "name": "Solar Alliance Energy Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 2,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 2/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "SBUM",
+      "name": "Silver Buckle Mines, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 20,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "20 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "SCVFF",
+      "name": "Scotch Creek Ventures Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 2,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 2/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "ACGX",
+      "name": "Alliance Creative Group, Inc.",
+      "riskScore": 19,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "SEII",
+      "name": "Sharing Economy International Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases provide substantive events related to trading activity.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "eyeofprovidence",
+          "postCount": 2,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "ACRL",
+      "name": "Atacama Resources International, Inc.",
+      "riskScore": 19,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "AFFU",
+      "name": "Affluence Corporation",
+      "riskScore": 19,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-09-25"
+    },
+    {
+      "symbol": "APTY",
+      "name": "APT Systems, Inc.",
+      "riskScore": 19,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "YouTube",
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-09-25"
+    }
+  ]
+}
