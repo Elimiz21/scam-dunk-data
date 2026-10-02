@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-01",
+  "totalStocksScanned": 9270,
+  "byRiskLevel": {
+    "LOW": 2494,
+    "MEDIUM": 1427,
+    "HIGH": 5349,
+    "INSUFFICIENT": 0
+  },
+  "highRiskBeforeFilters": 5349,
+  "filteredByMarketCap": 465,
+  "filteredByVolume": 327,
+  "filteredByNews": 84,
+  "newsFilterSkipped": 4357,
+  "remainingSuspicious": 4473,
+  "activeSchemes": 6,
+  "newSchemes": 0,
+  "processingTimeMinutes": 192,
+  "newsAnalysisMetrics": {
+    "configuredCandidateCap": 200,
+    "configuredBatchSize": 10,
+    "eligibleRecords": 4557,
+    "uniqueInstruments": 4557,
+    "duplicateInstrumentRecords": 0,
+    "candidatesSelected": 200,
+    "candidatesDeferred": 4357,
+    "candidatesWithoutEvidence": 62,
+    "plannedModelCallUpperBound": 20,
+    "modelCallsMade": 20,
+    "failedModelCalls": 0,
+    "unavailableModelBatches": 0,
+    "promptTokens": 68033,
+    "completionTokens": 6824,
+    "estimatedCostUsd": 0.014299
+  }
+}

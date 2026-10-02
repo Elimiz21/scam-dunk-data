@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T03:50:20.846Z",
+  "lastUpdated": "2026-10-02T02:28:52.974Z",
   "totalSchemes": 10,
   "activeSchemes": 6,
   "resolvedSchemes": 4,
@@ -12,7 +12,7 @@
       "sector": "Consumer Cyclical",
       "industry": "Auto - Manufacturers",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 16,
@@ -110,14 +110,14 @@
           "details": "Risk score: 14, Promotion score: 20"
         },
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
           "event": "Status changed to COOLING - Possible dump detected",
           "details": "Price dropped 45.4% from peak ($3.55 → $1.94)",
           "category": "status_change",
           "significance": "high"
         },
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
           "event": "Daily scan update",
           "details": "Risk score: 6, Promotion score: N/A"
         }
@@ -327,21 +327,21 @@
       "sector": "Healthcare",
       "industry": "Medical - Devices",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 15,
-      "currentRiskScore": 7,
+      "currentRiskScore": 6,
       "peakPromotionScore": 50,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.7,
-      "peakPrice": 2.76,
-      "currentPrice": 2.76,
-      "priceChangeFromDetection": 62.35294117647058,
+      "peakPrice": 2.93,
+      "currentPrice": 2.93,
+      "priceChangeFromDetection": 72.3529411764706,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 216203,
+      "currentVolume": 216576,
       "promotionPlatforms": [
         "Twitter/X",
         "Telegram"
@@ -400,9 +400,9 @@
           "significance": "high"
         },
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
           "event": "Daily scan update",
-          "details": "Risk score: 7, Promotion score: N/A"
+          "details": "Risk score: 6, Promotion score: N/A"
         }
       ],
       "notes": [],
@@ -519,7 +519,7 @@
       "sector": "Industrials",
       "industry": "Specialty Business Services",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
@@ -527,13 +527,13 @@
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.9601,
-      "peakPrice": 1.51,
-      "currentPrice": 1.51,
-      "priceChangeFromDetection": 57.27528382460161,
+      "peakPrice": 1.58,
+      "currentPrice": 1.58,
+      "priceChangeFromDetection": 64.56619102176859,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 113446,
+      "currentVolume": 113285,
       "promotionPlatforms": [
         "Twitter/X",
         "Discord",
@@ -601,7 +601,7 @@
           "significance": "high"
         },
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
           "event": "Daily scan update",
           "details": "Risk score: 14, Promotion score: N/A"
         }
@@ -616,7 +616,7 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
@@ -624,9 +624,9 @@
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.095,
-      "peakPrice": 3.01,
-      "currentPrice": 3.01,
-      "priceChangeFromDetection": 3068.4210526315783,
+      "peakPrice": 2.96,
+      "currentPrice": 2.96,
+      "priceChangeFromDetection": 3015.7894736842104,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
@@ -709,7 +709,7 @@
           "significance": "medium"
         },
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
           "event": "Daily scan update",
           "details": "Risk score: 14, Promotion score: N/A"
         }
@@ -724,17 +724,17 @@
       "sector": "Industrials",
       "industry": "Manufacturing - Metal Fabrication",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
-      "currentRiskScore": 3,
+      "currentRiskScore": 5,
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.0314,
-      "peakPrice": 1.02,
-      "currentPrice": 1.02,
-      "priceChangeFromDetection": 3148.407643312102,
+      "peakPrice": 0.9846,
+      "currentPrice": 0.9846,
+      "priceChangeFromDetection": 3035.6687898089176,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
@@ -799,9 +799,9 @@
           "significance": "medium"
         },
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
           "event": "Daily scan update",
-          "details": "Risk score: 3, Promotion score: N/A"
+          "details": "Risk score: 5, Promotion score: N/A"
         }
       ],
       "notes": [],
@@ -908,7 +908,7 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "firstDetected": "2026-02-02",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "daysActive": 2,
       "status": "ONGOING",
       "peakRiskScore": 14,
@@ -916,13 +916,13 @@
       "peakPromotionScore": 61,
       "currentPromotionScore": 20,
       "priceAtDetection": 1.22,
-      "peakPrice": 4.26,
-      "currentPrice": 4.26,
-      "priceChangeFromDetection": 249.18032786885246,
+      "peakPrice": 4.41,
+      "currentPrice": 4.41,
+      "priceChangeFromDetection": 261.47540983606564,
       "priceChangeFromPeak": 0,
       "volumeAtDetection": 0,
       "peakVolume": 0,
-      "currentVolume": 329803,
+      "currentVolume": 335055,
       "promotionPlatforms": [
         "Twitter/X",
         "YouTube",
@@ -998,7 +998,7 @@
           "details": "Risk score: 16, Promotion score: 20"
         },
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
           "event": "Daily scan update",
           "details": "Risk score: 14, Promotion score: N/A"
         }
