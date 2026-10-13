@@ -1,0 +1,2314 @@
+{
+  "scanDate": "2026-10-12",
+  "publication": null,
+  "eligibleCandidates": 4605,
+  "tickersSubmitted": 50,
+  "tickersActuallySearched": 50,
+  "totalScanned": 0,
+  "socialMediaScannedCount": 0,
+  "partialEvidenceCount": 37,
+  "highPromotionCount": 0,
+  "mediumPromotionCount": 0,
+  "results": [
+    {
+      "symbol": "BRGX",
+      "name": "BioRegenx, Inc.",
+      "riskScore": 22,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 21,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "21 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "TIPS",
+      "name": "Tianrong Internet Products and Services, Inc.",
+      "riskScore": 24,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Some TIPS ETFs Disappoint. This One Doesn't.",
+          "date": "2026-08-31 12:31:43",
+          "source": "etftrends.com",
+          "url": "https://www.etftrends.com/model-portfolio-content-hub/some-tips-etfs-disappoint-this-one-doesnt/"
+        },
+        {
+          "title": "Long-Term TIPS Gain Appeal As Real Yields Hit Multi-Decade Highs",
+          "date": "2026-08-24 07:20:07",
+          "source": "forbes.com",
+          "url": "https://www.forbes.com/sites/timbeyer/2026/08/24/long-term-tips-gain-appeal-as-real-yields-hit-multi-decade-highs/"
+        },
+        {
+          "title": "Forget Gold: For Retirees, This TIPS ETF Fights Inflation Better",
+          "date": "2026-07-25 15:53:29",
+          "source": "247wallst.com",
+          "url": "https://247wallst.com/investing/2026/07/25/forget-gold-for-retirees-this-tips-etf-fights-inflation-better/"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 35,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
+          "source": "real",
+          "mentionsFound": 15,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "MillionaireTrader555",
+          "postCount": 4,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "50 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "TMGI",
+      "name": "Transglobal Management Group, Inc.",
+      "riskScore": 24,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Third Life World Signs Definitive Agreement to Acquire Transglobal Management Group, Inc.",
+          "date": "2026-10-08 11:00:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/10/08/3377499/0/en/third-life-world-signs-definitive-agreement-to-acquire-transglobal-management-group-inc.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "medium"
+        }
+      ],
+      "overallPromotionScore": 7,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "31 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "AZURF",
+      "name": "Azincourt Energy Corp.",
+      "riskScore": 23,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Azincourt Energy Completes Harrier Prospecting Program and Commences Drilling at Snegamook Uranium Deposit",
+          "date": "2026-10-02 17:00:00",
+          "source": "newsfilecorp.com",
+          "url": "https://www.newsfilecorp.com/release/317113/Azincourt-Energy-Completes-Harrier-Prospecting-Program-and-Commences-Drilling-at-Snegamook-Uranium-Deposit"
+        },
+        {
+          "title": "Azincourt Energy Provides Update on Option to Acquire High-Grade Sylvia Lake Uranium Project in Labrador",
+          "date": "2026-09-16 15:16:00",
+          "source": "newsfilecorp.com",
+          "url": "https://www.newsfilecorp.com/release/314653/Azincourt-Energy-Provides-Update-on-Option-to-Acquire-HighGrade-Sylvia-Lake-Uranium-Project-in-Labrador"
+        },
+        {
+          "title": "Azincourt Energy Commences 2026 Field Program at Snegamook Uranium Deposit and Greater Harrier Uranium Project",
+          "date": "2026-09-02 17:00:00",
+          "source": "newsfilecorp.com",
+          "url": "https://www.newsfilecorp.com/release/312650/Azincourt-Energy-Commences-2026-Field-Program-at-Snegamook-Uranium-Deposit-and-Greater-Harrier-Uranium-Project"
+        },
+        {
+          "title": "Azincourt Energy Options High-Grade Sylvia Lake Uranium Project in Labrador",
+          "date": "2026-08-04 17:00:00",
+          "source": "newsfilecorp.com",
+          "url": "https://www.newsfilecorp.com/release/307988/Azincourt-Energy-Options-HighGrade-Sylvia-Lake-Uranium-Project-in-Labrador"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "MONI",
+      "name": "Moon Equity Holdings Corp.",
+      "riskScore": 23,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Moon Equity Holdings announced the strategic acquisition of Shieldcom",
+          "date": "2026-10-12 08:02:12",
+          "source": "prismmediawire.com",
+          "url": "https://prismmediawire.com/moon-equity-holdings-announced-the-strategic-acquisition-of-shieldcom/"
+        },
+        {
+          "title": "Moon Equity Holdings and IndexR Announce Commercial Launch of Revvim's RevvEO",
+          "date": "2026-09-23 11:03:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/09/23/3367644/0/en/moon-equity-holdings-and-indexr-announce-commercial-launch-of-revvim-s-revveo.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
+          "source": "real",
+          "mentionsFound": 3,
+          "activityLevel": "medium",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "33 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "NVLHF",
+      "name": "Nevada Lithium Resources Inc.",
+      "riskScore": 23,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Nevada Lithium Announces Engagement of Arrowhead Business and Investment Decisions, LLC",
+          "date": "2026-07-21 14:20:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/nevada-lithium-announces-engagement-of-arrowhead-business-and-investment-decision-1194225"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 8,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "Sharky77",
+          "postCount": 3,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 8/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "TMASF",
+      "name": "Temas Resources Corp.",
+      "riskScore": 23,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Temas Resources Corp. (OTCMKTS:TMASF) Sees Significant Decline in Short Interest",
+          "date": "2026-10-01 04:41:08",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/10/01/temas-resources-corp-otcmktstmasf-sees-significant-decline-in-short-interest.html"
+        },
+        {
+          "title": "SAGA Metals Advances Radar Project to Stage 2 RCL Optimization Targeting First High-Purity Titanium, Vanadium and Iron Products",
+          "date": "2026-09-29 07:30:00",
+          "source": "newsfilecorp.com",
+          "url": "https://www.newsfilecorp.com/release/316481/SAGA-Metals-Advances-Radar-Project-to-Stage-2-RCL-Optimization-Targeting-First-HighPurity-Titanium-Vanadium-and-Iron-Products"
+        },
+        {
+          "title": "Temas and SAGA Advance RCL to Stage 2 Targeting Titanium, Vanadium and Iron Products in Preparation for Pilot Studies",
+          "date": "2026-09-29 07:00:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/temas-and-saga-advance-rcl-to-stage-2-targeting-titanium-vanadium-and-iron-produc-1228076"
+        },
+        {
+          "title": "Temas 2026 Annual General & Special Meeting Voting Results",
+          "date": "2026-09-28 07:00:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/temas-2026-annual-general-and-special-meeting-voting-results-1227657"
+        },
+        {
+          "title": "Temas Resources Corp. (OTCMKTS:TMASF) Sees Large Growth in Short Interest",
+          "date": "2026-08-18 03:42:59",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/08/18/temas-resources-corp-otcmktstmasf-sees-large-growth-in-short-interest.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 29,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 10,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 10/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "ZCAR",
+      "name": "Zoomcar Holdings, Inc.",
+      "riskScore": 23,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "VOLUME_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Zoomcar partners with Bureau to strengthen real-time user verification and fraud risk assessment",
+          "date": "2026-10-08 11:46:00",
+          "source": "prnewswire.com",
+          "url": "https://www.prnewswire.com/news-releases/zoomcar-partners-with-bureau-to-strengthen-real-time-user-verification-and-fraud-risk-assessment-302902694.html"
+        },
+        {
+          "title": "Zoomcar and Uber partner to give travelers more ways to plan road trips",
+          "date": "2026-08-24 08:30:00",
+          "source": "prnewswire.com",
+          "url": "https://www.prnewswire.com/news-releases/zoomcar-and-uber-partner-to-give-travelers-more-ways-to-plan-road-trips-302858076.html"
+        },
+        {
+          "title": "Zoomcar Closes Two-Thirds of the Distance to Adjusted EBITDA Breakeven in Four Quarters as Contribution Profit Now Funds 73% of Its Operating Cost Base",
+          "date": "2026-08-20 09:37:00",
+          "source": "prnewswire.com",
+          "url": "https://www.prnewswire.com/news-releases/zoomcar-closes-two-thirds-of-the-distance-to-adjusted-ebitda-breakeven-in-four-quarters-as-contribution-profit-now-funds-73-of-its-operating-cost-base-302856487.html"
+        },
+        {
+          "title": "Zoomcar Delivers Record Contribution Profit of $1.65 Million; Margin per Booking Rises to 70% or $18.75",
+          "date": "2026-08-14 08:03:00",
+          "source": "prnewswire.com",
+          "url": "https://www.prnewswire.com/news-releases/zoomcar-delivers-record-contribution-profit-of-1-65-million-margin-per-booking-rises-to-70-or-18-75--302851818.html"
+        },
+        {
+          "title": "Zoomcar Announces Voting Results from 2026 Annual Meeting of Stockholders",
+          "date": "2026-08-13 19:47:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/08/13/3345044/0/en/zoomcar-announces-voting-results-from-2026-annual-meeting-of-stockholders.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "31 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "PAOG",
+      "name": "PAO Group, Inc.",
+      "riskScore": 22,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "CEOS",
+      "name": "CeCors, Inc.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
+          "source": "real",
+          "mentionsFound": 7,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 4,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "37 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "MAJI",
+      "name": "Nextel Medical Corp.",
+      "riskScore": 22,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "NexTel Medical Corp. Announces Next-Generation Wellness Product Line Incorporating FDA-Approved Pharmaceuticals",
+          "date": "2026-10-07 11:00:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/nextel-medical-corp.-announces-next-generation-wellness-product-line-1233986"
+        },
+        {
+          "title": "NexTel Medical Corp. Announces Strategic Joint Venture to Commercialize Breakthrough Patented Hair Regeneration Technology",
+          "date": "2026-09-29 12:40:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/nextel-medical-corp.-announces-strategic-joint-venture-to-commerciali-1228505"
+        },
+        {
+          "title": "NexTel Medical Corp. Showcases Pioneer Exosome Technologies and Diagnostic Innovations at Leading Healthcare Conference",
+          "date": "2026-09-25 13:30:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/nextel-medical-corp.-showcases-pioneer-exosome-technologies-and-diagn-1227346"
+        },
+        {
+          "title": "NexTel Medical Corp. Clarifies and Expands Upon Remarks Made During Recent Online Discussion",
+          "date": "2026-08-06 08:35:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/nextel-medical-corp.-clarifies-and-expands-upon-remarks-made-during-r-1203426"
+        },
+        {
+          "title": "NexTel Medical Corp. Executes Letter of Intent to Acquire 100% of Xycota Biosciences, LLC",
+          "date": "2026-08-05 10:29:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/nextel-medical-corp.-executes-letter-of-intent-to-acquire-100-of-xyco-1201772"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "ONPH",
+      "name": "Oncology Pharma Inc.",
+      "riskScore": 22,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Head to Head Comparison: Oncology Pharma (OTCMKTS:ONPH) & Rafael (NYSE:RFL)",
+          "date": "2026-07-28 01:15:13",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/07/28/head-to-head-comparison-oncology-pharma-otcmktsonph-rafael-nyserfl.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 33,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "34 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "BKTPF",
+      "name": "Cruz Battery Metals Corp.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Cruz Announces Share Consolidation and Name Change",
+          "date": "2026-10-07 17:01:00",
+          "source": "feeds.newsfilecorp.com",
+          "url": "https://www.newsfilecorp.com/release/317945/Cruz-Announces-Share-Consolidation-and-Name-Change"
+        },
+        {
+          "title": "Corporate Update",
+          "date": "2026-09-15 17:01:00",
+          "source": "feeds.newsfilecorp.com",
+          "url": "https://www.newsfilecorp.com/release/314479/Corporate-Update"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 29,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 11,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "IAmJustAGuy",
+          "postCount": 3,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "username": "outrich",
+          "postCount": 2,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "username": "Joshman75",
+          "postCount": 2,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 11/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "CDIX",
+      "name": "Cardiff Lexington Corporation",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Cardiff Lexington Corporation Announces Letter of Intent for Proposed Acquisition of Leading Musculoskeletal Healthcare Platform",
+          "date": "2026-09-24 08:00:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/cardiff-lexington-corporation-announces-letter-of-intent-for-pro-1225980"
+        },
+        {
+          "title": "Cardiff Lexington Announces Second Quarter 2026 Financial Results",
+          "date": "2026-08-12 08:00:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/cardiff-lexington-announces-second-quarter-2026-financial-result-1206293"
+        },
+        {
+          "title": "Cardiff Lexington to Report Second Quarter 2026 Financial Results and Host Conference Call on Wednesday, August 12, 2026",
+          "date": "2026-08-06 08:00:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/cardiff-lexington-to-report-second-quarter-2026-financial-result-1203150"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 1,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 1/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "ECGI",
+      "name": "ECGI Holdings, Inc.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "PRICE_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "ECGI Holdings Enters Letter of Intent to Acquire 100% of Avanta Group",
+          "date": "2026-09-28 08:30:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/09/28/3369864/0/en/ecgi-holdings-enters-letter-of-intent-to-acquire-100-of-avanta-group.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 14,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "MillionaireTrader555",
+          "postCount": 9,
+          "confidence": "low"
+        },
+        {
+          "platform": "StockTwits",
+          "username": "Tamo2084",
+          "postCount": 2,
+          "confidence": "low"
+        },
+        {
+          "platform": "StockTwits",
+          "username": "Scribs76",
+          "postCount": 2,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "31 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 14/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "HALB",
+      "name": "Halberd Corporation",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "PRICE_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 4,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "IKTO",
+      "name": "iTokk, Inc",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 25,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 12,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "GreenEnergy7B",
+          "postCount": 3,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "25 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 12/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "PTCO",
+      "name": "PetroGas Company",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 18,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "18 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "EMSKF",
+      "name": "Germanium Mining Corp.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "PRICE_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Germanium Mining Corp. Announces Non-Brokered Private Placement",
+          "date": "2026-10-07 18:27:00",
+          "source": "thenewswire.com",
+          "url": "https://www.thenewswire.com/press-releases/1kVGF1WeR-germanium-mining-corp-announces-non-brokered-private-placement.html"
+        },
+        {
+          "title": "Germanium Mining Corp. Completes Summer Field Work and Awaits Assay Results at its 100% Owned Lac du Km 35 Germanium Property in Québec",
+          "date": "2026-09-23 03:05:00",
+          "source": "thenewswire.com",
+          "url": "https://www.thenewswire.com/press-releases/1BKRFa8EV-germanium-mining-corp-completes-summer-field-work-and-awaits-assay-results-at-its-100-owned-lac-du-km-35-germanium-property-in-quebec.html"
+        },
+        {
+          "title": "Germanium Corporate Update",
+          "date": "2026-08-26 17:05:00",
+          "source": "thenewswire.com",
+          "url": "https://www.thenewswire.com/press-releases/1Bb4FnK7J-germanium-corporate-update.html"
+        },
+        {
+          "title": "Germanium Mining Closes Second Tranche Of Flow-Through Offering",
+          "date": "2026-07-23 19:25:00",
+          "source": "thenewswire.com",
+          "url": "https://www.thenewswire.com/press-releases/1BR1FDroX-germanium-mining-closes-second-tranche-of-flow-through-offering.html"
+        },
+        {
+          "title": "Germanium Mining Closes First Tranche Of Flow-Through Offering",
+          "date": "2026-07-16 17:40:00",
+          "source": "thenewswire.com",
+          "url": "https://www.thenewswire.com/press-releases/1L7OF2W8e-germanium-mining-closes-first-tranche-of-flow-through-offering.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 26,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 7,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "fla",
+          "postCount": 3,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "26 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "ENRT",
+      "name": "Enertopia Corp.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "PRICE_ACCELERATION"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Enertopia (OTCMKTS:ENRT) Stock Crosses Below Two Hundred Day Moving Average   – What’s Next?",
+          "date": "2026-09-10 03:41:51",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/09/10/enertopia-otcmktsenrt-stock-crosses-below-two-hundred-day-moving-average-whats-next.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "FOBIF",
+      "name": "Fobi AI Inc.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Fobi AI Launches AltID 3.0, a Sovereign Identity and Trust Platform Built for the AI and Post Quantum Era",
+          "date": "2026-08-25 08:00:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/08/25/3350371/0/en/fobi-ai-launches-altid-3-0-a-sovereign-identity-and-trust-platform-built-for-the-ai-and-post-quantum-era.html"
+        },
+        {
+          "title": "FOBI AI Inc. Announces Reinstatement to Trading on TSXV Commencing August 13, 2026",
+          "date": "2026-08-12 09:15:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/08/12/3343756/0/en/fobi-ai-inc-announces-reinstatement-to-trading-on-tsxv-commencing-august-13-2026.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "NDTP",
+      "name": "NDT Pharmaceuticals Inc.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Good Salt Life Expands Clean Republic Multipurpose Disinfectant Label with Hospital-Disinfectant Kill Claims, Opening the Door to Healthcare and Animal Care Markets",
+          "date": "2026-08-04 09:15:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/08/04/3338425/0/en/Good-Salt-Life-Expands-Clean-Republic-Multipurpose-Disinfectant-Label-with-Hospital-Disinfectant-Kill-Claims-Opening-the-Door-to-Healthcare-and-Animal-Care-Markets.html"
+        },
+        {
+          "title": "NDT Pharmaceuticals, Inc.'s Wholly Owned Subsidiary Good Salt Life, Inc. Reports Strong Online Retail Growth in First Half of 2026",
+          "date": "2026-07-15 09:15:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/07/15/3327823/0/en/NDT-Pharmaceuticals-Inc-s-Wholly-Owned-Subsidiary-Good-Salt-Life-Inc-Reports-Strong-Online-Retail-Growth-in-First-Half-of-2026.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 9,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "SmallCapGrowth",
+          "postCount": 3,
+          "confidence": "high"
+        }
+      ],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 9/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "RHCO",
+      "name": "Readen Holding Corp.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 29,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "gapureau",
+          "postCount": 2,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "AGSS",
+      "name": "Ameriguard Security Services, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "TXTM",
+      "name": "ProText Mobility, Inc.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "ProText Mobility Issues Significant Inter-Quarter Shareholder Update: ABSA Confirms Inaugural Digital-Asset Custody Pilot as TXTM Advances Global RWA and Uplist Strategy",
+          "date": "2026-09-28 14:29:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/09/28/3370213/0/en/protext-mobility-issues-significant-inter-quarter-shareholder-update-absa-confirms-inaugural-digital-asset-custody-pilot-as-txtm-advances-global-rwa-and-uplist-strategy.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "Millionsmadecovid",
+          "postCount": 2,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "VRDR",
+      "name": "Verde Resources, Inc.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Verde and Highway International Sign Strategic Memorandum of Understanding to Advance Carbon-Sequestering Roads in Singapore",
+          "date": "2026-08-31 07:32:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/08/31/3353216/0/en/verde-and-highway-international-sign-strategic-memorandum-of-understanding-to-advance-carbon-sequestering-roads-in-singapore.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 29,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "VerdeResources",
+          "postCount": 2,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "username": "Timberwolf1",
+          "postCount": 2,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "VULNF",
+      "name": "Vulcan Energy Resources Ltd.",
+      "riskScore": 21,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Vulcan Energy Resources Limited (VULNF) Discusses Pre-Feasibility Study Results for Phase 2 Project Ludwig and Progress on Lionheart Platform Transcript",
+          "date": "2026-09-03 05:34:45",
+          "source": "seekingalpha.com",
+          "url": "https://seekingalpha.com/article/4942637-vulcan-energy-resources-limited-vulnf-discusses-pre-feasibility-study-results-for-phase-2"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "Thinking101",
+          "postCount": 2,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "AXXA",
+      "name": "Exxe Group Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Exxe Group Inc. (OTCMKTS:AXXA) Sees Significant Increase in Short Interest",
+          "date": "2026-09-29 05:40:50",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/09/29/exxe-group-inc-otcmktsaxxa-sees-significant-increase-in-short-interest.html"
+        },
+        {
+          "title": "EXXE Group Reports Fiscal 2026 Revenue of $70.9 Million as Multi-Year Platform Buildout Delivers Measurable Results",
+          "date": "2026-07-21 07:30:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/exxe-group-reports-fiscal-2026-revenue-of-70.9-million-as-multi-y-1193896"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "BIEI",
+      "name": "Premier Biomedical, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Premier Graphene Inc. and Affiliate HGI Industrial Technologies S.A.P.I. de C.V. Receive Payment for Mexican Military Purchase Order",
+          "date": "2026-10-01 09:00:33",
+          "source": "prismmediawire.com",
+          "url": "https://prismmediawire.com/premier-graphene-inc-and-affiliate-hgi-industrial-technologies-s-a-p-i-de-c-v-receive-payment-for-mexican-military-purchase-order/"
+        },
+        {
+          "title": "Premier Biomedical (OTCMKTS:BIEI) Stock Price Crosses Above 50 Day Moving Average – Here’s Why",
+          "date": "2026-10-01 03:41:15",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/10/01/premier-biomedical-otcmktsbiei-stock-price-crosses-above-50-day-moving-average-heres-why.html"
+        },
+        {
+          "title": "Premier Graphene Inc. (OTC: BIEI) Affiliate HGI Industrial Technologies Secures Mexican SAT Authorization to Import Firearms, Ammunition and Related Products",
+          "date": "2026-09-21 09:01:12",
+          "source": "prismmediawire.com",
+          "url": "https://prismmediawire.com/premier-graphene-inc-otc-biei-affiliate-hgi-industrial-technologies-secures-mexican-sat-authorization-to-import-firearms-ammunition-and-related-products/"
+        },
+        {
+          "title": "Short Interest in Premier Biomedical, Inc. (OTCMKTS:BIEI) Increases By 49,027.3%",
+          "date": "2026-08-27 02:23:45",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/08/27/short-interest-in-premier-biomedical-inc-otcmktsbiei-increases-by-49027-3.html"
+        },
+        {
+          "title": "Premier Biomedical (OTCMKTS:BIEI) Shares Cross Above Fifty Day Moving Average   – What’s Next?",
+          "date": "2026-08-20 03:22:03",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/08/20/premier-biomedical-otcmktsbiei-shares-cross-above-fifty-day-moving-average-whats-next.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 16,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 1,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "16 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 1/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "ELRA",
+      "name": "Elray Resources, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 4,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "EMHLF",
+      "name": "European Metals Holdings Limited",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 23,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 9,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "23 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 9/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "GMZP",
+      "name": "GEMZ Corporation",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "HDUP",
+      "name": "HeadsUp Entertainment International Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "No recent news, SEC filings, or press releases found.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 9,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 9/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "CBDW",
+      "name": "1606 Corp.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "1606 Corp. Provides East Texas Project Update Following Week of On-Site Meetings",
+          "date": "2026-10-06 08:00:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/1606-corp.-provides-east-texas-project-update-following-week-of-o-1232989"
+        },
+        {
+          "title": "1606 Corp. Signs LOI for Potential Transaction Involving Texas Power Plant and Data Center Project",
+          "date": "2026-09-16 08:00:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/1606-corp.-signs-loi-for-potential-transaction-involving-texas-po-1221354"
+        },
+        {
+          "title": "1606 Corp. and EthosEnergy O&M Execute LOI for Operations and Maintenance of Lufkin Power Facility For Data Centers",
+          "date": "2026-09-08 08:01:11",
+          "source": "prismmediawire.com",
+          "url": "https://prismmediawire.com/1606-corp-and-ethosenergy-om-execute-loi-for-operations-and-maintenance-of-lufkin-power-facility-for-data-centers/"
+        },
+        {
+          "title": "1606 Corp. Advances Project as MDM and Company Pursues Data Center End Users, Plant Recommissioning and Strategic Sale Opportunities",
+          "date": "2026-08-25 08:00:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/1606-corp.-advances-project-as-mdm-and-company-pursues-data-cente-1211309"
+        },
+        {
+          "title": "1606 Corp. Engages MDM Group to Market Lufkin 55 MW Powered Site to AI Infrastructure Operators and Strategic Buyers",
+          "date": "2026-08-11 08:01:53",
+          "source": "prismmediawire.com",
+          "url": "https://prismmediawire.com/1606-corp-engages-mdm-group-to-market-lufkin-55-mw-powered-site-to-ai-infrastructure-operators-and-strategic-buyers/"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 25,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "NewsAndFilings",
+          "postCount": 3,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "25 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "EARI",
+      "name": "Entertainment Arts Research, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 32,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "Scribs76",
+          "postCount": 2,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "32 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "FITY",
+      "name": "Fifty 1 Labs, Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [
+        {
+          "title": "Fifty 1 Labs, Inc. Acquires MSK Signal Recovery Product Line to Accelerate Growth in the Peptide and Musculoskeletal Health Market",
+          "date": "2026-08-26 08:30:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/fifty-1-labs-inc.-acquires-msk-signal-recovery-product-line-to-acceler-1212031"
+        },
+        {
+          "title": "Fifty 1 Labs Outlines Planned U.S. Telehealth Peptide Services Platform",
+          "date": "2026-08-07 09:00:00",
+          "source": "accessnewswire.com",
+          "url": "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/fifty-1-labs-outlines-planned-u.s.-telehealth-peptide-services-platfor-1204390"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 31,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 10,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "stopwatchinme",
+          "postCount": 11,
+          "confidence": "low"
+        }
+      ],
+      "overallAssessment": "31 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 10/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    },
+    {
+      "symbol": "GHST",
+      "name": "GHST World Inc.",
+      "riskScore": 20,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_THEN_DROP",
+        "HIGH_VOLATILITY",
+        "SPIKE_3D"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "ERROR: 429 You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.; retained as suspicious",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 29,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 4,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-10-12"
+    }
+  ]
+}
