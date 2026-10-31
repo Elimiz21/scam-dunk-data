@@ -1,0 +1,1489 @@
+{
+  "date": "2026-10-30",
+  "totalHighRiskStocks": 5548,
+  "promotedStocks": [
+    {
+      "symbol": "CDIX",
+      "name": "Cardiff Lexington Corporation",
+      "riskScore": 25,
+      "price": 0.013,
+      "marketCap": "203K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.01) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-57%) in 7 days",
+        "Elevated trading volume (2.2x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (26.1% daily)",
+        "3-day volume 3.0x above 30-day average",
+        "Price gains accelerating over 3 consecutive days",
+        "Volume increasing for 3+ consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 1/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "VISM",
+      "name": "Visium Technologies, Inc.",
+      "riskScore": 24,
+      "price": 0.0005,
+      "marketCap": "539K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($2K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-37%) in 7 days",
+        "Elevated trading volume (3.4x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (25.5% daily)",
+        "Price moved 66.7% in 3 days",
+        "3-day volume 3.4x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "IDGR",
+      "name": "Ideal Group of Companies Inc.",
+      "riskScore": 23,
+      "price": 0.0006,
+      "marketCap": "188K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($4K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-50%) in 7 days",
+        "Elevated trading volume (2.2x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (25.8% daily)",
+        "Price moved 20.0% in 3 days",
+        "3-day volume 3.3x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 7 mentions (real)"
+      ],
+      "assessment": "7 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 13/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "NGCG",
+      "name": "New Generation Consumer Group, Inc.",
+      "riskScore": 23,
+      "price": 0.0004,
+      "marketCap": "36K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($4K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-20%) in 7 days",
+        "Elevated trading volume (2.2x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (15.0% daily)",
+        "Price moved -27.3% in 3 days",
+        "3-day volume 3.4x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 32 mentions (real)"
+      ],
+      "assessment": "32 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "SCYRF",
+      "name": "NorthPalm Capital Corp.",
+      "riskScore": 23,
+      "price": 0.1013,
+      "marketCap": "4.1M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.10) is below $5 (penny stock territory)",
+        "Small market cap ($4M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (+27%) in 7 days",
+        "Elevated trading volume (3.9x normal)",
+        "Overbought indicator (RSI: 100)",
+        "High price volatility (6.9% daily)",
+        "Price moved 26.6% in 3 days",
+        "3-day volume 9.0x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 0/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "AITX",
+      "name": "Artificial Intelligence Technology Solutions Inc.",
+      "riskScore": 23,
+      "price": 0.0007,
+      "marketCap": "302K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "YouTube"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($31K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-63%) in 7 days",
+        "Elevated trading volume (2.8x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (30.5% daily)",
+        "Price moved -12.5% in 3 days",
+        "3-day volume 3.3x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 32 mentions (real)",
+        "YouTube: 1 mentions (real)"
+      ],
+      "assessment": "33 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "AFGYF",
+      "name": "H-Power plc",
+      "riskScore": 22,
+      "price": 0.1,
+      "marketCap": "113.7M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.10) is below $5 (penny stock territory)",
+        "Small market cap ($114M) - higher manipulation risk",
+        "Very low daily trading volume ($2K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-21%) in 7 days",
+        "Elevated trading volume (2.0x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (10.2% daily)",
+        "Price moved -9.1% in 3 days",
+        "3-day volume 2.6x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 32 mentions (real)"
+      ],
+      "assessment": "32 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 8/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "AXXA",
+      "name": "Exxe Group Inc.",
+      "riskScore": 22,
+      "price": 0.000465,
+      "marketCap": "968K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "YouTube"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($6K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (+55%) in 7 days",
+        "Elevated trading volume (3.6x normal)",
+        "High price volatility (20.3% daily)",
+        "Price moved 16.3% in 3 days",
+        "3-day volume 6.2x above 30-day average",
+        "Volume increasing for 3+ consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)",
+        "YouTube: 1 mentions (real)"
+      ],
+      "assessment": "31 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "VENZF",
+      "name": "JasperX Technologies Inc.",
+      "riskScore": 22,
+      "price": 0.05285,
+      "marketCap": "6.4M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.05) is below $5 (penny stock territory)",
+        "Small market cap ($6M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (+22%) in 7 days",
+        "Elevated trading volume (3.9x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (17.8% daily)",
+        "Price moved -11.8% in 3 days",
+        "3-day volume 5.6x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 17 mentions (real)"
+      ],
+      "assessment": "17 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "WGNR",
+      "name": "Wegener Corporation",
+      "riskScore": 22,
+      "price": 0.0104,
+      "marketCap": "282K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.01) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-20%) in 7 days",
+        "Elevated trading volume (3.9x normal)",
+        "High price volatility (5.3% daily)",
+        "Price moved -21.9% in 3 days",
+        "3-day volume 2.8x above 30-day average",
+        "Volume increasing for 3+ consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 1 mentions (real)"
+      ],
+      "assessment": "1 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 0/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "NOTE",
+      "name": "FiscalNote Holdings, Inc.",
+      "riskScore": 22,
+      "price": 0.008,
+      "marketCap": "123K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "YouTube"
+      ],
+      "redFlags": [
+        "Stock price ($0.01) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($10K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-46%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (14.5% daily)",
+        "Price moved -27.3% in 3 days",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 29 mentions (real)",
+        "YouTube: 14 mentions (real)"
+      ],
+      "assessment": "43 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "RMTG",
+      "name": "Regenerative Medical Technology Group Inc.",
+      "riskScore": 22,
+      "price": 0.034,
+      "marketCap": "467K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.03) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($2K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-15%) in 7 days",
+        "High price volatility (10.6% daily)",
+        "Price moved -24.4% in 3 days",
+        "3-day volume 2.8x above 30-day average",
+        "Price gains accelerating over 3 consecutive days",
+        "Volume increasing for 3+ consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "AAIRF",
+      "name": "American Aires Inc.",
+      "riskScore": 21,
+      "price": 0.02486,
+      "marketCap": "2.3M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.02) is below $5 (penny stock territory)",
+        "Small market cap ($2M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-20%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (8.2% daily)",
+        "Price moved -21.1% in 3 days",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "ATWT",
+      "name": "Park-Aid Asphalt and Maintenance, Inc.",
+      "riskScore": 21,
+      "price": 0.0057,
+      "marketCap": "4.7M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.01) is below $5 (penny stock territory)",
+        "Small market cap ($5M) - higher manipulation risk",
+        "Very low daily trading volume ($17K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (+78%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "Overbought indicator (RSI: 82)",
+        "High price volatility (8.3% daily)",
+        "Price moved 14.0% in 3 days"
+      ],
+      "sources": [
+        "StockTwits: 29 mentions (real)"
+      ],
+      "assessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 11/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "SHMN",
+      "name": "SOHM, Inc.",
+      "riskScore": 21,
+      "price": 0.00067,
+      "marketCap": "1.1M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-26%) in 7 days",
+        "Elevated trading volume (2.5x normal)",
+        "High price volatility (16.3% daily)",
+        "Price moved -25.6% in 3 days",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "BOTY",
+      "name": "Lingerie Fighting Championships, Inc.",
+      "riskScore": 21,
+      "price": 0.0371,
+      "marketCap": "71K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.04) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-18%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (20.6% daily)",
+        "Price moved -47.0% in 3 days",
+        "3-day volume 2.0x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "NDTP",
+      "name": "NDT Pharmaceuticals Inc.",
+      "riskScore": 21,
+      "price": 0.11012,
+      "marketCap": "21.7M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.11) is below $5 (penny stock territory)",
+        "Small market cap ($22M) - higher manipulation risk",
+        "Very low daily trading volume ($2K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-59%) in 7 days",
+        "Elevated trading volume (2.7x normal)",
+        "High price volatility (15.9% daily)",
+        "Price moved -44.9% in 3 days",
+        "3-day volume 5.1x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 9/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "SNNC",
+      "name": "Sibannac, Inc.",
+      "riskScore": 21,
+      "price": 0.005,
+      "marketCap": "678K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.01) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (+27%) in 7 days",
+        "Elevated trading volume (2.1x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (12.6% daily)",
+        "Price moved -13.0% in 3 days"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "TPHS",
+      "name": "Trinity Place Holdings Inc.",
+      "riskScore": 21,
+      "price": 0.0399,
+      "marketCap": "2.6M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.04) is below $5 (penny stock territory)",
+        "Small market cap ($3M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (+56%) in 7 days",
+        "Elevated trading volume (3.0x normal)",
+        "High price volatility (11.0% daily)",
+        "Price moved 23.5% in 3 days",
+        "3-day volume 2.7x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 28 mentions (real)"
+      ],
+      "assessment": "28 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "ACMB",
+      "name": "Agro Capital Management Corp.",
+      "riskScore": 20,
+      "price": 0.0396,
+      "marketCap": "2.0M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.04) is below $5 (penny stock territory)",
+        "Small market cap ($2M) - higher manipulation risk",
+        "Very low daily trading volume ($5K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (+148%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (40.5% daily)",
+        "Price moved -37.1% in 3 days"
+      ],
+      "sources": [
+        "StockTwits: 16 mentions (real)"
+      ],
+      "assessment": "16 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "AGIN",
+      "name": "American Graphite Technologies, Inc.",
+      "riskScore": 20,
+      "price": 0.0011,
+      "marketCap": "461K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-31%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (27.1% daily)",
+        "Price moved -21.4% in 3 days"
+      ],
+      "sources": [
+        "StockTwits: 12 mentions (real)"
+      ],
+      "assessment": "12 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "AIMH",
+      "name": "Aimrite Holdings Corporation",
+      "riskScore": 20,
+      "price": 0.0086,
+      "marketCap": "1.1M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.01) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-22%) in 7 days",
+        "Elevated trading volume (2.9x normal)",
+        "High price volatility (19.6% daily)",
+        "Price moved -26.5% in 3 days",
+        "3-day volume 2.4x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "AMMJ",
+      "name": "American Cannabis Company, Inc.",
+      "riskScore": 20,
+      "price": 0.0004,
+      "marketCap": "74K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (+33%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (25.7% daily)",
+        "Price moved 33.3% in 3 days"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "APTY",
+      "name": "APT Systems, Inc.",
+      "riskScore": 20,
+      "price": 0.0002,
+      "marketCap": "503K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-33%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (22.3% daily)",
+        "Price moved -33.3% in 3 days"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "BZRD",
+      "name": "Blubuzzard, Inc.",
+      "riskScore": 20,
+      "price": 0.022,
+      "marketCap": "16.0M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.02) is below $5 (penny stock territory)",
+        "Small market cap ($16M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-39%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (14.1% daily)",
+        "Price moved -23.1% in 3 days"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 1/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "ADMT",
+      "name": "ADM Tronics Unlimited, Inc.",
+      "riskScore": 20,
+      "price": 0.065,
+      "marketCap": "4.4M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.07) is below $5 (penny stock territory)",
+        "Small market cap ($4M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (+30%) in 7 days",
+        "Elevated trading volume (2.8x normal)",
+        "High price volatility (18.4% daily)",
+        "Price moved 19.0% in 3 days",
+        "3-day volume 5.9x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "AERA",
+      "name": "AI Era Corp.",
+      "riskScore": 20,
+      "price": 0.0158,
+      "marketCap": "95K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.02) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-20%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (11.0% daily)",
+        "Price moved -12.2% in 3 days",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 29 mentions (real)"
+      ],
+      "assessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 2/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "ARWYF",
+      "name": "Arway Corporation",
+      "riskScore": 20,
+      "price": 0.0263,
+      "marketCap": "1.0M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.03) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($0K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-19%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (17.6% daily)",
+        "Price moved -12.0% in 3 days",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 28 mentions (real)"
+      ],
+      "assessment": "28 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "BCBC",
+      "name": "Bitcoin Bancorp",
+      "riskScore": 20,
+      "price": 0.03,
+      "marketCap": "11.8M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.03) is below $5 (penny stock territory)",
+        "Small market cap ($12M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-33%) in 7 days",
+        "Elevated trading volume (2.5x normal)",
+        "High price volatility (12.4% daily)",
+        "Price moved -16.4% in 3 days",
+        "3-day volume 3.1x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 0/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "ERBB",
+      "name": "American Green, Inc.",
+      "riskScore": 20,
+      "price": 0.0002,
+      "marketCap": "868K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-20%) in 7 days",
+        "Elevated trading volume (2.9x normal)",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (18.1% daily)",
+        "3-day volume 5.0x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 8/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "GMZP",
+      "name": "GEMZ Corporation",
+      "riskScore": 20,
+      "price": 0.0002,
+      "marketCap": "297K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($2K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (44.2% daily)",
+        "Price moved -33.3% in 3 days",
+        "3-day volume 4.1x above 30-day average",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 31 mentions (real)"
+      ],
+      "assessment": "31 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "GPFT",
+      "name": "Grapefruit USA, Inc.",
+      "riskScore": 20,
+      "price": 0.0001,
+      "marketCap": "72K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($3K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-50%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (29.9% daily)",
+        "Price moved -33.3% in 3 days"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "DPLS",
+      "name": "DarkPulse, Inc.",
+      "riskScore": 20,
+      "price": 0.00415,
+      "marketCap": "940K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($15K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-15%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (10.5% daily)",
+        "Price moved 9.2% in 3 days",
+        "Price gains accelerating over 3 consecutive days"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "FAGI",
+      "name": "Full Alliance Group, Inc.",
+      "riskScore": 20,
+      "price": 0.0035,
+      "marketCap": "475K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-42%) in 7 days",
+        "Elevated trading volume (2.8x normal)",
+        "High price volatility (5.4% daily)",
+        "Price moved -17.5% in 3 days",
+        "3-day volume 3.8x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "FITY",
+      "name": "Fifty 1 Labs, Inc.",
+      "riskScore": 20,
+      "price": 0.0001,
+      "marketCap": "114K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($0M) - higher manipulation risk",
+        "Very low daily trading volume ($2K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Extreme price movement (-50%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (59.3% daily)",
+        "Price moved -50.0% in 3 days"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "FNICF",
+      "name": "Fathom Nickel Inc.",
+      "riskScore": 20,
+      "price": 0.00885,
+      "marketCap": "2.5M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.01) is below $5 (penny stock territory)",
+        "Small market cap ($3M) - higher manipulation risk",
+        "Very low daily trading volume ($2K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (+25%) in 7 days",
+        "Elevated trading volume (2.1x normal)",
+        "High price volatility (15.2% daily)",
+        "Price moved 22.9% in 3 days",
+        "3-day volume 2.1x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 0/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "GPOX",
+      "name": "GPO Plus, Inc.",
+      "riskScore": 20,
+      "price": 0.01493,
+      "marketCap": "1.4M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.01) is below $5 (penny stock territory)",
+        "Small market cap ($1M) - higher manipulation risk",
+        "Very low daily trading volume ($4K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-25%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (9.5% daily)",
+        "Price moved -12.2% in 3 days",
+        "3-day volume 3.5x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 29 mentions (real)"
+      ],
+      "assessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "HLOGF",
+      "name": "Helium One Global Ltd",
+      "riskScore": 20,
+      "price": 0.00445,
+      "marketCap": "45.2M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price ($0.00) is below $5 (penny stock territory)",
+        "Small market cap ($45M) - higher manipulation risk",
+        "Very low daily trading volume ($1K)",
+        "Traded on OTC/Pink Sheets - less regulated, higher risk",
+        "Significant price movement (-11%) in 7 days",
+        "Pump-and-dump pattern detected: rapid price increase followed by sharp decline",
+        "High price volatility (24.4% daily)",
+        "Price moved 11.2% in 3 days",
+        "3-day volume 2.7x above 30-day average"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 8/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    }
+  ]
+}
