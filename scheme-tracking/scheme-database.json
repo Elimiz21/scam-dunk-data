@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-31T03:00:38.847Z",
+  "lastUpdated": "2026-10-31T15:44:43.612Z",
   "totalSchemes": 10,
-  "activeSchemes": 6,
-  "resolvedSchemes": 4,
+  "activeSchemes": 5,
+  "resolvedSchemes": 5,
   "confirmedFrauds": 0,
   "schemes": {
     "SCH-EVTV-20260202-9ALD": {
@@ -618,7 +618,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-02-03",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 14,
       "currentRiskScore": 14,
       "peakPromotionScore": 61,
@@ -707,10 +707,18 @@
           "category": "status_change",
           "details": "Scheme has been active for multiple days",
           "significance": "medium"
+        },
+        {
+          "date": "2026-10-30",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 270 days, inactive for 269 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 270 days of monitoring. Stock activity normalized."
     },
     "SCH-MTEN-20260202-KMCM": {
       "schemeId": "SCH-MTEN-20260202-KMCM",
