@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T15:44:43.612Z",
+  "lastUpdated": "2026-11-03T04:24:18.521Z",
   "totalSchemes": 10,
   "activeSchemes": 5,
   "resolvedSchemes": 5,
@@ -729,16 +729,16 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-10-30",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "COOLING",
       "peakRiskScore": 14,
       "currentRiskScore": 14,
       "peakPromotionScore": 58,
       "currentPromotionScore": 20,
       "priceAtDetection": 0.0314,
       "peakPrice": 0.8533,
-      "currentPrice": 0.8533,
+      "currentPrice": 0.5003,
       "priceChangeFromDetection": 2617.515923566879,
-      "priceChangeFromPeak": 0,
+      "priceChangeFromPeak": -41.3688034688855,
       "volumeAtDetection": 0,
       "peakVolume": 0,
       "currentVolume": 2328913,
@@ -805,6 +805,13 @@
           "date": "2026-10-30",
           "event": "Daily scan update",
           "details": "Risk score: 14, Promotion score: N/A"
+        },
+        {
+          "date": "2026-11-02",
+          "event": "Status changed to COOLING - Possible dump detected",
+          "details": "Price dropped 41.4% from peak ($0.85 → $0.50)",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
