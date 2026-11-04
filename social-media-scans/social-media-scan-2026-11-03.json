@@ -1,0 +1,337 @@
+{
+  "scanDate": "2026-11-03",
+  "publication": null,
+  "eligibleCandidates": 28,
+  "tickersSubmitted": 50,
+  "tickersActuallySearched": 50,
+  "totalScanned": 0,
+  "socialMediaScannedCount": 0,
+  "partialEvidenceCount": 6,
+  "highPromotionCount": 0,
+  "mediumPromotionCount": 0,
+  "results": [
+    {
+      "symbol": "ADMT",
+      "name": "ADM Tronics Unlimited, Inc.",
+      "riskScore": 17,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "E1–E3 provide filing metadata only, without substantive ownership, board-change or transaction disclosures. Filing types alone cannot establish a material event explaining the price and volume increases; no eligible event pair is supplied.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "YouTube",
+          "source": "real",
+          "mentionsFound": 2,
+          "activityLevel": "medium",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 4,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "32 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-03"
+    },
+    {
+      "symbol": "AITX",
+      "name": "Artificial Intelligence Technology Solutions Inc.",
+      "riskScore": 17,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "E4/E11 describe a balance-sheet program and a future breakeven target, not a product launch. Other releases provide truncated marketing content, and SEC entries contain metadata only. The supplied content does not substantiate an eligible event explaining the trading swings.",
+      "recentNews": [
+        {
+          "title": "AITX Launches Balance Sheet Stability Program; First Breakeven Milestone Remains a January 2027 Target",
+          "date": "2026-11-03 08:40:00",
+          "source": "feeds.newsfilecorp.com",
+          "url": "https://www.newsfilecorp.com/release/322246/AITX-Launches-Balance-Sheet-Stability-Program-First-Breakeven-Milestone-Remains-a-January-2027-Target"
+        },
+        {
+          "title": "AITX's RAD Puts SARA's Qualifications on Display as Its Agentic AI Security Professional Goes #OpenToWork",
+          "date": "2026-11-02 08:40:00",
+          "source": "feeds.newsfilecorp.com",
+          "url": "https://www.newsfilecorp.com/release/321910/AITXs-RAD-Puts-SARAs-Qualifications-on-Display-as-Its-Agentic-AI-Security-Professional-Goes-OpenToWork"
+        },
+        {
+          "title": "AITX's RAD Targets $1.49 Billion Mobile Surveillance Tower Market with RAIA",
+          "date": "2026-10-30 08:40:00",
+          "source": "feeds.newsfilecorp.com",
+          "url": "https://www.newsfilecorp.com/release/321737/AITXs-RAD-Targets-1.49-Billion-Mobile-Surveillance-Tower-Market-with-RAIA"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 31,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "31 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-03"
+    },
+    {
+      "symbol": "CRSF",
+      "name": "Crisp Momentum Inc.",
+      "riskScore": 17,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "VOLUME_EXPLOSION",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "E14 identifies an October 29 NT 10-K filing but supplies no substantive disclosure about the delay or financial results. That metadata alone does not establish a material event explaining the price and volume increases.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 0,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "1 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 0/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-03"
+    },
+    {
+      "symbol": "VISM",
+      "name": "Visium Technologies, Inc.",
+      "riskScore": 17,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 3 release summary reports rescission of a proposed reverse split, potentially relevant to trading. However, full release and filing contents are not supplied, so the action’s timing and definitive status cannot be independently verified as required.",
+      "recentNews": [
+        {
+          "title": "Visium Technologies Provides Shareholder Update on Leadership Transition, Governance and Path Forward",
+          "date": "2026-11-03 18:18:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/11/03/3394957/0/en/visium-technologies-provides-shareholder-update-on-leadership-transition-governance-and-path-forward.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 1,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 1/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-03"
+    },
+    {
+      "symbol": "GPOX",
+      "name": "GPO Plus, Inc.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "VOLUME_SURGE_3D",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The short-interest article describes positioning as of October 15, outside the window, rather than a qualifying issuer event. The October 29 10-Q entry supplies no financial results or full filing content to assess. Neither substantiates a material explanation for the trading swings.",
+      "recentNews": [
+        {
+          "title": "GPO Plus, Inc. (OTCMKTS:GPOX) Sees Significant Growth in Short Interest",
+          "date": "2026-10-27 04:11:02",
+          "source": "defenseworld.net",
+          "url": "https://www.defenseworld.net/2026/10/27/gpo-plus-inc-otcmktsgpox-sees-significant-growth-in-short-interest.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 29,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 7,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-03"
+    },
+    {
+      "symbol": "LBSR",
+      "name": "Liberty Star Uranium & Metals Corp.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "SPIKE_3D",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The supplied evidence identifies an 8-K filed within the window but includes no filing text or event details. The filing's existence alone does not substantiate a material event explaining the unusual price and volume activity.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 34,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 4,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "34 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-03"
+    }
+  ]
+}

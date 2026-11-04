@@ -1,0 +1,243 @@
+{
+  "date": "2026-11-03",
+  "totalHighRiskStocks": 119,
+  "promotedStocks": [
+    {
+      "symbol": "ADMT",
+      "name": "ADM Tronics Unlimited, Inc.",
+      "riskScore": 17,
+      "price": 0.065,
+      "marketCap": "4.4M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "YouTube"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.07), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($4.4M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($2K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 30% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 15.6x the 30-day average - extreme unusual activity",
+        "Price surged 8.3% in 3 days",
+        "3-day volume 8.1x above 30-day average",
+        "Extreme price movement detected (Z-score: 6.9) - statistically unusual price behavior",
+        "Unusual trading volume: 16.9x normal - could signal coordinated buying",
+        "High volatility: 18.7% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)",
+        "YouTube: 2 mentions (real)"
+      ],
+      "assessment": "32 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "AITX",
+      "name": "Artificial Intelligence Technology Solutions Inc.",
+      "riskScore": 17,
+      "price": 0.0006,
+      "marketCap": "259K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.00), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.3M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($30K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 6.1x the 30-day average - extreme unusual activity",
+        "Price spiked 84% then dropped 83% from its peak - classic pump-and-dump pattern",
+        "Extreme price movement detected (Z-score: 7.0) - statistically unusual price behavior",
+        "Unusual trading volume: 16.0x normal - could signal coordinated buying",
+        "High volatility: 30.6% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 31 mentions (real)"
+      ],
+      "assessment": "31 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "CRSF",
+      "name": "Crisp Momentum Inc.",
+      "riskScore": 17,
+      "price": 0.01366,
+      "marketCap": "26.9M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.01), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($26.9M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($0K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 11.4x the 30-day average - extreme unusual activity",
+        "Price surged 36.6% in 3 days",
+        "3-day volume 3.6x above 30-day average",
+        "Extreme price movement detected (Z-score: 4.2) - statistically unusual price behavior",
+        "Unusual trading volume: 13.7x normal - could signal coordinated buying",
+        "High volatility: 14.7% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 1 mentions (real)"
+      ],
+      "assessment": "1 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 0/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "VISM",
+      "name": "Visium Technologies, Inc.",
+      "riskScore": 17,
+      "price": 0.001305,
+      "marketCap": "1.4M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.00), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($1.4M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($6K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 89% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 9.6x the 30-day average - extreme unusual activity",
+        "Price surged 226.2% in 3 days",
+        "3-day volume 2.4x above 30-day average",
+        "Extreme price movement detected (Z-score: 12.1) - statistically unusual price behavior",
+        "Unusual trading volume: 15.3x normal - could signal coordinated buying",
+        "High volatility: 47.8% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 1/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "GPOX",
+      "name": "GPO Plus, Inc.",
+      "riskScore": 15,
+      "price": 0.0115,
+      "marketCap": "1.1M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.01), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($1.1M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($3K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 2.2x the 30-day average - unusual activity",
+        "Price spiked 34% then dropped 53% from its peak - classic pump-and-dump pattern",
+        "3-day volume 4.1x above 30-day average",
+        "Unusual trading volume: 6.6x normal - could signal coordinated buying",
+        "High volatility: 10.2% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 29 mentions (real)"
+      ],
+      "assessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "LBSR",
+      "name": "Liberty Star Uranium & Metals Corp.",
+      "riskScore": 15,
+      "price": 0.01525,
+      "marketCap": "1.8M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.02), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($1.8M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($11K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 2.3x the 30-day average - unusual activity",
+        "Price spiked 161% then dropped 65% from its peak - classic pump-and-dump pattern",
+        "Price surged 17.3% in 3 days",
+        "Unusual trading volume: 6.2x normal - could signal coordinated buying",
+        "High volatility: 28.9% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 34 mentions (real)"
+      ],
+      "assessment": "34 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    }
+  ]
+}
