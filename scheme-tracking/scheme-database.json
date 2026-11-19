@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-04T04:27:41.303Z",
+  "lastUpdated": "2026-11-19T04:04:15.882Z",
   "totalSchemes": 10,
-  "activeSchemes": 4,
-  "resolvedSchemes": 6,
+  "activeSchemes": 0,
+  "resolvedSchemes": 10,
   "confirmedFrauds": 0,
   "schemes": {
     "SCH-EVTV-20260202-9ALD": {
@@ -14,7 +14,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-10-30",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 16,
       "currentRiskScore": 6,
       "peakPromotionScore": 61,
@@ -120,10 +120,18 @@
           "date": "2026-10-30",
           "event": "Daily scan update",
           "details": "Risk score: 6, Promotion score: N/A"
+        },
+        {
+          "date": "2026-11-18",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 289 days, inactive for 19 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 289 days of monitoring. Stock activity normalized."
     },
     "SCH-BCARW-20260202-88CA": {
       "schemeId": "SCH-BCARW-20260202-88CA",
@@ -329,7 +337,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-10-30",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 15,
       "currentRiskScore": 4,
       "peakPromotionScore": 50,
@@ -403,10 +411,18 @@
           "date": "2026-10-30",
           "event": "Daily scan update",
           "details": "Risk score: 4, Promotion score: N/A"
+        },
+        {
+          "date": "2026-11-18",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 289 days, inactive for 19 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 289 days of monitoring. Stock activity normalized."
     },
     "SCH-PELIR-20260202-0ENE": {
       "schemeId": "SCH-PELIR-20260202-0ENE",
@@ -521,7 +537,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-10-30",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 14,
       "currentRiskScore": 5,
       "peakPromotionScore": 58,
@@ -604,10 +620,18 @@
           "date": "2026-10-30",
           "event": "Daily scan update",
           "details": "Risk score: 5, Promotion score: N/A"
+        },
+        {
+          "date": "2026-11-18",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 289 days, inactive for 19 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 289 days of monitoring. Stock activity normalized."
     },
     "SCH-SXTC-20260202-4CVF": {
       "schemeId": "SCH-SXTC-20260202-4CVF",
@@ -928,7 +952,7 @@
       "firstDetected": "2026-02-02",
       "lastSeen": "2026-10-30",
       "daysActive": 2,
-      "status": "ONGOING",
+      "status": "NO_SCAM_DETECTED",
       "peakRiskScore": 14,
       "currentRiskScore": 14,
       "peakPromotionScore": 61,
@@ -1019,10 +1043,18 @@
           "date": "2026-10-30",
           "event": "Daily scan update",
           "details": "Risk score: 14, Promotion score: N/A"
+        },
+        {
+          "date": "2026-11-18",
+          "event": "No scam detected - closing investigation",
+          "details": "Monitored for 289 days, inactive for 19 days. No full pump-and-dump pattern observed.",
+          "category": "status_change",
+          "significance": "high"
         }
       ],
       "notes": [],
-      "investigationFlags": []
+      "investigationFlags": [],
+      "resolutionDetails": "No pump-and-dump pattern detected after 289 days of monitoring. Stock activity normalized."
     }
   }
 }

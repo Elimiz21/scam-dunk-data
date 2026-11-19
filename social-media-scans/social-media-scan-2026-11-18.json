@@ -1,0 +1,567 @@
+{
+  "scanDate": "2026-11-18",
+  "publication": null,
+  "eligibleCandidates": 31,
+  "tickersSubmitted": 50,
+  "tickersActuallySearched": 50,
+  "totalScanned": 0,
+  "socialMediaScannedCount": 0,
+  "partialEvidenceCount": 10,
+  "highPromotionCount": 0,
+  "mediumPromotionCount": 1,
+  "results": [
+    {
+      "symbol": "ITOX",
+      "name": "IIOT-OXYS, Inc.",
+      "riskScore": 17,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "VOLUME_SURGE_3D",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 16 NT 10-Q indicates a late quarterly report, not reported earnings. The November 13 8-K is supplied only as filing metadata, without substantive contents. Neither substantiates a material event explaining the price and volume increases.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 31,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 2,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "31 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 2/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-18"
+    },
+    {
+      "symbol": "PDIV",
+      "name": "Premier Development & Investment, Inc.",
+      "riskScore": 17,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ACCELERATION",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 16 release announces investor-relations and awareness activities, which are excluded. Its vague reference to previously resolved transactions supplies no specific deal terms or event dates establishing a new material catalyst for the price and volume swings.",
+      "recentNews": [
+        {
+          "title": "Premier Development & Investment, Inc. Commits to Promised Investor Relations Engagements",
+          "date": "2026-11-16 06:00:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/11/16/3403285/0/en/premier-development-investment-inc-commits-to-promised-investor-relations-engagements.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 1,
+          "activityLevel": "low",
+          "promotionRisk": "medium"
+        }
+      ],
+      "overallPromotionScore": 40,
+      "promotionRiskLevel": "medium",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "1 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 40/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-18"
+    },
+    {
+      "symbol": "CRCW",
+      "name": "Crypto Company",
+      "riskScore": 16,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The launch and earnings items concern Coinbase and Robinhood, not Crypto Company. Remaining coverage discusses other issuers or broad cryptocurrency sentiment, providing no material CRCW-specific event to explain its unusual trading.",
+      "recentNews": [
+        {
+          "title": "Wealthy Investors Treat Crypto as Strategic, Not Speculative",
+          "date": "2026-11-18 14:18:22",
+          "source": "etftrends.com",
+          "url": "https://www.etftrends.com/coinshares-content-hub/wealthy-investors-treat-crypto-strategic-not-speculative/"
+        },
+        {
+          "title": "Circle Internet Group vs. Strategy: Crypto's Brutal Sell-Off Is Exposing a Critical Difference Between These 2 Stocks",
+          "date": "2026-11-18 05:25:02",
+          "source": "fool.com",
+          "url": "https://www.fool.com/coverage/better-buy/2026/11/18/circle-internet-group-vs-strategy-crypto-s-brutal-sell-off-is-exposing-a-critical-difference-between-these-2-stocks/"
+        },
+        {
+          "title": "The Crypto Fear & Greed Index Is in \"Extreme Fear\" Territory. History Says This Happens Next.",
+          "date": "2026-11-17 08:30:02",
+          "source": "fool.com",
+          "url": "https://www.fool.com/investing/2026/11/17/the-crypto-fear-greed-index-is-in-extreme-fear-territory-history-says-this-happens-next/"
+        },
+        {
+          "title": "Crypto Market Today, Nov. 16: Bitcoin Searches for Stability After $230 Billion Crypto Sell-Off",
+          "date": "2026-11-16 17:40:02",
+          "source": "fool.com",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/16/crypto-market-today-nov-16-bitcoin-searches-for-stability-after-usd230-billion-crypto-sell-off/"
+        },
+        {
+          "title": "Trading A Crypto Proxy With The Leveraged CONL ETF",
+          "date": "2026-11-16 15:56:39",
+          "source": "seekingalpha.com",
+          "url": "https://seekingalpha.com/article/4968752-trading-a-crypto-proxy-with-the-leveraged-conl-etf"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "medium"
+        }
+      ],
+      "overallPromotionScore": 32,
+      "promotionRiskLevel": "medium",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "PivotalSaints",
+          "postCount": 19,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "username": "FutesRip",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 32/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-18"
+    },
+    {
+      "symbol": "RITE",
+      "name": "MineralRite Corporation",
+      "riskScore": 16,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 13 Form D metadata provides no offering terms, amounts sold, or underlying filing content. It does not establish a substantive financing event that could explain the unusual trading.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 32,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 7,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "32 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-11-18"
+    },
+    {
+      "symbol": "WAST",
+      "name": "Waste Energy Corp.",
+      "riskScore": 16,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_3D",
+        "VOLUME_ACCELERATION",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "EXTREME_SURGE",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 16 NT 10-Q identifies a late quarterly filing, not reported earnings or another qualifying substantive event. No filing content or eligible event excerpt is supplied to substantiate an explanation for the price and volume surge.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 9,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 9/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-18"
+    },
+    {
+      "symbol": "AERA",
+      "name": "AI Era Corp.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "VOLUME_SURGE_3D",
+        "VOLUME_ACCELERATION",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 16 release announces a letter of intent for a proposed CineCine joint venture, not regulatory approval. The 8-K entry supplies no substantive content. Neither establishes the eligible event needed to explain the unusual trading.",
+      "recentNews": [
+        {
+          "title": "AI Era Corp. Secures Exclusive U.S. Theatrical the Ufilm AI Creator Ecosystem License Through Joint Venture with CineCine",
+          "date": "2026-11-16 12:03:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/11/16/3403971/0/en/ai-era-corp-secures-exclusive-u-s-theatrical-the-ufilm-ai-creator-ecosystem-license-through-joint-venture-with-cinecine.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 29,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 2,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 2/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-18"
+    },
+    {
+      "symbol": "CLRMF",
+      "name": "Clean Air Metals Inc.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "VOLUME_SURGE_3D",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 13 release reports shareholder approval of the Springbok amalgamation, not regulatory approval. Although this merger milestone could affect trading, neither supplied REGULATORY_APPROVAL pair accurately describes the event, so no eligible clearance is supported.",
+      "recentNews": [
+        {
+          "title": "Shareholders of Clean Air Metals and Fiore-Backed Springbok Ventures Overwhelmingly Approve Proposed Transaction",
+          "date": "2026-11-13 17:35:00",
+          "source": "newsfilecorp.com",
+          "url": "https://www.newsfilecorp.com/release/324036/Shareholders-of-Clean-Air-Metals-and-FioreBacked-Springbok-Ventures-Overwhelmingly-Approve-Proposed-Transaction"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 5,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-18"
+    },
+    {
+      "symbol": "GMER",
+      "name": "Good Gaming, Inc.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_THEN_DROP",
+        "VOLUME_SURGE_3D",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 16 evidence identifies a 10-Q filing but provides no filing content or financial results. Filing metadata alone does not substantiate a material issuer-specific development explaining the trading activity.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 29,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 7,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-11-18"
+    },
+    {
+      "symbol": "ILAL",
+      "name": "International Land Alliance, Inc.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The evidence supplies only November 16 10-Q filing metadata, not financial results or substantive filing content. It therefore does not establish a material issuer-specific event explaining the observed volume and price swings.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 8,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 8/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-11-18"
+    },
+    {
+      "symbol": "LBSR",
+      "name": "Liberty Star Uranium & Metals Corp.",
+      "riskScore": 15,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 12 announcement concerns a planned promotional property visit and sample processing, not achieved production or a definitive partnership. SEC entries provide filing metadata without substantive contents, leaving no supported material explanation for the trading activity.",
+      "recentNews": [
+        {
+          "title": "Liberty Star Minerals to Host Mt. Baker Mining and Metals Founder Jason Gaber at Red Rock Canyon With Intent to Pour the First Gold Bar from the Property",
+          "date": "2026-11-12 08:45:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/11/12/3401625/0/en/liberty-star-minerals-to-host-mt-baker-mining-and-metals-founder-jason-gaber-at-red-rock-canyon-with-intent-to-pour-the-first-gold-bar-from-the-property.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 4,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-11-18"
+    }
+  ]
+}

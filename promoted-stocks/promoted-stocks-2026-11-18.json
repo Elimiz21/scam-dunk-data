@@ -1,0 +1,407 @@
+{
+  "date": "2026-11-18",
+  "totalHighRiskStocks": 118,
+  "promotedStocks": [
+    {
+      "symbol": "ITOX",
+      "name": "IIOT-OXYS, Inc.",
+      "riskScore": 17,
+      "price": 0.0009,
+      "marketCap": "528K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.00), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.5M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($1K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 54% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 5.3x the 30-day average - extreme unusual activity",
+        "3-day volume 2.1x above 30-day average",
+        "Unusual price movement detected (Z-score: 2.7) - may indicate manipulation",
+        "Unusual trading volume: 21.5x normal - could signal coordinated buying",
+        "High volatility: 13.0% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 31 mentions (real)"
+      ],
+      "assessment": "31 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 2/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "PDIV",
+      "name": "Premier Development & Investment, Inc.",
+      "riskScore": 17,
+      "price": 0.0019,
+      "marketCap": "472K",
+      "tier": "MEDIUM",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.00), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.5M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($8K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 90% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 4.5x the 30-day average - extreme unusual activity",
+        "Price spiked 48% then dropped 49% from its peak - classic pump-and-dump pattern",
+        "Price surged 90.0% in 3 days",
+        "3-day volume 2.3x above 30-day average",
+        "Price gains accelerating over 3 consecutive days (90.0% total)",
+        "Extreme price movement detected (Z-score: 4.5) - statistically unusual price behavior",
+        "Unusual trading volume: 10.8x normal - could signal coordinated buying",
+        "High volatility: 24.3% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 1 mentions (real)"
+      ],
+      "assessment": "1 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 40/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "StockTwits"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "CRCW",
+      "name": "Crypto Company",
+      "riskScore": 16,
+      "price": 0.0006,
+      "marketCap": "3.7M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.00), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($3.7M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($9K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 4.4x the 30-day average - extreme unusual activity",
+        "Price spiked 86% then dropped 54% from its peak - classic pump-and-dump pattern",
+        "Unusual price movement detected (Z-score: -2.7) - may indicate manipulation",
+        "Unusual trading volume: 6.4x normal - could signal coordinated buying",
+        "High volatility: 19.1% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 32/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "RITE",
+      "name": "MineralRite Corporation",
+      "riskScore": 16,
+      "price": 0.0018,
+      "marketCap": "11.2M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.00), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($11.2M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($22K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 29% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 2.3x the 30-day average - unusual activity",
+        "Price spiked 173% then dropped 40% from its peak - classic pump-and-dump pattern",
+        "Unusual price movement detected (Z-score: 2.7) - may indicate manipulation",
+        "Unusual trading volume: 3.4x normal - could signal coordinated buying",
+        "High volatility: 11.0% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 32 mentions (real)"
+      ],
+      "assessment": "32 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "WAST",
+      "name": "Waste Energy Corp.",
+      "riskScore": 16,
+      "price": 0.0043,
+      "marketCap": "642K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.00), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.6M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($37K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 291% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 2.2x the 30-day average - unusual activity",
+        "Price surged 437.5% in 3 days",
+        "Volume increasing for 3+ consecutive days",
+        "Extreme price movement detected (Z-score: 16.2) - statistically unusual price behavior",
+        "Unusual trading volume: 7.5x normal - could signal coordinated buying",
+        "Extreme price surge: 291% gain - rapid appreciation without clear catalyst",
+        "Overbought conditions (RSI: 78) - price may be unsustainably high",
+        "High volatility: 77.1% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 9/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "AERA",
+      "name": "AI Era Corp.",
+      "riskScore": 15,
+      "price": 0.004,
+      "marketCap": "24K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.00), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.0M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($1K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 3.2x the 30-day average - unusual activity",
+        "Price spiked 25% then dropped 79% from its peak - classic pump-and-dump pattern",
+        "3-day volume 3.3x above 30-day average",
+        "Volume increasing for 3+ consecutive days",
+        "Significant price anomaly detected (Z-score: 3.5) - statistically unusual price behavior",
+        "Unusual trading volume: 24.4x normal - could signal coordinated buying",
+        "High volatility: 36.0% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 29 mentions (real)"
+      ],
+      "assessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 2/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "CLRMF",
+      "name": "Clean Air Metals Inc.",
+      "riskScore": 15,
+      "price": 0.025,
+      "marketCap": "6.3M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.03), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($6.3M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($1K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 3.1x the 30-day average - unusual activity",
+        "Price spiked 50% then dropped 44% from its peak - classic pump-and-dump pattern",
+        "3-day volume 3.9x above 30-day average",
+        "Unusual trading volume: 4.9x normal - could signal coordinated buying",
+        "High volatility: 18.1% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 5/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "GMER",
+      "name": "Good Gaming, Inc.",
+      "riskScore": 15,
+      "price": 0.004,
+      "marketCap": "516K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.00), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.5M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($0K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Price spiked 29% then dropped 20% from its peak - classic pump-and-dump pattern",
+        "3-day volume 2.4x above 30-day average",
+        "Unusual trading volume: 7.3x normal - could signal coordinated buying",
+        "High volatility: 5.6% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 29 mentions (real)"
+      ],
+      "assessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "ILAL",
+      "name": "International Land Alliance, Inc.",
+      "riskScore": 15,
+      "price": 0.7695,
+      "marketCap": "3.7M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.77), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($3.7M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($18K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 2.1x the 30-day average - unusual activity",
+        "Price spiked 62% then dropped 66% from its peak - classic pump-and-dump pattern",
+        "Unusual trading volume: 10.4x normal - could signal coordinated buying",
+        "High volatility: 35.9% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 8/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "LBSR",
+      "name": "Liberty Star Uranium & Metals Corp.",
+      "riskScore": 15,
+      "price": 0.011,
+      "marketCap": "1.3M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.01), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($1.3M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($12K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 2.4x the 30-day average - unusual activity",
+        "Price spiked 59% then dropped 47% from its peak - classic pump-and-dump pattern",
+        "Unusual trading volume: 10.0x normal - could signal coordinated buying",
+        "High volatility: 14.6% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    }
+  ]
+}
