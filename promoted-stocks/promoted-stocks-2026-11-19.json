@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-19",
+  "totalHighRiskStocks": 143,
+  "promotedStocks": [
+    {
+      "symbol": "CDIX",
+      "name": "Cardiff Lexington Corporation",
+      "riskScore": 16,
+      "price": 0.0098,
+      "marketCap": "216K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.01), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.2M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($2K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 63% in the last 7 trading days - classic pump pattern",
+        "Price spiked 65% then dropped 54% from its peak - classic pump-and-dump pattern",
+        "3-day volume 2.4x above 30-day average",
+        "Volume increasing for 3+ consecutive days",
+        "Extreme price movement detected (Z-score: 5.0) - statistically unusual price behavior",
+        "Unusual trading volume: 17.4x normal - could signal coordinated buying",
+        "High volatility: 71.0% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 1/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "ITOX",
+      "name": "IIOT-OXYS, Inc.",
+      "riskScore": 16,
+      "price": 0.00063,
+      "marketCap": "369K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.00), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.4M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($1K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 6.4x the 30-day average - extreme unusual activity",
+        "Price spiked 47% then dropped 39% from its peak - classic pump-and-dump pattern",
+        "3-day volume 2.2x above 30-day average",
+        "Unusual price movement detected (Z-score: -3.0) - may indicate manipulation",
+        "Unusual trading volume: 21.5x normal - could signal coordinated buying",
+        "High volatility: 15.1% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "NMLSF",
+      "name": "Restart Life Sciences Corp.",
+      "riskScore": 16,
+      "price": 0.0589,
+      "marketCap": "3.7M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.06), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($3.7M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($0K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 96% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 2.0x the 30-day average - unusual activity",
+        "Extreme price movement detected (Z-score: 13.8) - statistically unusual price behavior",
+        "Overbought conditions (RSI: 77) - price may be unsustainably high",
+        "High volatility: 85.0% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 0/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "AERA",
+      "name": "AI Era Corp.",
+      "riskScore": 15,
+      "price": 0.01,
+      "marketCap": "60K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.01), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.1M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($2K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 2.3x the 30-day average - unusual activity",
+        "Price spiked 27% then dropped 47% from its peak - classic pump-and-dump pattern",
+        "3-day volume 3.2x above 30-day average",
+        "Significant price anomaly detected (Z-score: 3.5) - statistically unusual price behavior",
+        "Unusual trading volume: 24.1x normal - could signal coordinated buying",
+        "High volatility: 32.9% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 29 mentions (real)"
+      ],
+      "assessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 2/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "BOTY",
+      "name": "Lingerie Fighting Championships, Inc.",
+      "riskScore": 15,
+      "price": 0.028875,
+      "marketCap": "55K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.03), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.1M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($0K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 2.8x the 30-day average - unusual activity",
+        "Price spiked 45% then dropped 46% from its peak - classic pump-and-dump pattern",
+        "Significant price anomaly detected (Z-score: 3.4) - statistically unusual price behavior",
+        "Unusual trading volume: 4.7x normal - could signal coordinated buying",
+        "High volatility: 31.2% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    }
+  ]
+}
