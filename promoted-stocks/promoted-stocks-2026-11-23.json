@@ -1,0 +1,285 @@
+{
+  "date": "2026-11-23",
+  "totalHighRiskStocks": 137,
+  "promotedStocks": [
+    {
+      "symbol": "ASCC",
+      "name": "Aristocrat Group Corp.",
+      "riskScore": 16,
+      "price": 0.1,
+      "marketCap": "4.4M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.10), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($4.4M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($1K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 46% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 3.2x the 30-day average - unusual activity",
+        "Price surged 46.2% in 3 days",
+        "3-day volume 5.0x above 30-day average",
+        "Price gains accelerating over 3 consecutive days (46.2% total)",
+        "Unusual trading volume: 39.4x normal - could signal coordinated buying",
+        "High volatility: 21.6% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 10 mentions (real)"
+      ],
+      "assessment": "10 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "BOTY",
+      "name": "Lingerie Fighting Championships, Inc.",
+      "riskScore": 16,
+      "price": 0.03,
+      "marketCap": "57K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.03), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.1M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($0K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 49% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 2.7x the 30-day average - unusual activity",
+        "3-day volume 2.6x above 30-day average",
+        "Unusual trading volume: 8.4x normal - could signal coordinated buying",
+        "High volatility: 29.5% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "HYSR",
+      "name": "SunHydrogen, Inc.",
+      "riskScore": 16,
+      "price": 0.01586,
+      "marketCap": "91.2M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.02), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($91.2M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($102K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 3.2x the 30-day average - unusual activity",
+        "Price surged 39.1% in 3 days",
+        "3-day volume 2.4x above 30-day average",
+        "Price gains accelerating over 3 consecutive days (39.1% total)",
+        "Extreme price movement detected (Z-score: 8.9) - statistically unusual price behavior",
+        "Unusual trading volume: 5.1x normal - could signal coordinated buying",
+        "High volatility: 9.9% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 31 mentions (real)"
+      ],
+      "assessment": "31 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "ITOX",
+      "name": "IIOT-OXYS, Inc.",
+      "riskScore": 16,
+      "price": 0.0007,
+      "marketCap": "410K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.00), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.4M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($1K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 7.3x the 30-day average - extreme unusual activity",
+        "Price spiked 58% then dropped 32% from its peak - classic pump-and-dump pattern",
+        "Significant price anomaly detected (Z-score: -3.0) - statistically unusual price behavior",
+        "Unusual trading volume: 5.9x normal - could signal coordinated buying",
+        "High volatility: 14.6% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "NMLSF",
+      "name": "Restart Life Sciences Corp.",
+      "riskScore": 16,
+      "price": 0.0609,
+      "marketCap": "3.8M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.06), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($3.8M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($0K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 298% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 3.8x the 30-day average - unusual activity",
+        "3-day volume 3.8x above 30-day average",
+        "Extreme price surge: 298% gain - rapid appreciation without clear catalyst",
+        "Overbought conditions (RSI: 77) - price may be unsustainably high",
+        "High volatility: 85.0% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 0/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "NNUP",
+      "name": "Nocopi Technologies, Inc.",
+      "riskScore": 16,
+      "price": 1.9,
+      "marketCap": "22.6M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($1.90), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($22.6M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($8K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 27% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 2.6x the 30-day average - unusual activity",
+        "Significant price anomaly detected (Z-score: 3.3) - statistically unusual price behavior",
+        "Unusual trading volume: 4.0x normal - could signal coordinated buying",
+        "High volatility: 6.5% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 29 mentions (real)"
+      ],
+      "assessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "PETV",
+      "name": "PetVivo Holdings, Inc.",
+      "riskScore": 16,
+      "price": 0.3095,
+      "marketCap": "11.9M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.31), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($11.9M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($9K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 2.9x the 30-day average - unusual activity",
+        "Price surged 23.8% in 3 days",
+        "Extreme price movement detected (Z-score: -6.5) - statistically unusual price behavior",
+        "Unusual trading volume: 12.4x normal - could signal coordinated buying",
+        "High volatility: 13.9% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 8/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    }
+  ]
+}
