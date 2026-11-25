@@ -1,0 +1,419 @@
+{
+  "scanDate": "2026-11-24",
+  "publication": null,
+  "eligibleCandidates": 29,
+  "tickersSubmitted": 50,
+  "tickersActuallySearched": 50,
+  "totalScanned": 0,
+  "socialMediaScannedCount": 0,
+  "partialEvidenceCount": 7,
+  "highPromotionCount": 0,
+  "mediumPromotionCount": 0,
+  "results": [
+    {
+      "symbol": "KRFG",
+      "name": "King Resources, Inc",
+      "riskScore": 17,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 17 and 24 evidence provides only 8-K filing metadata, without the filings’ substantive disclosures. Filing dates and form types alone cannot establish a material issuer-specific explanation for the price and volume increases.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 7,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "davidmoadel",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-11-24"
+    },
+    {
+      "symbol": "AERA",
+      "name": "AI Era Corp.",
+      "riskScore": 16,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "VOLUME_EXPLOSION",
+        "SPIKE_THEN_DROP",
+        "VOLUME_SURGE_3D",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 18 evidence provides only an 8-K filing reference, without its contents or a described material event. Filing metadata alone cannot establish an issuer-specific explanation for the unusual volume and volatility.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 2,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 2/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-24"
+    },
+    {
+      "symbol": "ASCC",
+      "name": "Aristocrat Group Corp.",
+      "riskScore": 16,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ACCELERATION",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "EXTREME_SURGE",
+        "OVERBOUGHT_RSI",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "Both articles concern other issuers: Canadian Natural Resources and National Fuel Gas. Their valuations, operations and dividend records do not substantiate any material Aristocrat Group event explaining its price surge or elevated volume.",
+      "recentNews": [
+        {
+          "title": "Canadian Natural Resources: Buy The Dip In This Dividend Aristocrat",
+          "date": "2026-11-24 09:09:56",
+          "source": "seekingalpha.com",
+          "url": "https://seekingalpha.com/article/4971433-canadian-natural-resources-stock-buy-dip-this-dividend-aristocrat"
+        },
+        {
+          "title": "National Fuel Gas: Buy The Dip On This Dividend Aristocrat",
+          "date": "2026-11-23 11:30:08",
+          "source": "seekingalpha.com",
+          "url": "https://seekingalpha.com/article/4970990-national-fuel-gas-stock-buy-dip-this-dividend-aristocrat"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 10,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 4,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "10 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-24"
+    },
+    {
+      "symbol": "CBBHF",
+      "name": "Cobalt Blue Holdings Limited",
+      "riskScore": 16,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 24 article reports CMOC Group’s earnings growth and planned buyback, not events involving Cobalt Blue Holdings. General cobalt-market commentary does not substantiate an issuer-specific explanation for CBBHF’s price and volume increases.",
+      "recentNews": [
+        {
+          "title": "Cobalt Miners News For The Month Of November 2026",
+          "date": "2026-11-24 10:35:55",
+          "source": "seekingalpha.com",
+          "url": "https://seekingalpha.com/article/4971477-cobalt-miners-news-for-the-month-of-november-2026"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 29,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 9,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "Langen76",
+          "postCount": 3,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 9/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-24"
+    },
+    {
+      "symbol": "CLOQ",
+      "name": "Cyberloq Technologies, Inc.",
+      "riskScore": 16,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ACCELERATION",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "A November 20 Form 10-Q is listed, but its financial results and full filing content are not supplied. The filing metadata alone does not establish a material development explaining the trading increases; no eligible event-excerpt pair is provided.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 6,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-24"
+    },
+    {
+      "symbol": "HYSR",
+      "name": "SunHydrogen, Inc.",
+      "riskScore": 16,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "VOLUME_EXPLOSION",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ANOMALY",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 17 release announces a CTO video update and year-end goals, not a completed product launch, material partnership, or demonstrated technical outcome. The supplied content does not substantiate a material event explaining the price and volume increases.",
+      "recentNews": [
+        {
+          "title": "SunHydrogen CTO Shares Video Update on Austin Pilot and Year-End Goals",
+          "date": "2026-11-17 06:00:00",
+          "source": "globenewswire.com",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3404391/0/en/sunhydrogen-cto-shares-video-update-on-austin-pilot-and-year-end-goals.html"
+        }
+      ],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 32,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        },
+        {
+          "platform": "Reddit",
+          "source": "real",
+          "mentionsFound": 4,
+          "activityLevel": "medium",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 3,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [],
+      "overallAssessment": "36 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 3/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      },
+      "scanDate": "2026-11-24"
+    },
+    {
+      "symbol": "VPRB",
+      "name": "VPR Brands, LP",
+      "riskScore": 16,
+      "signals": [
+        "MICROCAP_PRICE",
+        "SMALL_MARKET_CAP",
+        "MICRO_LIQUIDITY",
+        "OTC_EXCHANGE",
+        "SPIKE_7D",
+        "VOLUME_EXPLOSION",
+        "SPIKE_3D",
+        "VOLUME_SURGE_3D",
+        "PRICE_ACCELERATION",
+        "VOLUME_ANOMALY",
+        "HIGH_VOLATILITY"
+      ],
+      "hasLegitimateNews": false,
+      "newsAnalysis": "The November 18 10-Q and November 23 8-K are listed without filing contents or event excerpts. Their metadata alone does not substantiate earnings results or another material event explaining the price and volume increases.",
+      "recentNews": [],
+      "socialMediaMentions": [
+        {
+          "platform": "StockTwits",
+          "source": "real",
+          "mentionsFound": 30,
+          "activityLevel": "high",
+          "promotionRisk": "low"
+        }
+      ],
+      "overallPromotionScore": 12,
+      "promotionRiskLevel": "low",
+      "hasRealSocialEvidence": true,
+      "potentialPromoters": [
+        {
+          "platform": "StockTwits",
+          "username": "BioRich",
+          "postCount": 2,
+          "confidence": "medium"
+        },
+        {
+          "platform": "StockTwits",
+          "username": "AlphaTuna",
+          "postCount": 2,
+          "confidence": "medium"
+        }
+      ],
+      "overallAssessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 12/100.",
+      "coverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      },
+      "scanDate": "2026-11-24"
+    }
+  ]
+}
