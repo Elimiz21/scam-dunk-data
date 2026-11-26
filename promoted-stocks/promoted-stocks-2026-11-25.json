@@ -1,0 +1,289 @@
+{
+  "date": "2026-11-25",
+  "totalHighRiskStocks": 146,
+  "promotedStocks": [
+    {
+      "symbol": "KRFG",
+      "name": "King Resources, Inc",
+      "riskScore": 17,
+      "price": 0.462,
+      "marketCap": "5.0M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.46), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($5.0M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($5K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 95% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 10.6x the 30-day average - extreme unusual activity",
+        "Price surged 83.0% in 3 days",
+        "Price gains accelerating over 3 consecutive days (83.0% total)",
+        "Extreme price movement detected (Z-score: 28.6) - statistically unusual price behavior",
+        "Unusual trading volume: 23.2x normal - could signal coordinated buying",
+        "Extremely overbought (RSI: 90) - price may be unsustainably high",
+        "High volatility: 15.4% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "AERA",
+      "name": "AI Era Corp.",
+      "riskScore": 16,
+      "price": 0.003,
+      "marketCap": "18K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.00), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.0M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($1K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 4.8x the 30-day average - extreme unusual activity",
+        "Price spiked 154% then dropped 84% from its peak - classic pump-and-dump pattern",
+        "3-day volume 3.0x above 30-day average",
+        "Unusual trading volume: 25.2x normal - could signal coordinated buying",
+        "High volatility: 33.8% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 29 mentions (real)"
+      ],
+      "assessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 2/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "AITX",
+      "name": "Artificial Intelligence Technology Solutions Inc.",
+      "riskScore": 16,
+      "price": 0.0002,
+      "marketCap": "43K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits",
+        "YouTube"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.00), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.0M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($30K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 2.6x the 30-day average - unusual activity",
+        "Price spiked 50% then dropped 67% from its peak - classic pump-and-dump pattern",
+        "Extreme price movement detected (Z-score: 7.0) - statistically unusual price behavior",
+        "Unusual trading volume: 14.7x normal - could signal coordinated buying",
+        "High volatility: 36.3% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 31 mentions (real)",
+        "YouTube: 1 mentions (real)"
+      ],
+      "assessment": "32 mentions retained across 2 platform(s). Coverage: partial; avg promotion score: 8/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "ASCC",
+      "name": "Aristocrat Group Corp.",
+      "riskScore": 16,
+      "price": 0.1488,
+      "marketCap": "6.5M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.15), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($6.5M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($2K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 118% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 3.5x the 30-day average - unusual activity",
+        "Price surged 128.9% in 3 days",
+        "3-day volume 5.4x above 30-day average",
+        "Significant price anomaly detected (Z-score: 3.4) - statistically unusual price behavior",
+        "Unusual trading volume: 40.3x normal - could signal coordinated buying",
+        "Extreme price surge: 118% gain - rapid appreciation without clear catalyst",
+        "High volatility: 29.9% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 10 mentions (real)"
+      ],
+      "assessment": "10 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 4/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    },
+    {
+      "symbol": "CBBHF",
+      "name": "Cobalt Blue Holdings Limited",
+      "riskScore": 16,
+      "price": 0.035,
+      "marketCap": "20.6M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.04), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($20.6M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($3K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Extreme price spike of 29% in the last 7 trading days - classic pump pattern",
+        "Trading volume is 2.0x the 30-day average - unusual activity",
+        "Price surged 22.8% in 3 days",
+        "Unusual price movement detected (Z-score: 2.7) - may indicate manipulation",
+        "Unusual trading volume: 5.0x normal - could signal coordinated buying",
+        "High volatility: 27.8% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 29 mentions (real)"
+      ],
+      "assessment": "29 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 9/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "YouTube",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "ARXRF",
+      "name": "Imagine Lithium Inc.",
+      "riskScore": 15,
+      "price": 0.0059,
+      "marketCap": "2.0M",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.01), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($2.0M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($0K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 2.6x the 30-day average - unusual activity",
+        "Price spiked 29% then dropped 43% from its peak - classic pump-and-dump pattern",
+        "High volatility: 10.1% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 7/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": [
+          "Multi-Platform"
+        ]
+      }
+    },
+    {
+      "symbol": "BOTY",
+      "name": "Lingerie Fighting Championships, Inc.",
+      "riskScore": 15,
+      "price": 0.03,
+      "marketCap": "57K",
+      "tier": "STRUCTURAL",
+      "platforms": [
+        "StockTwits"
+      ],
+      "redFlags": [
+        "Stock price is below $5 ($0.03), often associated with penny stocks and higher manipulation risk",
+        "Small market cap ($0.1M) - small caps are more vulnerable to manipulation",
+        "Very low trading liquidity ($1K daily volume) - easier to manipulate prices",
+        "Traded on OTC markets (OTC) - less regulatory oversight than major exchanges",
+        "Trading volume is 3.1x the 30-day average - unusual activity",
+        "Price spiked 26% then dropped 37% from its peak - classic pump-and-dump pattern",
+        "Price surged 17.6% in 3 days",
+        "3-day volume 3.3x above 30-day average",
+        "Unusual trading volume: 8.9x normal - could signal coordinated buying",
+        "High volatility: 31.5% daily swings - erratic price movement increases risk"
+      ],
+      "sources": [
+        "StockTwits: 30 mentions (real)"
+      ],
+      "assessment": "30 mentions retained across 1 platform(s). Coverage: partial; avg promotion score: 6/100.",
+      "socialCoverage": {
+        "status": "PARTIAL",
+        "searchedPlatforms": [
+          "Discord",
+          "StockTwits",
+          "Multi-Platform"
+        ],
+        "incompletePlatforms": [
+          "Multi-Platform",
+          "YouTube"
+        ],
+        "rateLimitedPlatforms": []
+      }
+    }
+  ]
+}
